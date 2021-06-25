@@ -2,10 +2,10 @@
 title: Prise en main de [!DNL Assets Essentials]
 description: Accès, connexion, cas d’utilisation pris en charge et problèmes connus de  [!DNL Assets Essentials].
 role: Business Practitioner, Leader
-source-git-commit: 825297959b19361260121949c99ede37dced9a9c
+source-git-commit: 4a7fe369485db5cae843694c68f84133c9118337
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '462'
+ht-degree: 2%
 
 ---
 
@@ -23,7 +23,7 @@ Pour utiliser [!DNL Assets Essentials], connectez-vous à l’adresse [https://e
 
 En outre, des informations de référence supplémentaires qui peuvent s’avérer utiles sont la [compréhension de l’interface utilisateur](/help/navigate-view.md), [liste des cas d’utilisation](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> et [problèmes connus](/help/release-notes.md#known-issues).
 
-## Accéder à [!DNL Assets Essentials] {#get-access}
+## Recevez l’accès à [!DNL Assets Essentials] {#get-access}
 
 Adobe fournit la solution et ajoute la personne désignée de votre organisation en tant qu’administrateur. Les administrateurs peuvent fournir l’accès à divers utilisateurs de l’organisation à l’aide de [[!DNL Admin Console]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/welcome.ug.html). Pour toute demande relative à votre accès, contactez l’administrateur de votre entreprise.
 
@@ -49,7 +49,7 @@ When logging in, after providing the credentials, you can be prompted to select 
 ![Select an account to login](assets/do-not-localize/login-experience.gif)
 -->
 
-## [!DNL Assets Essentials] cas d’utilisation  {#use-cases}
+## [!DNL Assets Essentials] cas d’utilisation {#use-cases}
 
 Vous trouverez ci-dessous les différentes tâches de gestion des actifs numériques (DAM) que vous pouvez réaliser en utilisant [!DNL Assets Essentials].
 
@@ -69,13 +69,16 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
 -->
 
-## ![feedback ](assets/do-not-localize/feedback-icon.png) iconFournir des commentaires sur les produits  {#provide-feedback}
+## ![feedback ](assets/do-not-localize/feedback-icon.png) iconFournir des commentaires sur les produits {#provide-feedback}
 
 Adobe accueille favorablement les commentaires sur la solution. Pour faire part de vos commentaires sans même changer votre application de travail, utilisez l’option [!UICONTROL Commentaires] dans l’interface utilisateur. Il permet également de joindre des fichiers tels que des captures d’écran ou des enregistrements vidéo d’un problème.
 
 ![option feedback dans l’interface](assets/feedback-panel.png)
 
-Pour fournir des commentaires pour la documentation, cliquez sur Modifier cette page ![modifier la page](assets/do-not-localize/edit-page.png) ou Enregistrer un problème ![créer un problème GitHub](assets/do-not-localize/github-issue.png) à partir de la marge de droite. Effectuez les mises à jour du contenu et envoyez une demande d’extraction GitHub ou créez un problème ou un ticket dans GitHub.
+Pour fournir des commentaires pour la documentation, cliquez sur [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Soumettre un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) dans la barre latérale droite. Vous pouvez effectuer l’une des opérations suivantes :
+
+* Effectuez les mises à jour du contenu et envoyez une demande d’extraction GitHub.
+* Créez un problème ou un ticket dans GitHub. Conservez le nom d’article automatiquement renseigné lors de la création d’un problème.
 
 >[!MORELIKETHIS]
 >
