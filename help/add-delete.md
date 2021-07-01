@@ -2,15 +2,15 @@
 title: Chargement de ressources dans le référentiel
 description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les états de chargement et résolvez les problèmes de chargement.
 role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
 
 
-# Chargement des ressources {#add-assets}
+# Charger des ressources {#add-assets}
 
 Pour ajouter de nouvelles ressources à utiliser, téléchargez quelques ressources à partir de votre système de fichiers local. <!-- TBD: Many of the [common file formats are supported](/help/supported-file-formats.md). -->
 
@@ -32,6 +32,10 @@ Une fois tous les fichiers placés en file d’attente, cliquez sur **[!UICONTRO
 
 *Figure : Avant de charger les ressources sélectionnées, vous pouvez ajouter ou supprimer des ressources de la file d’attente.*
 
+>[!CAUTION]
+>
+>Utilisez des ressources dont les noms de fichier ne contiennent pas d’espace blanc. Les réponses aux commentaires ne fonctionnent pas pour ces ressources.
+
 ## Afficher la progression et l’état du chargement {#upload-progress}
 
 Lorsque vous chargez de nombreuses ressources ou des dossiers imbriqués vers [!DNL Assets Essentials], le chargement de certaines ressources peut échouer pour diverses raisons, telles que des problèmes de ressources et de réseau en double.
@@ -44,17 +48,17 @@ Pour afficher un sous-ensemble de ressources en fonction de la progression ou de
 
 *Figure : Filtrez les ressources que vous avez tenté de charger en fonction de leur état de chargement ou de la progression du chargement.*
 
-Immédiatement après le chargement des ressources, Assets Essentials les traite pour générer des miniatures et traiter les métadonnées. Pour de nombreuses ressources, le traitement prend du temps. Si aucune miniature n’apparaît et qu’un message de traitement s’affiche sur la miniature de l’espace réservé, vérifiez à nouveau le dossier au bout de quelques minutes.
+Immédiatement après le chargement des ressources, [!DNL Assets Essentials] traite les ressources pour générer des miniatures et traiter les métadonnées. Pour de nombreuses ressources, le traitement prend du temps. Si aucune miniature n’apparaît et qu’un message de traitement s’affiche sur la miniature de l’espace réservé, vérifiez à nouveau le dossier au bout de quelques minutes.
 
 ![Traitement au chargement](assets/upload-processing.png)
 
 ## Rendus de ressources {#renditions}
 
-Assets Essentials traite les ressources chargées en temps quasi réel et génère des rendus pour de nombreux types de fichiers pris en charge. Créés pour les images, les rendus sont des versions redimensionnées de l’image téléchargée. Vous pouvez télécharger non seulement la ressource, mais également les rendus pour utiliser une version appropriée. Vous pouvez afficher tous les rendus d’une ressource lorsque vous [prévisualisez une ressource](/help/navigate-view.md#preview-assets).
+[!DNL Assets Essentials] traite les ressources chargées en temps quasi réel et, pour de nombreux types de fichiers pris en charge, génère des rendus. Créés pour les images, les rendus sont des versions redimensionnées de l’image téléchargée. Vous pouvez télécharger non seulement la ressource, mais également les rendus pour utiliser une version appropriée. Vous pouvez afficher tous les rendus d’une ressource lorsque vous [prévisualisez une ressource](/help/navigate-view.md#preview-assets).
 
 ![Rendus](assets/renditions-view-download.png)
 
-## Gérer les chargements ayant échoué {#resolve-upload-fails}
+## Gestion des chargements ayant échoué {#resolve-upload-fails}
 
 Si le chargement d’une ressource prise en charge échoue pour une raison quelconque, cliquez sur **[!UICONTROL Réessayer]** dans le volet [!UICONTROL Progression du chargement].
 
