@@ -2,9 +2,9 @@
 title: Déploiement et gestion des utilisateurs
 description: Cas pratiques d’administration tels que le déploiement et la gestion des utilisateurs dans  [!DNL Assets Essentials].
 role: Administrator
-source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
+source-git-commit: a9dfa9cc9e971faf24e5275c843fb1d0247d18c9
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '887'
 ht-degree: 2%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Déployer [!DNL Assets Essentials] et ajouter des utilisateurs {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] est configurée par Adobe pour ses clients. Dans le cadre de la mise en service, [!DNL Assets Essentials] est ajouté à l’organisation d’un client (organisation d’Adobe). Le client a également accès à [!DNL Experience Manager Cloud Manager] en tant qu’outil de déploiement et à [!DNL Admin Console] en tant qu’outil de gestion des utilisateurs.
+[!DNL Adobe Experience Manager Assets Essentials] est configurée par Adobe pour ses clients. Dans le cadre de la mise en service, [!DNL Assets Essentials] est ajouté à l’organisation d’un client dans [!DNL Adobe Admin Console]. Les clients ont également accès à [!DNL Experience Manager Cloud Manager] en tant qu’outil de déploiement et à [!DNL Admin Console] pour gérer les droits des utilisateurs à la solution [!DNL Assets Essentials].
 
 Les administrateurs effectuent les tâches suivantes :
 
@@ -22,9 +22,7 @@ Les administrateurs effectuent les tâches suivantes :
 
 ## Déploiement [!DNL Assets Essentials] {#deploy-essentials}
 
-Après la mise en service, le droit [!DNL Assets Essentials] est ajouté à votre organisation d’Adobe et l’administrateur d’une organisation le déploie. Les administrateurs de l’organisation effectuent un déploiement unique à l’aide de l’interface utilisateur [!DNL Cloud Manager]. Après le déploiement initial, Adobe effectue la maintenance et les mises à jour du service. Pour déployer, procédez comme suit :
-
-1. Assurez-vous que l’administrateur reçoit un courrier électronique de l’Adobe. L’email contient un message de bienvenue et un lien pour commencer.
+Après la mise en service, le droit [!DNL Assets Essentials] est ajouté à votre organisation dans [!DNL Admin Console]. Avant que la solution ne soit disponible pour l’utilisateur, un administrateur d’organisation doit la déployer. L’administrateur effectue un déploiement unique à l’aide de l’interface utilisateur [!DNL Cloud Manager]. Après le déploiement initial, Adobe effectue la maintenance et les mises à jour du service. Une fois la solution configurée, l’administrateur reçoit un courrier électronique de l’Adobe. L’email contient un message de bienvenue et un lien pour commencer. Pour déployer, procédez comme suit :
 
 1. A partir du lien contenu dans l&#39;email, accédez au [Admin Console](https://adminconsole.adobe.com) et connectez-vous. Si vous avez accès en tant qu’administrateur à plusieurs comptes d’organisation, sélectionnez l’organisation appropriée ou basculez-y à l’aide du sélecteur dans la barre supérieure. La carte du produit pour [!DNL Assets Essentials] est visible dans la balise [!DNL Admin Console].
 
@@ -32,7 +30,7 @@ Après la mise en service, le droit [!DNL Assets Essentials] est ajouté à votr
 
    *Figure :  [!DNL Assets Essentials] dans  [!DNL Admin Console].*
 
-1. Ajoutez-vous en tant qu’administrateur au produit `AEM Assets Essentials - Cloud Manager` dans la section [!DNL Cloud Manager]. Au lieu de vous-même, vous pouvez ajouter un autre membre de votre organisation ou ajouter plusieurs administrateurs.
+1. Ajoutez-vous en tant qu’administrateur au profil de produit `AEM Assets Essentials - Cloud Manager` dans la section [!DNL Admin Console]. Au lieu de vous-même, vous pouvez ajouter un autre membre de votre organisation ou ajouter plusieurs administrateurs.
 
 1. Cliquez sur ![Ajouter une icône](assets/do-not-localize/add-icon.svg) à [!UICONTROL Sélectionner les profils de produit], puis sélectionnez [!UICONTROL Gestionnaire de déploiement - Assets Essentials] comme **[!UICONTROL profil de produit]**. L’utilisateur ajouté à cette étape reçoit un courrier électronique de l’Adobe ayant accès à [!DNL Cloud Manager] et peut effectuer le déploiement.
 
@@ -40,7 +38,7 @@ Après la mise en service, le droit [!DNL Assets Essentials] est ajouté à votr
 
    *Figure : Ajoutez un administrateur et sélectionnez un profil de produit dans  [!DNL Admin Console].*
 
-1. Pour accéder à [!DNL Cloud Manager], cliquez sur le lien contenu dans l&#39;email avec accès à [!DNL Cloud Manager]. Vous pouvez également accéder à `https://experience.adobe.com/#/cloud-manager/` dans votre navigateur.
+1. Pour accéder à [!DNL Cloud Manager], cliquez sur le lien contenu dans l&#39;email avec accès à [!DNL Cloud Manager]. Vous pouvez également accéder à [https://experience.adobe.com/#/cloud-manager/](https://experience.adobe.com/#/cloud-manager/) dans votre navigateur.
 
 1. Dans l’interface utilisateur de Cloud Manager, cliquez sur **[!UICONTROL Ajouter le programme]** dans le coin supérieur droit.
 
@@ -54,7 +52,7 @@ Après la mise en service, le droit [!DNL Assets Essentials] est ajouté à votr
 
    *Figure : Ajoutez un environnement dans  [!DNL Cloud Manager] pour commencer à utiliser  [!DNL Assets Essentials].*
 
-1. Une fois l’environnement créé, vous pouvez accéder à [!DNL Admin Console] et ajouter les utilisateurs de votre entreprise à la solution [!DNL Assets Essentials]. Cliquez sur l’icône ![options](assets/do-not-localize/options-ellipses-icon.png) et sélectionnez l’option **[!UICONTROL Gérer l’accès]** .
+1. Après plusieurs minutes, une fois l’environnement créé, vous pouvez accéder à [!DNL Admin Console] et ajouter les utilisateurs de votre entreprise à la solution [!DNL Assets Essentials]. Cliquez sur l’icône ![options](assets/do-not-localize/options-ellipses-icon.png) et sélectionnez l’option **[!UICONTROL Gérer l’accès]** .
 
    ![Environnement prêt dans  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
