@@ -2,9 +2,9 @@
 title: Chargement de ressources dans le référentiel
 description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les états de chargement et résolvez les problèmes de chargement.
 role: Business Practitioner
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -48,15 +48,19 @@ Pour afficher un sous-ensemble de ressources en fonction de la progression ou de
 
 *Figure : Filtrez les ressources que vous avez tenté de charger en fonction de leur état de chargement ou de la progression du chargement.*
 
-Immédiatement après le chargement des ressources, [!DNL Assets Essentials] traite les ressources pour générer des miniatures et traiter les métadonnées. Pour de nombreuses ressources, le traitement prend du temps. Si aucune miniature n’apparaît et qu’un message de traitement s’affiche sur la miniature de l’espace réservé, vérifiez à nouveau le dossier au bout de quelques minutes.
+Immédiatement après le chargement des ressources, [!DNL Assets Essentials] traite les ressources pour générer des miniatures et traiter les métadonnées. Pour de nombreuses ressources, le traitement prend du temps. Si aucune miniature n’apparaît et qu’un message de traitement s’affiche sur la miniature de l’espace réservé, vérifiez à nouveau le dossier au bout de quelques minutes. Pendant le traitement, [!DNL Assets Essentials] génère les rendus, ajoute des balises intelligentes et indexe les détails de la ressource pour la recherche.
 
-![Traitement au chargement](assets/upload-processing.png)
+![Les ressources sont des processus au chargement et la mosaïque affiche le traitement](assets/upload-processing.png)
+
+*Figure : Les ressources chargées affichent le traitement sur la mosaïque qui est traitée.*
 
 ## Rendus de ressources {#renditions}
 
 [!DNL Assets Essentials] traite les ressources chargées en temps quasi réel et, pour de nombreux types de fichiers pris en charge, génère des rendus. Créés pour les images, les rendus sont des versions redimensionnées de l’image téléchargée. Vous pouvez télécharger non seulement la ressource, mais également les rendus pour utiliser une version appropriée. Vous pouvez afficher tous les rendus d’une ressource lorsque vous [prévisualisez une ressource](/help/navigate-view.md#preview-assets).
 
 ![Rendus](assets/renditions-view-download.png)
+
+*Figure : Affichez et téléchargez les rendus.*
 
 ## Gestion des chargements ayant échoué {#resolve-upload-fails}
 
@@ -87,5 +91,7 @@ Les utilisateurs peuvent supprimer des ressources ou des dossiers individuels qu
 * Utilisez l’option disponible sur la miniature d’une ressource ou d’un dossier.
 
    ![Options de gestion d’une ressource sur la miniature de la ressource](assets/options-on-thumbnail.png)
+
+   *Figure : Les actions relatives aux fichiers et aux dossiers sont disponibles sur la mosaïque de la ressource ou du dossier.*
 
 * Sélectionnez une ressource ou un dossier et cliquez sur **[!UICONTROL Supprimer]** ![icône de suppression](assets/do-not-localize/delete-icon.png) dans la barre d’outils.
