@@ -1,8 +1,8 @@
 ---
 title: '[!DNL Assets Essentials] interface utilisateur'
 description: Comprendre l’interface utilisateur et la navigation dans  [!DNL Assets Essentials].
-role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -10,13 +10,13 @@ ht-degree: 0%
 ---
 
 
-# Accédez aux fichiers et aux dossiers et affichez les ressources {#view-assets-and-details}
+# Accès aux fichiers et aux dossiers et affichage des ressources {#view-assets-and-details}
 
 <!-- TBD: Give screenshots of all views with many assets. Zoom out to showcase how the thumbnails/tiles flow on the UI in different views. -->
 
 <!-- TBD: The options in left sidebar may change. Shared with me and Shared by me are missing for now. Update this section as UI is updated. -->
 
-## Comprendre l’interface utilisateur [!DNL Assets Essentials] {#understand-interface-navigation}
+## Présentation de l’interface utilisateur de [!DNL Assets Essentials] {#understand-interface-navigation}
 
 [!DNL Assets Essentials] offre une interface utilisateur intuitive et conviviale. L’interface propre facilite la recherche et la mémoire des ressources et des informations connexes.
 
