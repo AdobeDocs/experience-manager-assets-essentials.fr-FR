@@ -1,12 +1,12 @@
 ---
 title: Formats de fichiers pris en charge
 description: Formats de fichiers pris en charge pour les différents cas d’utilisation de  [!DNL Assets Essentials]
-role: Business Practitioner,Leader,Administrator,Architect,Developer
+role: User,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: 42d85b0d1a1c2e1ac3c3dac4b0c151a7aa3af8b9
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 40%
+source-wordcount: '196'
+ht-degree: 38%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 40%
 Les différents types de fichiers ont différents degrés de prise en charge pour les cas d’utilisation et les fonctionnalités comme décrit ci-dessous. Reportez-vous à la légende pour comprendre le niveau de prise en charge.
 
 | Niveau de prise en charge | Description |
-| :-----------: | ------------------------------ |
+|---------------|-------------------------|
 | ✓ | Pris en charge |
 | * | Pris en charge de manière conditionnelle |
 | - | Non applicable |
@@ -31,67 +31,70 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 
 ## Ajout, chargement et affichage de ressources {#support-to-upload-view}
 
-| Type de ressource | Parcourir | Copier | Chargement | Créer | Supprimer | Détails | Zoom sur l’image | Récemment consultés |
-|---|---|---|---|---|---|---|---|---|
-| Images pixellisées |  |  |  |  |  |  |  |  |
-| Dossiers |  |  |  |  |  |  |  |  |
-| Vidéos |  |  |  |  |  |  |  |  |
-| Bibliothèques CC |  |  |  |  |  |  |  |  |
-| Fichiers PDF |  |  |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |  |  |
+<!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
+-->
 
-## Rechercher, utiliser et modifier des ressources {#support-to-search-use-edit}
+| Type de ressource | Parcourir | Copier | Chargement | Créer | Supprimer | Détails | Zoom sur l’image | Récemment consultés |
+|---------------|----------|------|----------|----------|----------|----------|------------|-----------------|
+| Images pixellisées | ✓ |  | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Dossiers | ✓ |  | ✓ | ✓ | ✓ | ✓ | - | - |
+| Vidéos | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+| Bibliothèques CC | ✓ |  | ✓ | ✓ | ✓ | ✓ | - | - |
+| PDF | ✓ |  | ✓ | - | ✓ | ✓ | - | ✓ |
+| PSD | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+| AI | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+| INDD | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+
+## Recherche, utilisation et modification de ressources {#support-to-search-use-edit}
 
 | Type de ressource | Télécharger | Glisser-déplacer | Éditeur d’image | Rechercher | Balises intelligentes | Renommer | Versions |
-| --- | ---  | --- | --- | --- | --- | --- | --- |
-| Images pixellisées |  |  |  |  |  |  |  |
-| Dossiers |  |  |  |  |  |  |  |
-| Vidéos |  |  |  |  |  |  |  |
-| Bibliothèques CC |  |  |  |  |  |  |  |
-| Fichiers PDF |  |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |  |
+|---------------|----------|---------------|--------------|----------|------------|----------|----------|
+| Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Dossiers | ✓ | ✓ | - | ✓ | - | ✓ | - |
+| Vidéos | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| Bibliothèques CC | - | - | - | - | - | ✓ | - |
+| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| PSD | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| AI | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
 
-## Réviser des ressources et collaborer {#support-to-review-collaborate}
+## Révision de ressources et collaboration {#support-to-review-collaborate}
 
 | Type de ressource | Annoter | Commentaire | Création de tâches et révision |
-| --- | --- | --- | --- |
-| Images pixellisées |  |  |  |
-| Dossiers |  |  |  |  |
-| Vidéos |  |  |  |  |
-| Bibliothèques CC |  |  |  |  |
-| Fichiers PDF |  |  |  |  |
-| PSD |  |  |  |  |
-| AI |  |  |  |  |
-| INDD |  |  |  |  |
+|---------------|----------|----------|-------------------------|
+| Images pixellisées | ✓ | ✓ | ✓ |
+| Dossiers | - | - | - |
+| Vidéos | - | ✓ | ✓ |
+| Bibliothèques CC | - | - | - |
+| PDF | - | ✓ | ✓ |
+| PSD | - | ✓ | ✓ |
+| AI | - | ✓ | ✓ |
+| INDD | - | ✓ | ✓ |
 
 ## Autres tâches de gestion des ressources {#support-to-manage-assets}
 
-| Type de ressource | Métadonnées  | Rendus | Corbeille | Copier | Déplacer |
-| --- | --- | --- | --- | --- | --- |
-| Images pixellisées |  |  |  |  |  |
-| Dossiers |  |  |  |  |  |  |
-| Vidéos |  |  |  |  |  |  |
-| Bibliothèques CC |  |  |  |  |  |  |
-| Fichiers PDF |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |
+| Type de ressource | Métadonnées | Rendus | Corbeille | Copier | Déplacer | [!DNL Adobe Asset Link] archivage |
+|---------------|----------|------------|----------|----------|----------|----------------------------------|
+| Images pixellisées | * | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Dossiers | * | - | ✓ | ✓ | ✓ | - |
+| Vidéos | * | - | ✓ | ✓ | ✓ | - |
+| Bibliothèques CC | * | - | - | - | - | - |
+| PDF | * | - | ✓ | ✓ | ✓ | - |
+| PSD | * | - | ✓ | ✓ | ✓ | - |
+| AI | * | - | ✓ | ✓ | ✓ | - |
+| INDD | * | - | ✓ | ✓ | ✓ | - |
 
 <!-- TBD: Saving template table separately.
-| Asset type | Features |
-|---|---|
-| Raster images |  |
-| Folders | |
-| Videos | |
-| CC Libraries | |
-| PDF files | |
-| PSD | |
-| AI | |
-| INDD | |
+| Asset type    | Features |
+|---------------|----------|
+| Raster images |          |
+| Folders       |          |
+| Videos        |          |
+| CC Libraries  |          |
+| PDF files     |          |
+| PSD           |          |
+| AI            |          |
+| INDD          |          |
 
 >[!MORELIKETHIS]
 >
