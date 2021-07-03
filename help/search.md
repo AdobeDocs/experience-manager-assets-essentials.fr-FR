@@ -1,11 +1,11 @@
 ---
 title: Recherche et découverte de ressources dans [!DNL Assets Essentials]
 description: Recherchez et découvrez des ressources dans  [!DNL Assets Essentials].
-role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '389'
+ht-degree: 2%
 
 ---
 
@@ -24,7 +24,7 @@ Pour rechercher des ressources, procédez comme suit :
 
    * Commencez à utiliser une ressource récemment consultée en la recherchant directement. Cliquez dans la zone de recherche et sélectionnez une ressource récemment consultée parmi les suggestions.
 
-## Filtrer les résultats de la recherche {#refine-search-results}
+## Filtrage des résultats de la recherche {#refine-search-results}
 
 Vous pouvez filtrer les résultats de la recherche en fonction des paramètres suivants.
 
