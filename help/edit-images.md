@@ -1,8 +1,8 @@
 ---
 title: Modification des images
 description: Modifiez les images à l’aide des options optimisées  [!DNL Adobe Photoshop Express] et enregistrez les images mises à jour sous forme de versions.
-role: Business Practitioner
-source-git-commit: b3fea5209fb29409b3aae5970fa30505f8b5c22c
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Saisissez les dimensions et cliquez sur **[!UICONTROL Redimensionner l’image]*
 
 ![Options lors du redimensionnement d’une image](assets/resize-image.png)
 
-## Ajuster l’image {#adjust-image}
+## Réglage de l’image {#adjust-image}
 
 [!DNL Assets Essentials] permet d’ajuster la couleur, le ton, le contraste, etc. en quelques clics seulement. Cliquez sur **[!UICONTROL Ajuster l’image]** dans la fenêtre d’édition. Les options suivantes sont disponibles dans la barre latérale droite :
 
