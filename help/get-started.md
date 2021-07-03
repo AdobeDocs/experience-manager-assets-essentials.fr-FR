@@ -1,8 +1,8 @@
 ---
 title: Prise en main de [!DNL Assets Essentials]
 description: Accès, connexion, cas d’utilisation pris en charge et problèmes connus de  [!DNL Assets Essentials].
-role: Business Practitioner, Leader
-source-git-commit: 4a7fe369485db5cae843694c68f84133c9118337
+role: User, Leader
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 2%
@@ -21,7 +21,7 @@ La gestion de vos ressources numériques à l’aide de [!DNL Assets Essentials]
 
 Pour utiliser [!DNL Assets Essentials], connectez-vous à l’adresse [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Pour recevoir un accès, contactez l’administrateur de votre entreprise.
 
-En outre, des informations de référence supplémentaires qui peuvent s’avérer utiles sont la [compréhension de l’interface utilisateur](/help/navigate-view.md), [liste des cas d’utilisation](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> et [problèmes connus](/help/release-notes.md#known-issues).
+En outre, des informations de référence supplémentaires qui peuvent s’avérer utiles sont [la compréhension de l’interface utilisateur](/help/navigate-view.md), [la liste des cas d’utilisation](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> et [les problèmes connus](/help/release-notes.md#known-issues).
 
 ## Recevez l’accès à [!DNL Assets Essentials] {#get-access}
 
@@ -55,7 +55,7 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 
 | Tâches utilisateur | Fonctionnalités et informations pratiques |
 |-----|------|
-| Comment ajouter une ressource ? | <ul> <li> [Chargement des ressources](/help/add-delete.md) </li> <li> [Rendus](/help/add-delete.md#renditions) </li> </ul> |
+| Comment ajouter une ressource ? | <ul> <li> [Charger des ressources](/help/add-delete.md) </li> <li> [Rendus](/help/add-delete.md#renditions) </li> </ul> |
 | Comment mettre à jour des ressources ou des informations connexes ? | <ul> <li>Modification d’une ressource existante</li> <li>[Création de ](/help/manage-organize.md#create-versions) versions et  [affichage de versions](/help/navigate-view.md#view-versions)</li> <li>[Modification des images](/help/edit-images.md)</li> </ul> |
 | Comment découvrir des ressources ? | <ul> <li>[Parcourir le référentiel](/help/navigate-view.md#view-assets-and-details) </li> <li> [Prévisualiser ](/help/navigate-view.md#preview-assets) une ressource et  [télécharger des ressources](/help/manage-organize.md) </li> <li>[Affichage des métadonnées détaillées](/help/metadata.md) </li> <li>[Recherche de ressources](/help/search.md)</li></ul> |
 | Comment modifier des ressources dans le référentiel ? | <ul> <li>[Modifications dans le navigateur à l’aide d’Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Recadrage d’un profil de médias sociaux](/help/edit-images.md#crop-straighten-images)</li> <li>[Affichage et gestion des versions](/help/manage-organize.md#create-versions)</li> <li>Utilisation de [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
