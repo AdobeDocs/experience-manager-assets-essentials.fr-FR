@@ -3,7 +3,7 @@ title: Formats de fichiers pris en charge
 description: Formats de fichiers pris en charge pour les différents cas d’utilisation de  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: e791ef4ffdfdad907b5e868b3f3eab0c597ae4cd
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 38%
@@ -35,15 +35,15 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 -->
 
 | Type de ressource | Parcourir | Copier | Chargement | Créer | Supprimer | Détails | Zoom sur l’image | Récemment consultés |
-|---------------|----------|------|----------|----------|----------|----------|------------|-----------------|
-| Images pixellisées | ✓ |  | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Dossiers | ✓ |  | ✓ | ✓ | ✓ | ✓ | - | - |
-| Vidéos | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
-| Bibliothèques CC | ✓ |  | ✓ | ✓ | ✓ | ✓ | - | - |
-| PDF | ✓ |  | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
-| AI | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
-| INDD | ✓ |  | ✓ | - | ✓ | * | - | ✓ |
+|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
+| Images pixellisées | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Dossiers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
+| Vidéos | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
+| Bibliothèques CC | ✓ | - | ✓ | ✓ | ✓ | ✓ | - | - |
+| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| PSD | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
+| AI | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
+| INDD | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
 
 ## Recherche, utilisation et modification de ressources {#support-to-search-use-edit}
 
