@@ -1,12 +1,12 @@
 ---
 title: Gestion des métadonnées
 description: Gestion des métadonnées des ressources dans [!DNL Assets Essentials]
-role: Business Practitioner,Leader,Administrator,Architect,Developer
+role: User,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '559'
+ht-degree: 13%
 
 ---
 
@@ -51,7 +51,7 @@ Les balises intelligentes sont appliquées en temps quasi réel et sont génér�
 
 Les balises intelligentes contiennent également un score de confiance en pourcentage. Elle indique le degré de confiance associé à la balise appliquée. Vous pouvez modérer les balises intelligentes appliquées automatiquement.
 
-## Ajouter ou mettre à jour des balises {#manually-tag}
+## Ajout ou mise à jour de balises {#manually-tag}
 
 Vous pouvez ajouter d’autres balises à vos ressources, en plus des balises intelligentes qui sont ajoutées automatiquement à l’aide du service dynamique [!DNL Adobe Sensei] . Ouvrez une ressource à des fins d’aperçu, cliquez sur [!UICONTROL Balises], puis saisissez les mots-clés souhaités dans le champ [!UICONTROL Mots-clés]. Pour ajouter la balise, appuyez sur Entrée. [!DNL Assets Essentials] indexe le mot-clé en temps quasi réel et votre équipe peut bientôt rechercher les ressources mises à jour à l’aide des nouveaux mots-clés.
 
