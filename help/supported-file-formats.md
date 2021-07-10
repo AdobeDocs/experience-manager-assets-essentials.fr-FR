@@ -3,10 +3,10 @@ title: Formats de fichiers pris en charge
 description: Formats de fichiers pris en charge pour les différents cas d’utilisation de  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: e791ef4ffdfdad907b5e868b3f3eab0c597ae4cd
+source-git-commit: c63e9ab1054398dc055643f0dca6631bae881047
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 38%
+source-wordcount: '206'
+ht-degree: 34%
 
 ---
 
@@ -22,32 +22,31 @@ ht-degree: 38%
 Les différents types de fichiers ont différents degrés de prise en charge pour les cas d’utilisation et les fonctionnalités comme décrit ci-dessous. Reportez-vous à la légende pour comprendre le niveau de prise en charge.
 
 | Niveau de prise en charge | Description |
-|---------------|-------------------------|
+|-------------------|-------------------------|
 | ✓ | Pris en charge |
-| * | Pris en charge de manière conditionnelle |
+| ✓ ‡ | Pris en charge de manière conditionnelle |
 | - | Non applicable |
-
-* Autres tâches de gestion des ressources :
 
 ## Ajout, chargement et affichage de ressources {#support-to-upload-view}
 
 <!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
-| Type de ressource | Parcourir | Copier | Chargement | Créer | Supprimer | Détails | Zoom sur l’image | Récemment consultés |
-|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
+| Type de ressource | [Parcourir](/help/navigate-view.md) | Copier | [Chargement](/help/add-delete.md) | Créer | [Supprimer](/help/add-delete.md#delete-assets) | Détails | Zoom sur l’image | [Récemment consultés](/help/navigate-view.md) |
+|-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
 | Images pixellisées | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
 | Dossiers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
-| Vidéos | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
-| Bibliothèques CC | ✓ | - | ✓ | ✓ | ✓ | ✓ | - | - |
+| Vidéos MP4 | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
 | PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
-| AI | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
-| INDD | ✓ | ✓ | ✓ | - | ✓ | * | - | ✓ |
+| PSD, AI et INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
+
+<!-- Hiding CC Libraries (considered beta) as per PM feedback.
+| CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
+-->
 
 ## Recherche, utilisation et modification de ressources {#support-to-search-use-edit}
 
-| Type de ressource | Télécharger | Glisser-déplacer | Éditeur d’image | Rechercher | Balises intelligentes | Renommer | Versions |
+| Type de ressource | [Télécharger](/help/manage-organize.md#download) | Glisser-déplacer | [Éditeur d’image](/help/edit-images.md) | [Rechercher](/help/search.md) | [Balises intelligentes](/help/metadata.md#tags) | [Renommer](/help/manage-organize.md) | [Versions](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Dossiers | ✓ | ✓ | - | ✓ | - | ✓ | - |
@@ -73,18 +72,20 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 
 ## Autres tâches de gestion des ressources {#support-to-manage-assets}
 
-| Type de ressource | Métadonnées | Rendus | Corbeille | Copier | Déplacer | [!DNL Adobe Asset Link] archivage |
-|---------------|----------|------------|----------|----------|----------|----------------------------------|
-| Images pixellisées | * | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Dossiers | * | - | ✓ | ✓ | ✓ | - |
-| Vidéos | * | - | ✓ | ✓ | ✓ | - |
-| Bibliothèques CC | * | - | - | - | - | - |
-| PDF | * | - | ✓ | ✓ | ✓ | - |
-| PSD | * | - | ✓ | ✓ | ✓ | - |
-| AI | * | - | ✓ | ✓ | ✓ | - |
-| INDD | * | - | ✓ | ✓ | ✓ | - |
+| Type de ressource | [Métadonnées](/help/metadata.md) | [Rendus](/help/add-delete.md#renditions) | [Corbeille](/help/add-delete.md#delete-assets) | Copier | Déplacer |
+|---------------|-------------------|------------|----------|----------|----------|
+| Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Dossiers | ✓ | - | ✓ | ✓ | ✓ |
+| Vidéos | ✓ | - | ✓ | ✓ | ✓ |
+| Bibliothèques CC | ✓ | - | - | - | - |
+| PDF | ✓ | - | ✓ | ✓ | ✓ |
+| PSD | ✓ | - | ✓ | ✓ | ✓ |
+| AI | ✓ | - | ✓ | ✓ | ✓ |
+| INDD | ✓ | - | ✓ | ✓ | ✓ |
 
-<!-- TBD: Saving template table separately.
+Les utilisateurs de [!DNL Adobe Asset Link] peuvent archiver les images pixellisées dans le référentiel [!DNL Assets Essentials] à partir des applications de bureau [!DNL Adobe Creative Cloud] prises en charge.
+
+<!-- TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |
