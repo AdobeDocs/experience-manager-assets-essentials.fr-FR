@@ -6,26 +6,26 @@ contentOwner: AG
 source-git-commit: c63e9ab1054398dc055643f0dca6631bae881047
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 34%
+ht-degree: 85%
 
 ---
 
 
 # Prise en charge des formats de fichiers dans [!DNL Assets Essentials] {#file-format-support}
 
-[!DNL Assets Essentials] prend en charge un large éventail de formats de fichiers et chaque fonctionnalité prend en charge différents types de fichiers.
+[!DNL Assets Essentials] prend en charge un large éventail de formats de fichier. Chaque fonctionnalité prend en charge différents types de fichiers.
 
-* ![type de fichier image ](assets/do-not-localize/image-icon.png) iconImages : GIF, JPG, PNG et TIFF
-* ![type de fichier document ](assets/do-not-localize/document-icon.png) iconDocuments : DOCX, PDF, PPTX et XLSX
-* ![type de fichier vidéo ](assets/do-not-localize/video-icon.png) iconVidéos : MP4
+* ![Icône de type de fichier image](assets/do-not-localize/image-icon.png) : GIF, JPG, PNG et TIFF
+* ![Icône de type de fichier document](assets/do-not-localize/document-icon.png) : DOCX, PDF, PPTX et XLSX
+* ![Icône de type de fichier vidéo](assets/do-not-localize/video-icon.png) : MP4
 
 Les différents types de fichiers ont différents degrés de prise en charge pour les cas d’utilisation et les fonctionnalités comme décrit ci-dessous. Reportez-vous à la légende pour comprendre le niveau de prise en charge.
 
 | Niveau de prise en charge | Description |
 |-------------------|-------------------------|
 | ✓ | Pris en charge |
-| ✓ ‡ | Pris en charge de manière conditionnelle |
-| - | Non applicable |
+| ✓ ‡ | Pris en charge dans certaines conditions |
+| − | Non applicable |
 
 ## Ajout, chargement et affichage de ressources {#support-to-upload-view}
 
