@@ -1,15 +1,15 @@
 ---
 source-git-commit: 0dd6f278a75668c3ceafa2ad8d9d232bcecd56ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '719'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 # Directives relatives à la contribution à la documentation d’[!DNL Adobe Experience Manager]
 
 ## Philosophie de la documentation
 
-Nous savons que les utilisateurs d’[!DNL Adobe Experience Manager] travaillent dans des environnements très concurrentiels, afin de créer des expériences numériques qui les distingueront de leurs concurrents. Par conséquent, il est essentiel que, lorsque Adobe fournit de nouveaux outils avancés dans [!DNL Experience Manager], ces outils soient complétés par une documentation précise et claire pour permettre au client d’exploiter immédiatement son investissement [!DNL Experience Manager] et maximiser le ROI.
+Nous savons que les utilisateurs d’[!DNL Adobe Experience Manager] travaillent dans des environnements très concurrentiels, afin de créer des expériences numériques qui les distingueront de leurs concurrents. Lorsqu’Adobe fournit de nouveaux outils avancés dans [!DNL Experience Manager], il est essentiel qu’ils soient complétés par une documentation précise et claire pour permettre au client d’exploiter immédiatement son investissement dans [!DNL Experience Manager] et maximiser le ROI.
 
 L’objectif de la documentation d’[!DNL Experience Manager] est de la placer entre les mains des utilisateurs d’[!DNL Experience Manager] dès que possible. Nous privilégions donc une documentation précise et utilisable, et nous la mettons à jour et l’améliorons constamment.
 
@@ -39,7 +39,7 @@ Toute opinion susceptible d’améliorer la documentation d’[!DNL Experience M
 
 Toute question relative à l’utilisation d’[!DNL Experience Manager] ou à la résolution d’erreurs techniques doit être soumise au moyen du processus d’assistance classique via le [[!DNL Experience Cloud] Portail d’assistance d’Experience Manager](https://experienceleague.adobe.com/?support-solution=Experience+Manager&amp;lang=fr#support) ou posée dans la [communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
-Les contributions à la documentation d’***[!DNL Experience Manager]ne remplacent pas l’Assistance clientèle d’Adobe*** et toute contribution de ce type visant à obtenir des réponses à des questions d’assistance sera refusée.
+Les contributions à la documentation d’***[!DNL Experience Manager] ne remplacent pas l’Assistance clientèle d’Adobe*** et toute contribution de ce type visant à obtenir des réponses à des questions d’assistance sera refusée.
 
 ### Les contributions doivent clairement référencer les pages de documentation concernées.
 
