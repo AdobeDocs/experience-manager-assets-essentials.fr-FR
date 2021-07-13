@@ -1,65 +1,65 @@
 ---
 title: Modification des images
-description: Modifiez les images à l’aide des options optimisées  [!DNL Adobe Photoshop Express] et enregistrez les images mises à jour sous forme de versions.
+description: Modifiez les images à l’aide des options optimisées d’ [!DNL Adobe Photoshop Express] et enregistrez les images mises à jour sous forme de versions.
 role: User
 source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Modifier des images dans [!DNL Assets Essentials] {#edit-images}
 
-[!DNL Assets Essentials] fournit des options de modification conviviales, optimisées par  [!DNL Adobe Photoshop Express]. Les actions de modification disponibles sont Correction des points, Recadrer et redresser, Redimensionner l’image et Ajuster l’image.
+[!DNL Assets Essentials] fournit des options de modification conviviales, optimisées par [!DNL Adobe Photoshop Express]. Parmi les actions de modification disponibles, vous pourrez supprimer les imperfections, recadrer et redresser les images, les redimensionner et effectuer d’autres réglages.
 
-Après avoir modifié une image, vous pouvez enregistrer la nouvelle image en tant que nouvelle version. Le contrôle de version vous permet de revenir à la ressource d’origine ultérieurement, si nécessaire. Pour modifier une image, [ouvrez son aperçu](/help/navigate-view.md#preview-assets) et cliquez sur **[!UICONTROL Modifier l’image]** ![icône d’édition](assets/do-not-localize/edit-icon.png) dans le rail de droite.
+Après avoir modifié une image, vous pouvez enregistrer la nouvelle image en tant que nouvelle version de cette image. Le contrôle de version vous permet de revenir ultérieurement à la ressource d’origine, si nécessaire. Pour modifier une image, [ouvrez son aperçu](/help/navigate-view.md#preview-assets) et cliquez sur ![icône d’édition](assets/do-not-localize/edit-icon.png) **[!UICONTROL Modifier l’image]** dans le rail de droite.
 
 ![Options de modification d’une image](assets/edit-image2.png)
 
-*Figure : Les options de modification des images sont optimisées par  [!DNL Adobe Photoshop Express].*
+*Image : les options de modification des images sont optimisées par [!DNL Adobe Photoshop Express].*
 
-## Afficher les images de guérison {#spot-heal-images}
+## Supprimer les imperfections des images {#spot-heal-images}
 
-S’il existe des zones mineures ou de petits objets sur une image, vous pouvez modifier et supprimer les zones grâce à la fonction de correction des points fournie par Adobe Photoshop.
+S’il existe des petites taches ou des éléments indésirables mineurs sur une image, vous pouvez modifier et supprimer ces zones grâce à la fonction de suppression des imperfections fournie par Adobe Photoshop.
 
-La brosse échantillonne la zone retouchée et fait en sorte que les pixels réparés se fondent facilement dans le reste de l’image. Utilisez une taille de brosse légèrement supérieure à la zone à corriger.
+Le pinceau échantillonne la zone retouchée et fait en sorte que les pixels réparés se fondent de manière transparente dans le reste de l’image. Utilisez une taille de pinceau légèrement supérieure à celle de la zone à corriger.
 
-![Option d’édition de l’rétablissement des points](assets/edit-spot-healing.png)
+![Option de modification de suppression des imperfections](assets/edit-spot-healing.png)
 
 <!-- TBD: See if we should give backlinks to PS docs for these concepts.
 For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). -->
 
 ## Recadrer et redresser des images {#crop-straighten-images}
 
-Grâce à l’option de recadrage et de lissage, vous pouvez effectuer un recadrage de base, faire pivoter l’image, la retourner horizontalement ou verticalement, puis la recadrer sur des dimensions adaptées aux sites Web de médias sociaux populaires.
+Grâce à l’option de recadrage et de redressement des images, vous pouvez effectuer un recadrage de base, faire pivoter l’image, la retourner horizontalement ou verticalement, puis la recadrer selon les dimensions les plus adaptées pour les sites web des réseaux sociaux les plus populaires.
 
-Pour enregistrer vos modifications, cliquez sur **[!UICONTROL Recadrer l’image]**. Après modification, vous pouvez enregistrer la nouvelle image en tant que version.
+Pour enregistrer vos modifications, cliquez sur **[!UICONTROL Recadrer l’image]**. Après modification, vous pouvez enregistrer la nouvelle image dans une nouvelle version.
 
-![Option de recadrage et d’ajustement](assets/edit-crop-straighten.png)
+![Option de recadrage et de redressement](assets/edit-crop-straighten.png)
 
-De nombreuses options par défaut vous permettent de recadrer votre image selon les meilleures proportions qui conviennent aux différents profils et publications de médias sociaux.
+De nombreuses options par défaut vous permettent de recadrer votre image selon les proportions qui conviennent le mieux aux différents profils et publications de médias sociaux.
 
-## Redimensionner l’image {#resize-image}
+## Redimensionnement de l’image {#resize-image}
 
-Le redimensionnement d’une image à une taille spécifique est un cas d’utilisation courant. [!DNL Assets Essentials] permet de redimensionner rapidement l’image pour l’adapter aux tailles de photo courantes en fournissant de nouvelles résolutions précalculées pour des tailles de photo spécifiques. Vous pouvez afficher les tailles de photo courantes en centimètres ou pouces pour connaître les dimensions. Par défaut, la méthode redimensionnement conserve les proportions. Pour remplacer manuellement les proportions, cliquez sur ![](assets/do-not-localize/lock-closed-icon.png).
+Le redimensionnement d’une image à une taille spécifique est un cas d’utilisation courant. [!DNL Assets Essentials] permet de redimensionner rapidement l’image pour l’adapter aux tailles de photo courantes en fournissant de nouvelles résolutions précalculées pour des tailles de photo spécifiques. Vous pouvez afficher en centimètres ou pouces les tailles de photo courantes pour en connaître les dimensions. Par défaut, la méthode de redimensionnement conserve les proportions de l’image. Pour modifier manuellement les proportions, cliquez sur ![](assets/do-not-localize/lock-closed-icon.png).
 
-Saisissez les dimensions et cliquez sur **[!UICONTROL Redimensionner l’image]** pour la redimensionner. Avant d’enregistrer les modifications en tant que version, vous pouvez annuler toutes les modifications effectuées avant de les enregistrer en cliquant sur [!UICONTROL Annuler] ou modifier l’étape spécifique du processus de modification en cliquant sur [!UICONTROL Rétablir].
+Saisissez les dimensions et cliquez sur **[!UICONTROL Redimensionner l’image]** pour la redimensionner. Avant d’enregistrer les modifications dans une nouvelle version, vous pouvez annuler toutes les modifications effectuées avant de les enregistrer en cliquant sur [!UICONTROL Annuler] ou modifier une étape du processus de modification en particulier en cliquant sur [!UICONTROL Rétablir].
 
-![Options lors du redimensionnement d’une image](assets/resize-image.png)
+![Options de redimensionnement d’une image](assets/resize-image.png)
 
-## Réglage de l’image {#adjust-image}
+## Modifier l’image {#adjust-image}
 
-[!DNL Assets Essentials] permet d’ajuster la couleur, le ton, le contraste, etc. en quelques clics seulement. Cliquez sur **[!UICONTROL Ajuster l’image]** dans la fenêtre d’édition. Les options suivantes sont disponibles dans la barre latérale droite :
+[!DNL Assets Essentials] permet d’ajuster en autres la couleur, le ton et le contraste d’une image, en quelques clics seulement. Cliquez sur **[!UICONTROL Ajuster l’image]** dans la fenêtre d’édition. Les options suivantes sont disponibles dans la barre latérale droite :
 
-* **Populaire** :  [!UICONTROL Contraste et détails élevés],  [!UICONTROL Contraste désaturé],  [!UICONTROL Photo âgée],  [!UICONTROL Soft B&amp;W] et  [!UICONTROL Tone sépia B&amp;W].
-* **Couleur** :  [!UICONTROL Naturelle],  [!UICONTROL Lumineux],  [!UICONTROL Contraste élevé],  [!UICONTROL Contraste et détail élevé],  [!UICONTROL Vivid] et  [!UICONTROL Matte].
-* **Creative** :  [!UICONTROL Contraste] désaturé,  [!UICONTROL Luminosité froide],  [!UICONTROL Turquoise &amp; Rouge],  [!UICONTROL Poignée molle],  [!UICONTROL Vintage Instant],  [!UICONTROL Contraste chaud],  [!UICONTROL Plat &amp; Vert],  [!UICONTROL Effet élévateur rouge],  [!UICONTROL Ombres chaudes] et  [!UICONTROL Photo Agitée].
-* **B&amp;W** :  [!UICONTROL B&amp;W Landscape],  [!UICONTROL B&amp;W High Contrast],  [!UICONTROL B&amp;W Punch],  [!UICONTROL B&amp;W Low Contrast],  [!UICONTROL B&amp;W Flat],  [!UICONTROL B&amp;W Soft],  [!UICONTROL B&amp;W infrarouge],  [!UICONTROL B&amp;W Selenium Tone],  [!UICONTROL B&amp;W Sepia Tone] et  [!UICONTROL  Division B&amp;W].
-* **Vignettage** :  [!UICONTROL Aucun],  [!UICONTROL Clair],  [!UICONTROL Moyen] et  [!UICONTROL Lourd].
+* **Populaires** : [!UICONTROL Accentuation du contraste et des détails], [!UICONTROL Désaturation du contraste], [!UICONTROL Vieillissement de la photo], [!UICONTROL Noir et blanc doux] et [!UICONTROL Noir et blanc sépia].
+* **Couleur** : [!UICONTROL Naturel], [!UICONTROL Brillant], [!UICONTROL Contraste élevé], [!UICONTROL Contraste et détails élevés], [!UICONTROL Satiné] et [!UICONTROL Mat].
+* **Création** : [!UICONTROL Contraste désaturé], [!UICONTROL Lumière froide], [!UICONTROL Turquoise et rouge], [!UICONTROL Brume légère], [!UICONTROL Effet vintage], [!UICONTROL Contraste chaud], [!UICONTROL Plat et vert], [!UICONTROL Touche de rouge mat], [!UICONTROL Ombré chaud] et [!UICONTROL Photo vieillie].
+* **Noir et blanc** : [!UICONTROL Noir et blanc Paysage], [!UICONTROL Noir et blanc Contraste saturé], [!UICONTROL Noir et blanc punchy], [!UICONTROL Noir et blanc Contraste désaturé], [!UICONTROL Noir et blanc plat], [!UICONTROL Noir et blanc doux], [!UICONTROL Noir et blanc infrarouge], [!UICONTROL Noir et blanc effet sélénium], [!UICONTROL Noir et blanc effet sépia] et [!UICONTROL Noir et blanc en désaturation partielle].
+* **Vignettage** : [!UICONTROL Désactivé], [!UICONTROL Léger], [!UICONTROL Moyen] et [!UICONTROL Appuyé].
 
-![Réglage de l’image en la modifiant](assets/adjust-image.png)
+![Réglage de l’image au travers des différentes modifications](assets/adjust-image.png)
 
 <!--
 TBD: Insert a video of the available social media options.
