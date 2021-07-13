@@ -7,9 +7,9 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/experience-manager-assets-essenti
 mini-toc-levels: 1
 index: true
 source-git-commit: bd544f8afe112d5a95d5a3266f8d74bff4ef04c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
