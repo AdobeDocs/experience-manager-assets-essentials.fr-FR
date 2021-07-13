@@ -1,13 +1,13 @@
 ---
 source-git-commit: 0dd6f278a75668c3ceafa2ad8d9d232bcecd56ba
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '512'
+ht-degree: 100%
 
 ---
-# Contribution à la documentation [!DNL Adobe Experience Manager Assets Essentials]
+# Contribution à la documentation d’[!DNL Adobe Experience Manager Assets Essentials]
 
-Merci d’avoir choisi de contribuer à la documentation [!DNL Adobe Experience Manager Assets Essentials]. Nous nous félicitons des contributions au contenu, proposées aussi bien par notre communauté de lecteurs que par nos collègues employés d’Adobe.
+Merci d’avoir choisi de contribuer à la documentation d’[!DNL Adobe Experience Manager Assets Essentials]. Nous nous félicitons des contributions au contenu, proposées aussi bien par notre communauté de lecteurs que par nos collègues employés d’Adobe.
 
 Ce fichier décrit comment contribuer à la documentation ainsi que les directives à suivre lors de l’apport de vos contributions.
 
@@ -36,11 +36,11 @@ La méthode choisie dépend de votre aisance pour modifier vous-même la documen
 
 Vous avez une suggestion, une observation à propos des documents actuels ou une question sur la manière dont un élément est décrit ? Vous pouvez créer un problème. Les propositions relatives aux problèmes sont également excellentes si vous souhaitez apporter votre contribution, mais que vous n’êtes pas habitué à modifier les documents ou à générer vous-même une demande d’extraction.
 
-Les problèmes vous permettent de décrire facilement vos idées d’amélioration des documents et un membre de l’équipe de documentation [!DNL Experience Manager] peut les examiner. Pour créer un problème, il suffit de cliquer sur le lien **Log an issue** (Soumettre un problème) en haut du panneau de navigation de droite d’une page.
+Les propositions relatives aux problèmes vous permettent de décrire facilement vos idées d’amélioration de documents, avant examen par un membre de l’équipe de documentation d’[!DNL Experience Manager]. Pour créer un problème, il suffit de cliquer sur le lien **Log an issue** (Soumettre un problème) en haut du panneau de navigation de droite d’une page.
 
 ### Création d’une demande d’extraction {#create-a-pull-request}
 
-Si vous rencontrez un problème et savez exactement comment le résoudre, envisagez de créer une demande d’extraction. Les demandes d’extraction permettent d’apporter vos propres modifications à la documentation, avant examen par un membre de l’équipe de documentation [!DNL Experience Manager]. Pour effectuer les modifications suggérées et créer la demande d’extraction, il suffit de cliquer sur le lien **Edit this page** (Modifier cette page) en haut du panneau de navigation de droite d’une page.
+Si vous rencontrez un problème et savez exactement comment le résoudre, envisagez de créer une demande d’extraction. Les demandes d’extraction permettent d’apporter vos propres modifications à la documentation, avant examen par un membre de l’équipe de documentation d’[!DNL Experience Manager]. Pour effectuer les modifications suggérées et créer la demande d’extraction, il suffit de cliquer sur le lien **Edit this page** (Modifier cette page) en haut du panneau de navigation de droite d’une page.
 
 Toutes les demandes d’extraction doivent être accompagnées d’un [contrat de licence de contributeur (CLA) signé.](https://opensource.adobe.com/cla.html) Ce document autorise Adobe à redistribuer vos contributions dans le cadre du projet. Vous n’avez besoin de soumettre un CLA Adobe qu’une seule fois. Par conséquent, si vous l’avez déjà soumis, vous n’avez rien à faire.
 
