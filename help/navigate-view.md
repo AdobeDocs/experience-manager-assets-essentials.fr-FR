@@ -1,91 +1,91 @@
 ---
-title: '[!DNL Assets Essentials] interface utilisateur'
-description: Comprendre l’interface utilisateur et la navigation dans  [!DNL Assets Essentials].
+title: Interface utilisateur d’[!DNL Assets Essentials]
+description: Comprendre l’interface utilisateur et la navigation dans [!DNL Assets Essentials].
 role: User
 source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '543'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Accès aux fichiers et aux dossiers et affichage des ressources {#view-assets-and-details}
+# Accédez aux fichiers et aux dossiers et affichez les ressources {#view-assets-and-details}
 
 <!-- TBD: Give screenshots of all views with many assets. Zoom out to showcase how the thumbnails/tiles flow on the UI in different views. -->
 
 <!-- TBD: The options in left sidebar may change. Shared with me and Shared by me are missing for now. Update this section as UI is updated. -->
 
-## Présentation de l’interface utilisateur de [!DNL Assets Essentials] {#understand-interface-navigation}
+## Comprendre l’interface utilisateur d’[!DNL Assets Essentials]  {#understand-interface-navigation}
 
-[!DNL Assets Essentials] offre une interface utilisateur intuitive et conviviale. L’interface propre facilite la recherche et la mémoire des ressources et des informations connexes.
+[!DNL Assets Essentials] offre une interface utilisateur intuitive et conviviale. La clarté de son interface vous aide à rechercher et à mémoriser les ressources et les informations qui les concernent.
 
 Lorsque vous vous connectez à [!DNL Assets Essentials], l’interface suivante s’affiche.
 
 <!-- TBD: Update this screenshot. Remove top bar. Remove 2 labels from top bar. -->
 
-![[!DNL Assets Essentials] interface utilisateur](assets/essentials-interface1.png)
+![[!DNL Assets Essentials]Interface utilisateur d’](assets/essentials-interface1.png)
 
-*Figure : Premier écran de connexion et emplacement des principales fonctionnalités.*
-     *A : Barre latérale gauche pour parcourir le référentiel et permet d’accéder à quelques autres options.*
-     *B : Affichez ou réduisez la barre latérale gauche pour augmenter la zone d’affichage des ressources.*
-     *C : Filtrage des résultats de la recherche.*
-     *D : Zone de recherche.*
-     *E : Options de tri des ressources.*
-     *F : Fournir des commentaires sur les produits.*
-     *G : Modifiez vos préférences utilisateur ou déconnectez-vous.*
-     *H : Basculer entre différentes vues.*
+*Image : premier écran de connexion et emplacement des principales fonctionnalités.*
+    *A : barre latérale gauche permettant de parcourir le référentiel et permet d’accéder à quelques autres options.*
+    *B : afficher ou réduire la barre latérale gauche pour augmenter la zone d’affichage des ressources.*
+    *C : filtrer les résultats de la recherche.*
+    *D : zone de recherche.*
+    *E : options de tri des ressources.*
+    *F : donner votre avis sur les produits.*
+    *G : modifier vos préférences utilisateur ou vous déconnecter.*
+    *H : basculer entre les différentes vues.*
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
 ## Parcourir et afficher les ressources et les dossiers {#browse-repository}
 
-Vous pouvez accéder aux fichiers ou dossiers requis à partir de l’interface utilisateur principale ou de la barre latérale gauche. Lors de la navigation, vous pouvez utiliser l’interface pour afficher des miniatures de ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
+Vous pouvez accéder aux fichiers ou dossiers requis à partir de l’interface utilisateur principale ou de la barre latérale gauche. Lors de votre navigation, vous pouvez utiliser l’interface pour afficher les miniatures de vos ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
 
-* **Ressources** : Liste de tous les dossiers et ressources dans une arborescence à laquelle vous avez accès.
-* **Récemment consultés** : Liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Il n’affiche pas ici les ressources que vous faites défiler lors de la navigation dans les fichiers ou dossiers du référentiel.
-* **Bibliothèques** : Accès à la  [!DNL Adobe Creative Cloud Team] vue Bibliothèques (CCT). Cette vue n’est visible que si l’utilisateur a le droit d’accéder aux bibliothèques CCT.
+* **Ressources** : liste de tous les dossiers et ressources dans une arborescence à laquelle vous avez accès.
+* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
+* **Bibliothèques** : offre un accès à la vue Bibliothèques (CCT) [!DNL Adobe Creative Cloud Team]. Cette vue n’est visible que si l’utilisateur a le droit d’accéder aux bibliothèques CCT.
 
 <!-- TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
 -->
 
-Vous pouvez ouvrir ou réduire la barre latérale gauche pour augmenter la zone d’affichage des ressources disponible.
+Vous pouvez développer ou réduire la barre latérale gauche pour augmenter la zone d’affichage des ressources disponible.
 
 Dans [!DNL Assets Essentials], vous pouvez afficher les ressources, les dossiers et les résultats de recherche dans quatre types différents de mises en page.
 
-* ![mode Liste ](assets/do-not-localize/list-view.png) [!UICONTROL icôneMode Liste]
-* ![mode Grille ](assets/do-not-localize/grid-view.png) [!UICONTROL iconGrid View]
-* ![vue de galerie ](assets/do-not-localize/gallery-view.png) [!UICONTROL icôneMode Galerie]
-* ![vue de cascade ](assets/do-not-localize/waterfall-view.png) [!UICONTROL icôneVue de cascade]
+* ![Icône de vue liste](assets/do-not-localize/list-view.png) [!UICONTROL Vue Liste]
+* ![Icône de vue grille](assets/do-not-localize/grid-view.png) [!UICONTROL Vue Grille]
+* ![icône de vue galerie](assets/do-not-localize/gallery-view.png) [!UICONTROL Vue Galerie]
+* ![icône de vue cascade](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vue Cascade]
 
 Pour localiser une ressource, vous pouvez trier les ressources par ordre croissant ou décroissant de `Name`, `Relevancy`, `Size`, `Modified` et `Created`.
 
-Pour accéder à un dossier, double-cliquez sur les miniatures du dossier ou sélectionnez le dossier dans la barre latérale gauche. Pour afficher les détails d’un dossier, sélectionnez-le et cliquez sur Détails dans la barre d’outils supérieure. Pour parcourir la hiérarchie vers le haut et vers le bas, utilisez la barre latérale gauche ou le chemin de navigation en haut.
+Pour accéder à un dossier, double-cliquez sur la miniature du dossier ou sélectionnez le dossier dans la barre latérale gauche. Pour afficher les détails d’un dossier, sélectionnez-le et cliquez sur Détails dans la barre d’outils supérieure. Pour parcourir la hiérarchie de haut en bas, utilisez la barre latérale gauche ou le chemin de navigation en haut.
 
 ![Parcourir les dossiers](assets/browsing-folders.png)
 
-*Figure : Pour parcourir la hiérarchie, utilisez les chemins de navigation dans la partie supérieure ou la barre latérale gauche.*
+*Image : pour parcourir la hiérarchie, utilisez les chemins de navigation dans la partie supérieure ou la barre latérale gauche.*
 
 ## Aperçu des ressources {#preview-assets}
 
-Avant d’utiliser, de partager ou de télécharger une ressource, vous pouvez l’afficher de plus près. La fonction d’aperçu vous permet d’afficher non seulement les images, mais également quelques autres types de ressources pris en charge.
+Avant d’utiliser, de partager ou de télécharger une ressource, vous pouvez l’afficher pour en connaître les détails. La fonction d’aperçu vous permet d’afficher non seulement les images, mais également quelques autres types de ressources pris en charge.
 
-Pour prévisualiser une ressource, sélectionnez-la et cliquez sur [!UICONTROL Détails] ![icône de détails](assets/do-not-localize/edit-in-icon.png) dans la barre d’outils supérieure. Vous pouvez non seulement afficher la ressource, mais également afficher ses métadonnées détaillées et effectuer d’autres actions.
+Pour prévisualiser une ressource, sélectionnez-la et cliquez sur ![icône de détails](assets/do-not-localize/edit-in-icon.png) [!UICONTROL Détails] dans la barre d’outils supérieure. Vous pouvez non seulement afficher la ressource, mais également afficher le détail de ses métadonnées et effectuer d’autres actions.
 
 ![Aperçu d’une ressource](assets/preview-asset.png)
 
-*A : Revenez au dossier actif ou au résultat de la recherche dans le référentiel.*
-*B : Nom et format du fichier que vous prévisualisez.*
-*C : Métadonnées de base.*
-*D : Métadonnées avancées.*
-*E : Mots-clés et balises intelligentes.*
-*F : Prévisualisez la ressource et affichez les informations de métadonnées.*
-*G : Commenter et annoter.*
-*H : Afficher et gérer les versions.*
-*I : Afficher les rendus de l’image.*
-*J : Modifier l’image.*
-*K : Aperçu plus détaillé. Zoom, plein écran et d’autres options.*
-*L : Passez à la ressource précédente ou suivante dans le dossier actif sans revenir au dossier.*
+*A : revenez au dossier actif ou au résultat de la recherche dans le référentiel.*
+*B : nom et format du fichier que vous prévisualisez.*
+*C : métadonnées de base.*
+*D : métadonnées avancées.*
+*E : mots-clés et balises intelligentes.*
+*F : prévisualisation de la ressource et affichage des informations des métadonnées.*
+*G : commentaires et annotations.*
+*H : affichage et gestion des versions.*
+*I : affichage des rendus de l’image.*
+*J : modification de l’image.*
+*K : aperçu plus détaillé. Zoom, plein écran et d’autres options.*
+*L : passer à la ressource précédente ou suivante dans le dossier actif sans revenir au dossier.*
 
 <!-- TBD: Describe the options.
 
