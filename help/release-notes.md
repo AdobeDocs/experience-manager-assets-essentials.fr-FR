@@ -1,12 +1,12 @@
 ---
 title: Notes de mise à jour
-description: Notes de mise à jour et problèmes connus de  [!DNL Assets Essentials]
+description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 4%
+ht-degree: 28%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 4%
 
 La version actuelle est la première version publique de [!DNL Assets Essentials] disponible le 21 juin 2021. [!DNL Assets Essentials] offre des fonctionnalités légères de gestion des ressources et sa première version prend en charge les principales fonctionnalités suivantes et les opérations CRUD (création, lecture, mise à jour et suppression) :
 
-* Chargez et ajoutez des ressources, y compris des dossiers imbriqués. Aperçu des ressources et versions.
-* Recherche en texte intégral, filtres de recherche nuancés et recherches enregistrées pour une découverte rapide de ressources.
+* Chargement et ajout de ressources, y compris des dossiers imbriqués Aperçu des ressources et versions.
+* Recherche en plein texte, filtres de recherche nuancés et enregistrement des paramètres de recherche pour découvrir rapidement de ressources.
 * Opérations de base de la gestion des ressources, telles que la mise à jour, la suppression, le téléchargement et la gestion des métadonnées.
-* Intégration à [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+* Intégration à [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=fr).
 
 Actuellement, [!DNL Assets Essentials] est disponible pour les clients [[!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer.html).
 
