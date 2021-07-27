@@ -2,10 +2,10 @@
 title: Interface utilisateur d’[!DNL Assets Essentials]
 description: Comprendre l’interface utilisateur et la navigation dans [!DNL Assets Essentials].
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 100%
+source-wordcount: '518'
+ht-degree: 91%
 
 ---
 
@@ -40,11 +40,15 @@ Lorsque vous vous connectez à [!DNL Assets Essentials], l’interface suivante 
 
 ## Parcourir et afficher les ressources et les dossiers {#browse-repository}
 
-Vous pouvez accéder aux fichiers ou dossiers requis à partir de l’interface utilisateur principale ou de la barre latérale gauche. Lors de votre navigation, vous pouvez utiliser l’interface pour afficher les miniatures de vos ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
+Vous pouvez parcourir les dossiers à partir de l’interface utilisateur principale ou de la barre latérale gauche. Lors de votre navigation, vous pouvez utiliser l’interface pour afficher les miniatures de vos ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
 
-* **Ressources** : liste de tous les dossiers et ressources dans une arborescence à laquelle vous avez accès.
-* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
-* **Bibliothèques** : offre un accès à la vue Bibliothèques (CCT) [!DNL Adobe Creative Cloud Team]. Cette vue n’est visible que si l’utilisateur a le droit d’accéder aux bibliothèques CCT.
+* **Ressources** : Liste de tous les dossiers dans une arborescence à laquelle vous avez accès.
+* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Il n’affiche pas les ressources que vous faites défiler lors de la navigation dans les fichiers ou dossiers du référentiel.
+* **Corbeille**:
+
+<!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
+* **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
+-->
 
 <!-- TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
 -->
