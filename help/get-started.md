@@ -2,10 +2,10 @@
 title: Prise en main d’ [!DNL Assets Essentials]
 description: Accès, connexion, cas d’utilisation pris en charge et problèmes connus dans [!DNL Assets Essentials].
 role: User, Leader
-source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
+source-git-commit: 135832e18bdf7ae66f29638cf548088a83daee8d
 workflow-type: tm+mt
-source-wordcount: '467'
-ht-degree: 85%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -57,10 +57,11 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 |-----|------|
 | Comment ajouter une ressource ? | <ul> <li> [Chargement des ressources](/help/add-delete.md) </li> <li> [Rendus](/help/add-delete.md#renditions) </li> </ul> |
 | Comment mettre à jour des ressources ou des informations connexes ? | <ul> <li>Modification d’une ressource existante</li> <li>[Création de versions](/help/manage-organize.md#create-versions) et [affichage de versions](/help/manage-organize.md#view-versions)</li> <li>[Modification des images](/help/edit-images.md)</li> </ul> |
-| Comment trouver des ressources ? | <ul> <li>[Parcourir le référentiel](/help/navigate-view.md#view-assets-and-details) </li> <li> [Prévisualisation de ressources](/help/navigate-view.md#preview-assets) et [téléchargement de ressources](/help/manage-organize.md#download) </li> <li>[Affichage des métadonnées détaillées](/help/metadata.md) </li> <li>[Recherche de ressources](/help/search.md)</li></ul> |
+| Comment trouver des ressources ? | <ul> <li>[Parcourir le référentiel](/help/navigate-view.md#view-assets-and-details) </li> <li> [Prévisualisation de ressources](/help/navigate-view.md#preview-assets) et [téléchargement de ressources](/help/manage-organize.md#download) </li> <li>[Recherche de ressources](/help/search.md)</li></ul> |
 | Comment modifier des ressources dans le référentiel ? | <ul> <li>[Modifications dans le navigateur à l’aide d’Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Recadrage d’un profil de réseaux sociaux](/help/edit-images.md#crop-straighten-images)</li> <li>[Affichage et gestion des versions](/help/manage-organize.md#view-versions)</li> <li>Utilisation d’[Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
 | Comment rechercher des ressources dans le référentiel ? | <ul> <li>[Recherche dans un dossier spécifique](/help/search.md#refine-search-results)</li> <li>[Recherches enregistrées](/help/search.md#saved-search)</li> <li>[Recherche de ressources récemment consultées](/help/search.md)</li> <li>[Recherche du texte intégral](/help/search.md) |
 | Comment ajouter de nouvelles ressources ? | <ul> <li>[Chargement de nouvelles ressources et de nouveaux dossiers](/help/add-delete.md#add-assets)</li> <li>[Surveillance de la progression du chargement et gestion des chargements](/help/add-delete.md#upload-progress)</li> <li>[Résoudre les problèmes de doublons](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| Opérations de métadonnées | <ul> <li>[Affichage des métadonnées détaillées](/help/metadata.md) </li> <li> [Création d’un formulaire de métadonnées](/help/metadata.md#metadata-forms) </li> </ul> |
 | [!DNL Assets Essentials] peut-il s’intégrer à d’autres solutions ? | <ul> <li>[Utilisation du sélecteur de ressources dans  [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] pour [!DNL Creative Cloud]](/help/integration.md)</li> <li>Intégration avec les bibliothèques [!DNL Creative Cloud Team]</li> </ul> |
 
 <!--TBD: Merge in above table when these use cases are documented/available.
