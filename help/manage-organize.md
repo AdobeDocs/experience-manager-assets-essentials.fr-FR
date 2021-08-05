@@ -3,10 +3,10 @@ title: Gérer vos ressources numériques
 description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la version de vos ressources dans  [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 9bff6e8570ca05f60844cfd84ef3e695e07ae27b
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,14 +25,11 @@ Utilisez [!DNL Assets Essentials] pour accomplir les tâches de gestion des ress
 * ![Icône Détails](assets/do-not-localize/edit-in-icon.png) Cliquez pour prévisualiser une ressource et afficher le détail des métadonnées. Lors de la prévisualisation, vous pouvez afficher les versions et modifier une image.
 * ![Icône Télécharger](assets/do-not-localize/download-icon.png) Téléchargez la ressource sélectionnée vers votre système de fichiers local.
 * ![Icône Supprimer](assets/do-not-localize/delete-icon.png) Supprimez la ressource ou le dossier sélectionné.
-* 
-
-   <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) --> Checkout an asset.
+* Extraire une ressource. <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) -->
 * ![Icône Copier](assets/do-not-localize/copy-icon.png) Copiez le fichier ou le dossier sélectionné.
 * ![Icône Déplacer](assets/do-not-localize/move-icon.png) Déplacez la ressource ou le dossier sélectionné vers un autre emplacement de la hiérarchie du référentiel.
 * ![Icône renommer](assets/do-not-localize/rename-icon.png) Renommez la ressource ou le dossier sélectionné. Utilisez un nom unique sans quoi le renommage pourrait échouer avec un avertissement. Vous pouvez réessayer avec un nouveau nom.
-* 
-   <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) --> Assign tasks to other users to collaborate on an asset.
+* Affectez des tâches à d’autres utilisateurs afin de collaborer sur une ressource. <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) -->
 
 Vous pouvez afficher les mêmes options sur les miniatures des ressources.
 
