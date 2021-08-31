@@ -3,33 +3,19 @@ title: Notes de mise à jour
 description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: cbeb6f6f59da164115af52dfdbb97023b84bc1d1
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 14%
+source-wordcount: '290'
+ht-degree: 13%
 
 ---
 
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle est la première version publique de [!DNL Assets Essentials] disponible le 21 juin 2021. [!DNL Assets Essentials] offre des fonctionnalités légères de gestion des ressources et sa première version prend en charge les principales fonctionnalités suivantes et les opérations CRUD (création, lecture, mise à jour et suppression) :
-
-* Chargement et ajout de ressources, y compris des dossiers imbriqués Aperçu des ressources et versions.
-* Recherche en plein texte, filtres de recherche nuancés et enregistrement des paramètres de recherche pour découvrir rapidement de ressources.
-* Opérations de base de la gestion des ressources, telles que la mise à jour, la suppression, le téléchargement et la gestion des métadonnées.
-* Intégration à [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=fr).
-
-Actuellement, [!DNL Assets Essentials] est disponible pour les clients [[!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer.html).
+La version actuelle de [!DNL Assets Essentials] est publiée le 30 août 2021. Il fournit des intégrations avec [!DNL Adobe Workfront] qui permettent aux utilisateurs [!DNL Workfront] de gérer leurs ressources numériques dans le cadre de la gestion de leur travail. Voir [intégrations avec d’autres solutions Adobe](/help/integration.md).
 
 Pour en savoir plus sur la solution, consultez l’[introduction à [!DNL Assets Essentials]](introduction.md). Pour commencer à utiliser les fonctionnalités, voir [Prise en main](/help/get-started.md).
-
-## Version actuelle {#release-notes-current}
-
-La version actuelle d’Assets Essentials est la version 2021.7.0, publiée le 29 juillet 2021, avec les mises à jour suivantes :
-
-* Vous pouvez créer et gérer des formulaires de métadonnées personnalisés à utiliser pour afficher les propriétés de métadonnées aux utilisateurs dans l’écran des détails de la ressource dans l’option [!UICONTROL Forms de métadonnées] sous [!DNL Settings]. Voir [Formulaires de métadonnées](metadata.md#metadata-forms).
-* Divers correctifs de bogues et améliorations de produit, notamment de meilleures performances lors du téléchargement d’un dossier imbriqué avec de nombreux sous-dossiers.
 
 ## Problèmes connus {#known-issues}
 
@@ -43,3 +29,21 @@ La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révis�
 -->
 
 Si vous rencontrez des problèmes ou même des demandes d’amélioration, [fournissez des commentaires](#provide-feedback) à l’équipe.
+
+## Versions antérieures {#past-release}
+
+### Version 2021.7.0 {#july2021}
+
+[!DNL Assets Essentials] La version 2021.7.0 est publiée le 29 juillet 2021, avec les mises à jour suivantes :
+
+* Vous pouvez créer et gérer des formulaires de métadonnées personnalisés à utiliser pour afficher les propriétés de métadonnées aux utilisateurs dans l’écran des détails de la ressource dans l’option [!UICONTROL Forms de métadonnées] sous [!DNL Settings]. Voir [Formulaires de métadonnées](metadata.md#metadata-forms).
+* Divers correctifs de bogues et améliorations de produit, notamment de meilleures performances lors du téléchargement d’un dossier imbriqué avec de nombreux sous-dossiers.
+
+### Version 2021.6.0 {#june2021}
+
+La première version de [!DNL Assets Essentials], disponible le 21 juin 2021, offre des fonctionnalités légères de gestion de ressources. Il prend en charge les principales fonctionnalités suivantes et les opérations CRUD (création, lecture, mise à jour et suppression) :
+
+* Chargement et ajout de ressources, y compris des dossiers imbriqués Aperçu des ressources et versions.
+* Recherche en plein texte, filtres de recherche nuancés et enregistrement des paramètres de recherche pour découvrir rapidement de ressources.
+* Opérations de base de la gestion des ressources, telles que la mise à jour, la suppression, le téléchargement et la gestion des métadonnées.
+* [!DNL Assets Essentials] est disponible pour  [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=fr).
