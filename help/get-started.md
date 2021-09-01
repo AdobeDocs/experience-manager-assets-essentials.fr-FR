@@ -2,10 +2,10 @@
 title: Prise en main d’ [!DNL Assets Essentials]
 description: Accès, connexion, cas d’utilisation pris en charge et problèmes connus dans [!DNL Assets Essentials].
 role: User, Leader
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 76%
+source-wordcount: '459'
+ht-degree: 73%
 
 ---
 
@@ -74,7 +74,7 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 
 ## ![Icône de commentaire](assets/do-not-localize/feedback-icon.png) Donnez votre avis sur des produits {#provide-feedback}
 
-Adobe se réjouit de recevoir tous vos commentaires sur la solution. Pour partager vos commentaires en restant dans votre application, utilisez l’option [!UICONTROL Commentaires] dans l’interface utilisateur. Cette option permet également de joindre des fichiers tels que des captures d’écran ou des enregistrements vidéo relatifs à un problème.
+Adobe se réjouit de recevoir tous vos commentaires sur la solution. Pour partager vos commentaires en restant dans votre application, utilisez l’option [!UICONTROL Commentaires] dans l’interface utilisateur. Il vous permet également de joindre des fichiers tels que des captures d’écran ou des enregistrements vidéo d’un problème.
 
 ![option Commentaires dans l’interface](assets/feedback-panel.png)
 
