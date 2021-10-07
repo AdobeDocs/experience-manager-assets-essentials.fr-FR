@@ -3,7 +3,7 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '389'
 ht-degree: 100%
 
