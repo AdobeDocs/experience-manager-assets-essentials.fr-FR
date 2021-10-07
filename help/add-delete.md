@@ -3,9 +3,9 @@ title: Chargement de ressources dans le référentiel
 description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les statuts de chargement et résolvez les problèmes de chargement.
 role: User
 source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '747'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -48,11 +48,11 @@ Pour afficher un sous-ensemble de ressources en fonction de la progression ou du
 
 *Image : filtrez les ressources que vous avez tenté de charger en fonction de leur statut de chargement ou de la progression du chargement.*
 
-Immédiatement après le chargement des ressources, [!DNL Assets Essentials] traite les ressources pour générer des miniatures et traiter les métadonnées. Le traitement de nombreuses ressources prend du temps. Si aucune miniature n’apparaît et qu’un message de traitement s’affiche sur la miniature de l’espace réservé, vérifiez à nouveau le dossier au bout de quelques minutes. Pendant le traitement, [!DNL Assets Essentials] génère les rendus, ajoute des balises intelligentes et indexe les détails de la ressource pour la recherche.
+Immédiatement après le chargement des ressources, [!DNL Assets Essentials] les traite pour générer des miniatures et traiter les métadonnées. Le traitement de nombreuses ressources prend du temps. Si aucune miniature n’apparaît et qu’un message de traitement s’affiche sur la miniature de l’espace réservé, vérifiez à nouveau le dossier au bout de quelques minutes. Pendant le traitement, [!DNL Assets Essentials] génère les rendus, ajoute des balises intelligentes et indexe les détails de la ressource pour la recherche.
 
 ![Les ressources sont des processus au chargement et la mosaïque affiche le traitement](assets/upload-processing.png)
 
-*Figure : Les ressources chargées affichent le traitement sur la mosaïque qui est traitée.*
+*Image : les ressources chargées affichent le statut de traitement sur la mosaïque qui est traitée.*
 
 ## Rendus de ressources {#renditions}
 
@@ -60,7 +60,7 @@ Immédiatement après le chargement des ressources, [!DNL Assets Essentials] tra
 
 ![Rendus](assets/renditions-view-download.png)
 
-*Figure : Affichez et téléchargez les rendus.*
+*Image : affichage et téléchargement des rendus.*
 
 ## Gérer les chargements ayant échoué {#resolve-upload-fails}
 
@@ -92,6 +92,6 @@ Les utilisateurs peuvent supprimer individuellement des ressources ou des dossie
 
    ![Options de gestion d’une ressource dans la miniature de la ressource](assets/options-on-thumbnail.png)
 
-   *Figure : Les actions relatives aux fichiers et aux dossiers sont disponibles sur la mosaïque de la ressource ou du dossier.*
+   *Image : les actions relatives aux fichiers et aux dossiers sont disponibles sur la mosaïque de la ressource ou du dossier.*
 
 * Sélectionnez une ressource ou un dossier et cliquez sur ![icône de suppression](assets/do-not-localize/delete-icon.png) **[!UICONTROL Supprimer]** dans la barre d’outils.
