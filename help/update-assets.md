@@ -4,7 +4,7 @@ description: Mise à jour des ressources qui existent dans le référentiel
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
 ht-degree: 100%
 
@@ -24,6 +24,6 @@ Link to versioning once an asset is updated.
 >[!MORELIKETHIS]
 >
 >* [Modification des images](edit-images.md)
-* [Affichage des versions d’une ressource](navigate-view.md#view-versions)
-* [Suppression d’un élément](manage-organize.md#delete-assets)
+>* [Affichage des versions d’une ressource](navigate-view.md#view-versions)
+>* [Suppression d’un élément](manage-organize.md#delete-assets)
 
