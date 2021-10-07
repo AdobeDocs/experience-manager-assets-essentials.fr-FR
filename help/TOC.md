@@ -6,12 +6,12 @@ user-guide-title: Guide Experience Manager Assets Essentials
 breadcrumb-title: Guide Assets Essentials
 user-guide-description: Assets Essentials est une solution légère de gestion des ressources qui fonctionne dans d’autres applications Experience Cloud.
 feature-set: Experience Manager Assets,Experience Manager
-feature: Gestion des ressources
+feature: Asset Management
 role: User,Leader
 source-git-commit: de379a71d5e5cbd62b42ce3618c67d3d7a6fd941
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 60%
+source-wordcount: '64'
+ht-degree: 75%
 
 ---
 

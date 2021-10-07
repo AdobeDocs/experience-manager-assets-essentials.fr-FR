@@ -6,7 +6,7 @@ exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: f2c6ea9d31cc6eccf46216b52de254ca88ba1079
 workflow-type: tm+mt
 source-wordcount: '457'
-ht-degree: 73%
+ht-degree: 86%
 
 ---
 
@@ -79,10 +79,10 @@ Adobe se réjouit de recevoir tous vos commentaires sur la solution. Pour partag
 
 ![option Commentaires dans l’interface](assets/feedback-panel.png)
 
-Pour fournir des commentaires pour la documentation, cliquez sur [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Soumettre un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) dans la barre latérale droite. Vous pouvez effectuer l’une des opérations suivantes :
+Pour fournir des commentaires à des fins de documentation, cliquez sur [!UICONTROL Modifier cette page] ![modifier cette page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![soulever un problème GitHub](assets/do-not-localize/github-issue.png) dans la barre latérale droite. Vous pouvez effectuer l’une des opérations suivantes :
 
-* Effectuez les mises à jour du contenu et envoyez une demande d’extraction GitHub.
-* Créez un problème ou un ticket dans GitHub. Conservez le nom d’article automatiquement renseigné lors de la création d’un problème.
+* Effectuer les mises à jour du contenu et envoyez une demande d’extraction GitHub
+* Créer un problème ou un ticket dans GitHub Conserver le nom d’article automatiquement renseigné lors de la création d’un problème
 
 >[!MORELIKETHIS]
 >

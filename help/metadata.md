@@ -3,13 +3,13 @@ title: Gestion des métadonnées
 description: Gestion des métadonnées des ressources dans  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a176769247bcafcc0497f2480cdec86c5753f218
+exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
+source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 58%
 
 ---
-
 
 # Métadonnées dans [!DNL Assets Essentials] {#metadata}
 
@@ -61,7 +61,7 @@ Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes
 
 Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources.
 
-Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Essentials correspond automatiquement aux ressources chargées au nom du formulaire. Par exemple, si un formulaire de métadonnées portant le nom `PDF` ou `pdf` existe, les documents PDF téléchargés contiennent des champs de métadonnées tels que définis dans le formulaire. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
+Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Essentials correspond automatiquement aux ressources chargées au nom du formulaire. Par exemple, si un formulaire de métadonnées portant le nom `PDF` ou `pdf` existe, les documents de PDF téléchargés contiennent des champs de métadonnées tels que définis dans le formulaire. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
 
 >[!IMPORTANT]
 >

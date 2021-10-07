@@ -3,13 +3,13 @@ title: Gérer vos ressources numériques
 description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la version de vos ressources dans  [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
+source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 95%
 
 ---
-
 
 # Gestion des ressources {#manage-assets}
 
