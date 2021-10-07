@@ -1,12 +1,12 @@
 ---
 title: Formats de fichiers pris en charge
-description: Formats de fichiers pris en charge pour les différents cas d’utilisation de  [!DNL Assets Essentials]
+description: Formats de fichiers pris en charge pour les différents cas d’utilisation d’ [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 source-git-commit: c63e9ab1054398dc055643f0dca6631bae881047
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -34,11 +34,11 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 
 | Type de ressource | [Parcourir](/help/navigate-view.md) | Copier | [Chargement](/help/add-delete.md) | Créer | [Supprimer](/help/add-delete.md#delete-assets) | Détails | Zoom sur l’image | [Récemment consultés](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
-| Images pixellisées | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Dossiers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
-| Vidéos MP4 | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
-| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD, AI et INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
+| Images pixellisées | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Dossiers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
+| Vidéos MP4 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
+| PSD, AI et INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
@@ -49,41 +49,41 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 | Type de ressource | [Télécharger](/help/manage-organize.md#download) | Glisser-déplacer | [Éditeur d’image](/help/edit-images.md) | [Rechercher](/help/search.md) | [Balises intelligentes](/help/metadata.md#tags) | [Renommer](/help/manage-organize.md) | [Versions](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Dossiers | ✓ | ✓ | - | ✓ | - | ✓ | - |
-| Vidéos | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
-| Bibliothèques CC | - | - | - | - | - | ✓ | - |
-| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
-| PSD | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
-| AI | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
-| INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | - |
+| Dossiers | ✓ | ✓ | − | ✓ | − | ✓ | − |
+| Vidéos | ✓ | ✓ | − | ✓ | ✓ | ✓ | − |
+| Bibliothèques CC | − | − | − | − | − | ✓ | − |
+| PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | − |
+| PSD | ✓ | ✓ | − | ✓ | ✓ | ✓ | − |
+| AI | ✓ | ✓ | − | ✓ | ✓ | ✓ | − |
+| INDD | ✓ | ✓ | − | ✓ | ✓ | ✓ | − |
 
 ## Révision de ressources et collaboration {#support-to-review-collaborate}
 
 | Type de ressource | Annoter | Commentaire | Création de tâches et révision |
 |---------------|----------|----------|-------------------------|
 | Images pixellisées | ✓ | ✓ | ✓ |
-| Dossiers | - | - | - |
-| Vidéos | - | ✓ | ✓ |
-| Bibliothèques CC | - | - | - |
-| PDF | - | ✓ | ✓ |
-| PSD | - | ✓ | ✓ |
-| AI | - | ✓ | ✓ |
-| INDD | - | ✓ | ✓ |
+| Dossiers | − | − | − |
+| Vidéos | − | ✓ | ✓ |
+| Bibliothèques CC | − | − | − |
+| PDF | − | ✓ | ✓ |
+| PSD | − | ✓ | ✓ |
+| AI | − | ✓ | ✓ |
+| INDD | − | ✓ | ✓ |
 
 ## Autres tâches de gestion des ressources {#support-to-manage-assets}
 
 | Type de ressource | [Métadonnées](/help/metadata.md) | [Rendus](/help/add-delete.md#renditions) | [Corbeille](/help/add-delete.md#delete-assets) | Copier | Déplacer |
 |---------------|-------------------|------------|----------|----------|----------|
 | Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Dossiers | ✓ | - | ✓ | ✓ | ✓ |
-| Vidéos | ✓ | - | ✓ | ✓ | ✓ |
-| Bibliothèques CC | ✓ | - | - | - | - |
-| PDF | ✓ | - | ✓ | ✓ | ✓ |
-| PSD | ✓ | - | ✓ | ✓ | ✓ |
-| AI | ✓ | - | ✓ | ✓ | ✓ |
-| INDD | ✓ | - | ✓ | ✓ | ✓ |
+| Dossiers | ✓ | − | ✓ | ✓ | ✓ |
+| Vidéos | ✓ | − | ✓ | ✓ | ✓ |
+| Bibliothèques CC | ✓ | − | − | − | − |
+| PDF | ✓ | − | ✓ | ✓ | ✓ |
+| PSD | ✓ | − | ✓ | ✓ | ✓ |
+| AI | ✓ | − | ✓ | ✓ | ✓ |
+| INDD | ✓ | − | ✓ | ✓ | ✓ |
 
-Les utilisateurs de [!DNL Adobe Asset Link] peuvent archiver les images pixellisées dans le référentiel [!DNL Assets Essentials] à partir des applications de bureau [!DNL Adobe Creative Cloud] prises en charge.
+Les utilisateurs d’[!DNL Adobe Asset Link] peuvent archiver les images pixellisées dans le référentiel [!DNL Assets Essentials] à partir des applications de bureau [!DNL Adobe Creative Cloud] prises en charge.
 
 <!-- TBD: Saving the template table separately for later use.
 | Asset type    | Features |
