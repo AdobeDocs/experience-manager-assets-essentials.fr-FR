@@ -107,5 +107,5 @@ Après la mise en service, les administrateurs ne déploient [!DNL Assets Essent
 >* [[!DNL Cloud Manager] help](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=fr)
 >* [Documentation Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr)
 >* [Notes de mise à jour](release-notes.md)
->* Prise en main d’ [!DNL Assets Essentials] [!DNL Assets Essentials]](get-started.md)
+>* [Prise en main d’ [!DNL Assets Essentials]](get-started.md)
 
