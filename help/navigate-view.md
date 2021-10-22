@@ -4,9 +4,9 @@ description: Comprendre l’interface utilisateur et la navigation dans [!DNL As
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '518'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -40,11 +40,11 @@ Lorsque vous vous connectez à [!DNL Assets Essentials], l’interface suivante 
 
 ## Parcourir et afficher les ressources et les dossiers {#browse-repository}
 
-Vous pouvez parcourir les dossiers à partir de l’interface utilisateur principale ou de la barre latérale gauche. Lors de votre navigation, vous pouvez utiliser l’interface pour afficher les miniatures de vos ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
+Vous pouvez accéder aux dossiers requis à partir de l’interface utilisateur principale ou de la barre latérale gauche. Lors de votre navigation, vous pouvez utiliser l’interface pour afficher les miniatures de vos ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
 
-* **Ressources** : Liste de tous les dossiers dans une arborescence à laquelle vous avez accès.
-* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Il n’affiche pas les ressources que vous faites défiler lors de la navigation dans les fichiers ou dossiers du référentiel.
-* **Corbeille**:
+* **Ressources** : liste de tous les dossiers auxquels vous avez accès sous la forme d’une arborescence.
+* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
+* **Corbeille** :
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
