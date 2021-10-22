@@ -4,7 +4,7 @@ description: Présentation d’Assets Essentials et résumé de la solution
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '250'
 ht-degree: 100%
 
@@ -26,9 +26,9 @@ Pour les administrateurs, il offre une configuration et une administration plus 
 
 Pour les utilisateurs, la gestion de vos ressources numériques grâce à [!DNL Assets Essentials] se résume simplement aux 3 étapes suivantes. Consultez [Prise en main d’ [!DNL Assets Essentials]](/help/get-started.md).
 
-* **Étape 1** : chargez et consultez les ressources.
-* **Étape 2** : Rechercher et télécharger des ressources.
-* **Étape 3** : gérez et organisez vos ressources.
+* **Étape 1** : charger et afficher des ressources.
+* **Étape 2** : rechercher et télécharger des ressources.
+* **Étape 3** : gérer et organiser vos ressources.
 
 >[!MORELIKETHIS]
 >
