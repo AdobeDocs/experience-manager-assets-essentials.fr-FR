@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '614'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ Utilisez [!DNL Assets Essentials] pour accomplir les tâches de gestion des ress
 * ![Icône Détails](assets/do-not-localize/edit-in-icon.png) Cliquez pour prévisualiser une ressource et afficher le détail des métadonnées. Lors de la prévisualisation, vous pouvez afficher les versions et modifier une image.
 * ![Icône Télécharger](assets/do-not-localize/download-icon.png) Téléchargez la ressource sélectionnée vers votre système de fichiers local.
 * ![Icône Supprimer](assets/do-not-localize/delete-icon.png) Supprimez la ressource ou le dossier sélectionné.
-* ![checkout ](assets/do-not-localize/checkout-icon.png) iconExtraction de la ressource sélectionnée.
+* ![Icône Extraire](assets/do-not-localize/checkout-icon.png) Extrayez la ressource sélectionnée.
 * ![Icône Copier](assets/do-not-localize/copy-icon.png) Copiez le fichier ou le dossier sélectionné.
 * ![Icône Déplacer](assets/do-not-localize/move-icon.png) Déplacez la ressource ou le dossier sélectionné vers un autre emplacement de la hiérarchie du référentiel.
 * ![Icône renommer](assets/do-not-localize/rename-icon.png) Renommez la ressource ou le dossier sélectionné. Utilisez un nom unique sans quoi le renommage pourrait échouer avec un avertissement. Vous pouvez réessayer avec un nouveau nom.
-* ![affecter la tâche ](assets/do-not-localize/review-delegate-icon.png) iconAffectez des tâches à d’autres utilisateurs afin de collaborer sur une ressource.
+* ![Icône Affecter une tâche](assets/do-not-localize/review-delegate-icon.png) Affectez des tâches à d’autres utilisateurs afin de collaborer sur une ressource.
 
 Vous pouvez afficher les mêmes options sur les miniatures des ressources.
 
