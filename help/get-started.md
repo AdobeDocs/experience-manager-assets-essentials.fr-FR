@@ -4,9 +4,9 @@ description: Accès, connexion, cas d’utilisation pris en charge et problèmes
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: f2c6ea9d31cc6eccf46216b52de254ca88ba1079
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '457'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 86%
 
 La gestion de vos ressources numériques à l’aide d’[!DNL Assets Essentials] ne nécessite que trois étapes simples :
 
-* **Étape 1** : [Charger](/help/add-delete.md) et [afficher](/help/navigate-view.md) des ressources.
-* **Étape 2** : [Rechercher](/help/search.md) et [télécharger](/help/manage-organize.md#download) des ressources.
-* **Étape 3** :  [Gérez et ](/help/manage-organize.md) organisez les ressources.
+* **Étape 1** : [charger](/help/add-delete.md) et [afficher](/help/navigate-view.md) des ressources.
+* **Étape 2** : [rechercher](/help/search.md) et [télécharger](/help/manage-organize.md#download) des ressources.
+* **Étape 3** : [gérer et organiser](/help/manage-organize.md) vos ressources.
 
 Pour utiliser [!DNL Assets Essentials], connectez-vous à l’adresse [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Lors de la connexion, sélectionnez `Company or School Account`. Pour recevoir un accès, contactez l’administrateur de votre entreprise.
 
@@ -56,13 +56,13 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 
 | Tâches utilisateur | Fonctionnalités et informations pratiques |
 |-----|------|
-| Exploration et affichage des ressources | <ul> <li>[Parcourir le référentiel](/help/navigate-view.md#view-assets-and-details) </li> <li> [Aperçu d’une ressource](/help/navigate-view.md#preview-assets) <li> [Affichage des rendus d’une ressource](/help/add-delete.md#renditions) </li> <li>[Affichage des versions d’une ressource](/help/manage-organize.md#view-versions)</li></ul> |
+| Recherche et affichage des ressources | <ul> <li>[Parcourir le référentiel](/help/navigate-view.md#view-assets-and-details) </li> <li> [Aperçu d’une ressource](/help/navigate-view.md#preview-assets) <li> [Affichage des rendus d’une ressource](/help/add-delete.md#renditions) </li> <li>[Affichage des versions d’une ressource](/help/manage-organize.md#view-versions)</li></ul> |
 | Ajout de nouvelles ressources | <ul> <li>[Chargement de nouvelles ressources et de nouveaux dossiers](/help/add-delete.md#add-assets)</li> <li>[Surveillance de la progression du chargement et gestion des chargements](/help/add-delete.md#upload-progress)</li> <li>[Résoudre les problèmes de doublons](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
 | Mise à jour de ressources ou d’informations connexes | <ul> <li>[Modification des images](/help/edit-images.md)</li> <li>[Création de versions](/help/manage-organize.md#create-versions) et [affichage de versions](/help/manage-organize.md#view-versions)</li> <li>[Modification des images](/help/edit-images.md)</li> </ul> |
-| Modification de ressources | <ul> <li>[Modifications dans le navigateur à l’aide d’Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Recadrage d’un profil de réseaux sociaux](/help/edit-images.md#crop-straighten-images)</li> <li>[Affichage et gestion des versions](/help/manage-organize.md#view-versions)</li> <li>[Utilisez [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
+| Modification de ressources | <ul> <li>[Modifications dans le navigateur à l’aide d’Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Recadrage d’un profil de réseaux sociaux](/help/edit-images.md#crop-straighten-images)</li> <li>[Affichage et gestion des versions](/help/manage-organize.md#view-versions)</li> <li>[Utilisation [!DNL Adobe Asset Link]](/help/integration.md#integrations)</ul></ul> |
 | Recherche de ressources dans le référentiel | <ul> <li>[Recherche dans un dossier spécifique](/help/search.md#refine-search-results)</li> <li>[Recherches enregistrées](/help/search.md#saved-search)</li> <li>[Recherche de ressources récemment consultées](/help/search.md)</li> <li>[Recherche du texte intégral](/help/search.md) |
 | Téléchargement de ressources | <ul> <li> [Aperçu de la ressource](/help/navigate-view.md#preview-assets) </li> <li> [Téléchargement de ressources](/help/manage-organize.md#download) <li> [Téléchargement de rendus](/help/add-delete.md#renditions) </li></ul> |
-| Opérations de métadonnées | <ul> <li>[Affichage des métadonnées détaillées](/help/metadata.md) </li> <li> [Mettre à jour les métadonnées](/help/metadata.md#update-metadata)</li> <li> [Création d’un formulaire de métadonnées](/help/metadata.md#metadata-forms) </li> </ul> |
+| Opérations de métadonnées | <ul> <li>[Affichage des métadonnées détaillées](/help/metadata.md) </li> <li> [Mise à jour les métadonnées](/help/metadata.md#update-metadata)</li> <li> [Création d’un formulaire de métadonnées](/help/metadata.md#metadata-forms) </li> </ul> |
 | Intégration à d’autres solutions | <ul> <li>[Utilisation du sélecteur de ressources dans  [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] pour [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Intégration à [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
@@ -75,7 +75,7 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 
 ## ![Icône de commentaire](assets/do-not-localize/feedback-icon.png) Donnez votre avis sur des produits {#provide-feedback}
 
-Adobe se réjouit de recevoir tous vos commentaires sur la solution. Pour partager vos commentaires en restant dans votre application, utilisez l’option [!UICONTROL Commentaires] dans l’interface utilisateur. Il vous permet également de joindre des fichiers tels que des captures d’écran ou des enregistrements vidéo d’un problème.
+Adobe se réjouit de recevoir tous vos commentaires sur la solution. Pour partager vos commentaires en restant dans votre application, utilisez l’option [!UICONTROL Commentaires] dans l’interface utilisateur. Cette option vous permet également de joindre des fichiers tels que des captures d’écran ou des enregistrements vidéo relatifs à un problème.
 
 ![option Commentaires dans l’interface](assets/feedback-panel.png)
 
