@@ -3,10 +3,10 @@ title: Interface utilisateur d’[!DNL Assets Essentials]
 description: Comprendre l’interface utilisateur et la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '518'
-ht-degree: 100%
+source-git-commit: 94467e029615514942f429069c0eb7248f44bab5
+workflow-type: tm+mt
+source-wordcount: '539'
+ht-degree: 96%
 
 ---
 
@@ -91,11 +91,16 @@ Pour prévisualiser une ressource, sélectionnez-la et cliquez sur ![icône de d
 *K : aperçu plus détaillé. Zoom, plein écran et d’autres options.*
 *L : passer à la ressource précédente ou suivante dans le dossier actif sans revenir au dossier.*
 
+Vous pouvez également prévisualiser des vidéos.
+
+![Aperçu vidéo](/help/assets/preview-video.png)
+
+Si vous prévisualisez explicitement une ressource, [!DNL Assets Essentials] l’affiche comme une ressource récemment affichée.
+
 <!-- TBD: Describe the options.
 
 Explicitly previewed assets are displayed as recently viewed assets. Give screenshot of this.
 Other use cases after previewing.
-
 -->
 
 >[!MORELIKETHIS]
