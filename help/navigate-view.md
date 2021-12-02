@@ -6,7 +6,7 @@ exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
 workflow-type: tm+mt
 source-wordcount: '539'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -93,7 +93,7 @@ Pour prévisualiser une ressource, sélectionnez-la et cliquez sur ![icône de d
 
 Vous pouvez également prévisualiser des vidéos.
 
-![Aperçu vidéo](/help/assets/preview-video.png)
+![Aperçu d’une vidéo](/help/assets/preview-video.png)
 
 Si vous prévisualisez explicitement une ressource, [!DNL Assets Essentials] l’affiche comme une ressource récemment affichée.
 
