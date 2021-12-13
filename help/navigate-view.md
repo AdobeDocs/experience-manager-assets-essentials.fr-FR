@@ -4,9 +4,9 @@ description: Comprendre l’interface utilisateur et la navigation dans [!DNL As
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '539'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Lorsque vous vous connectez à [!DNL Assets Essentials], l’interface suivante 
 
 ![[!DNL Assets Essentials]Interface utilisateur d’](assets/essentials-interface1.png)
 
-*Figure : Premier écran après connexion et emplacement des principales fonctionnalités.*
+*Figure : premier écran après connexion et emplacement des principales fonctionnalités.*
     *A : barre latérale gauche permettant de parcourir le référentiel et permet d’accéder à quelques autres options.*
     *B : afficher ou réduire la barre latérale gauche pour augmenter la zone d’affichage des ressources.*
     *C : filtrer les résultats de la recherche.*
