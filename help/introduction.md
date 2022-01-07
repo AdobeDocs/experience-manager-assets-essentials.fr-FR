@@ -3,9 +3,9 @@ title: Présentation d’ [!DNL Assets Essentials]
 description: Présentation d’Assets Essentials et résumé de la solution
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '250'
+source-git-commit: ecc36da0de9e4e7075085251aacdaf92640311a6
+workflow-type: tm+mt
+source-wordcount: '233'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ Adobe propose une solution de Gestion des actifs numériques (DAM) robuste qui v
 
 [!DNL Assets Essentials] se concentre sur une interface simple et des outils de recherche des ressources numériques efficaces, afin d’assurer l’utilisation des ressources, la gouvernance et la cohérence de la marque entre les équipes. L’expérience de l’utilisateur final peut être obtenue à l’aide d’une interface utilisateur web autonome et d’une expérience intégrée à d’autres solutions Adobe.
 
-Pour les administrateurs, il offre une configuration et une administration plus simples, ce qui accélère le délai d’évaluation. Les administrateurs bénéficient d’un accès immédiat à la solution et peuvent utiliser les fonctionnalités et des droits utilisateurs qui leur sont familiers dans [!DNL Adobe Admin Console]. Les administrateurs doivent effectuer une étape de déploiement unique conviviale pour rendre la solution disponible aux utilisateurs. Consultez [déploiement et administration](/help/deploy-administer.md).
+Pour les administrateurs, il offre une configuration et une administration plus simples, ce qui accélère le délai d’évaluation. Les administrateurs bénéficient d’un accès immédiat à la solution et peuvent utiliser les fonctionnalités et des droits utilisateurs qui leur sont familiers dans [!DNL Adobe Admin Console]. Consultez [déploiement et administration](/help/deploy-administer.md).
 
 Pour les utilisateurs, la gestion de vos ressources numériques grâce à [!DNL Assets Essentials] se résume simplement aux 3 étapes suivantes. Consultez [Prise en main d’ [!DNL Assets Essentials]](/help/get-started.md).
 
