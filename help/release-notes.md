@@ -4,9 +4,9 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 0c849c92562f9102819aaea627f5945030b27a1e
-workflow-type: ht
-source-wordcount: '382'
+source-git-commit: 01814dace83fec64851d7ccf97a0f4bb22519ee3
+workflow-type: tm+mt
+source-wordcount: '366'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Pour en savoir plus sur la solution, consultez la [Présentation d’ [!DNL Asse
 
 La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
 
-* Les ressources individuelles ne peuvent pas être téléchargées dans le dossier de niveau supérieur (Ressources), mais uniquement dans un sous-dossier du système. <!-- CQ-4337638 -->
+* Aucune
 
 Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
 
