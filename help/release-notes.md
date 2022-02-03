@@ -4,7 +4,7 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 73d5e66cfb2315f730329b5db9e6e648c1fe017d
+source-git-commit: a72c3399fabd37c561f3c51e51029810d038ae40
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 80%
@@ -13,7 +13,7 @@ ht-degree: 80%
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle de [!DNL Assets Essentials] est publié le 27 janvier 2022. Cette version apporte les améliorations suivantes :
+La version actuelle de [!DNL Assets Essentials] est publié le 3 février 2022. Cette version apporte les améliorations suivantes :
 
 * [!DNL Assets Essentials] vous permet désormais de générer un lien et de partager des ressources avec d’autres personnes qui n’ont pas accès au [!DNL Assets Essentials] application. Vous pouvez définir : <!-- CQ-4329575 -->
 
