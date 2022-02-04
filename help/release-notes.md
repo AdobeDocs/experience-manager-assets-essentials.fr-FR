@@ -4,24 +4,16 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: a72c3399fabd37c561f3c51e51029810d038ae40
+source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 80%
+source-wordcount: '364'
+ht-degree: 92%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle de [!DNL Assets Essentials] est publié le 3 février 2022. Cette version apporte les améliorations suivantes :
-
-* [!DNL Assets Essentials] vous permet désormais de générer un lien et de partager des ressources avec d’autres personnes qui n’ont pas accès au [!DNL Assets Essentials] application. Vous pouvez définir : <!-- CQ-4329575 -->
-
-   * Date d’expiration du lien
-
-   * Si les destinataires sont autorisés à télécharger la ressource après avoir accédé au lien.
-
-   En fonction de ces paramètres, le destinataire du lien peut choisir de prévisualiser les ressources ou de les télécharger.
+La version actuelle de [!DNL Assets Essentials] est publié le 3 février 2022. Cette version fournit les éléments suivants :
 
 * Améliorations des performances du rapport [!UICONTROL Créer un dossier] opération. <!-- CQ-4338818 -->
 
