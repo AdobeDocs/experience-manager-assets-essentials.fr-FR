@@ -4,7 +4,7 @@ description: Présentation d’Assets Essentials et résumé de la solution
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 source-git-commit: ecc36da0de9e4e7075085251aacdaf92640311a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
 ht-degree: 100%
 
