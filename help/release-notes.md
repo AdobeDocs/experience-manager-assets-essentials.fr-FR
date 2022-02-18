@@ -5,17 +5,17 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle de [!DNL Assets Essentials] est publié le 3 février 2022. Cette version fournit les éléments suivants :
+La version actuelle d’[!DNL Assets Essentials] est sortie le 3 février 2022. Cette version fournit les éléments suivants :
 
-* Améliorations des performances du rapport [!UICONTROL Créer un dossier] opération. <!-- CQ-4338818 -->
+* Améliorations des performances de l’opération [!UICONTROL Créer un dossier]. <!-- CQ-4338818 -->
 
 ## Problèmes connus {#known-issues}
 
@@ -29,7 +29,7 @@ Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélio
 
 ### Version 2021.11.0 {#november-2021}
 
-[!DNL Assets Essentials] est publié le 16 décembre 2021, avec les mises à jour suivantes :
+[!DNL Assets Essentials] est sortie le 16 décembre 2021, avec les mises à jour suivantes :
 
 * Adobe déploie automatiquement Assets Essentials à la fin du processus dʼapprovisionnement. Aucune action supplémentaire ne doit être effectuée par les administrateurs dans le cadre du déploiement dʼAssets Essentials par le biais de lʼinterface utilisateur [!DNL Cloud Manager]. Ce déploiement automatique sera disponible pour les environnements approvisionnés après la date du 6 janvier 2022.
 * De nouvelles versions de plugins pour Creative Cloud fonctionnant avec Assets Essentials sont disponibles sur Adobe Exchange : [Adobe Asset Link pour Adobe XD version 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) et [Adobe Asset Link pour Photoshop/InDesign/Illustrator version 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
@@ -37,7 +37,7 @@ Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélio
 
 ### Version 2021.8.0 {#august2021}
 
- La version 2021.8.0 d’[!DNL Assets Essentials] est sortie le 30 août 2021 et comprend les mises à jour suivantes :
+La version 2021.8.0 d’[!DNL Assets Essentials] est sortie le 30 août 2021 et comprend les mises à jour suivantes :
 
 * Intégrations à [!DNL Adobe Workfront] qui permettent aux utilisateurs de [!DNL Workfront] de gérer leurs ressources numériques dans le cadre de la gestion de leur travail. Pour plus d’informations, voir [Intégrations avec d’autres solutions Adobe](/help/integration.md).
 
