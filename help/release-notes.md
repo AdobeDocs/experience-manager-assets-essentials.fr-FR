@@ -4,18 +4,27 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
-workflow-type: ht
-source-wordcount: '364'
-ht-degree: 100%
+source-git-commit: 211233202b667f9d25713491c8ae59e002139777
+workflow-type: tm+mt
+source-wordcount: '549'
+ht-degree: 65%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’[!DNL Assets Essentials] est sortie le 3 février 2022. Cette version fournit les éléments suivants :
+La version actuelle de [!DNL Assets Essentials] est publié le 3 mars 2022. Cette version fournit les éléments suivants :
 
-* Améliorations des performances de l’opération [!UICONTROL Créer un dossier]. <!-- CQ-4338818 -->
+* [!DNL Assets Essentials] vous permet désormais de [générer un lien et partager des ressources avec des parties prenantes externes ;](share-links-for-assets.md), qui n’ont pas accès à la variable [!DNL Assets Essentials] application. Vous pouvez définir une date d’expiration pour le lien, puis le partager avec d’autres utilisateurs à l’aide de votre méthode de communication préférée, comme les services de messagerie ou de messagerie. Les destinataires du lien peuvent prévisualiser les ressources et les télécharger.
+
+* Le [!DNL Assets Essentials] now [un profil produit administrateur ;](deploy-administer.md#add-users-to-essentials) sur Admin Console en plus des profils de produits standard et consommateurs existants. Un administrateur peut désormais affecter d’autres utilisateurs au profil de produit administrateur.
+
+* Assets Essentials permet désormais aux administrateurs de [gérer les niveaux d’accès des dossiers disponibles dans le référentiel ;](manage-permissions.md). En tant qu’administrateur, vous pouvez créer des groupes d’utilisateurs et leur attribuer des autorisations afin de gérer les niveaux d’accès. Vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
+
+* Améliorations et correctifs de bogues basés sur les commentaires des clients.
+
+En outre, [!DNL Adobe Asset Link] une extension pour Creative Cloud (Photoshop, Illustrator et InDesign) a publié une [nouvelle version 3.2.0](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), avec des performances améliorées au niveau de l’heure de démarrage du panneau et de la vitesse de téléchargement.
+
 
 ## Problèmes connus {#known-issues}
 
@@ -26,6 +35,12 @@ La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révis�
 Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
 
 ## Versions antérieures {#past-release}
+
+### Version 2022.1.0 {#january-2022}
+
+[!DNL Assets Essentials] est publié le 3 février 2022, avec les mises à jour suivantes :
+
+* Améliorations des performances de l’opération [!UICONTROL Créer un dossier]. <!-- CQ-4338818 -->
 
 ### Version 2021.11.0 {#november-2021}
 
