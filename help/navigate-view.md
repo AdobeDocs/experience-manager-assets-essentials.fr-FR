@@ -1,12 +1,12 @@
 ---
-title: '"[!DNL Assets Essentials] interface utilisateur"'
-description: Comprendre l’interface utilisateur et la navigation dans [!DNL Assets Essentials].
+title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
+description: Comprendre l’interface utilisateur et de la navigation dans  [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 0a0f520b0c023120995b3af327661212604fac0d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '539'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
