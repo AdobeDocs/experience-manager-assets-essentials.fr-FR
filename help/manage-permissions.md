@@ -1,7 +1,8 @@
 ---
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Assets Essentials permet aux administrateurs de gérer les niveaux d’accès pour les dossiers disponibles dans le référentiel. Créez des groupes d’utilisateurs et attribuez des autorisations à ces groupes pour gérer les niveaux d’accès. En tant qu’administrateur, vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
-source-git-commit: 0567ef9d10880750f88d83ee506d9b95e9432a93
+exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
+source-git-commit: 800ebc5040dcd4b6ed4178314b0627cbde7ddeaf
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 4%
@@ -42,7 +43,7 @@ Pour ajouter des administrateurs :
 
 Créez des groupes d’utilisateurs et attribuez des autorisations à ces groupes pour gérer les niveaux d’accès aux dossiers dans le référentiel Assets Essentials. Vous pouvez ensuite affecter vos utilisateurs aux groupes d’utilisateurs.
 
-![Ajout d’utilisateurs à des groupes et à des profils de produits](assets/user-groups-product-profiles.png)
+![Ajout d’utilisateurs à des groupes et à des profils de produits](assets/user-groups-product-profiles-updated.png)
 
 Vous pouvez ajouter des utilisateurs à des groupes d’utilisateurs (1) et [Utilisateurs vers les profils de produit Assets Essentials (2)](#add-admin-users). Cependant, vous ne pouvez pas ajouter directement des groupes d’utilisateurs aux profils de produit Assets Essentials (3).
 
