@@ -2,7 +2,7 @@
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Assets Essentials permet aux administrateurs de gérer les niveaux d’accès pour les dossiers disponibles dans le référentiel. Créez des groupes d’utilisateurs et attribuez des autorisations à ces groupes pour gérer les niveaux d’accès. En tant qu’administrateur, vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 94435a9fc17ab02c6872bb165a4cb697b56d5602
+source-git-commit: 424517e7961bcc39cd3048ebc750fe1b4b06f659
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 4%
@@ -93,13 +93,13 @@ Par exemple, si vous affectez la variable `Can View` autorisations d’un dossie
 
 Si vous devez accorder des autorisations de modification à la variable `Marketing` dossier uniquement au service marketing de votre entreprise et afficher les autorisations d’autres utilisateurs, affecter `Can View` autorisations de super-groupe `All Authenticated Users` et `Can Edit` autorisations pour son sous-groupe `Marketing`.
 
-![Attribuer des autorisations](assets/permissions-management-groups-new.png)
+![Attribuer des autorisations](assets/permissions-management-groups.svg)
 
 **Héritage des autorisations**
 
 Assets Essentials utilise l’héritage des autorisations, qui vous permet d’hériter des autorisations définies pour le dossier parent dans le dossier enfant. Par exemple, si le dossier parent contient `Can View` les autorisations de la variable `All Authenticated Users` et que le dossier enfant contient `Can Edit` les autorisations de la variable `Marketing` groupe d’utilisateurs, il permet à tous les utilisateurs authentifiés d’avoir des autorisations d’affichage pour le dossier enfant et le `Marketing` groupe d’utilisateurs pour disposer des autorisations de modification du dossier enfant. Le `Marketing` Ce groupe d’utilisateurs dispose des autorisations de modification pour d’autres niveaux de dossiers sous le dossier enfant (Marketing).
 
-![Attribuer des autorisations](assets/permissions-inheritance-new.png)
+![Attribuer des autorisations](assets/permissions-inheritance.svg)
 
 >[!NOTE]
 >
