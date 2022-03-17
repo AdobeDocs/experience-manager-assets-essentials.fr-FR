@@ -2,7 +2,7 @@
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Assets Essentials permet aux administrateurs de gérer les niveaux d’accès pour les dossiers disponibles dans le référentiel. Créez des groupes d’utilisateurs et attribuez des autorisations à ces groupes pour gérer les niveaux d’accès. En tant qu’administrateur, vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 800ebc5040dcd4b6ed4178314b0627cbde7ddeaf
+source-git-commit: 68bfd7cb55b38e12ee0f5b8f12449c7137e02e90
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 4%
@@ -99,7 +99,7 @@ Si vous devez accorder des autorisations de modification à la variable `Marketi
 
 Assets Essentials utilise l’héritage des autorisations, qui vous permet d’hériter des autorisations définies pour le dossier parent dans le dossier enfant. Par exemple, si le dossier parent contient `Can View` les autorisations de la variable `All Authenticated Users` et que le dossier enfant contient `Can Edit` les autorisations de la variable `Marketing` groupe d’utilisateurs, il permet à tous les utilisateurs authentifiés d’avoir des autorisations d’affichage pour le dossier enfant et le `Marketing` groupe d’utilisateurs pour disposer des autorisations de modification du dossier enfant. Le `Marketing` Ce groupe d’utilisateurs dispose des autorisations de modification pour d’autres niveaux de dossiers sous le dossier enfant (Marketing).
 
-![Attribuer des autorisations](assets/permissions-inheritance.png)
+![Attribuer des autorisations](assets/permissions-inheritance-updated.png)
 
 >[!NOTE]
 >
