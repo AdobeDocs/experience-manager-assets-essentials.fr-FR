@@ -2,7 +2,7 @@
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Assets Essentials permet aux administrateurs de gérer les niveaux d’accès pour les dossiers disponibles dans le référentiel. Créez des groupes d’utilisateurs et attribuez des autorisations à ces groupes pour gérer les niveaux d’accès. En tant qu’administrateur, vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 68bfd7cb55b38e12ee0f5b8f12449c7137e02e90
+source-git-commit: 98879f59bd1bb5725f51f91bfa638f2de6759e9a
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 4%
@@ -15,7 +15,7 @@ Assets Essentials permet aux administrateurs de gérer les niveaux d’accès po
 
 Le diagramme de flux de données suivant illustre la séquence des tâches que vous effectuez pour configurer et gérer les autorisations sur les dossiers disponibles dans le référentiel Assets Essentials :
 
-![Options de la barre d’outils lors de la sélection d’une ressource](assets/permissions-management.png)
+![Options de la barre d’outils lors de la sélection d’une ressource](assets/permissions-management-updated.png)
 
 ## Avant de gérer les autorisations des dossiers {#before-managing-permissions}
 
@@ -93,7 +93,7 @@ Par exemple, si vous affectez la variable `Can View` autorisations d’un dossie
 
 Si vous devez accorder des autorisations de modification à la variable `Marketing` dossier uniquement au service marketing de votre entreprise et afficher les autorisations d’autres utilisateurs, affecter `Can View` autorisations de super-groupe `All Authenticated Users` et `Can Edit` autorisations pour son sous-groupe `Marketing`.
 
-![Attribuer des autorisations](assets/permissions-management-groups.png)
+![Attribuer des autorisations](assets/permissions-management-groups-updated.png)
 
 **Héritage des autorisations**
 
@@ -183,7 +183,7 @@ Créez les groupes d’utilisateurs suivants dans Admin Console :
 * Équipe juridique
 
 Le diagramme suivant illustre la hiérarchie de dossiers et les autorisations attribuées à chaque groupe d’utilisateurs :
-![Attribuer des autorisations](assets/use-case-permissions-mamagement.png)
+![Attribuer des autorisations](assets/use-case-permissions-management.png)
 
 Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hiérarchie de dossiers :
 
