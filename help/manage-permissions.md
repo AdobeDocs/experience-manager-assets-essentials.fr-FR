@@ -2,7 +2,7 @@
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Assets Essentials permet aux administrateurs de gérer les niveaux d’accès pour les dossiers disponibles dans le référentiel. Créez des groupes d’utilisateurs et attribuez des autorisations à ces groupes pour gérer les niveaux d’accès. En tant qu’administrateur, vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 424517e7961bcc39cd3048ebc750fe1b4b06f659
+source-git-commit: 57aa6f4641deb8cc687a462a380404e8fc3b6844
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 4%
@@ -70,7 +70,7 @@ Vous pouvez utiliser les méthodes suivantes pour créer une structure de dossie
 
 Créez une structure de dossiers qui fonctionne bien avec les objectifs de l’entreprise. Si vous téléchargez une structure de dossiers existante vers le référentiel Assets Essentials, vous devez examiner la structure. Pour plus d’informations, voir [Bonnes pratiques relatives à la gestion efficace des autorisations](permission-management-best-practices.md).
 
-## Gestion des autorisations sur les dossiers {#manage-permissions-folders}
+## Gestion des autorisations sur les dossiers {#manage-permissions-on-folders}
 
 Vous pouvez attribuer les autorisations suivantes aux groupes d’utilisateurs ou aux utilisateurs. Adobe ne recommande pas d’attribuer des autorisations aux utilisateurs.
 
