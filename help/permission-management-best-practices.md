@@ -1,65 +1,65 @@
 ---
-title: Comment gérer efficacement les autorisations de dossier ?
-description: Bonnes pratiques relatives à la gestion efficace des autorisations
+title: Comment gérer efficacement les autorisations de dossier ?
+description: Bonnes pratiques pour une gestion efficace des autorisations
 source-git-commit: fe716385939d18aa23d01dac5fe5f041541d2b31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '398'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Bonnes pratiques relatives à la gestion efficace des autorisations {#best-practices-permissions-management}
+# Bonnes pratiques pour une gestion efficace des autorisations {#best-practices-permissions-management}
 
-En tant qu’administrateur, avant de commencer à gérer les autorisations de dossier pour le référentiel Assets Essentials, vous pouvez mettre en oeuvre diverses bonnes pratiques pour rendre l’infrastructure intuitive pour les administrateurs et les utilisateurs finaux lors de la gestion ultérieure des opérations.
+En tant qu’administrateur, avant de commencer à gérer les autorisations de dossiers pour le référentiel Assets Essentials, il existe plusieurs bonnes pratiques que vous pouvez implémenter pour rendre l’infrastructure intuitive pour les administrateurs et les utilisateurs finaux lors de la gestion ultérieure des opérations.
 
-Vous pouvez incorporer les bonnes pratiques suivantes en procédant comme suit :
+Vous pouvez intégrer ces bonnes pratiques tout en :
 
-* [Création de groupes d’utilisateurs dans Admin Console](#admin-console-best-practices)
+* [Créant des groupes d’utilisateurs dans Admin Console.](#admin-console-best-practices)
 
-* [Création d’une structure de dossiers dans le référentiel Assets Essentials](#folder-structure-assets-essentials)
+* [Créant une structure de dossiers dans le référentiel Assets Essentials.](#folder-structure-assets-essentials)
 
-* [Gestion des autorisations dans le référentiel Assets Essentials](#folder-permissions)
+* [Gérant les autorisations dans le référentiel Assets Essentials.](#folder-permissions)
 
 ## Admin Console {#admin-console-best-practices}
 
-Identifiez les besoins en matière d’accès en fonction des groupes d’utilisateurs de votre entreprise. Planifiez et créez des groupes d’utilisateurs pour votre organisation, puis ajoutez des utilisateurs à ces groupes. Il est plus facile de gérer les autorisations de dossier en fonction des groupes d’utilisateurs et non des utilisateurs individuels.
+Identifiez les besoins en matière d’accès en fonction des groupes d’utilisateurs de votre entreprise. Planifiez et créez des groupes d’utilisateurs pour votre entreprise, puis ajoutez des utilisateurs à ces groupes. Il est plus facile de gérer les autorisations de dossiers en fonction des groupes d’utilisateurs et non des utilisateurs individuels.
 
-## Structure de dossiers pour le référentiel Assets Essentials {#folder-structure-assets-essentials}
+## Structure des dossiers pour le référentiel Assets Essentials {#folder-structure-assets-essentials}
 
-Tenez compte des points suivants lorsque vous commencez à planifier la création d’une structure de dossiers dans le référentiel Assets Essentials :
+Tenez compte des points suivants lorsque vous commencez à planifier la création d’une structure de dossiers dans le référentiel Assets Essentials :
 
-* Gouvernance future : Les dossiers régis par les administrateurs et les dossiers qui sont [Délégué pour les autorisations à d’autres utilisateurs en tant que propriétaires](manage-permissions.md##manage-permissions-folders).
+* Gouvernance future : les dossiers qui sont régis par les administrateurs et les dossiers dont les [autorisations sont délégués à d’autres utilisateurs en tant que propriétaires](manage-permissions.md##manage-permissions-folders).
 
-* Évolutif : La structure de dossiers doit répondre aux besoins futurs de votre entreprise et doit être facilement évolutive.
+* Évolutive : la structure des dossiers doit répondre aux besoins futurs de votre entreprise et doit être facilement évolutive.
 
-* Taille : Un dossier ne doit pas contenir trop de ressources. Cela peut entraîner des problèmes d’utilisation et devenir difficile à gérer.
+* Taille : un dossier ne doit pas contenir trop de ressources. Cela pourrait entraîner des problèmes d’utilisation et devenir difficile à gérer.
 
-* Intuitif : La structure de dossiers doit être facile à parcourir et intuitive pour les utilisateurs finaux. Les utilisateurs doivent être en mesure d’identifier facilement où charger une nouvelle ressource dans la structure de dossiers.
+* Intuitive : la structure du dossier doit être facile à parcourir et intuitive pour les utilisateurs finaux. Les utilisateurs doivent être en mesure d’identifier facilement où charger une nouvelle ressource dans la structure de dossiers.
 
-Il existe différents types de structure de dossiers que vous pouvez utiliser pour votre entreprise. Voici quelques exemples de structures de dossiers standard :
+Il existe plusieurs types de structure de dossiers que vous pouvez utiliser pour votre organisation. Voici quelques exemples de structures de dossiers typiques :
 
-* Basé sur les fonctions et les catégories
+* Basée sur la fonction et la catégorisation
 
    ![Fonction et catégorisation](assets/function-categorization.png)
 
-* Campagne basée
+* Basée sur Campaign
 
    ![Basée sur Campaign](assets/campaign-based.png)
 
-* Basé sur l’emplacement de l’offre (ou canal)
+* Basée sur l’emplacement de l’offre (ou canal)
 
-   ![Basé sur l’emplacement de l’offre](assets/offer-location.png)
+   ![Basée sur l’emplacement de l’offre](assets/offer-location.png)
 
 
-## Autorisations de dossier {#folder-permissions}
+## Autorisations des dossiers {#folder-permissions}
 
-Après avoir créé des groupes d’utilisateurs pour votre entreprise, ajouté des utilisateurs à ces groupes d’utilisateurs, sélectionné et créé une structure de dossiers dans le référentiel Assets Essentials qui répond aux besoins de votre entreprise, vous pouvez commencer à gérer les autorisations de dossiers pour votre entreprise. Tenez compte des points suivants lorsque vous commencez à gérer les autorisations de dossier :
+Après avoir créé des groupes d’utilisateurs pour votre organisation, ajouté des utilisateurs à ces groupes d’utilisateurs, et sélectionné et créé une structure de dossiers dans le référentiel Assets Essentials qui répond aux besoins de votre organisation, vous pouvez commencer à gérer les autorisations de dossiers pour votre organisation. Tenez compte des points suivants lorsque vous commencez à gérer les autorisations de dossiers :
 
-* Appliquez des autorisations aux groupes d’utilisateurs, et non aux utilisateurs individuels. Cela se traduit par une structure d’autorisations plus simple et plus efficace.
+* Appliquez des autorisations aux groupes d’utilisateurs, et non aux utilisateurs individuels. Cela permet d’obtenir une structure d’autorisations plus simple et plus efficace.
 
-* Maintenez la structure d’autorisation aussi simple que possible pour optimiser l’efficacité opérationnelle.
+* Maintenez la structure des autorisations aussi simple que possible pour une efficacité opérationnelle.
 
-* Utilisez soigneusement Refuser les autorisations d’accès et préférez appliquer des autorisations positives (Peut modifier, Peut afficher, Propriétaire) à la structure de dossiers.
+* Utilisez les autorisations de refus d’accès avec précaution et préférez l’application des autorisations positives (Peut modifier, Peut afficher, Propriétaire) à la structure des dossiers.
 
-Pour obtenir des exemples sur la manière d’obtenir une structure de dossiers simple et efficace, voir [Gestion des autorisations sur les dossiers](manage-permissions.md##manage-permissions-folders).
+Pour des exemples sur la manière d’obtenir une structure de dossiers simple et efficace, voir [Gérer les autorisations sur les dossiers](manage-permissions.md##manage-permissions-folders).
 
