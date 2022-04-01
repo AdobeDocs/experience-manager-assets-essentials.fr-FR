@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 4cced7aba92fd0f041842e5ef78d02f0a4f7ffe0
 workflow-type: tm+mt
 source-wordcount: '549'
-ht-degree: 65%
+ht-degree: 98%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 65%
 
 La version actuelle de [!DNL Assets Essentials] est publié le 9 mars 2022. Cette version fournit les éléments suivants :
 
-* [!DNL Assets Essentials] vous permet désormais de [générer un lien et partager des ressources avec des parties prenantes externes ;](share-links-for-assets.md), qui n’ont pas accès à la variable [!DNL Assets Essentials] application. Vous pouvez définir une date d’expiration pour le lien, puis le partager avec d’autres utilisateurs à l’aide de votre méthode de communication préférée, comme les services de messagerie ou de messagerie. Les destinataires du lien peuvent prévisualiser les ressources et les télécharger.
+* [!DNL Assets Essentials] vous permet désormais de [générer un lien et partager des ressources avec des parties prenantes externes](share-links-for-assets.md) qui n’ont pas accès à l’application [!DNL Assets Essentials]. Vous pouvez définir une date d’expiration pour le lien, puis le partager avec d’autres utilisateurs en utilisant votre méthode de communication préférée, comme les e-mails ou les services de messagerie. Les destinataires du lien peuvent prévisualiser les ressources et les télécharger.
 
-* Le [!DNL Assets Essentials] now [un profil produit administrateur ;](deploy-administer.md#add-users-to-essentials) sur Admin Console en plus des profils de produits standard et consommateurs existants. Un administrateur peut désormais affecter d’autres utilisateurs au profil de produit administrateur.
+* [!DNL Assets Essentials] comprend maintenant [un profil produit administrateur](deploy-administer.md#add-users-to-essentials) sur l’Admin Console en plus des profils de produits standard et consommateurs existants. Un administrateur peut désormais affecter d’autres utilisateurs au profil de produit administrateur.
 
-* Assets Essentials permet désormais aux administrateurs de [gérer les niveaux d’accès des dossiers disponibles dans le référentiel ;](manage-permissions.md). En tant qu’administrateur, vous pouvez créer des groupes d’utilisateurs et leur attribuer des autorisations afin de gérer les niveaux d’accès. Vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
+* Assets Essentials permet désormais aux administrateurs de [gérer les niveaux d’accès des dossiers disponibles dans le référentiel](manage-permissions.md). En tant qu’administrateur, vous pouvez créer des groupes d’utilisateurs et leur attribuer des autorisations afin de gérer les niveaux d’accès. Vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
 
-* Améliorations et correctifs de bogues basés sur les commentaires des clients.
+* Améliorations et correctifs de bugs basés sur les commentaires des clients.
 
-En outre, [!DNL Adobe Asset Link] une extension pour Creative Cloud (Photoshop, Illustrator et InDesign) a publié une [nouvelle version 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), avec des performances améliorées au niveau de l’heure de démarrage du panneau et de la vitesse de téléchargement.
+En outre, l’extension d’[!DNL Adobe Asset Link] pour Creative Cloud (Photoshop, Illustrator et InDesign) a publié une [nouvelle version 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html) avec des performances améliorées au niveau de l’heure de démarrage du panneau et de la vitesse de téléchargement.
 
 
 ## Problèmes connus {#known-issues}
@@ -38,7 +38,7 @@ Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélio
 
 ### Version 2022.1.0 {#january-2022}
 
-[!DNL Assets Essentials] est publié le 3 février 2022, avec les mises à jour suivantes :
+[!DNL Assets Essentials] est sorti le 3 février 2022, avec les mises à jour suivantes :
 
 * Améliorations des performances de l’opération [!UICONTROL Créer un dossier]. <!-- CQ-4338818 -->
 
@@ -67,7 +67,7 @@ La version 2021.7.0 d’[!DNL Assets Essentials] est sortie le 29 juillet 202
 
 La première version d’[!DNL Assets Essentials], sortie le 21 juin 2021, offre des fonctionnalités légères de gestion de ressources. Il prend en charge les principales fonctionnalités suivantes et les opérations CRUD (création, lecture, mise à jour et suppression) :
 
-* Chargement et ajout de ressources, y compris des dossiers imbriqués Aperçu des ressources et des versions
-* Recherche en plein texte, filtres de recherche nuancés et enregistrement des paramètres de recherche pour découvrir rapidement de ressources
-* Opérations de gestion des ressources de base telles que la mise à jour, la suppression, le téléchargement et la gestion des métadonnées
+* Chargement et ajout de ressources, y compris des dossiers imbriqués. Aperçu des ressources et des versions.
+* Recherche en plein texte, filtres de recherche nuancés et enregistrement des paramètres de recherche pour découvrir rapidement de ressources.
+* Opérations de gestion des ressources de base telles que la mise à jour, la suppression, le téléchargement et la gestion des métadonnées.
 * [!DNL Assets Essentials] permet aux utilisateurs d’[!DNL Adobe Journey Optimizer] de gérer les ressources lors de la création de messages. Pour plus d’informations, voir [Intégrations avec d’autres solutions Adobe](/help/integration.md).
