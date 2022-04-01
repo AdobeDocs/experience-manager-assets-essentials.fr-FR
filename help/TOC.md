@@ -9,9 +9,9 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
 role: User,Leader
 source-git-commit: be84c4c7a5e2f3220cde54f1d01007e9dacf183a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 85%
 + [Présentation de la solution](introduction.md)
 + [Notes de mise à jour](release-notes.md)
 + [Déployer et ajouter des utilisateurs](deploy-administer.md)
-+ Gestion de l’accès aux dossiers{#folder-access}
-   + [Gestion des autorisations de dossier](manage-permissions.md)
++ Gérér l’accès aux dossiers{#folder-access}
+   + [Gérer les autorisations des dossiers](manage-permissions.md)
    + [Bonnes pratiques relatives à la gestion des autorisations](permission-management-best-practices.md)
 + [Prise en main d’ [!DNL Assets Essentials]](get-started.md)
 + [Types de fichiers pris en charge et cas d’utilisation](supported-file-formats.md)
@@ -32,5 +32,5 @@ ht-degree: 85%
 + [Tâches de gestion des ressources](manage-organize.md)
 + [Modification des images](edit-images.md)
 + [Gestion des métadonnées des ressource](metadata.md)
-+ [Partage de ressources](share-links-for-assets.md)
++ [Partager des ressources](share-links-for-assets.md)
 + [Intégration à d’autres solutions](integration.md)
