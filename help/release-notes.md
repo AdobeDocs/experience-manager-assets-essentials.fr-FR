@@ -5,15 +5,15 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 4cced7aba92fd0f041842e5ef78d02f0a4f7ffe0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle de [!DNL Assets Essentials] est publié le 9 mars 2022. Cette version fournit les éléments suivants :
+La version actuelle d’[!DNL Assets Essentials] est sortie le 9 mars 2022. Cette version fournit les éléments suivants :
 
 * [!DNL Assets Essentials] vous permet désormais de [générer un lien et partager des ressources avec des parties prenantes externes](share-links-for-assets.md) qui n’ont pas accès à l’application [!DNL Assets Essentials]. Vous pouvez définir une date d’expiration pour le lien, puis le partager avec d’autres utilisateurs en utilisant votre méthode de communication préférée, comme les e-mails ou les services de messagerie. Les destinataires du lien peuvent prévisualiser les ressources et les télécharger.
 
