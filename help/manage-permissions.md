@@ -3,7 +3,7 @@ title: Comment gérer les autorisations des dossiers dans AEM Assets Essential
 description: Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d’accès aux dossiers disponibles dans le référentiel. Pour gérer les niveaux d’accès, créez des groupes d’utilisateurs et attribuez-leur des autorisations. En tant qu’administrateur, vous pouvez également déléguer les droits de gestion des autorisations à des groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: 57aa6f4641deb8cc687a462a380404e8fc3b6844
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1580'
 ht-degree: 100%
 
@@ -77,7 +77,7 @@ Vous pouvez attribuer les autorisations suivantes aux groupes d’utilisateurs o
 | Nom de l’autorisation | Description |
 |-----|------|
 | Peut afficher | <ul><li>Accès en lecture à l’affichage et à la navigation des dossiers </li><li>Prévisualiser des ressources</li><li>Télécharger des ressources</li><li>Copier des ressources</li><li>Partager des liens vers des ressources</li><ul> |
-| Peut modifier | <ul><li>Tous les privilèges disponibles pour les autorisations Peut afficher </li><li>Créer des dossiers </li><li>Supprimer des dossiers</li><li>Renommer des dossiers</li><li>Créer des ressources</li><li>Mettre à jour des ressources</li><li>Supprimer des ressources</li><li>Déplacer des ressources</li><li>Renommer des ressources</li><ul> |
+| Peut modifier | <ul><li>Tous les privilèges disponibles pour les autorisations Peut afficher </li><li>Créer des dossiers</li><li>Supprimer des dossiers</li><li>Renommer des dossiers</li><li>Créer des ressources</li><li>Mettre à jour des ressources</li><li>Supprimer des ressources</li><li>Déplacer des ressources</li><li>Renommer des ressources</li><ul> |
 | Propriétaire | <ul><li>Tous les privilèges disponibles pour les autorisations Peut modifier</li><li>Gérer les autorisations sur un dossier et ses sous-dossiers</li>Cette autorisation permet aux administrateurs de déléguer les droits d’administrateur dʼun dossier et de ses sous-dossiers à d’autres personnes.<ul> |
 | Refuser l’accès | Supprime les autorisations Peut afficher, Peut modifier et Propriétaire d’un dossier et de ses sous-dossiers. |
 
