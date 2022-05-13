@@ -2,13 +2,13 @@
 title: Modification des images
 description: Modifiez les images à l’aide des options optimisées d’ [!DNL Adobe Photoshop Express] et enregistrez les images mises à jour sous forme de versions.
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
-workflow-type: ht
+exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
+source-git-commit: 4d684d59faf0d01d42320b495fcffd06391010ef
+workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 100%
 
 ---
-
 
 # Modifier des images dans [!DNL Assets Essentials] {#edit-images}
 
@@ -28,8 +28,10 @@ Le pinceau échantillonne la zone retouchée et fait en sorte que les pixels ré
 
 ![Option de modification de suppression des imperfections](assets/edit-spot-healing.png)
 
-<!-- TBD: See if we should give backlinks to PS docs for these concepts.
-For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). -->
+<!-- 
+TBD: See if we should give backlinks to PS docs for these concepts.
+For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
+-->
 
 ## Recadrer et redresser des images {#crop-straighten-images}
 

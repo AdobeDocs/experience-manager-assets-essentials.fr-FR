@@ -8,10 +8,10 @@ user-guide-description: Assets Essentials est une solution allégée de gestion 
 feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
 role: User,Leader
-source-git-commit: 8baffa9c1d98733f481b6a97bcdb78cf6ce38ae4
+source-git-commit: e0e16fd3c2f491e5f828bb45efe9193f6f137f5a
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 65%
 
 ---
 
@@ -20,10 +20,16 @@ ht-degree: 100%
 
 + [Présentation de la solution](introduction.md)
 + [Notes de mise à jour](release-notes.md)
-+ [Déployer et ajouter des utilisateurs](deploy-administer.md)
-+ Gérér l’accès aux dossiers{#folder-access}
-   + [Gérer les autorisations des dossiers](manage-permissions.md)
-   + [Bonnes pratiques relatives à la gestion des autorisations](permission-management-best-practices.md)
++ Prise en main d’Assets Essentials pour les administrateurs {#get-started-admins}
+   + [Déployer et ajouter des utilisateurs](deploy-administer.md)
+   + Gérér l’accès aux dossiers{#folder-access}
+      + [Gérer les autorisations des dossiers](manage-permissions.md)
+      + [Bonnes pratiques relatives à la gestion des autorisations](permission-management-best-practices.md)
+   + Parcours administrateur pour Assets Essentials pour Creative Cloud Pro avec les solutions de gestion de travail{#admin-journey}
+      + [Présentation du parcours administrateur](assets-essentials-cc-pro-work-management-admin-journey.md)
+      + [Administration de Experience Manager Assets Essentials](adminster-aem-assets-essentials.md)
+      + [Intégration d’Assets Essentials à des applications Creative Cloud](integrate-assets-essentials-creative-cloud.md)
+      + [Intégration d’Assets Essentials à Adobe Workfront](integrate-assets-essentials-workfront.md)
 + [Prise en main d’ [!DNL Assets Essentials]](get-started.md)
 + [Types de fichiers pris en charge et cas d’utilisation](supported-file-formats.md)
 + [Afficher les ressources](navigate-view.md)
