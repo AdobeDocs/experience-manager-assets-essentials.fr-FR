@@ -1,12 +1,12 @@
 ---
 title: Présentation d’ [!DNL Assets Essentials]
-description: Présentation d’Assets Essentials et résumé de la solution
+description: Gérez vos ressources avec AEM Assets Essentials, un outil léger qui fonctionne dans les applications Experience Cloud.
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
-source-git-commit: c95717e9898ade023d785b9d0191f4bc20f10a39
-workflow-type: ht
-source-wordcount: '243'
-ht-degree: 100%
+source-git-commit: 2c2d490da79cb2f5d2069049baf3944aaa0050a5
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
