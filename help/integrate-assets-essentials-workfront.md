@@ -1,13 +1,13 @@
 ---
 title: Intégration d’Assets Essentials à Adobe Workfront
 description: Intégrez Assets Essentials à l’application Adobe Workfront afin d’accéder au référentiel Assets Essentials dans l’application Workfront.
-source-git-commit: 7d49060ba2e02bd9c5caf9753ef56b5feed5b3df
+exl-id: 47c2963d-57f0-463e-8d5b-5e5af9928f77
+source-git-commit: 507d5de0fad337f5c84dab28bc396dbfa7c5afe1
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '619'
 ht-degree: 19%
 
 ---
-
 
 # Intégration d’Assets Essentials à Adobe Workfront {#integrate-assets-essentials-workfront}
 
@@ -66,7 +66,7 @@ Pour plus d’informations sur l’affectation d’utilisateurs à des profils d
 
 ## Configuration de l’intégration Experience Manager Assets Essentials {#configure-assets-essentials-integration}
 
-Après avoir ajouté des utilisateurs aux profils de produit Workfront et Assets Essentials à l’aide du Admin Console, vous pouvez [configuration de l’intégration de Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+Après avoir ajouté des utilisateurs aux profils de produit Workfront et Assets Essentials à l’aide du Admin Console, vous pouvez [configuration de l’intégration de Experience Manager Assets Essentials à Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
 Après avoir configuré l’intégration, vous pouvez :
 
