@@ -3,10 +3,10 @@ title: Administrer et gérer les utilisateurs
 description: Cas pratiques d’administration tels que le déploiement et la gestion des utilisateurs dans  [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 552dcf43677ac2a95864666faab9938534f70d40
+source-git-commit: 59f6165fd7576736ff75369c2805c15ce3ae9af0
 workflow-type: tm+mt
-source-wordcount: '1139'
-ht-degree: 99%
+source-wordcount: '1201'
+ht-degree: 94%
 
 ---
 
@@ -125,6 +125,18 @@ Après la mise en service, le droit [!DNL Assets Essentials] est ajouté à votr
    ![Préparer l’environnement dans [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
    *Image : un environnement dans [!DNL Cloud Manager] prêt à l’emploi.*
+
+## Étapes suivantes {#next-steps}
+
+* [Regardez une vidéo pour déployer Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en)
+
+* Fournir des commentaires sur les produits à l’aide de la variable [!UICONTROL Commentaires] option disponible dans l’interface utilisateur d’Assets Essentials
+
+* Fournir des commentaires sur la documentation à l’aide de [!UICONTROL Modifier cette page] ![modifier la page ;](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Création d’un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite
+
+* Contact [Assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support)
+
+
 
 >[!MORELIKETHIS]
 >

@@ -4,10 +4,10 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '962'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '1026'
+ht-degree: 94%
 
 ---
 
@@ -91,6 +91,16 @@ Pour créer un formulaire de métadonnées, procédez comme suit :
 Une fois qu’un formulaire est créé, il est automatiquement appliqué lorsque les utilisateurs chargent une ressource du type MIME correspondant.
 
 Pour réutiliser un formulaire existant afin d’en créer un nouveau, sélectionnez un formulaire de métadonnées, cliquez sur **[!UICONTROL Copier]** dans la barre d’outils, choisissez un nom, puis cliquez sur **[!UICONTROL Confirmer]**. Vous pouvez modifier un formulaire de métadonnées. Lorsque vous modifiez un formulaire, il est utilisé pour les ressources chargées après la modification. Les ressources existantes ne sont pas modifiées.
+
+## Étapes suivantes {#next-steps}
+
+* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+
+* Fournir des commentaires sur les produits à l’aide de la variable [!UICONTROL Commentaires] option disponible dans l’interface utilisateur d’Assets Essentials
+
+* Fournir des commentaires sur la documentation à l’aide de [!UICONTROL Modifier cette page] ![modifier la page ;](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Création d’un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite
+
+* Contact [Assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support)
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:

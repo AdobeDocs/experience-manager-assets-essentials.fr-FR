@@ -2,13 +2,13 @@
 title: Chargement de ressources dans le référentiel
 description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les statuts de chargement et résolvez les problèmes de chargement.
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
-workflow-type: ht
-source-wordcount: '747'
-ht-degree: 100%
+exl-id: a85a4455-4456-48af-aee9-f05300677605
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '810'
+ht-degree: 93%
 
 ---
-
 
 # Charger des ressources {#add-assets}
 
@@ -95,3 +95,13 @@ Les utilisateurs peuvent supprimer individuellement des ressources ou des dossie
    *Image : les actions relatives aux fichiers et aux dossiers sont disponibles sur la mosaïque de la ressource ou du dossier.*
 
 * Sélectionnez une ressource ou un dossier et cliquez sur ![icône de suppression](assets/do-not-localize/delete-icon.png) **[!UICONTROL Supprimer]** dans la barre d’outils.
+
+## Étapes suivantes {#next-steps}
+
+* [Regarder une vidéo pour charger des ressources dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html)
+
+* Fournir des commentaires sur les produits à l’aide de la variable [!UICONTROL Commentaires] option disponible dans l’interface utilisateur d’Assets Essentials
+
+* Fournir des commentaires sur la documentation à l’aide de [!UICONTROL Modifier cette page] ![modifier la page ;](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Création d’un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite
+
+* Contact [Assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support)

@@ -2,10 +2,10 @@
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d’accès aux dossiers disponibles dans le référentiel. Pour gérer les niveaux d’accès, créez des groupes d’utilisateurs et attribuez-leur des autorisations. En tant qu’administrateur, vous pouvez également déléguer les droits de gestion des autorisations à des groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: c5cb27f3f660935487bb214088b4300475ef5fce
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '1580'
-ht-degree: 100%
+source-wordcount: '1643'
+ht-degree: 96%
 
 ---
 
@@ -202,3 +202,13 @@ Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hié
 * /projects/project-x : tous les utilisateurs peuvent afficher les dossiers et leurs sous-dossiers. Le groupe d’utilisateurs de l’équipe Chefs de projet dispose des autorisations de modification et peut gérer les autorisations d’un dossier et de ses sous-dossiers (autorisations de propriétaire). Le groupe d’utilisateurs de l’équipe du projet X dispose des autorisations de modification.
 
 * /legal : aucun des utilisateurs ne peut accéder au dossier d’après les autorisations `Deny Access` pour le groupe `All Authenticated Users`. Le groupe d’utilisateurs de l’équipe juridique dispose d’autorisations de modification.
+
+## Étapes suivantes {#next-steps}
+
+* [Regardez une vidéo pour gérer les autorisations dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+
+* Fournir des commentaires sur les produits à l’aide de la variable [!UICONTROL Commentaires] option disponible dans l’interface utilisateur d’Assets Essentials
+
+* Fournir des commentaires sur la documentation à l’aide de [!UICONTROL Modifier cette page] ![modifier la page ;](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Création d’un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite
+
+* Contact [Assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support)

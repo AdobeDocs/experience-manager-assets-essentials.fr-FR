@@ -3,10 +3,10 @@ title: Prise en main d’ [!DNL Assets Essentials]
 description: Accès, connexion, cas d’utilisation pris en charge et problèmes connus dans [!DNL Assets Essentials].
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
-source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 87%
 
 ---
 
@@ -55,6 +55,17 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 | Opérations de métadonnées | <ul> <li>[Affichage des métadonnées détaillées](/help/metadata.md) </li> <li> [Mise à jour les métadonnées](/help/metadata.md#update-metadata)</li> <li> [Création d’un formulaire de métadonnées](/help/metadata.md#metadata-forms) </li> </ul> |
 | Intégration à d’autres solutions | <ul> <li>[Utilisation du sélecteur de ressources dans  [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] pour [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Intégration à [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
+## Étapes suivantes {#next-steps}
+
+* [Regardez une vidéo pour commencer à utiliser Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+
+* Fournir des commentaires sur les produits à l’aide de la variable [!UICONTROL Commentaires] option disponible dans l’interface utilisateur d’Assets Essentials
+
+* Fournir des commentaires sur la documentation à l’aide de [!UICONTROL Modifier cette page] ![modifier la page ;](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Création d’un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite
+
+* Contact [Assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support)
+
+
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
 
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
@@ -63,16 +74,20 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 
 -->
 
-## ![Icône de commentaire](assets/do-not-localize/feedback-icon.png) Donnez votre avis sur des produits {#provide-feedback}
+<!-- 
 
-Adobe se réjouit de recevoir tous vos commentaires sur la solution. Pour partager vos commentaires en restant dans votre application, utilisez l’option [!UICONTROL Commentaires] dans l’interface utilisateur. Cette option vous permet également de joindre des fichiers tels que des captures d’écran ou des enregistrements vidéo relatifs à un problème.
+## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
-![option Commentaires dans l’interface](assets/feedback-panel.png)
+Adobe welcomes feedback about the solution. To provide feedback without even switching your working application, use the [!UICONTROL Feedback] option in the user interface. It also lets you attach files such as screenshots or video recording of an issue.
 
-Pour fournir des commentaires à des fins de documentation, cliquez sur [!UICONTROL Modifier cette page] ![modifier cette page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![soulever un problème GitHub](assets/do-not-localize/github-issue.png) dans la barre latérale droite. Vous pouvez effectuer l’une des opérations suivantes :
+  ![feedback option in the interface](assets/feedback-panel.png)
 
-* Effectuer les mises à jour du contenu et envoyez une demande d’extraction GitHub
-* Créer un problème ou un ticket dans GitHub Conserver le nom d’article automatiquement renseigné lors de la création d’un problème
+To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) from the right sidebar. You can do one of the following: 
+
+* Make the content updates and submit a GitHub pull request.
+* Create an issue or ticket in GitHub. Retain the automatically populated article name when creating an issue.
+
+-->
 
 >[!MORELIKETHIS]
 >

@@ -1,10 +1,11 @@
 ---
 title: Comment gérer efficacement les autorisations de dossier ?
 description: Bonnes pratiques pour une gestion efficace des autorisations
-source-git-commit: fe716385939d18aa23d01dac5fe5f041541d2b31
-workflow-type: ht
-source-wordcount: '398'
-ht-degree: 100%
+exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '445'
+ht-degree: 91%
 
 ---
 
@@ -63,3 +64,10 @@ Après avoir créé des groupes d’utilisateurs pour votre organisation, ajout�
 
 Pour des exemples sur la manière d’obtenir une structure de dossiers simple et efficace, voir [Gérer les autorisations sur les dossiers](manage-permissions.md##manage-permissions-folders).
 
+## Étapes suivantes {#next-steps}
+
+* Fournir des commentaires sur les produits à l’aide de la variable [!UICONTROL Commentaires] option disponible dans l’interface utilisateur d’Assets Essentials
+
+* Fournir des commentaires sur la documentation à l’aide de [!UICONTROL Modifier cette page] ![modifier la page ;](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Création d’un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite
+
+* Contact [Assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support)
