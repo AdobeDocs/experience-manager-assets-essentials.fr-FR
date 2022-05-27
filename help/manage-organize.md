@@ -7,7 +7,7 @@ exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
 source-wordcount: '901'
-ht-degree: 74%
+ht-degree: 93%
 
 ---
 
@@ -84,27 +84,27 @@ Vous pouvez également créer des versions à partir de l’historique des versi
 
 *Image : affichez les différentes versions d’une ressource, revenez à une version précédente ou chargez une autre version.*
 
-## Gestion de l’état des ressources {#manage-asset-status}
+## Gestion du statut des ressources {#manage-asset-status}
 
-**Autorisations requises :**  `Can Edit`, `Owner`, ou les autorisations d’administrateur sur une ressource.
+**Autorisations requises :**  `Can Edit`, `Owner` ou les autorisations d’administrateur sur une ressource.
 
-Assets Essentials vous permet de définir l’état des ressources disponibles dans le référentiel. Définissez un état de ressource pour mieux gouverner et gérer la consommation en aval des ressources numériques.
+Assets Essentials vous permet de définir le statut des ressources disponibles dans le référentiel. Définissez le statut d’une ressource pour mieux gouverner et gérer la consommation en aval des ressources numériques.
 
-Vous pouvez définir l’état suivant sur les ressources :
+Vous pouvez définir le statut suivant pour les ressources :
 
-* Accepté
+* Approuvé
 
-* Rejeté
+* Refusé
 
-* Aucun état
+* Aucun statut
 
-### Définition de l’état de la ressource {#set-asset-status}
+### Définition du statut de la ressource {#set-asset-status}
 
-Pour définir l’état de la ressource :
+Pour définir le statut de la ressource :
 
 1. Sélectionnez la ressource, puis cliquez sur **[!UICONTROL Détails]** dans la barre d’outils.
 
-1. Dans le **[!UICONTROL De base]** sélectionnez l’état de la ressource dans l’onglet **[!UICONTROL État]** liste déroulante Les valeurs possibles sont Approuvé, Refusé et Aucun état (par défaut).
+1. Dans l’onglet **[!UICONTROL De base]**, sélectionnez le statut de la ressource dans la liste déroulante **[!UICONTROL Statut]**. Les valeurs possibles sont Approuvé, Refusé et Aucun statut (par défaut).
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
@@ -122,19 +122,19 @@ The `Expired` asset card indicator overrides the `Approved` or `Rejected` indica
 
 -->
 
-Vous pouvez également filtrer les ressources en fonction de leur état. Pour plus d’informations, voir [Recherche de ressources dans Assets Essentials](search.md).
+Vous pouvez également filtrer les ressources en fonction de leur statut. Pour plus d’informations, consultez [Recherche de ressources dans Assets Essentials](search.md).
 
-## Personnalisation des formulaires de métadonnées pour inclure un champ d’état de ressource {#customize-asset-status-metadata-form}
+## Personnalisation des formulaires de métadonnées pour inclure un champ de statut de ressource {#customize-asset-status-metadata-form}
 
-**Autorisations requises :** Administrateur
+**Autorisations requises :** administrateur
 
 Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources.
 
-Pour plus d’informations sur l’ajout de champs de métadonnées supplémentaires au formulaire de métadonnées, voir [Forms des métadonnées](metadata.md##metadata-forms).
+Pour plus d’informations sur l’ajout de champs de métadonnées supplémentaires au formulaire de métadonnées, consultez [Formulaires de métadonnées](metadata.md##metadata-forms).
 
-**Ajout du champ de métadonnées Asset Status (Statut de la ressource) au formulaire**
+**Ajout du champ de métadonnées Statut de la ressource au formulaire**
 
-Pour ajouter un champ de métadonnées Asset Status (Statut de la ressource) au formulaire, faites glisser **[!UICONTROL État des ressources]** du rail de gauche vers le formulaire. La propriété de mappage est automatiquement prérenseignée. Enregistrez le formulaire pour confirmer les modifications.
+Pour ajouter un champ de métadonnées Statut de la ressource au formulaire, faites glisser **[!UICONTROL Statut de la ressource]** du rail de gauche vers le formulaire. La propriété de mappage est prérenseignée automatiquement. Enregistrez le formulaire pour confirmer les modifications.
 
 <!--
 

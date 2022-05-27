@@ -5,8 +5,8 @@ role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 53%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,7 +32,7 @@ Vous pouvez filtrer les résultats de la recherche en fonction des paramètres s
 
 *Image : filtrage des ressources recherchées en fonction de divers paramètres.*
 
-* État de la ressource : Filtrez les résultats de la recherche à l’aide d’une `Approved` ou `Rejected` état de la ressource.
+* Statut de la ressource : filtrez les résultats de recherche à l’aide du statut de ressource `Approved` ou `Rejected`.
 
 * Type de ressource : filtrez les résultats de la recherche selon les types de fichiers pris en charge, à savoir `Images`, `Documents` et `Videos`.
 * Type MIME : filtrez un ou plusieurs formats de fichiers pris en charge. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
@@ -44,11 +44,11 @@ Vous pouvez trier les ressources recherchées par ordre croissant ou décroissan
 
 ## Gestion des filtres personnalisés {#custom-filters}
 
-**Autorisations requises :**  `Can Edit`, `Owner`ou Administrateur.
+**Autorisations requises :**  `Can Edit`, `Owner` ou administrateur.
 
-Assets Essentials vous permet également d’ajouter des filtres personnalisés à l’interface utilisateur. Vous pouvez ensuite appliquer ces filtres personnalisés en plus des [filtres standard](#refine-search-results) pour affiner vos résultats de recherche.
+Assets Essentials vous permet également d’ajouter des filtres personnalisés à l’interface utilisateur. Vous pouvez ensuite appliquer ces filtres personnalisés en plus des [filtres standard](#refine-search-results) pour affiner vos résultats de recherche.
 
-Assets Essentials fournit les filtres personnalisés suivants :
+Assets Essentials fournit les filtres personnalisés suivants :
 
 <table>
     <tbody>
@@ -62,42 +62,42 @@ Assets Essentials fournit les filtres personnalisés suivants :
      </tr>
      <tr>
       <td>Nom</td>
-      <td>Filtrez les ressources à l’aide du nom de fichier de ressources. Le nom que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre au nom de fichier exact de la ressource à afficher dans les résultats.</td>
+      <td>Filtrez les ressources à l’aide du nom de fichier de la ressource. Le nom que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre au nom de fichier exact de la ressource à afficher dans les résultats.</td>
      </tr>
      <tr>
       <td>Taille de ressource</td>
-      <td>Filtrez les ressources en définissant une plage de tailles, en octets, dans les critères de recherche d’une ressource à afficher dans les résultats.</td>
+      <td>Filtrez les ressources en définissant une plage de taille de fichier, en octets, dans les critères de recherche pour afficher une ressource dans les résultats.</td>
      </tr>
      <tr>
       <td>Balises prédites</td>
-      <td>Filtrage des ressources à l’aide de la balise dynamique de ressource. Le nom de balise intelligente que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre exactement au nom de balise intelligente de la ressource à afficher dans les résultats. Vous ne pouvez pas spécifier plusieurs balises intelligentes dans les critères de recherche.</td>
+      <td>Filtrage des ressources à l’aide de la balise dynamique de ressource. Le nom de balise dynamique que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre exactement au nom de balise dynamique de la ressource à afficher dans les résultats. Vous ne pouvez pas spécifier plusieurs balises dynamiques dans les critères de recherche.</td>
      </tr>    
     </tbody>
    </table>
 
 ### Ajout de filtres personnalisés {#add-custom-filters}
 
-Pour ajouter des filtres personnalisés :
+Pour ajouter des filtres personnalisés :
 
 1. Cliquez sur **[!UICONTROL Filtres]**.
 
-1. Dans le **[!UICONTROL Filtres personnalisés]** , cliquez sur **[!UICONTROL Modifier]** ou **[!UICONTROL Ajouter des filtres]**.
+1. Dans la section **[!UICONTROL Filtres personnalisés]**, cliquez sur **[!UICONTROL Modifier]** ou **[!UICONTROL Ajouter des filtres]**.
 
    ![Ajout de filtres personnalisés](assets/add-custom-filters.png)
 
-1. Sur le **[!UICONTROL Gestion des filtres personnalisés]** , sélectionnez les filtres à ajouter à la liste existante de filtres. Sélectionner **[!UICONTROL Filtres personnalisés]** pour sélectionner tous les filtres.
+1. Dans la boîte de dialogue **[!UICONTROL Gestion des filtres personnalisés]**, sélectionnez les filtres à ajouter à la liste de filtres existants. Sélectionnez **[!UICONTROL Filtres personnalisés]** pour sélectionner tous les filtres.
 
 1. Cliquez sur **[!UICONTROL Confirmer]** pour ajouter les filtres à l’interface utilisateur.
 
 ### Suppression de filtres personnalisés {#remove-custom-filters}
 
-Pour supprimer des filtres personnalisés :
+Pour supprimer des filtres personnalisés :
 
 1. Cliquez sur **[!UICONTROL Filtres]**.
 
-1. Dans le **[!UICONTROL Filtres personnalisés]** , cliquez sur **[!UICONTROL Modifier]**.
+1. Dans la section **[!UICONTROL Filtres personnalisés]**, cliquez sur **[!UICONTROL Modifier]**.
 
-1. Sur le **[!UICONTROL Gestion des filtres personnalisés]** désélectionnez les filtres que vous devez supprimer de la liste des filtres existants.
+1. Sans la boîte de dialogue **[!UICONTROL Gestion des filtres personnalisés]**, désélectionnez les filtres que vous devez supprimer de la liste des filtres existants.
 
 1. Cliquez sur **[!UICONTROL Confirmer]** pour supprimer les filtres de l’interface utilisateur.
 

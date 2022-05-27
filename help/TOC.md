@@ -11,8 +11,8 @@ role: User,Leader
 solution: Experience Manager
 source-git-commit: 59f6165fd7576736ff75369c2805c15ce3ae9af0
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 62%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 62%
 + [Notes de mise à jour](release-notes.md)
 + Prise en main d’Assets Essentials pour les administrateurs {#get-started-admins}
    + [Déployer et ajouter des utilisateurs](deploy-administer.md)
-   + Gérér l’accès aux dossiers{#folder-access}
+   + Gérer l’accès aux dossiers{#folder-access}
       + [Gérer les autorisations des dossiers](manage-permissions.md)
       + [Bonnes pratiques relatives à la gestion des autorisations](permission-management-best-practices.md)
    + Parcours administrateur pour Assets Essentials pour Creative Cloud Pro avec les solutions de gestion de travail{#admin-journey}
