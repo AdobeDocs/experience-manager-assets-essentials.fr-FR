@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 378aa0ee62ad814bdf598dfcf21f8b2775c83b84
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '749'
+ht-degree: 91%
 
 ---
 
@@ -32,7 +32,7 @@ Vous pouvez filtrer les résultats de la recherche en fonction des paramètres s
 
 *Image : filtrage des ressources recherchées en fonction de divers paramètres.*
 
-* Statut de la ressource : filtrez les résultats de recherche à l’aide du statut de ressource `Approved` ou `Rejected`.
+* État de la ressource : Filtrez les résultats de la recherche à l’aide d’une `Approved`, `Rejected`ou `No Status` état de la ressource.
 
 * Type de ressource : filtrez les résultats de la recherche selon les types de fichiers pris en charge, à savoir `Images`, `Documents` et `Videos`.
 * Type MIME : filtrez un ou plusieurs formats de fichiers pris en charge. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
