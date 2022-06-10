@@ -4,10 +4,10 @@ description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 93%
+source-wordcount: '992'
+ht-degree: 86%
 
 ---
 
@@ -108,19 +108,16 @@ Pour définir le statut de la ressource :
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
-<!--
 
-### Set asset expiration date {#set-asset-expiration-date}
+### Définition de la date d’expiration des ressources {#set-asset-expiration-date}
 
-To set asset expiration date:
+Pour définir la date d’expiration de la ressource :
 
-1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+1. Sélectionnez la ressource, puis cliquez sur **[!UICONTROL Détails]** dans la barre d’outils.
 
-1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+1. Dans le **[!UICONTROL De base]** , définissez la date d’expiration de la ressource à l’aide de la fonction  **[!UICONTROL Date d’expiration]** champ .
 
-The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
-
--->
+Le `Expired` l’indicateur de carte des ressources remplace l’indicateur `Approved` ou `Rejected` Indicateur défini pour une ressource.
 
 Vous pouvez également filtrer les ressources en fonction de leur statut. Pour plus d’informations, consultez [Recherche de ressources dans Assets Essentials](search.md).
 
@@ -136,13 +133,9 @@ Pour plus d’informations sur l’ajout de champs de métadonnées supplémenta
 
 Pour ajouter un champ de métadonnées Statut de la ressource au formulaire, faites glisser **[!UICONTROL Statut de la ressource]** du rail de gauche vers le formulaire. La propriété de mappage est prérenseignée automatiquement. Enregistrez le formulaire pour confirmer les modifications.
 
-<!--
+**Ajout du champ de métadonnées Date d’expiration au formulaire**
 
-**Add Expiration Date metadata field to the form**
-
-To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
-
--->
+Pour ajouter un champ de métadonnées Date d’expiration au formulaire, faites glisser **[!UICONTROL Date]** du rail de gauche vers le formulaire. Spécifier **Date d’expiration** comme libellé et `pur:expirationDate` comme propriété de mappage. Enregistrez le formulaire pour confirmer les modifications.
 
 ## Étapes suivantes {#next-steps}
 

@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 378aa0ee62ad814bdf598dfcf21f8b2775c83b84
+source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 91%
+source-wordcount: '774'
+ht-degree: 77%
 
 ---
 
@@ -58,11 +58,11 @@ Assets Essentials fournit les filtres personnalisés suivants :
      </tr>
      <tr>
       <td>Titre</td>
-      <td>Filtrage des ressources à l’aide du titre de la ressource. Le titre que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre au titre exact de la ressource à afficher dans les résultats.</td>
+      <td>Filtrage des ressources à l’aide du titre de la ressource. Vous pouvez utiliser un opérateur de caractère générique (*) pour permettre à Assets Essentials d’afficher les ressources dans les résultats qui correspondent partiellement aux critères de recherche. Par exemple, si vous définissez <b>ma*</b> en tant que critère de recherche, Assets Essentials affiche les ressources avec titre, par exemple, marché, marketing, man, manchester, etc. dans les résultats.</td>
      </tr>
      <tr>
       <td>Nom</td>
-      <td>Filtrez les ressources à l’aide du nom de fichier de la ressource. Le nom que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre au nom de fichier exact de la ressource à afficher dans les résultats.</td>
+      <td>Filtrez les ressources à l’aide du nom de fichier de la ressource. Vous pouvez utiliser un opérateur de caractère générique (*) pour permettre à Assets Essentials d’afficher les ressources dans les résultats qui correspondent partiellement aux critères de recherche.</td>
      </tr>
      <tr>
       <td>Taille de ressource</td>
@@ -70,7 +70,7 @@ Assets Essentials fournit les filtres personnalisés suivants :
      </tr>
      <tr>
       <td>Balises prédites</td>
-      <td>Filtrage des ressources à l’aide de la balise dynamique de ressource. Le nom de balise dynamique que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre exactement au nom de balise dynamique de la ressource à afficher dans les résultats. Vous ne pouvez pas spécifier plusieurs balises dynamiques dans les critères de recherche.</td>
+      <td>Filtrage des ressources à l’aide de la balise dynamique de ressource. Vous pouvez utiliser un opérateur de caractère générique (*) pour permettre à Assets Essentials d’afficher les ressources dans les résultats qui correspondent partiellement aux critères de recherche. Vous pouvez spécifier plusieurs balises intelligentes séparées par une virgule dans les critères de recherche.</td>
      </tr>    
     </tbody>
    </table>
