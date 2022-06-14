@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1026'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -94,13 +94,13 @@ Pour réutiliser un formulaire existant afin d’en créer un nouveau, sélectio
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=fr).
 
-* Fournir des commentaires sur les produits à l’aide de la variable [!UICONTROL Commentaires] option disponible dans l’interface utilisateur d’Assets Essentials
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
-* Fournir des commentaires sur la documentation à l’aide de [!UICONTROL Modifier cette page] ![modifier la page ;](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Création d’un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite
+* Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contact [Assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support)
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
