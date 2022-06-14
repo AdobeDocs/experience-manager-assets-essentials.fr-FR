@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 59f6165fd7576736ff75369c2805c15ce3ae9af0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '127'
+ht-degree: 100%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 0%
 
 + [Présentation de la solution](introduction.md)
 + [Notes de mise à jour](release-notes.md)
-+ Prise en main d’Assets Essentials pour les administrateurs {#get-started-admins}
++ Démarrer avec Assets Essentials pour les administrateurs {#get-started-admins}
    + [Déployer et ajouter des utilisateurs](deploy-administer.md)
    + Gérer l’accès aux dossiers{#folder-access}
       + [Gérer les autorisations des dossiers](manage-permissions.md)
       + [Bonnes pratiques relatives à la gestion des autorisations](permission-management-best-practices.md)
-   + Parcours administrateur pour Assets Essentials pour Creative Cloud Pro avec les solutions de gestion de travail{#admin-journey}
+   + Parcours administrateur pour Assets Essentials pour Creative Cloud Pro avec les solutions de gestion de travail{#admin-journey}
       + [Présentation du parcours administrateur](assets-essentials-cc-pro-work-management-admin-journey.md)
-      + [Administration de Experience Manager Assets Essentials](adminster-aem-assets-essentials.md)
-      + [Intégration d’Assets Essentials à des applications Creative Cloud](integrate-assets-essentials-creative-cloud.md)
-      + [Intégration d’Assets Essentials à Adobe Workfront](integrate-assets-essentials-workfront.md)
+      + [Administrer Experience Manager Assets Essentials](adminster-aem-assets-essentials.md)
+      + [Intégration d’Assets Essentials aux applications Creative Cloud](integrate-assets-essentials-creative-cloud.md)
+      + [Intégrer Assets Essentials à Adobe Workfront](integrate-assets-essentials-workfront.md)
 + [Prise en main d’ [!DNL Assets Essentials]](get-started.md)
 + [Types de fichiers pris en charge et cas d’utilisation](supported-file-formats.md)
 + [Afficher les ressources](navigate-view.md)
@@ -42,4 +42,4 @@ ht-degree: 0%
 + [Partager des ressources](share-links-for-assets.md)
 + [Gestion des collections](manage-collections.md)
 + [Intégration à d’autres solutions](integration.md)
-+ [Vidéos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [Vidéos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=fr)
