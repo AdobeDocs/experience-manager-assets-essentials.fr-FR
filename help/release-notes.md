@@ -4,14 +4,67 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
-workflow-type: ht
-source-wordcount: '761'
-ht-degree: 100%
+source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
+workflow-type: tm+mt
+source-wordcount: '889'
+ht-degree: 86%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
+
+La version actuelle de [!DNL Assets Essentials] est publié le 16 juin 2022.
+
+Cette version fournit les éléments suivants :
+
+**Améliorations de l’état des ressources**
+
+* Assets Essentials vous permet désormais de [définition d’une date d’expiration pour une ressource](manage-organize.md#set-asset-status). En outre, vous pouvez [filtrer les ressources](search.md#refine-search-results) en fonction de la variable `Expired` état de la ressource et plage de dates d’expiration.
+
+* Vous pouvez désormais afficher l’indicateur d’état de toutes les ressources disponibles dans la corbeille. Par conséquent, vous pouvez prendre une décision pour restaurer une ressource en fonction de son état.
+
+**Améliorations des filtres de recherche**
+
+* Assets Essentials vous permet désormais de [filtrer les ressources](search.md#refine-search-results) en utilisant la variable `No Status` état de la ressource.
+
+<!--
+
+* Assets Essentials now supports [using a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+-->
+
+**Améliorations des collections**
+
+<!--
+
+* Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
+
+-->
+
+* Assets Essentials prend désormais en charge [téléchargement d’une collection](manage-collections.md).
+
+* Vous pouvez désormais modifier le champ de métadonnées Description d’une collection.
+
+**Documentation améliorée**
+
+* Une nouvelle version de la fonction [Documentation de présentation d’Assets Essentials](introduction.md) est désormais disponible.
+
+**Améliorations basées sur les commentaires des clients**
+
+* Améliorations et correctifs de bugs basés sur les commentaires des clients.
+
+
+## Problèmes connus {#known-issues}
+
+La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
+
+* Assets Essentials ne prend pas en charge la création de collections privées.
+
+Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
+
+## Versions antérieures {#past-release}
+
+### 2022.4.0 {#april-2022}
 
 La version actuelle d’[!DNL Assets Essentials] est sortie le 12 mai 2022. Cette version fournit les éléments suivants :
 
@@ -23,25 +76,13 @@ La version actuelle d’[!DNL Assets Essentials] est sortie le 12 mai 2022. Ce
 
 * Améliorations et correctifs de bugs basés sur les commentaires des clients.
 
-## Mode Incognito dans Chrome {#incognito-mode}
+#### Mode Incognito dans Chrome {#incognito-mode}
 
 Avec cette version, nous optimisons les performances de diffusion de l’interface utilisateur et des fonctionnalités spécifiques d’Assets Essentials (les commentaires sur les ressources et la modification d’images). Dépend de l’activation de l’espace de stockage local du navigateur et des cookies tiers. Le mode incognito dans le navigateur web Chrome bloque par défaut les cookies tiers. Les utilisateurs disposent de plusieurs options pour continuer à accéder à toutes les fonctionnalités :
 
 * Utilisez des profils Chrome au lieu du mode Incognito lorsque l’utilisateur doit séparer les sessions de navigateur.
 
 * Désactivez la fonction `Block third-party cookies` dans l’écran Mode Incognito dans Chrome.
-
-## Problèmes connus {#known-issues}
-
-La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
-
-* Vous ne pouvez pas filtrer les ressources à l’aide de la variable de statut de ressource `No Status`.
-
-* Assets Essentials ne prend pas en charge la création de collections privées.
-
-Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
-
-## Versions antérieures {#past-release}
 
 ### 2022.2.0 {#march-2022}
 
