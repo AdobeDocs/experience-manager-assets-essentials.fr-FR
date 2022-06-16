@@ -2,7 +2,7 @@
 title: Gestion des collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 88dd604492ffd5be305fe2f54edae1f158247e26
+source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 91%
@@ -33,7 +33,7 @@ Vous pouvez effectuer les tâches suivantes pour gérer et utiliser les collecti
 
 * [Affichage et modification des métadonnées](#view-edit-collection-metadata)
 
-* [Téléchargement d’éléments de collection](#download-collection-elements)
+* [Téléchargement d’une collection](#download-collection)
 
 * [Suppression d’une collection](#delete-collection)
 
