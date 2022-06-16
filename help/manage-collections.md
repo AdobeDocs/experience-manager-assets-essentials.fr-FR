@@ -2,10 +2,10 @@
 title: Gestion des collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '520'
-ht-degree: 100%
+source-git-commit: 88dd604492ffd5be305fe2f54edae1f158247e26
+workflow-type: tm+mt
+source-wordcount: '524'
+ht-degree: 91%
 
 ---
 
@@ -21,13 +21,15 @@ You can share collections with various users that are assigned different levels 
 
 Vous pouvez partager plusieurs collections avec un utilisateur. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
 
+![Collections](assets/collections.png)
+
 Vous pouvez effectuer les tâches suivantes pour gérer et utiliser les collections :
 
 * [Création d’une collection](#create-collection)
 
 * [Ajout de ressources à une collection](#add-assets-to-collection)
 
-* [Suppression de ressources dans une collection](#remove-assets-from-collection)
+* [Suppression de ressources d’une collection](#remove-assets-from-collection)
 
 * [Affichage et modification des métadonnées](#view-edit-collection-metadata)
 
@@ -44,6 +46,16 @@ Pour créer une collection :
 1. Entrez un titre et éventuellement une description pour la collection.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** pour créer la collection.
+
+![Créer une collection](assets/create-collection.png)
+
+<!--
+
+1. Select if you need to a create a Private collection or a Public collection.
+
+   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+
+-->
 
 ## Ajout de ressources à une collection {#add-assets-to-collection}
 
@@ -71,11 +83,15 @@ Pour supprimer des ressources d’une collection :
 
 <!--
 
-## Manage access to a collection {#manage-collection-access}
+## Manage access to a Private collection {#manage-collection-access}
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
 For more information, see [Manage permissions for folders and collections](manage-permissions.md).
+
+-->
+
+<!--
 
 ## Search a collection {#search-collections}
 
@@ -97,25 +113,27 @@ Pour afficher et modifier les métadonnées :
 1. Affichez les métadonnées de la collection à l’aide de l’onglet **[!UICONTROL De base]**.
 1. Modifiez les champs de métadonnées selon les besoins. Vous pouvez modifier les champs [!UICONTROL Titre], [!UICONTROL Description] et [!UICONTROL Auteur].
 
+![Métadonnées de collection](assets/collection-metadata.png)
+
 ## Partage de liens vers des collections {#share-collection-links}
 
 [!DNL Assets Essentials] vous permet de générer un lien et de partager des collections de ressources avec des destinataires externes qui n’ont pas accès à l’application [!DNL Assets Essentials]. Vous pouvez définir une date d’expiration pour le lien, puis le partager avec d’autres utilisateurs en utilisant votre méthode de communication préférée, comme les e-mails ou les services de messagerie. Les destinataires du lien peuvent prévisualiser les ressources et les télécharger.
 
+![Lien de partage pour les ressources](assets/share-link-collections.png)
+
 Pour plus d’informations sur le partage de liens de collection avec des destinataires externes, consultez [Partage de liens vers des ressources](share-links-for-assets.md).
 
-## Téléchargement d’éléments de collection {#download-collection-elements}
+## Téléchargement d’une collection {#download-collection}
 
-Pour télécharger des éléments de collection :
+Pour télécharger une collection :
 
 1. Cliquez sur **[!UICONTROL Collections]** dans le rail de gauche.
 
-1. Cliquez sur la collection et sélectionnez le ou les éléments à télécharger.
+1. Sélectionnez la collection à télécharger, puis cliquez sur **[!UICONTROL Télécharger]**.
 
-1. Cliquez sur **[!UICONTROL Télécharger]**.
+1. Sur le [!UICONTROL Téléchargement de la ressource] boîte de dialogue, cliquez sur **[!UICONTROL OK]**.
 
-1. Dans la boîte de dialogue [!UICONTROL Télécharger la ressource], cliquez sur **[!UICONTROL OK]**.
-
-Les éléments de collection sélectionnés sont téléchargés en tant que fichier .ZIP sur votre ordinateur local.
+La collection se télécharge sous la forme d’un fichier .ZIP sur votre ordinateur local.
 
 ## Suppression d’une collection {#delete-collection}
 

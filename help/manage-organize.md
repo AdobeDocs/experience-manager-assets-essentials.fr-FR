@@ -4,10 +4,10 @@ description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
+source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
-source-wordcount: '992'
-ht-degree: 92%
+source-wordcount: '1036'
+ht-degree: 88%
 
 ---
 
@@ -110,6 +110,8 @@ Pour définir le statut de la ressource :
 
 
 ### Définition de la date d’expiration des ressources {#set-asset-expiration-date}
+
+Assets Essentials vous permet également de définir la date d’expiration des ressources disponibles dans le référentiel. Vous pouvez alors [filtrer les résultats de la recherche](search.md#refine-search-results) basé sur un `Expired` état de la ressource. En outre, vous pouvez spécifier une période d’expiration pour les ressources afin de filtrer davantage les résultats de la recherche.
 
 Pour définir la date d’expiration de la ressource :
 

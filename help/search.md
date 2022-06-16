@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
+source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 84%
+source-wordcount: '802'
+ht-degree: 90%
 
 ---
 
@@ -37,8 +37,12 @@ Vous pouvez filtrer les résultats de la recherche en fonction des paramètres s
 * Type de ressource : filtrez les résultats de la recherche selon les types de fichiers pris en charge, à savoir `Images`, `Documents` et `Videos`.
 * Type MIME : filtrez un ou plusieurs formats de fichiers pris en charge. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Taille de l’image : fournissez une ou plusieurs dimensions minimales et maximales pour filtrer les images. Les dimensions sont fournies en pixels et ne correspondent pas à la taille de fichier des images.
-* Date de création : date de création de la ressource telle qu’elle figure dans les métadonnées. Le format de date standard utilisé est `yyyy-mm-dd`.
+* Date de création : Date de création de la ressource, telle qu’elle est fournie dans les métadonnées. Le format de date standard utilisé est `yyyy-mm-dd`.
 * Date de modification : date de dernière modification des ressources. Le format de date standard utilisé est `yyyy-mm-dd`.
+
+* Date d’expiration : Filtrage des résultats de recherche selon une `Expired` état de la ressource. En outre, vous pouvez spécifier une période d’expiration pour les ressources afin de filtrer davantage les résultats de la recherche.
+
+* Filtres personnalisés : [Ajout de filtres personnalisés](#custom-filters) vers l’interface utilisateur d’Assets Essentials. Appliquez les filtres personnalisés en plus des filtres standard pour affiner vos résultats de recherche.
 
 Vous pouvez trier les ressources recherchées par ordre croissant ou décroissant de `Name`, `Relevancy`, `Size`, `Modified` et `Created`.
 
@@ -58,11 +62,11 @@ Assets Essentials fournit les filtres personnalisés suivants :
      </tr>
      <tr>
       <td>Titre</td>
-      <td>Filtrage des ressources à l’aide du titre de la ressource. Vous pouvez utiliser un opérateur de caractère générique (*) pour permettre à Assets Essentials d’afficher les ressources dans les résultats qui correspondent partiellement aux critères de recherche. Par exemple, si vous définissez <b>ma*</b> en tant que critère de recherche, Assets Essentials affiche les ressources avec titre, par exemple, marché, marketing, man, manchester, etc. dans les résultats.</td>
+      <td>Filtrage des ressources à l’aide du titre de la ressource. Le titre que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre au titre exact de la ressource à afficher dans les résultats.</td>
      </tr>
      <tr>
       <td>Nom</td>
-      <td>Filtrez les ressources à l’aide du nom de fichier de la ressource. Vous pouvez utiliser un opérateur de caractère générique (*) pour permettre à Assets Essentials d’afficher les ressources dans les résultats qui correspondent partiellement aux critères de recherche.</td>
+      <td>Filtrez les ressources à l’aide du nom de fichier de la ressource. Le nom que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre au nom de fichier exact de la ressource à afficher dans les résultats.</td>
      </tr>
      <tr>
       <td>Taille de ressource</td>
@@ -70,10 +74,19 @@ Assets Essentials fournit les filtres personnalisés suivants :
      </tr>
      <tr>
       <td>Balises prédites</td>
-      <td>Filtrage des ressources à l’aide de la balise dynamique de ressource. Vous pouvez utiliser un opérateur de caractère générique (*) pour permettre à Assets Essentials d’afficher les ressources dans les résultats qui correspondent partiellement aux critères de recherche. Vous pouvez spécifier plusieurs balises intelligentes séparées par une virgule dans les critères de recherche.</td>
+      <td>Filtrage des ressources à l’aide de la balise dynamique de ressource. Le nom de balise dynamique que vous indiquez dans les critères de recherche sensibles à la casse doit correspondre exactement au nom de balise dynamique de la ressource à afficher dans les résultats. Vous ne pouvez pas spécifier plusieurs balises dynamiques dans les critères de recherche.</td>
      </tr>    
     </tbody>
    </table>
+
+<!--
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. For example, if you define <b>ma*</b> as the search criteria, Assets Essentials displays assets with title, such as, market, marketing, man, manchester, and so on in the results.
+
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. You can specify multiple smart tags separated by a comma in the search criteria.
+
+   -->
 
 ### Ajout de filtres personnalisés {#add-custom-filters}
 
