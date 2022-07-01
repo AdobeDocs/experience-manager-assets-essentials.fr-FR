@@ -7,15 +7,15 @@ exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
-# Gestion des ressources {#manage-assets}
+# Gestion des actifs {#manage-assets}
 
 Vous pouvez effectuer facilement de nombreuses tâches de gestion des actifs numériques (DAM) grâce à l’interface conviviale d’[!DNL Assets Essentials]. Une fois les ressources ajoutées, vous pouvez les rechercher, les télécharger, les déplacer, les copier, les renommer, les supprimer, les mettre à jour et les modifier.
 
-Utilisez [!DNL Assets Essentials] pour accomplir les tâches de gestion des ressources suivantes. Lorsque vous sélectionnez une ressource, les options suivantes s’affichent dans la barre d’outils supérieure.
+Utilisez [!DNL Assets Essentials] pour accomplir les tâches de gestion des actifs suivantes. Lorsque vous sélectionnez une ressource, les options suivantes s’affichent dans la barre d’outils supérieure.
 
 ![Options de la barre d’outils lors de la sélection d’une ressource](assets/toolbar-image-selected.png)
 
@@ -109,17 +109,17 @@ Pour définir le statut de la ressource :
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
 
-### Définition de la date d’expiration des ressources {#set-asset-expiration-date}
+### Définir la date d’expiration de ressources {#set-asset-expiration-date}
 
 Assets Essentials vous permet également de définir la date d’expiration des ressources disponibles dans le référentiel. Vous pouvez alors [filtrer les résultats de la recherche](search.md#refine-search-results) basé sur un `Expired` état de la ressource. En outre, vous pouvez spécifier une période d’expiration pour les ressources afin de filtrer davantage les résultats de la recherche.
 
-Pour définir la date d’expiration de la ressource :
+Pour définir la date d’expiration de ressource :
 
 1. Sélectionnez la ressource, puis cliquez sur **[!UICONTROL Détails]** dans la barre d’outils.
 
-1. Dans le **[!UICONTROL De base]** , définissez la date d’expiration de la ressource à l’aide de la fonction  **[!UICONTROL Date d’expiration]** champ .
+1. Dans l’onglet **[!UICONTROL De base]**, définissez la date d’expiration de la ressource à l’aide du champ  **[!UICONTROL Date d’expiration]**.
 
-Le `Expired` l’indicateur de carte des ressources remplace l’indicateur `Approved` ou `Rejected` Indicateur défini pour une ressource.
+L’indicateur de carte de ressources `Expired` remplace l’indicateur `Approved` ou `Rejected` défini pour une ressource.
 
 Vous pouvez également filtrer les ressources en fonction de leur statut. Pour plus d’informations, consultez [Recherche de ressources dans Assets Essentials](search.md).
 
@@ -135,9 +135,9 @@ Pour plus d’informations sur l’ajout de champs de métadonnées supplémenta
 
 Pour ajouter un champ de métadonnées Statut de la ressource au formulaire, faites glisser **[!UICONTROL Statut de la ressource]** du rail de gauche vers le formulaire. La propriété de mappage est prérenseignée automatiquement. Enregistrez le formulaire pour confirmer les modifications.
 
-**Ajout du champ de métadonnées Date d’expiration au formulaire**
+**Ajouter le champ de métadonnées Date d’expiration au formulaire**
 
-Pour ajouter un champ de métadonnées Date d’expiration au formulaire, faites glisser **[!UICONTROL Date]** du rail de gauche vers le formulaire. Spécifier **Date d’expiration** comme libellé et `pur:expirationDate` comme propriété de mappage. Enregistrez le formulaire pour confirmer les modifications.
+Pour ajouter un champ de métadonnées Date d’expiration au formulaire, faites glisser le composant **[!UICONTROL Date]** du rail de gauche vers le formulaire. Spécifiez la **Date d’expiration** comme libellé et `pur:expirationDate` comme propriété de mappage. Enregistrez le formulaire pour confirmer les modifications.
 
 ## Étapes suivantes {#next-steps}
 
