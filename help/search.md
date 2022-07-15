@@ -4,9 +4,9 @@ description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -34,15 +34,15 @@ Vous pouvez filtrer les résultats de la recherche en fonction des paramètres s
 
 * Statut de la ressource : filtrez les résultats de recherche à l’aide de `Approved`, `Rejected` ou d’un statut de ressource `No Status`.
 
-* Type de ressource : filtrez les résultats de la recherche selon les types de fichiers pris en charge, à savoir `Images`, `Documents` et `Videos`.
+* Type de fichier : filtrez les résultats de la recherche selon les types de fichiers pris en charge, à savoir `Images`, `Documents` et `Videos`.
 * Type MIME : filtrez un ou plusieurs formats de fichiers pris en charge. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Taille de l’image : fournissez une ou plusieurs dimensions minimales et maximales pour filtrer les images. Les dimensions sont fournies en pixels et ne correspondent pas à la taille de fichier des images.
-* Date de création : Date de création de la ressource, telle qu’elle est fournie dans les métadonnées. Le format de date standard utilisé est `yyyy-mm-dd`.
+* Date de création : date de création de la ressource telle qu’elle figure dans les métadonnées. Le format de date standard utilisé est `yyyy-mm-dd`.
 * Date de modification : date de dernière modification des ressources. Le format de date standard utilisé est `yyyy-mm-dd`.
 
-* Date d’expiration : Filtrage des résultats de recherche selon une `Expired` état de la ressource. En outre, vous pouvez spécifier une période d’expiration pour les ressources afin de filtrer davantage les résultats de la recherche.
+* Date d’expiration : filtrez les résultats de la recherche en fonction du statut d’une ressource `Expired`. En outre, vous pouvez spécifier une période d’expiration pour les ressources afin de filtrer davantage les résultats de votre recherche.
 
-* Filtres personnalisés : [Ajout de filtres personnalisés](#custom-filters) vers l’interface utilisateur d’Assets Essentials. Appliquez les filtres personnalisés en plus des filtres standard pour affiner vos résultats de recherche.
+* Filtres personnalisés : [ajoutez des filtres personnalisés](#custom-filters) à l’interface utilisateur d’Assets Essentials. Appliquez ces filtres personnalisés en plus des filtres standard pour affiner les résultats de la recherche.
 
 Vous pouvez trier les ressources recherchées par ordre croissant ou décroissant de `Name`, `Relevancy`, `Size`, `Modified` et `Created`.
 
