@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1036'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -111,7 +111,7 @@ Pour définir le statut de la ressource :
 
 ### Définir la date d’expiration de ressources {#set-asset-expiration-date}
 
-Assets Essentials vous permet également de définir la date d’expiration des ressources disponibles dans le référentiel. Vous pouvez alors [filtrer les résultats de la recherche](search.md#refine-search-results) basé sur un `Expired` état de la ressource. En outre, vous pouvez spécifier une période d’expiration pour les ressources afin de filtrer davantage les résultats de la recherche.
+Assets Essentials vous permet également de définir la date d’expiration des ressources disponibles dans le référentiel. Par conséquent, vous pouvez [filtrer les résultats de la recherche](search.md#refine-search-results) en fonction du statut d’une ressource `Expired`. En outre, vous pouvez spécifier une période d’expiration pour les ressources afin de filtrer davantage les résultats de votre recherche.
 
 Pour définir la date d’expiration de ressource :
 
