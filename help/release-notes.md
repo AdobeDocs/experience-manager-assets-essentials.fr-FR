@@ -5,27 +5,27 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '889'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle de [!DNL Assets Essentials] est publié le 16 juin 2022.
+La version actuelle d’[!DNL Assets Essentials] est sortie le 16 juin 2022.
 
 Cette version fournit les éléments suivants :
 
-**Améliorations de l’état des ressources**
+**Améliorations du statut des ressources**
 
-* Assets Essentials vous permet désormais de [définition d’une date d’expiration pour une ressource](manage-organize.md#set-asset-status). En outre, vous pouvez [filtrer les ressources](search.md#refine-search-results) en fonction de la variable `Expired` état de la ressource et plage de dates d’expiration.
+* Assets Essentials vous permet désormais de [définir une date d’expiration pour une ressource](manage-organize.md#set-asset-status). En outre, vous pouvez [filtrer les ressources](search.md#refine-search-results) en fonction du statut de la ressource `Expired` et de la période d’expiration.
 
-* Vous pouvez désormais afficher l’indicateur d’état de toutes les ressources disponibles dans la corbeille. Par conséquent, vous pouvez prendre une décision pour restaurer une ressource en fonction de son état.
+* Vous pouvez désormais afficher l’indicateur de statut de toutes les ressources disponibles dans la corbeille. Par conséquent, vous pouvez prendre une décision pour restaurer une ressource en fonction de son statut.
 
 **Améliorations des filtres de recherche**
 
-* Assets Essentials vous permet désormais de [filtrer les ressources](search.md#refine-search-results) en utilisant la variable `No Status` état de la ressource.
+* Assets Essentials vous permet désormais de [filtrer les ressources](search.md#refine-search-results) en utilisant le statut de la ressource `No Status`.
 
 <!--
 
@@ -41,11 +41,11 @@ Cette version fournit les éléments suivants :
 
 -->
 
-* Assets Essentials prend désormais en charge [téléchargement d’une collection](manage-collections.md).
+* Assets Essentials prend désormais en charge le [téléchargement d’une collection](manage-collections.md).
 
 * Vous pouvez désormais modifier le champ de métadonnées Description d’une collection.
 
-**Documentation améliorée**
+**Améliorations de la documentation**
 
 * Une nouvelle version de la fonction [Documentation de présentation d’Assets Essentials](introduction.md) est désormais disponible.
 
