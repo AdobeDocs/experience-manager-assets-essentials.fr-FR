@@ -3,9 +3,9 @@ title: Gestion des collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Vous pouvez effectuer les tâches suivantes pour gérer et utiliser les collecti
 
 * [Ajout de ressources à une collection](#add-assets-to-collection)
 
-* [Suppression de ressources d’une collection](#remove-assets-from-collection)
+* [Supprimer les ressources d’une collection](#remove-assets-from-collection)
 
 * [Affichage et modification des métadonnées](#view-edit-collection-metadata)
 
@@ -119,21 +119,21 @@ Pour afficher et modifier les métadonnées :
 
 [!DNL Assets Essentials] vous permet de générer un lien et de partager des collections de ressources avec des destinataires externes qui n’ont pas accès à l’application [!DNL Assets Essentials]. Vous pouvez définir une date d’expiration pour le lien, puis le partager avec d’autres utilisateurs en utilisant votre méthode de communication préférée, comme les e-mails ou les services de messagerie. Les destinataires du lien peuvent prévisualiser les ressources et les télécharger.
 
-![Lien de partage pour les ressources](assets/share-link-collections.png)
+![Partager les liens pour les ressources](assets/share-link-collections.png)
 
-Pour plus d’informations sur le partage de liens de collection avec des destinataires externes, consultez [Partage de liens vers des ressources](share-links-for-assets.md).
+Pour plus d’informations sur le partage de liens de collection avec des destinataires externes, consultez [Partager les liens vers des ressources](share-links-for-assets.md).
 
-## Téléchargement d’une collection {#download-collection}
+## Télécharger une collection {#download-collection}
 
-Pour télécharger une collection :
+Pour télécharger une collection :
 
 1. Cliquez sur **[!UICONTROL Collections]** dans le rail de gauche.
 
 1. Sélectionnez la collection à télécharger, puis cliquez sur **[!UICONTROL Télécharger]**.
 
-1. Sur le [!UICONTROL Téléchargement de la ressource] boîte de dialogue, cliquez sur **[!UICONTROL OK]**.
+1. Dans la boîte de dialogue [!UICONTROL Télécharger la ressource], cliquez sur **[!UICONTROL OK]**.
 
-La collection se télécharge sous la forme d’un fichier .ZIP sur votre ordinateur local.
+La collection est téléchargée en tant que fichier .ZIP sur votre ordinateur local.
 
 ## Suppression d’une collection {#delete-collection}
 
