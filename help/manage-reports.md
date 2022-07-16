@@ -1,26 +1,25 @@
 ---
 title: Gestion des rapports dans Assets Essentials
-description: Utilisez les informations figurant dans les rapports d’Assets Essentials pour obtenir des mesures de succès clés afin de mesurer l’adoption d’Assets au sein de votre entreprise et par les clients.
-source-git-commit: 511b7904eca972e76f55e574c7c364dd88fb1721
+description: Accédez aux données de la section des rapports d’Assets Essentials afin d’évaluer l’utilisation des produits et des fonctionnalités et d’obtenir des informations sur les mesures de succès clés.
+exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
+source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '491'
 ht-degree: 5%
 
 ---
 
 # Gestion des rapports {#manage-reports}
 
-Les rapports de ressources permettent aux administrateurs d’évaluer l’utilité du déploiement de Adobe Experience Manager Assets Essentials. Les rapports fournissent des informations utiles sur la manière dont les utilisateurs interagissent avec les ressources disponibles dans votre déploiement.
-
-Utilisez les informations contenues dans les rapports pour obtenir des mesures de succès clés afin de mesurer l’adoption d’Assets au sein de votre entreprise et par les clients.
+Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la manière dont les utilisateurs interagissent avec le contenu et le produit.
 
 ## Accès aux rapports {#access-reports}
 
-Tous les utilisateurs affectés à la variable [Profil de produit des administrateurs Assets Essentials](deploy-administer.md) peuvent accéder aux statistiques et rapports en direct dans Assets Essentials.
+Tous les utilisateurs affectés à la variable [Profil de produit des administrateurs Assets Essentials](deploy-administer.md) Vous pouvez accéder au tableau de bord Statistiques en direct et créer des rapports définis par l’utilisateur dans Assets Essentials.
 
 ## Affichage des statistiques en direct {#view-live-statistics}
 
-Assets Essentials vous permet d’afficher les données de téléchargement générées automatiquement pour votre déploiement Assets Essentials. Vous pouvez choisir d’afficher le nombre de téléchargements de ressources effectués au cours des 30 derniers jours ou au cours des 12 derniers mois.
+Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Statistiques en direct . Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
 
 ![Options de la barre d’outils lors de la sélection d’une ressource](assets/asset-reports-live-statistics.png)
 
@@ -99,9 +98,9 @@ Le tableau suivant explique l’utilisation de toutes les colonnes que vous pouv
     </tbody>
    </table>
 
-## Afficher la liste des rapports {#view-report-list}
+## Affichage des rapports existants {#view-report-list}
 
-Après [création du rapport](#create-report), vous pouvez afficher la liste des rapports et choisir de les télécharger au format CSV ou de les supprimer.
+Après [création du rapport](#create-report), vous pouvez afficher la liste des rapports existants et choisir de les télécharger au format CSV ou de les supprimer.
 
 Pour afficher la liste des rapports, accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]**.
 

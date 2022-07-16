@@ -4,14 +4,58 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
-workflow-type: ht
-source-wordcount: '889'
-ht-degree: 100%
+source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+workflow-type: tm+mt
+source-wordcount: '1117'
+ht-degree: 80%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
+
+La version actuelle de [!DNL Assets Essentials] est publié le 14 juillet 2022.
+
+Cette version fournit les éléments suivants :
+
+**Collections dynamiques**
+
+Enregistrez les résultats de recherche en tant que collection dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials qui correspondent aux critères de recherche définis lors de la [création de la collecte dynamique](manage-collections.md#create-smart-collection), le contenu de la collecte dynamique est automatiquement mis à jour.
+
+**Notifications**
+
+Les notifications Assets Essentials vous permettent de [surveiller les opérations effectuées sur les ressources ou les dossiers disponibles dans le référentiel ;](manage-notifications.md). Vous devez sélectionner et vous abonner au contenu pour lequel les notifications vous sont envoyées. Vous pouvez également configurer les catégories pour lesquelles les notifications vous sont envoyées.
+
+**Création de rapports**
+
+Les rapports de ressources permettent aux administrateurs d’évaluer l’activité des utilisateurs dans Adobe Experience Manager Assets Essentials. Le tableau de bord des rapports et des statistiques en direct fournit des informations utiles sur la manière dont les utilisateurs interagissent avec les ressources disponibles dans votre déploiement. [Utiliser les informations dans les rapports](manage-reports.md) pour obtenir des mesures de succès clés afin de mesurer l’adoption d’Assets au sein de votre entreprise et par les clients.
+
+Affichez les rapports sur les téléchargements de ressources et le module de tableau de bord des statistiques en direct pour déterminer les ressources téléchargées et la fréquence des téléchargements.
+
+**Améliorations basées sur les commentaires des clients**
+
+Améliorations et correctifs de bugs basés sur les commentaires des clients.
+
+
+## Problèmes connus {#known-issues}
+
+La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Assets Essentials ne prend pas en charge la modification d’une collection dynamique.
+
+* Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
+
+Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
+
+## Versions antérieures {#past-release}
+
+### 2022.5.0 {#may-2022}
 
 La version actuelle d’[!DNL Assets Essentials] est sortie le 16 juin 2022.
 
@@ -52,17 +96,6 @@ Cette version fournit les éléments suivants :
 **Améliorations basées sur les commentaires des clients**
 
 * Améliorations et correctifs de bugs basés sur les commentaires des clients.
-
-
-## Problèmes connus {#known-issues}
-
-La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
-
-* Assets Essentials ne prend pas en charge la création de collections privées.
-
-Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
-
-## Versions antérieures {#past-release}
 
 ### 2022.4.0 {#april-2022}
 

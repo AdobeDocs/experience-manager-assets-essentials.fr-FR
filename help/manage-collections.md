@@ -2,10 +2,10 @@
 title: Gestion des collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
-workflow-type: ht
-source-wordcount: '524'
-ht-degree: 100%
+source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+workflow-type: tm+mt
+source-wordcount: '686'
+ht-degree: 76%
 
 ---
 
@@ -45,15 +45,15 @@ Pour créer une collection :
 
 1. Entrez un titre et éventuellement une description pour la collection.
 
+1. Sélectionnez cette option si vous devez créer une collection privée ou publique. Une collection publique est disponible pour l’affichage et la modification pour tous les utilisateurs. Cependant, une collection privée est disponible pour le créateur et les utilisateurs disposant de droits d’administrateur.
+
 1. Cliquez sur **[!UICONTROL Enregistrer]** pour créer la collection.
 
 ![Créer une collection](assets/create-collection.png)
 
 <!--
-
-1. Select if you need to a create a Private collection or a Public collection.
-
-   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+   
+   for viewing and editing only to users with the appropriate [permissions](#manage-collection-access).
 
 -->
 
@@ -70,6 +70,25 @@ Pour ajouter des ressources à une collection :
 1. Cliquez sur **[!UICONTROL Ajouter]** pour ajouter la ressource aux collections sélectionnées.
 
 Pour ajouter des ressources à une collection, vous pouvez également cliquer sur **[!UICONTROL Collections]** dans le rail de gauche, cliquez sur la collection à laquelle ajouter des ressources, puis sur **[!UICONTROL Ajouter à la collection]**, sélectionnez la ou les ressources, puis cliquez sur **[!UICONTROL Sélectionner]**.
+
+## Création d’une collection dynamique {#create-smart-collection}
+
+Enregistrez les résultats de recherche en tant que collection dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials qui correspondent aux critères de recherche définis lors de la création de la collecte dynamique, le contenu de la collecte dynamique est automatiquement mis à jour.
+
+Pour créer une collection dynamique :
+
+1. Cliquez sur **[!UICONTROL Filtrer]** et [définir les critères de recherche ;](search.md##refine-search-results).
+
+1. Cliquez sur **[!UICONTROL Enregistrer sous]** puis sélectionnez **[!UICONTROL Collecte dynamique]**.
+
+1. Sur le [!UICONTROL Création d’une collection dynamique] , spécifiez un titre et une description pour la collecte dynamique.
+
+1. Sélectionner **[!UICONTROL Collection publique]** si vous avez besoin que tous les utilisateurs accèdent à la collection. Sélectionner **[!UICONTROL Collection privée]** si vous avez besoin d’un groupe limité d’utilisateurs pour accéder à la collection.
+
+1. Cliquez sur **[!UICONTROL Créer]** pour créer la collection dynamique.
+
+![Création d’une collection dynamique](assets/create-smart-collection.png)
+
 
 ## Suppression de ressources d’une collection {#remove-assets-from-collection}
 
