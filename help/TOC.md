@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 511b7904eca972e76f55e574c7c364dd88fb1721
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 96%
 + [Gestion des métadonnées des ressource](metadata.md)
 + [Partager des ressources](share-links-for-assets.md)
 + [Gestion des collections](manage-collections.md)
-+ [Gestion des notifications](manage-notifications.md)
-+ [Gestion des rapports](manage-reports.md)
++ [Gérer les notifications](manage-notifications.md)
++ [Gérer les rapports](manage-reports.md)
 + [Intégration à d’autres solutions](integration.md)
 + [Vidéos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=fr)
