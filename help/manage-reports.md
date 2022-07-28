@@ -1,49 +1,49 @@
 ---
-title: Gestion des rapports dans Assets Essentials
+title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials afin d’évaluer l’utilisation des produits et des fonctionnalités et d’obtenir des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 5%
+ht-degree: 71%
 
 ---
 
-# Gestion des rapports {#manage-reports}
+# Gérer les rapports {#manage-reports}
 
 Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la manière dont les utilisateurs interagissent avec le contenu et le produit.
 
-## Accès aux rapports {#access-reports}
+## Accéder aux rapports {#access-reports}
 
 Tous les utilisateurs affectés à la variable [Profil de produit des administrateurs Assets Essentials](deploy-administer.md) Vous pouvez accéder au tableau de bord Statistiques en direct et créer des rapports définis par l’utilisateur dans Assets Essentials.
 
-## Affichage des statistiques en direct {#view-live-statistics}
+## Afficher les statistiques en direct {#view-live-statistics}
 
 Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Statistiques en direct . Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
 
 ![Options de la barre d’outils lors de la sélection d’une ressource](assets/asset-reports-live-statistics.png)
 
-Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Statistiques en direct]** pour afficher les données de téléchargement générées automatiquement.
+Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Statistiques en direct]** pour visualiser les données de téléchargement générées automatiquement.
 
-## Créer un rapport {#create-report}
+## Créer un rapport. {#create-report}
 
-Pour créer un rapport :
+Pour créer un rapport, procédez come suit :
 
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]** et cliquez sur **[!UICONTROL Créer un rapport]**.
 
-1. Dans le [!UICONTROL Configuration] , indiquez un titre et une description facultative du rapport.
+1. Sous l’onglet [!UICONTROL Configuration], spécifiez un titre et une description facultative pour le rapport.
 
-1. Sélectionnez le chemin du dossier, qui comprend les ressources sur lesquelles exécuter le rapport, à l’aide de la variable **[!UICONTROL Sélectionner le chemin du dossier]** champ .
+1. Sélectionnez le chemin d’accès au dossier, qui contient les ressources sur lesquelles portera le rapport, à l’aide du champ **[!UICONTROL Sélectionner le chemin d’accès au dossier]**.
 
-1. Sélectionnez l’intervalle de dates du rapport.
+1. Sélectionnez la période du rapport.
 
-1. Dans le [!UICONTROL Colonnes] sélectionnez les noms des colonnes à afficher dans le rapport.
+1. Sous l’onglet [!UICONTROL Colonnes], sélectionnez les noms des colonnes à afficher dans le rapport.
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 
    ![Télécharger le rapport](assets/download-reports-config.png)
 
-Le tableau suivant explique l’utilisation de toutes les colonnes que vous pouvez ajouter au rapport :
+Le tableau suivant décrit l’utilisation de toutes les colonnes que vous pouvez ajouter au rapport :
 
 <table>
     <tbody>
@@ -57,7 +57,7 @@ Le tableau suivant explique l’utilisation de toutes les colonnes que vous pouv
      </tr>
      <tr>
       <td>Chemin </td>
-      <td>Chemin du dossier dans lequel la ressource est disponible dans Assets Essentials.</td>
+      <td>Chemin d’accès au dossier qui contient la ressource dans Assets Essentials.</td>
      </tr>
      <tr>
       <td>Type</td>
@@ -69,19 +69,19 @@ Le tableau suivant explique l’utilisation de toutes les colonnes que vous pouv
      </tr>
      <tr>
       <td>Téléchargé par</td>
-      <td>ID de courrier électronique de l’utilisateur qui a téléchargé la ressource.</td>
+      <td>ID d’e-mail de l’utilisateur qui a téléchargé la ressource.</td>
      </tr>
      <tr>
       <td>Date de téléchargement</td>
-      <td>Date à laquelle l’action de téléchargement de ressources est effectuée.</td>
+      <td>Date à laquelle la ressource a été téléchargée.</td>
      </tr>
      <tr>
-      <td>Création</td>
-      <td>L’auteur de la ressource.</td>
+      <td>Créateur ou créatrice</td>
+      <td>Le créateur ou la créatrice de la ressource.</td>
      </tr>
      <tr>
       <td>Date de création</td>
-      <td>Date à laquelle la ressource est chargée dans Assets Essentials.</td>
+      <td>Date à laquelle la ressource a été chargée dans Assets Essentials.</td>
      </tr>
      <tr>
       <td>Date de modification</td>
@@ -89,10 +89,10 @@ Le tableau suivant explique l’utilisation de toutes les colonnes que vous pouv
      </tr>
      <tr>
       <td>Expiré</td>
-      <td>État d’expiration de la ressource.</td>
+      <td>Statut d’expiration de la ressource.</td>
      </tr>
      <tr>
-      <td>Téléchargé par nom d’utilisateur</td>
+      <td>Téléchargé par « Nom d’utilisateur »</td>
       <td>Nom de l’utilisateur qui a téléchargé la ressource.</td>
      </tr>           
     </tbody>
@@ -104,22 +104,22 @@ Après [création du rapport](#create-report), vous pouvez afficher la liste des
 
 Pour afficher la liste des rapports, accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]**.
 
-Pour chaque rapport, vous pouvez afficher le titre du rapport, le type du rapport, la description spécifiée lors de la création du rapport, l’état du rapport, l’e-mail de l’auteur du rapport et la date de création du rapport.
+Pour chaque rapport, vous pouvez afficher les éléments suivants : le titre, le type, la description spécifiée lors de la création, le statut, l’ID d’e-mail du créateur ou de la créatrice et la date de création.
 
-`Completed ` Le statut du rapport indique que le rapport est prêt pour le téléchargement.
+Le statut `Completed ` du rapport indique que celui-ci est prêt à être téléchargé.
 
 ![Liste des rapports](assets/list-of-reports.png)
 
 
-## Téléchargement d’un rapport CSV {#download-csv-report}
+## Télécharger un rapport au format CSV {#download-csv-report}
 
-Pour télécharger un rapport au format CSV :
+Pour télécharger un rapport au format CSV, procédez comme suit :
 
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]**.
 
-1. Sélectionnez un rapport et cliquez sur **[!UICONTROL Téléchargement de fichier CSV]**.
+1. Sélectionnez un rapport, puis cliquez sur **[!UICONTROL Télécharger CSV]**.
 
-Téléchargements du rapport sélectionné au format CSV. Les colonnes affichées dans le rapport CSV dépendent des colonnes sélectionnées lors de la [création du rapport](#create-report).
+Le rapport sélectionné sera téléchargé au format CSV. Les colonnes affichées dans le rapport CSV dépendent des colonnes que vous sélectionnez lors de la [création du rapport](#create-report).
 
 ## Supprimer un rapport {#delete-report}
 
@@ -127,4 +127,4 @@ Pour supprimer un rapport :
 
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]**.
 
-1. Sélectionnez un rapport et cliquez sur **[!UICONTROL Supprimer]**.
+1. Sélectionnez un rapport, puis cliquez sur **[!UICONTROL Supprimer]**.
