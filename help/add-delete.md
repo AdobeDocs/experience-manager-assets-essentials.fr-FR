@@ -3,10 +3,10 @@ title: Chargement de ressources dans le référentiel
 description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les statuts de chargement et résolvez les problèmes de chargement.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '810'
-ht-degree: 100%
+source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
+workflow-type: tm+mt
+source-wordcount: '839'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ Une fois tous les fichiers placés en file d’attente, cliquez sur **[!UICONTRO
 
 *Image : avant de charger les ressources sélectionnées, vous pouvez ajouter ou supprimer des ressources de la file d’attente.*
 
->[!CAUTION]
+>[!TIP]
 >
->Utilisez des ressources dont les noms de fichier ne contiennent pas d’espace blanc. Les réponses aux commentaires ne fonctionnent pas pour ces ressources.
+>Si vous téléchargez une structure de dossiers vers Assets Essentials, vous n’avez pas besoin de créer un fichier .ZIP avec la structure de dossiers, vous pouvez directement charger des structures de dossiers. Un fichier .ZIP téléchargé dans Assets Essentials est stocké en tant que ressource ZIP et n’est pas extrait automatiquement après le téléchargement.
 
 ## Afficher la progression et le statut du chargement {#upload-progress}
 
@@ -102,6 +102,6 @@ Les utilisateurs peuvent supprimer individuellement des ressources ou des dossie
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
-* Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
+* Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
 * Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
