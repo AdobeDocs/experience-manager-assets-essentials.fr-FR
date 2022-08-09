@@ -1,25 +1,25 @@
 ---
 title: Gérer les rapports dans Assets Essentials
-description: Accédez aux données de la section des rapports d’Assets Essentials afin d’évaluer l’utilisation des produits et des fonctionnalités et d’obtenir des informations sur les mesures de succès clés.
+description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '491'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # Gérer les rapports {#manage-reports}
 
-Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la manière dont les utilisateurs interagissent avec le contenu et le produit.
+Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit.
 
 ## Accéder aux rapports {#access-reports}
 
-Tous les utilisateurs affectés à la variable [Profil de produit des administrateurs Assets Essentials](deploy-administer.md) Vous pouvez accéder au tableau de bord Statistiques en direct et créer des rapports définis par l’utilisateur dans Assets Essentials.
+Tous les utilisateurs affectés au [profil de produit Administrateurs d’Assets Essentials](deploy-administer.md) peuvent accéder au tableau de bord des statistiques dynamiques dans Assets Essentials.
 
-## Afficher les statistiques en direct {#view-live-statistics}
+## Afficher les statistiques dynamiques {#view-live-statistics}
 
-Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Statistiques en direct . Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
+Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Statistiques dynamiques. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
 
 ![Options de la barre d’outils lors de la sélection d’une ressource](assets/asset-reports-live-statistics.png)
 
@@ -100,7 +100,7 @@ Le tableau suivant décrit l’utilisation de toutes les colonnes que vous pouve
 
 ## Affichage des rapports existants {#view-report-list}
 
-Après [création du rapport](#create-report), vous pouvez afficher la liste des rapports existants et choisir de les télécharger au format CSV ou de les supprimer.
+Une fois l’étape de [création du rapport](#create-report) effectuée, vous pouvez consulter la liste des rapports existants et choisir de les télécharger au format CSV ou de les supprimer.
 
 Pour afficher la liste des rapports, accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]**.
 
