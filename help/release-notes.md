@@ -5,31 +5,31 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1117'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle de [!DNL Assets Essentials] est publié le 14 juillet 2022.
+La version actuelle de [!DNL Assets Essentials] est sortie le 14 juillet 2022.
 
 Cette version fournit les éléments suivants :
 
 **Collections dynamiques**
 
-Enregistrez les résultats de recherche en tant que collection dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials qui correspondent aux critères de recherche définis lors de la [création de la collecte dynamique](manage-collections.md#create-smart-collection), le contenu de la collecte dynamique est automatiquement mis à jour.
+Enregistrez les résultats de recherche en tant que collecte dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials et celles-ci correspondent aux critères de recherche définis lors de la [création de la collecte dynamique](manage-collections.md#create-smart-collection), le contenu de la collecte dynamique sera automatiquement mis à jour.
 
 **Notifications**
 
-Les notifications Assets Essentials vous permettent de [surveiller les opérations effectuées sur les ressources ou les dossiers disponibles dans le référentiel ;](manage-notifications.md). Vous devez sélectionner et vous abonner au contenu pour lequel les notifications vous sont envoyées. Vous pouvez également configurer les catégories pour lesquelles les notifications vous sont envoyées.
+Les notifications d’Assets Essentials vous permettent de [surveiller les opérations effectuées sur les ressources ou dossiers disponibles dans le référentiel](manage-notifications.md). Pour recevoir les notifications, vous devez sélectionner le contenu et vous y abonner. Vous pouvez également configurer les catégories pour lesquelles les notifications vous sont envoyées.
 
 **Création de rapports**
 
-Les rapports de ressources permettent aux administrateurs d’évaluer l’activité des utilisateurs dans Adobe Experience Manager Assets Essentials. Le tableau de bord des rapports et des statistiques en direct fournit des informations utiles sur la manière dont les utilisateurs interagissent avec les ressources disponibles dans votre déploiement. [Utiliser les informations dans les rapports](manage-reports.md) pour obtenir des mesures de succès clés afin de mesurer l’adoption d’Assets au sein de votre entreprise et par les clients.
+Les rapports de ressources permettent aux administrateurs d’évaluer l’activité des utilisateurs dans Adobe Experience Manager Assets Essentials. Les rapports et les statistiques dynamiques fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec les ressources disponibles dans votre déploiement. [Utilisez les informations figurant dans les rapports](manage-reports.md) de manière à obtenir des mesures de succès essentielles pour évaluer l’adoption d’Assets au sein de votre entreprise et par les clients.
 
-Affichez les rapports sur les téléchargements de ressources et le module de tableau de bord des statistiques en direct pour déterminer les ressources téléchargées et la fréquence des téléchargements.
+Consultez les rapports sur les téléchargements de ressources et le module de tableau de bord des statistiques dynamiques pour déterminer quelles ressources sont téléchargées ainsi que la fréquence des téléchargements.
 
 **Améliorations basées sur les commentaires des clients**
 
@@ -47,7 +47,7 @@ La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révis�
 -->
 
 
-* Assets Essentials ne prend pas en charge la modification d’une collection dynamique.
+* Assets Essentials ne prend pas en charge la modification des collectes dynamiques.
 
 * Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
 
