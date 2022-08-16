@@ -4,9 +4,9 @@ description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
 source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '839'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Une fois tous les fichiers placés en file d’attente, cliquez sur **[!UICONTRO
 
 >[!TIP]
 >
->Si vous téléchargez une structure de dossiers vers Assets Essentials, vous n’avez pas besoin de créer un fichier .ZIP avec la structure de dossiers, vous pouvez directement charger des structures de dossiers. Un fichier .ZIP téléchargé dans Assets Essentials est stocké en tant que ressource ZIP et n’est pas extrait automatiquement après le téléchargement.
+>Si vous téléchargez une structure de dossiers dans Assets Essentials, vous n’avez pas besoin de créer un fichier .ZIP avec la structure de dossiers. Vous pouvez directement charger des structures de dossiers. Un fichier .ZIP téléchargé dans Assets Essentials est stocké en tant que ressource ZIP et n’est pas extrait automatiquement après le téléchargement.
 
 ## Afficher la progression et le statut du chargement {#upload-progress}
 
