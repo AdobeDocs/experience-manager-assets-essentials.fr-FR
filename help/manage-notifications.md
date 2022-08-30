@@ -3,15 +3,15 @@ title: Gérer les notifications
 description: Surveillez toute opération effectuée sur les ressources ou dossiers du répertoire à l’aide des notifications Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: 2a8899c333e08c50e4cf8b49399188f50a0d3a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '585'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # Gérer les notifications {#manage-notifications}
 
-Les notifications Assets Essentials vous permettent de surveiller les opérations effectuées sur les ressources, dossiers ou collections disponibles dans le référentiel. Pour recevoir les notifications, vous devez sélectionner le contenu et vous y abonner. Vous pouvez également configurer les catégories pour lesquelles les notifications vous sont envoyées.
+Les notifications Assets Essentials vous permettent de surveiller les opérations effectuées sur les ressources, les dossiers ou les collections disponibles dans le référentiel. Pour recevoir les notifications, vous devez sélectionner le contenu et vous y abonner. Vous pouvez également configurer les catégories pour lesquelles les notifications vous sont envoyées.
 
 ## S’abonner aux catégories de notification {#subscribe-to-notification-categories}
 
@@ -37,11 +37,11 @@ Vous pouvez choisir de vous abonner à une liste de catégories et recevoir des 
      </tr>
      <tr>
       <td>Suppression du contenu auquel vous êtes abonné</td>
-      <td>Vous recevez une notification lorsqu’un utilisateur supprime la ressource, le dossier ou la collection auquel vous êtes abonné.</td>
+      <td>Vous recevez une notification lorsqu’un utilisateur supprime une ressource, un dossier ou une collection auquel vous êtes abonné.</td>
      </tr>
      <tr>
       <td>Partage externe de contenu auquel vous êtes abonné</td>
-      <td>Vous recevez une notification lorsqu’un utilisateur génère un lien public pour votre ressource, dossier ou collection abonnée.</td>
+      <td>Vous recevez une notification lorsqu’un utilisateur génère un lien public pour la ressource, le dossier ou la collection auquel vous êtes abonné.</td>
      </tr>
      <tr>
       <td>Modification du contenu auquel vous êtes abonné</td>
@@ -53,7 +53,7 @@ Vous pouvez choisir de vous abonner à une liste de catégories et recevoir des 
      </tr>
      <tr>
       <td>Mise à jour des dossiers et collections auxquels vous êtes abonné</td>
-      <td>Vous recevez une notification lorsqu’un utilisateur ajoute ou supprime une ressource d’un dossier ou d’une collection abonné.</td>
+      <td>Vous recevez une notification lorsqu’un utilisateur ajoute ou supprime une ressource d’une collection ou d’un dossier auquel vous êtes abonné.</td>
      </tr>    
     </tbody>
    </table>
@@ -75,7 +75,7 @@ Pour vous abonner aux catégories de notification, procédez comme suit :
 
 1. Sélectionnez les catégories pour lesquelles vous souhaitez recevoir des notifications.
 
-## Surveillance et annulation de l’affichage des dossiers, ressources ou collections {#watch-unwatch-assets}
+## Observer et ne pas observer de dossiers, ressources ou collections {#watch-unwatch-assets}
 
 Une fois que vous êtes [abonné aux catégories de notification](#subscribe-to-notification-categories), vous devez vous abonner au contenu pour commencer à recevoir des notifications.
 
@@ -83,15 +83,15 @@ Une fois que vous êtes [abonné aux catégories de notification](#subscribe-to-
 >
 >Pour les catégories de notification **[!UICONTROL Demandes]** et **[!UICONTROL Attribué à moi]**, vous n’avez pas besoin de vous abonner au contenu après vous être abonné aux catégories de notification. Les notifications vous sont automatiquement envoyées dans les situations suivantes : lorsque vous créez une demande et lorsqu’une tâche vous est affectée.
 
-Pour vous abonner au contenu, sélectionnez le dossier, la ressource ou la collection auxquels vous devez vous abonner, puis cliquez sur **[!UICONTROL Regarder]**.
+Pour vous abonner au contenu, sélectionnez le dossier, la ressource ou la collection auquel vous souhaitez vous abonner, puis cliquez sur **[!UICONTROL Observer]**.
 
 Assets Essentials affiche un message de succès. Sur celui-ci, vous pouvez cliquer sur **[!UICONTROL Accéder aux préférences de notification]** pour modifier votre [abonnement aux catégories de notification](#subscribe-to-notification-categories).
 
 ![Notifications dans Assets Essentials](assets/watch-assets.png)
 
-Assets Essentials envoie désormais des notifications pour les catégories auxquelles vous êtes abonné. Vous pouvez également sélectionner plusieurs ressources, dossiers ou collections, puis cliquer sur **[!UICONTROL Regarder]** pour gagner du temps. Cependant, l’option **[!UICONTROL Observer]** ne s’affiche pas si des entités auxquelles vous êtes déjà abonné ont été sélectionnées.
+Assets Essentials envoie désormais des notifications pour les catégories auxquelles vous êtes abonné. Pour gagner du temps, vous pouvez également sélectionner plusieurs ressources, dossiers ou collections puis cliquer sur **[!UICONTROL Observer]**. Cependant, l’option **[!UICONTROL Observer]** ne s’affiche pas si des entités auxquelles vous êtes déjà abonné ont été sélectionnées.
 
-De même, pour vous désabonner, sélectionnez la ressource, le dossier ou la collection auxquels vous vous êtes abonné, puis cliquez sur **[!UICONTROL Annuler]**.
+De même, pour annuler votre abonnement, sélectionnez la ressource, le dossier ou la collection auquel vous vous êtes abonné, puis cliquez sur **[!UICONTROL Ne pas observer]**.
 
 ## Consulter les notifications {#view-notifications}
 
