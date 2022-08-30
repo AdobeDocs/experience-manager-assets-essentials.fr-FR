@@ -3,9 +3,9 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '712'
+ht-degree: 100%
 
 ---
 
@@ -23,11 +23,11 @@ Assets Essentials vous permet d’afficher des données en temps réel pour vot
 
 ![Options de la barre d’outils lors de la sélection d’une ressource](assets/assets-essentials-live-statistics.png)
 
-Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Statistiques en direct]** pour afficher les graphiques générés automatiquement suivants :
+Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Statistiques en direct]** pour visualiser les graphiques suivants générés automatiquement :
 
-* **Téléchargements**: Le nombre de ressources téléchargées à partir de l’environnement Assets Essentials au cours des 30 ou 12 derniers jours est représenté à l’aide d’un graphique en courbes.
+* **Téléchargements** : nombre de ressources téléchargées à partir de l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
 
-* **Téléchargements**: Nombre de ressources chargées dans l’environnement Assets Essentials au cours des 30 ou 12 derniers jours représentés à l’aide d’un graphique en courbes.
+* **Transferts** : nombre de ressources chargées dans l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
 
 <!--
 
@@ -35,15 +35,15 @@ Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Statistiques en direct]
 
 -->
 
-## Création d’un rapport Téléchargement {#create-download-report}
+## Créer un rapport de téléchargement {#create-download-report}
 
-Pour créer un rapport Téléchargement :
+Pour créer un rapport de téléchargement, procédez comme suit :
 
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]** et cliquez sur **[!UICONTROL Créer un rapport]**.
 
-1. Dans le [!UICONTROL Configuration] , définissez le type de rapport comme **[!UICONTROL Télécharger]**.
+1. Sous l’onglet [!UICONTROL Configuration], définissez le type de rapport comme **[!UICONTROL Téléchargement]**.
 
-1. Spécifiez un titre et une description facultative pour le rapport.
+1. Entrez un titre et une description facultative pour le rapport.
 
 1. Sélectionnez le chemin d’accès au dossier, qui contient les ressources sur lesquelles portera le rapport, à l’aide du champ **[!UICONTROL Sélectionner le chemin d’accès au dossier]**.
 
@@ -72,7 +72,7 @@ Le tableau suivant décrit l’utilisation de toutes les colonnes que vous pouve
       <td>Chemin d’accès au dossier qui contient la ressource dans Assets Essentials.</td>
      </tr>
      <tr>
-      <td>MIME Type</td>
+      <td>Type MIME</td>
       <td>Type MIME de la ressource.</td>
      </tr>
      <tr>
@@ -110,15 +110,15 @@ Le tableau suivant décrit l’utilisation de toutes les colonnes que vous pouve
     </tbody>
    </table>
 
-## Création d’un rapport de téléchargement {#create-upload-report}
+## Créer un rapport de chargement {#create-upload-report}
 
-Pour créer un rapport de téléchargement :
+Pour créer un rapport de chargement, procédez comme suit :
 
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]** et cliquez sur **[!UICONTROL Créer un rapport]**.
 
-1. Dans le [!UICONTROL Configuration] , définissez le type de rapport comme **[!UICONTROL Télécharger]**.
+1. Sous l’onglet [!UICONTROL Configuration], définissez le type de rapport comme **[!UICONTROL Chargement]**.
 
-1. Spécifiez un titre et une description facultative pour le rapport.
+1. Entrez un titre et une description facultative pour le rapport.
 
 1. Sélectionnez le chemin d’accès au dossier, qui contient les ressources sur lesquelles portera le rapport, à l’aide du champ **[!UICONTROL Sélectionner le chemin d’accès au dossier]**.
 
@@ -128,7 +128,7 @@ Pour créer un rapport de téléchargement :
 
 1. Cliquez sur **[!UICONTROL Créer]**.
 
-   ![Télécharger le rapport](assets/upload-reports-config.png)
+   ![Rapport de chargement](assets/upload-reports-config.png)
 
 Le tableau suivant décrit l’utilisation de toutes les colonnes que vous pouvez ajouter au rapport :
 
