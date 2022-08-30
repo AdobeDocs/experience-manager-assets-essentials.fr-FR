@@ -7,23 +7,23 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: b118b841cbca05edc5b67d86ea87abfd09dcd452
 workflow-type: tm+mt
 source-wordcount: '1269'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials est publiée le 22 août 2022.
+La version actuelle d’Assets Essentials est sortie le 22 août 2022.
 
 Cette version fournit les éléments suivants :
 
 **Notifications pour les collections**
 
-Les notifications Assets Essentials vous permettent désormais de surveiller les opérations effectuées sur les collections disponibles dans le référentiel. Vous devez sélectionner et vous abonner aux collections pour lesquelles les notifications vous sont envoyées. Vous pouvez également configurer les opérations pour lesquelles les notifications sont envoyées, telles que la suppression, le partage de lien, le déplacement, le changement de nom et la mise à jour des opérations effectuées sur les collections.
+Les notifications Assets Essentials vous permettent de surveiller les opérations effectuées sur les collections disponibles dans le référentiel. Pour recevoir les notifications, vous devez sélectionner des collections et vous y abonner. Vous pouvez également configurer les opérations pour lesquelles les notifications sont envoyées, telles que la suppression, le partage de lien, le déplacement, le changement de nom et la mise à jour d’opérations effectuées sur les collections.
 
 **Modification des collections dynamiques**
 
-Assets Essentials permet désormais également de modifier les critères de recherche utilisés lors de la création d’une collection dynamique.  Enregistrez les nouveaux critères de recherche pour mettre à jour dynamiquement le contenu de la collection.
+Désormais, Assets Essentials permet également de modifier les critères de recherche utilisés lors de la création d’une collection dynamique.  Enregistrez les nouveaux critères de recherche pour mettre à jour le contenu de la collection de façon dynamique.
 
 <!--
 
@@ -61,7 +61,7 @@ Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélio
 
 ### 2022.6.0 {#june-2022}
 
-La version de juin de [!DNL Assets Essentials] est publié le 14 juillet 2022.
+La version de juin d’[!DNL Assets Essentials] est sortie le 14 juillet 2022.
 
 Cette version fournit les éléments suivants :
 
@@ -81,7 +81,7 @@ Consultez les rapports sur les téléchargements de ressources et le module de t
 
 ### 2022.5.0 {#may-2022}
 
-La version de mai de [!DNL Assets Essentials] est publié le 16 juin 2022.
+La version de mai d’[!DNL Assets Essentials] est sortie le 16 juin 2022.
 
 Cette version fournit les éléments suivants :
 
