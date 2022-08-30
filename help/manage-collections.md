@@ -3,9 +3,9 @@ title: Gestion des collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '752'
+ht-degree: 100%
 
 ---
 
@@ -31,13 +31,13 @@ Vous pouvez effectuer les tâches suivantes pour gérer et utiliser les collecti
 
 * [Créer une collection dynamique](#create-smart-collection)
 
-* [Modification d’une collection dynamique](#edit-smart-collection)
+* [Modifier une collection dynamique](#edit-smart-collection)
 
 * [Supprimer les ressources d’une collection](#remove-assets-from-collection)
 
-* [Affichage et modification des métadonnées](#view-edit-collection-metadata)
+* [Afficher et modifier des métadonnées de collection](#view-edit-collection-metadata)
 
-* [Partage de liens vers des collections](#share-collection-links)
+* [Partager des liens vers des collections](#share-collection-links)
 
 * [Téléchargement d’une collection](#download-collection)
 
@@ -77,7 +77,7 @@ Pour ajouter des ressources à une collection :
 
 Pour ajouter des ressources à une collection, vous pouvez également cliquer sur **[!UICONTROL Collections]** dans le rail de gauche, cliquez sur la collection à laquelle ajouter des ressources, puis sur **[!UICONTROL Ajouter à la collection]**, sélectionnez la ou les ressources, puis cliquez sur **[!UICONTROL Sélectionner]**.
 
-## Gestion d’une collection dynamique {#manage-smart-collection}
+## Gérer une collection dynamique {#manage-smart-collection}
 
 Enregistrez les résultats de recherche en tant que collecte dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials et celles-ci correspondent aux critères de recherche définis lors de la création de la collecte dynamique, le contenu de la collecte dynamique sera automatiquement mis à jour.
 
@@ -87,7 +87,7 @@ Pour créer une collection dynamique, procédez comme suit :
 
 1. Cliquez sur **[!UICONTROL Filtrer]** et [Définir les critères de recherche](search.md##refine-search-results).
 
-1. Cliquez sur **[!UICONTROL Enregistrer sous]** puis sélectionnez **[!UICONTROL Collecte dynamique]**.
+1. Cliquez sur **[!UICONTROL Enregistrer sous]** puis sélectionnez **[!UICONTROL Collection dynamique]**.
 
    ![Créer une collection dynamique](assets/create-smart-collection.png)
 
@@ -97,15 +97,15 @@ Pour créer une collection dynamique, procédez comme suit :
 
 1. Cliquez sur **[!UICONTROL Créer]** pour créer la collection dynamique.
 
-### Modification d’une collection dynamique {#edit-smart-collection}
+### Modifier une collection dynamique {#edit-smart-collection}
 
-Pour modifier une collection dynamique :
+Pour modifier une collection dynamique, procédez comme suit :
 
-1. Cliquez sur **[!UICONTROL Collections]** dans le rail de gauche, puis double-cliquez sur le nom de la collection que vous devez modifier.
+1. Cliquez sur **[!UICONTROL Collections]** dans le rail de gauche, puis double-cliquez sur le nom de la collection à modifier.
 
 1. Cliquez sur **[!UICONTROL Modif. collection dynam.]**.
 
-1. Sur le [!UICONTROL Modification des filtres de collection dynamique] boîte de dialogue, [mise à jour des critères de recherche](search.md##refine-search-results) pour la collecte dynamique.
+1. Dans la boîte de dialogue [!UICONTROL Modification des filtres de collection dynamique], [mettez à jour les critères de recherche](search.md##refine-search-results) de la collection dynamique.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**.
 
