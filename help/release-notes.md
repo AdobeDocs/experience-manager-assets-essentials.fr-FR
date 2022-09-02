@@ -4,10 +4,10 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: b118b841cbca05edc5b67d86ea87abfd09dcd452
+source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
 workflow-type: tm+mt
-source-wordcount: '1269'
-ht-degree: 98%
+source-wordcount: '1312'
+ht-degree: 95%
 
 ---
 
@@ -25,13 +25,9 @@ Les notifications Assets Essentials vous permettent de surveiller les opératio
 
 Désormais, Assets Essentials permet également de modifier les critères de recherche utilisés lors de la création d’une collection dynamique.  Enregistrez les nouveaux critères de recherche pour mettre à jour le contenu de la collection de façon dynamique.
 
-<!--
+**Affichage des statistiques en direct pour le compte de stockage**
 
-**View live statistics for storage account**
-
-Assets Essentials now also enables you to view real-time storage account data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics for the last 30 days or for the last 12 months.
-
--->
+Assets Essentials vous permet désormais également d’afficher les données de compte de stockage en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Statistiques en direct . Vous pouvez afficher les mesures d’événement en temps réel pour les 30 derniers jours ou pour les 12 derniers mois.
 
 **Affichage des rapports de chargement**
 
