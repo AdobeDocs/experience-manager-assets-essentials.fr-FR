@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
 workflow-type: tm+mt
 source-wordcount: '1312'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -181,7 +181,7 @@ La version 2021.7.0 d’[!DNL Assets Essentials] est sortie le 29 juillet 202
 
 ### Version 2021.6.0 {#june2021}
 
-La première version d’[!DNL Assets Essentials], sortie le 21 juin 2021, offre des fonctionnalités légères de gestion de ressources. Il prend en charge les principales fonctionnalités suivantes et les opérations CRUD (Create, Read, Update et Delete) :
+La première version d’[!DNL Assets Essentials], sortie le 21 juin 2021, offre des fonctionnalités légères de gestion de ressources. Elle prend en charge les principales fonctionnalités suivantes et les opérations CRUD (création, lecture, mise à jour et suppression) :
 
 * Chargement et ajout de ressources, y compris des dossiers imbriqués. Aperçu des ressources et des versions.
 * Recherche en plein texte, filtres de recherche nuancés et enregistrement des paramètres de recherche pour découvrir rapidement de ressources.
