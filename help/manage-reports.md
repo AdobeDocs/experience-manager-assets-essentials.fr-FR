@@ -3,9 +3,9 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '736'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Statistiques en direct]
 
 * **Transferts** : nombre de ressources chargées dans l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
 
-* **Utilisation du stockage**: L’utilisation du stockage, en gigaoctets (Go), pour l’environnement Assets Essentials, au cours des 30 ou 12 derniers jours a été représentée à l’aide d’un graphique à barres.
+* **Utilisation du stockage** : l’utilisation du stockage, en gigaoctets (Go), pour l’environnement Assets Essentials, au cours des 30 derniers jours ou 12 derniers mois a été représentée à l’aide d’un graphique à barres.
 
 ## Créer un rapport de téléchargement {#create-download-report}
 
