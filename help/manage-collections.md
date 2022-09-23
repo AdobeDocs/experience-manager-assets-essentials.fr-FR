@@ -2,16 +2,16 @@
 title: Gestion des collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: ht
-source-wordcount: '752'
-ht-degree: 100%
+source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+workflow-type: tm+mt
+source-wordcount: '769'
+ht-degree: 87%
 
 ---
 
 # Gestion des collections {#manage-collections}
 
-Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
+Une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Adobe Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 
 Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements.
 
@@ -29,11 +29,11 @@ Vous pouvez effectuer les tâches suivantes pour gérer et utiliser les collecti
 
 * [Ajout de ressources à une collection](#add-assets-to-collection)
 
+* [Supprimer les ressources d’une collection](#remove-assets-from-collection)
+
 * [Créer une collection dynamique](#create-smart-collection)
 
 * [Modifier une collection dynamique](#edit-smart-collection)
-
-* [Supprimer les ressources d’une collection](#remove-assets-from-collection)
 
 * [Afficher et modifier des métadonnées de collection](#view-edit-collection-metadata)
 
@@ -67,7 +67,7 @@ Pour créer une collection :
 
 Pour ajouter des ressources à une collection :
 
-1. Cliquez sur **[!UICONTROL Ressources]** dans le rail de gauche et sélectionnez la ou les ressources.
+1. Cliquez sur **[!UICONTROL Ressources]** dans le rail de gauche et sélectionnez les ressources à ajouter à une collection.
 
 1. Cliquez sur **[!UICONTROL Ajouter à la collection]**.
 
@@ -77,9 +77,19 @@ Pour ajouter des ressources à une collection :
 
 Pour ajouter des ressources à une collection, vous pouvez également cliquer sur **[!UICONTROL Collections]** dans le rail de gauche, cliquez sur la collection à laquelle ajouter des ressources, puis sur **[!UICONTROL Ajouter à la collection]**, sélectionnez la ou les ressources, puis cliquez sur **[!UICONTROL Sélectionner]**.
 
+## Suppression de ressources d’une collection {#remove-assets-from-collection}
+
+Pour supprimer des ressources d’une collection :
+
+1. Cliquez sur **[!UICONTROL Collections]** dans le rail de gauche pour afficher la liste des collections.
+
+1. Cliquez sur la collection et sélectionnez les éléments à supprimer de la collection.
+
+1. Cliquez sur **[!UICONTROL Supprimer]**.
+
 ## Gérer une collection dynamique {#manage-smart-collection}
 
-Enregistrez les résultats de recherche en tant que collecte dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials et celles-ci correspondent aux critères de recherche définis lors de la création de la collecte dynamique, le contenu de la collecte dynamique sera automatiquement mis à jour.
+Enregistrez les résultats de recherche en tant que collecte dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials qui correspondent aux critères de recherche définis lors de la création de la collecte dynamique, le contenu de cette dernière est automatiquement mis à jour lorsque vous ouvrez une collection dynamique.
 
 ### Créer une collection dynamique {#create-smart-collection}
 
@@ -108,16 +118,6 @@ Pour modifier une collection dynamique, procédez comme suit :
 1. Dans la boîte de dialogue [!UICONTROL Modification des filtres de collection dynamique], [mettez à jour les critères de recherche](search.md##refine-search-results) de la collection dynamique.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**.
-
-## Suppression de ressources d’une collection {#remove-assets-from-collection}
-
-Pour supprimer des ressources d’une collection :
-
-1. Cliquez sur **[!UICONTROL Collections]** dans le rail de gauche pour afficher la liste des collections.
-
-1. Cliquez sur la collection et sélectionnez la ou les ressources à supprimer de la collection.
-
-1. Cliquez sur **[!UICONTROL Supprimer]**.
 
 <!--
 
@@ -149,7 +149,7 @@ Pour afficher et modifier les métadonnées :
 
 1. Cliquez sur **[!UICONTROL Collections]** dans le rail de gauche, sélectionnez une collection, puis cliquez sur **[!UICONTROL Détails]**.
 1. Affichez les métadonnées de la collection à l’aide de l’onglet **[!UICONTROL De base]**.
-1. Modifiez les champs de métadonnées selon les besoins. Vous pouvez modifier les champs [!UICONTROL Titre], [!UICONTROL Description] et [!UICONTROL Auteur].
+1. Modifiez les champs de métadonnées selon les besoins. Vous pouvez modifier la variable [!UICONTROL Titre] et [!UICONTROL Description] champs.
 
 ![Métadonnées de collection](assets/collection-metadata.png)
 

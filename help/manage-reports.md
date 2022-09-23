@@ -2,10 +2,10 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
-workflow-type: ht
-source-wordcount: '736'
-ht-degree: 100%
+source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+workflow-type: tm+mt
+source-wordcount: '755'
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ Les rapports de ressources offrent aux administrateurs une visibilité sur l’a
 
 ## Accéder aux rapports {#access-reports}
 
-Tous les utilisateurs affectés au [profil de produit Administrateurs d’Assets Essentials](deploy-administer.md) peuvent accéder au tableau de bord des statistiques dynamiques dans Assets Essentials.
+Tous les utilisateurs affectés à la variable [Profil de produit des administrateurs Assets Essentials](deploy-administer.md) Vous pouvez accéder au tableau de bord Statistiques en direct ou créer des rapports définis par l’utilisateur dans Assets Essentials.
 
 ## Afficher les statistiques dynamiques {#view-live-statistics}
 
@@ -44,6 +44,9 @@ Pour créer un rapport de téléchargement, procédez comme suit :
 1. Sélectionnez le chemin d’accès au dossier, qui contient les ressources sur lesquelles portera le rapport, à l’aide du champ **[!UICONTROL Sélectionner le chemin d’accès au dossier]**.
 
 1. Sélectionnez la période du rapport.
+   >[!NOTE]
+   >
+   > Assets Essentials convertit tous les fuseaux horaires locaux en temps universel coordonné (UTC).
 
 1. Sous l’onglet [!UICONTROL Colonnes], sélectionnez les noms des colonnes à afficher dans le rapport.
 
@@ -73,7 +76,7 @@ Le tableau suivant décrit l’utilisation de toutes les colonnes que vous pouve
      </tr>
      <tr>
       <td>Taille</td>
-      <td>Taille de la ressource.</td>
+      <td>Taille de la ressource en octets.</td>
      </tr>
      <tr>
       <td>Téléchargé par</td>
@@ -171,7 +174,7 @@ Le tableau suivant décrit l’utilisation de toutes les colonnes que vous pouve
 
 ## Affichage des rapports existants {#view-report-list}
 
-Une fois l’étape de [création du rapport](#create-report) effectuée, vous pouvez consulter la liste des rapports existants et choisir de les télécharger au format CSV ou de les supprimer.
+Une fois l’étape de [création du rapport](#create-download-report) effectuée, vous pouvez consulter la liste des rapports existants et choisir de les télécharger au format CSV ou de les supprimer.
 
 Pour afficher la liste des rapports, accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]**.
 
@@ -190,7 +193,7 @@ Pour télécharger un rapport au format CSV, procédez comme suit :
 
 1. Sélectionnez un rapport, puis cliquez sur **[!UICONTROL Télécharger CSV]**.
 
-Le rapport sélectionné sera téléchargé au format CSV. Les colonnes affichées dans le rapport CSV dépendent des colonnes que vous sélectionnez lors de la [création du rapport](#create-report).
+Le rapport sélectionné sera téléchargé au format CSV. Les colonnes affichées dans le rapport CSV dépendent des colonnes que vous sélectionnez lors de la [création du rapport](#create-download-report).
 
 ## Supprimer un rapport {#delete-report}
 
@@ -199,3 +202,5 @@ Pour supprimer un rapport :
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Rapports]**.
 
 1. Sélectionnez un rapport, puis cliquez sur **[!UICONTROL Supprimer]**.
+
+1. Cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
