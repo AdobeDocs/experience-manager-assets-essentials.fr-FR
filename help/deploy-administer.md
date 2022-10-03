@@ -4,9 +4,9 @@ description: Cas pratiques d’administration tels que le déploiement et la ges
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 9818d06d8da806190c61aadeecd50a7c65b31cbe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1331'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 82%
 
 Le diagramme de flux de données suivant illustre la séquence des tâches qu’un administrateur doit effectuer pour configurer et gérer Assets Essentials :
 
-![Déploiement d’Assets Essentials](assets/deploy-assets-essentials.svg)
+![Déployer Assets Essentials](assets/deploy-assets-essentials.svg)
 
 ## Accéder à Admin Console {#access-admin-console}
 
@@ -25,19 +25,19 @@ Une fois la solution Assets Essentials configurée, l’administrateur reçoit u
 
 À partir du lien dans l’e-mail, accédez à l’[Admin Console](https://adminconsole.adobe.com) et connectez-vous. Si vous disposez d’un accès administrateur à plusieurs comptes d’organisation, alors sélectionnez l’organisation appropriée ou accédez à celle-ci à l’aide du [sélecteur d’organisation](https://helpx.adobe.com/fr/enterprise/using/admin-console.html). Une fois le processus de déploiement automatique terminé, la fiche produit dʼ[!DNL AEM Assets Essentials] est visible dans [!DNL Admin Console].
 
-Effectuez les tâches de droits d’utilisateur suivantes à l’aide de Admin Console :
+Effectuez les tâches de droits d’utilisateur suivantes à l’aide d’Admin Console :
 
-* [Création d’un administrateur d’application Assets Essentials](#create-assets-essentials-administrator)
+* [Créer un administrateur de l’application Assets Essentials](#create-assets-essentials-administrator)
 
 * [Ajouter des groupes d’utilisateurs](#add-user-groups)
 
-* [Ajout de groupes d’utilisateurs aux profils de produit](#add-users-to-product-profiles)
+* [Ajouter des groupes d’utilisateurs aux profils de produits](#add-users-to-product-profiles)
 
 ![Déploiement d’Assets Essentials](assets/admin-console-cards.png)
 
-### Création d’un administrateur d’application Assets Essentials {#create-assets-essentials-administrator}
+### Créer un administrateur de l’application Assets Essentials {#create-assets-essentials-administrator}
 
-Un administrateur de Admin Console doit ajouter un administrateur d’application Assets Essentials pour gérer des tâches telles que la création d’une structure de dossiers, le chargement de ressources, la configuration des autorisations, la configuration de formulaires de métadonnées et la création de collections publiques. Pour plus d’informations sur l’affectation d’un utilisateur ou d’un groupe d’utilisateurs à un profil d’administrateur d’application Assets Essentials, voir [ajouter des utilisateurs à des profils de produit ;](#add-users-to-product-profiles).
+Un administrateur d’Admin Console doit ajouter un administrateur de l’application Assets Essentials pour gérer des tâches telles que la création d’une structure de dossiers, le chargement de ressources, la configuration des autorisations et des formulaires de métadonnées ainsi que la création des collections publiques. Pour plus d’informations sur l’affectation d’un utilisateur ou d’un groupe d’utilisateurs à un profil d’administrateur de l’application Assets Essentials, reportez-vous à la section [ajouter des utilisateurs à des profils de produits](#add-users-to-product-profiles).
 
 ### Ajouter des groupes d’utilisateurs {#add-user-groups}
 
@@ -51,30 +51,30 @@ Pour plus d’informations sur la gestion des groupes d’utilisateurs, consulte
 
 Pour plus d’informations sur la gestion de l’ajout d’utilisateurs aux groupes d’utilisateurs, consultez la section `Add users to groups` de la page [Gérer les groupes d’utilisateurs](https://helpx.adobe.com/fr/enterprise/using/user-groups.html#add-users-to-groups).
 
-### Ajout de groupes d’utilisateurs aux profils de produit {#add-users-to-product-profiles}
+### Ajouter des groupes d’utilisateurs aux profils de produits {#add-users-to-product-profiles}
 
-Ajoutez des groupes d’utilisateurs aux profils de produit afin qu’ils aient accès à l’application Assets Essentials.
+Ajoutez des groupes d’utilisateurs aux profils de produits afin qu’ils aient accès à l’application Assets Essentials.
 
-Pour ajouter des groupes d’utilisateurs aux profils de produit :
+Pour ajouter des groupes d’utilisateurs aux profils de produits :
 
 1. Accédez à [Admin Console](https://adminconsole.adobe.com) de votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, puis sur **[!UICONTROL AEM Assets Essentials]**, et enfin sur l’instance de [!DNL Assets Essentials]. Le nom de l’instance peut être différent de celui de la capture d’écran ci-dessous.
    >[!NOTE]
    >
-   >L’instance de [!DNL Cloud Manager] est réservée à un usage administratif spécial, comme la vérification de l’état des services et l’accès aux journaux des services. Elle ne peut pas être utilisée pour ajouter des utilisateurs au produit. 
+   >L’instance de [!DNL Cloud Manager] est réservée à un usage administratif spécial, comme la vérification du statut des services et l’accès aux journaux des services. Elle ne peut pas être utilisée pour ajouter des utilisateurs au produit. 
 
    ![Profil administrateur Admin Console](assets/assets-essentials-instance.png)
 
    [!DNL Assets Essentials] possède trois profils de produits qui représentent l’accès pour les administrateurs, les utilisateurs réguliers et les consommateurs.
 
-   * Les **[!DNL Assets Essentials]administrateurs** ont un accès administratif à l’application ; En plus de toutes les fonctionnalités de l’utilisateur final, les administrateurs d’applications de ce groupe peuvent gérer les autorisations de n’importe quel dossier et groupe/utilisateur dans l’ensemble du référentiel de l’application.
+   * Les **[!DNL Assets Essentials] administrateurs** : ont un accès administratif à l’application. En plus de toutes les fonctionnalités de l’utilisateur final, les administrateurs d’applications de ce groupe peuvent gérer les autorisations de n’importe quel dossier et groupe/utilisateur dans l’ensemble du référentiel de l’application.
 
-   * Les **[!DNL Assets Essentials] utilisateurs** ont accès à l’interface utilisateur complète. Ces utilisateurs peuvent charger, organiser, baliser et rechercher des ressources numériques.
+   * Les **[!DNL Assets Essentials] utilisateurs** : ont accès à l’interface utilisateur complète. Ces utilisateurs peuvent charger, organiser, baliser et rechercher des ressources numériques.
 
    * Les **[!DNL Assets Essentials] utilisateurs consommateurs** : disposent d’un accès à l’expérience de sélection de ressources incorporée dans l’éditeur de modèles d’e-mail [!DNL Adobe Journey Optimizer]. Consultez [Utiliser  [!DNL Assets Essentials]  dans  [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=fr) pour plus d’informations.
 
    ![Profil administrateur Admin Console](assets/admin-console-admin-profile.png)
 
-1. Pour ajouter un groupe d’utilisateurs au produit, cliquez sur l’un des trois profils de produit Assets Essentials, puis sélectionnez **[!UICONTROL Ajouter un utilisateur]**, fournissez les détails du groupe d’utilisateurs, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Pour ajouter un groupe d’utilisateurs au produit, cliquez sur l’un des trois profils de produit Assets Essentials, puis sélectionnez **[!UICONTROL Ajouter un utilisateur]**, fournissez les informations sur l’utilisateur et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![Ajouter le profil administrateur des utilisateurs](assets/add-users-admin-profile.png)
 
@@ -84,9 +84,9 @@ Pour ajouter des groupes d’utilisateurs aux profils de produit :
    >
    >Vous devez ajouter un utilisateur au profil Administrateur du produit Assets Essentials dans Admin Console, afin qu’il puisse effectuer des tâches administratives dans l’application Assets Essentials. Ces tâches comprennent : [Créer une structure de dossiers](#create-folder-structure), [Gérer les autorisations pour les dossiers](#manage-permissions-for-folders) et [Configurer des formulaires de métadonnées](#metadata-forms).
 
-## Accès à l’application Assets Essentials {#access-assets-essentials-application}
+## Accéder à l’application Assets Essentials {#access-assets-essentials-application}
 
-Après avoir appliqué les droits utilisateur dans Admin Console, vous pouvez accéder à l’application Assets Essentials pour effectuer les tâches suivantes :
+Après avoir appliqué les droits d’utilisateur dans Admin Console, vous pouvez accéder à l’application Assets Essentials pour effectuer les tâches suivantes :
 
 * [Créer une structure de dossiers](#create-folder-structure)
 
@@ -106,7 +106,7 @@ Pour créer une structure de dossiers dans le référentiel Assets Essentials, 
 
 * Cliquez sur lʼoption **[!UICONTROL Ajouter des ressources]** disponible dans la barre d’outils pour [télécharger une structure de dossiers présente sur votre ordinateur local](add-delete.md).
 
-Créez une structure de dossiers qui correspond aux objectifs commerciaux de lʼorganisation. Si vous téléchargez une structure de dossiers existante vers le référentiel Assets Essentials, vous devez vérifier la structure. Pour plus d’informations, voir [Bonnes pratiques relatives à la structure de dossiers pour une gestion efficace des autorisations](permission-management-best-practices.md##folder-structure-assets-essentials).
+Créez une structure de dossiers qui correspond aux objectifs commerciaux de lʼorganisation. Si vous téléchargez une structure de dossiers existante vers le référentiel Assets Essentials, vous devez vérifier la structure. Pour plus d’informations, consultez la section [Bonnes pratiques relatives à la structure des dossiers pour la gestion efficace des autorisations](permission-management-best-practices.md##folder-structure-assets-essentials).
 
 Il existe plusieurs types de structure de dossiers que vous pouvez utiliser pour votre organisation. Voici quelques exemples de structures de dossiers typiques :
 
@@ -118,9 +118,9 @@ Il existe plusieurs types de structure de dossiers que vous pouvez utiliser pour
 
 ### Charger des ressources {#upload-assets}
 
-Pour ajouter de nouvelles ressources à utiliser, chargez quelques ressources à partir de votre système de fichiers local. Vous pouvez faire glisser des ressources ou des dossiers sur l’interface utilisateur et suivre les instructions à l’écran ou cliquer sur **[!UICONTROL Ajouter des ressources]** dans la barre d’outils et ajoutez des fichiers à la boîte de dialogue de téléchargement. [!DNL Assets Essentials] offre de puissantes fonctionnalités de recherche plein texte, mais vous pouvez également utiliser des dossiers pour mieux organiser vos ressources. Pour plus d’informations, voir [Chargement de ressources](add-delete.md).
+Pour ajouter de nouvelles ressources à utiliser, chargez des ressources à partir de votre système de fichiers local. Vous pouvez faire glisser des ressources ou des dossiers sur l’interface utilisateur et suivre les instructions à l’écran ou cliquer sur l’option **[!UICONTROL Ajouter des ressources]** dans la barre d’outils et ajouter des fichiers à la boîte de dialogue de téléchargement. [!DNL Assets Essentials] offre de puissantes fonctionnalités de recherche en texte intégral, mais vous pouvez également utiliser des dossiers pour mieux organiser vos ressources. Pour plus d’informations, consultez la section [Charger des ressources](add-delete.md).
 
-![Chargement de fichiers et de dossiers](assets/upload-assets.png)
+![Charger des fichiers et des dossiers](assets/upload-assets.png)
 
 ### Gérer les autorisations des dossiers {#manage-permissions-for-folders}
 
@@ -138,17 +138,17 @@ Vous pouvez configurer des formulaires de métadonnées pour différents types d
 
 Par exemple, s’il existe un formulaire de métadonnées portant le nom `PDF` ou `pdf`, les documents PDF chargés contiennent les champs de métadonnées définis dans le formulaire.
 
-Pour plus d’informations, voir [Formulaires de métadonnées](metadata.md#metadata-forms).
+Pour plus d’informations, consultez la section [Formulaires de métadonnées](metadata.md#metadata-forms).
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
 Pour plus d’informations sur le formulaires de métadonnées, voir [Formulaires de métadonnées dans Assets Essentials](metadata.md#metadata-forms).
 
-### Création de collections publiques (facultatif) {#create-public-collections}
+### Créer des collections publiques (facultatif) {#create-public-collections}
 
 Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 
-Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections. Pour plus d’informations, voir [Gestion des collections](manage-collections.md).
+Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections. Pour plus d’informations, consultez la section [Gérer des collections](manage-collections.md).
 
 ![Collections](assets/collections.png)
 
@@ -166,7 +166,7 @@ Contrairement aux dossiers, une collection peut comporter des ressources provena
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Admin Console] help](https://helpx.adobe.com/enterprise/using/admin-console.html)
+>* [[!DNL Admin Console] help](https://helpx.adobe.com/fr/enterprise/using/admin-console.html)
 >* [[!DNL Cloud Manager] help](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=fr)
 >* [Documentation Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr)
 >* [Notes de mise à jour](release-notes.md)
