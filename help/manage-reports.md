@@ -3,9 +3,9 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '755'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ Les rapports de ressources offrent aux administrateurs une visibilité sur l’a
 
 ## Accéder aux rapports {#access-reports}
 
-Tous les utilisateurs affectés à la variable [Profil de produit des administrateurs Assets Essentials](deploy-administer.md) Vous pouvez accéder au tableau de bord Statistiques en direct ou créer des rapports définis par l’utilisateur dans Assets Essentials.
+Tous les utilisateurs affectés au [profil de produit Administrateurs d’Assets Essentials](deploy-administer.md) peuvent accéder au tableau de bord des statistiques dynamiques ou créer des rapports définis par l’utilisateur dans Assets Essentials.
 
 ## Afficher les statistiques dynamiques {#view-live-statistics}
 
@@ -203,4 +203,4 @@ Pour supprimer un rapport :
 
 1. Sélectionnez un rapport, puis cliquez sur **[!UICONTROL Supprimer]**.
 
-1. Cliquez sur **[!UICONTROL Supprimer]** pour confirmer.
+1. Cliquez à nouveau sur **[!UICONTROL Supprimer]** pour confirmer.
