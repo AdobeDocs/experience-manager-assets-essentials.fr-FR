@@ -3,9 +3,9 @@ title: Gestion des collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '769'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -89,7 +89,7 @@ Pour supprimer des ressources d’une collection :
 
 ## Gérer une collection dynamique {#manage-smart-collection}
 
-Enregistrez les résultats de recherche en tant que collecte dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials qui correspondent aux critères de recherche définis lors de la création de la collecte dynamique, le contenu de cette dernière est automatiquement mis à jour lorsque vous ouvrez une collection dynamique.
+Enregistrez les résultats de recherche en tant que collection dynamique pour mettre à jour dynamiquement le contenu de la collection. Si des ressources sont ajoutées au référentiel Assets Essentials et que celles-ci correspondent aux critères de recherche définis lors de la création de la collection dynamique, le contenu de la collection dynamique sera automatiquement mis à jour lorsque vous ouvrirez une collection dynamique.
 
 ### Créer une collection dynamique {#create-smart-collection}
 
@@ -149,7 +149,7 @@ Pour afficher et modifier les métadonnées :
 
 1. Cliquez sur **[!UICONTROL Collections]** dans le rail de gauche, sélectionnez une collection, puis cliquez sur **[!UICONTROL Détails]**.
 1. Affichez les métadonnées de la collection à l’aide de l’onglet **[!UICONTROL De base]**.
-1. Modifiez les champs de métadonnées selon les besoins. Vous pouvez modifier la variable [!UICONTROL Titre] et [!UICONTROL Description] champs.
+1. Modifiez les champs de métadonnées selon les besoins. Vous pouvez modifier le [!UICONTROL Titre] et la [!UICONTROL Description].
 
 ![Métadonnées de collection](assets/collection-metadata.png)
 
