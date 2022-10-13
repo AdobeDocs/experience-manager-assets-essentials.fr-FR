@@ -3,9 +3,9 @@ title: Gérer les notifications
 description: Surveillez toute opération effectuée sur les ressources ou dossiers du répertoire à l’aide des notifications Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '614'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -60,9 +60,9 @@ Vous pouvez choisir de vous abonner à une liste de catégories et recevoir des 
 
 Pour vous abonner aux catégories de notification, procédez comme suit :
 
-1. Cliquez sur l’![icône en forme de cloche](assets/bell-icon.svg) à l’extrémité droite de la barre de menu de l’interface utilisateur d’Assets Essentials.
+1. Cliquez sur ![icône en forme de cloche](assets/bell-icon.svg) à l’extrémité droite de la barre de menu de l’interface utilisateur d’Assets Essentials.
 
-1. Cliquez sur l’![icône des paramètres](assets/settings-icon.svg) pour consulter la page [!UICONTROL Préférences Experience Cloud].
+1. Cliquez sur ![icône des paramètres](assets/settings-icon.svg) pour consulter la page [!UICONTROL Préférences Experience Cloud].
 
 1. Cliquez sur l’option **[!UICONTROL Notifications]** disponible dans le volet de gauche.
 
@@ -82,7 +82,7 @@ Une fois que vous êtes [abonné aux catégories de notification](#subscribe-to-
 >[!NOTE]
 >
 >* Pour les catégories de notification **[!UICONTROL Demandes]** et **[!UICONTROL Attribué à moi]**, vous n’avez pas besoin de vous abonner au contenu après vous être abonné aux catégories de notification. Les notifications vous sont automatiquement envoyées dans les situations suivantes : lorsque vous créez une demande et lorsqu’une tâche vous est affectée.
->* Assets Essentials envoie des notifications uniquement lorsque d’autres utilisateurs effectuent des actions sur le contenu abonné. Vous ne recevez pas de notifications pour les actions que vous effectuez sur le contenu abonné.
+>* Assets Essentials envoie des notifications uniquement lorsque d’autres utilisateurs effectuent des actions sur le contenu avec abonnement. Vous ne recevez pas de notifications pour les actions que vous effectuez sur le contenu avec abonnement.
 
 
 Pour vous abonner au contenu, sélectionnez le dossier, la ressource ou la collection auquel vous souhaitez vous abonner, puis cliquez sur **[!UICONTROL Observer]**.
