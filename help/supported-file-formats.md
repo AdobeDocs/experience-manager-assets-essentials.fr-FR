@@ -4,10 +4,10 @@ description: Formats de fichiers pris en charge pour les différents cas d’uti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '355'
-ht-degree: 100%
+source-git-commit: e8791aab7c99e020921bdd65ed3d579bb11ffd6b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,13 +40,13 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 
 | Type de ressource | [Parcourir](/help/navigate-view.md) | Copier | [Chargement](/help/add-delete.md) | Créer | [Supprimer](/help/add-delete.md#delete-assets) | Détails | Zoom sur l’image | [Récemment consultés](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
-| Images pixellisées | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| RAW fichiers | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| Dossiers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
-| Vidéos MP4 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
-| PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
-| PSD, AI et INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
-| Autres fichiers binaires. | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
+| Images pixellisées | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| RAW fichiers | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Dossiers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
+| Vidéos MP4 | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
+| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| PSD, AI et INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
+| Autres fichiers binaires. | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
@@ -57,13 +57,13 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 | Type de ressource | [Télécharger](/help/manage-organize.md#download) | Glisser-déplacer | [Éditeur d’image](/help/edit-images.md) | [Rechercher](/help/search.md) | [Balises intelligentes](/help/metadata.md#tags) | [Renommer](/help/manage-organize.md) | [Versions](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| RAW fichiers | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Dossiers | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
-| Vidéos | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| Bibliothèques CC | − | − | − | − | − | ✓ | ✓ |
-| PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| PSD, AI et INDD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| Autres fichiers binaires. | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| RAW fichiers | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Dossiers | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
+| Vidéos | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Bibliothèques CC | - | - | - | - | - | ✓ | ✓ |
+| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| PSD, AI et INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Autres fichiers binaires. | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
 
 
 ## Révision de ressources et collaboration {#support-to-review-collaborate}
@@ -72,12 +72,20 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 |---------------|----------|----------|-------------------------|
 | Images pixellisées | ✓ | ✓ | ✓ |
 | RAW fichiers | ✓ | ✓ | ✓ |
-| Dossiers | − | − | − |
-| Vidéos | − | ✓ | ✓ |
-| Bibliothèques CC | − | − | − |
-| PDF | − | ✓ | ✓ |
-| PSD, AI et INDD | − | ✓ | ✓ |
-| Autres fichiers binaires. | − | ✓ | ✓ |
+| Dossiers | - | - | - |
+| Vidéos | - | ✓ | ✓ |
+| Bibliothèques CC | - | - | - |
+| PDF | - | ✓ | ✓ |
+| PSD, AI et INDD | - | ✓ | ✓ |
+| Autres fichiers binaires. | - | ✓ | ✓ |
+| DOC | - | ✓ | ✓ |
+| DOCX | - | ✓ | ✓ |
+| PPT | - | ✓ | ✓ |
+| PPTX | - | ✓ | ✓ |
+| XLS | - | ✓ | ✓ |
+| XLSX | - | ✓ | ✓ |
+| TXT | - | ✓ | ✓ |
+| RTF | - | ✓ | ✓ |
 
 ## Autres tâches de gestion des ressources {#support-to-manage-assets}
 
@@ -85,12 +93,12 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 |---------------|-------------------|------------|----------|----------|----------|
 | Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ |
 | RAW fichiers | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Dossiers | ✓ | − | ✓ | ✓ | ✓ |
-| Vidéos | ✓ | − | ✓ | ✓ | ✓ |
-| Bibliothèques CC | ✓ | − | − | − | − |
-| PDF | ✓ | − | ✓ | ✓ | ✓ |
-| PSD, AI et INDD | ✓ | − | ✓ | ✓ | ✓ |
-| Autres fichiers binaires. | ✓ | − | ✓ | ✓ | ✓ |
+| Dossiers | ✓ | - | ✓ | ✓ | ✓ |
+| Vidéos | ✓ | - | ✓ | ✓ | ✓ |
+| Bibliothèques CC | ✓ | - | - | - | - |
+| PDF | ✓ | - | ✓ | ✓ | ✓ |
+| PSD, AI et INDD | ✓ | - | ✓ | ✓ | ✓ |
+| Autres fichiers binaires. | ✓ | - | ✓ | ✓ | ✓ |
 
 Les utilisateurs de [!DNL Adobe Asset Link] peuvent charger et enregistrer (charger une nouvelle version) des fichiers dans le référentiel [!DNL Assets Essentials] des applications de bureau [!DNL Adobe Creative Cloud] prises en charge.
 
@@ -115,6 +123,6 @@ Les utilisateurs de [!DNL Adobe Asset Link] peuvent charger et enregistrer (char
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
-* Faites des commentaires sur la documentation à l’aide de l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
+* Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
 * Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
