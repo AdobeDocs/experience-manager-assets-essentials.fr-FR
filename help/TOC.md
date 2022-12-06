@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: 1d7055f95e051dd0dd8790a0e655344d99f8f24d
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: 73a425d494b00650e917a98a35fd53e23cb2a4f1
+workflow-type: tm+mt
+source-wordcount: '121'
+ht-degree: 91%
 
 ---
 
@@ -26,11 +26,7 @@ ht-degree: 100%
    + Gérer l’accès aux dossiers{#folder-access}
       + [Gérer les autorisations des dossiers](manage-permissions.md)
       + [Bonnes pratiques relatives à la gestion des autorisations](permission-management-best-practices.md)
-   + Parcours administrateur pour Assets Essentials pour Creative Cloud Pro avec les solutions de gestion de travail{#admin-journey}
-      + [Présentation du parcours administrateur](assets-essentials-cc-pro-work-management-admin-journey.md)
-      + [Administrer Experience Manager Assets Essentials](adminster-aem-assets-essentials.md)
-      + [Intégration d’Assets Essentials aux applications Creative Cloud](integrate-assets-essentials-creative-cloud.md)
-      + [Intégrer Assets Essentials à Adobe Workfront](integrate-assets-essentials-workfront.md)
+   + [Parcours administrateur pour Assets Essentials pour Creative Cloud Pro avec les solutions de gestion de travail](assets-essentials-cc-pro-work-management-admin-journey.md)
 + [Prise en main d’ [!DNL Assets Essentials]](get-started.md)
 + [Types de fichiers pris en charge et cas d’utilisation](supported-file-formats.md)
 + [Afficher les ressources](navigate-view.md)
@@ -43,5 +39,8 @@ ht-degree: 100%
 + [Gestion des collections](manage-collections.md)
 + [Gérer les notifications](manage-notifications.md)
 + [Gérer les rapports](manage-reports.md)
-+ [Intégration à d’autres solutions](integration.md)
++ Intégration à d’autres solutions {#integration-with-other-solutions}
+   + [du commerce électronique](integration.md)
+   + [Intégration à Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
+   + [Intégration à Adobe Workfront](integrate-with-workfront.md)
 + [Vidéos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=fr)

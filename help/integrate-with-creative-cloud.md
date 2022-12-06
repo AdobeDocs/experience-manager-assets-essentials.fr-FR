@@ -1,29 +1,14 @@
 ---
 title: Intégration d’Assets Essentials aux applications Creative Cloud
 description: Intégrer Assets Essentials aux applications Creative Cloud afin que vous puissiez utiliser le panneau in-app Adobe Asset Link pour vous connecter au référentiel  [!DNL Assets Essentials]  depuis les applications de bureau  [!DNL Adobe Creative Cloud]  prises en charge.
-exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
-source-git-commit: 268b7eb82b15b658207f24750eeae085ce5bb3d4
+source-git-commit: 44b8b8f3c734bd80e9d86177d607d897e696e4ed
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 96%
+source-wordcount: '761'
+ht-degree: 95%
 
 ---
 
 # Intégration d’Assets Essentials aux applications Creative Cloud {#integrate-assets-essentials-creative-cloud-applications}
-
-![Préférence pour changer de thème (sombre ou clair)](assets/cce-creative-cloud.png)
-
-## Un peu d’histoire…
-
-Après la [configuration d’Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) dans ce tutoriel, vous pouvez vous appuyer sur cette expérience pour intégrer les applications Creative Cloud avec Assets Essentials.
-
-## Objectif
-
-* **Audience** : administrateurs de Creative Cloud
-
-* **Objectif** : Intégrez Assets Essentials aux applications Creative Cloud afin que vos utilisateurs créatifs puissent utiliser le panneau in-app Adobe Asset Link pour se connecter au référentiel [!DNL Assets Essentials] depuis les applications de bureau [!DNL Adobe Creative Cloud] prises en charge.
-
-## Présentation
 
 Le [panneau in-app Adobe Asset Link](https://www.adobe.com/fr/creativecloud/business/enterprise/adobe-asset-link.html) permet aux professionnels de la création de se connecter au référentiel [!DNL Assets Essentials] à partir des applications de bureau [!DNL Adobe Creative Cloud] prises en charge. Le panneau est disponible pour [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] et [!DNL Adobe XD]. Elle rationalise l’accès aux ressources, ce qui contribue à accroître la vitesse du contenu.
 
@@ -53,7 +38,7 @@ Après avoir établi la confiance de répertoires entre Admin Console for Creat
 
 Autres profils de produit Assets Essentials - Administrateurs **[!DNL Assets Essentials]** et Utilisateurs consommateurs **[!DNL Assets Essentials]** - sont utilisés pour différents droits d’utilisateurs (administrateurs d’applications et utilisateurs accédant à Assets Essentials via des intégrations Experience Cloud).
 
-Pour plus d’informations sur l’attribution d’utilisateurs à des profils de produit Assets Essentials, voir [Affecter des utilisateurs aux profils de produit Assets Essentials](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
+Pour plus d’informations sur l’attribution d’utilisateurs à des profils de produit Assets Essentials, voir [Affecter des utilisateurs aux profils de produit Assets Essentials](deploy-administer.md#add-users-to-product-profiles).
 
 ## Installez Adobe Asset Link. {#install-asset-link}
 
@@ -97,7 +82,3 @@ Utilisez Adobe Asset Link pour travailler avec les ressources stockées dans l
 * Afficher l’historique des versions et les détails des fichiers.
 
 Pour obtenir des instructions sur l’exécution de ces tâches, consultez la section [Gérer les ressources à l’aide d’Adobe Asset Link](https://helpx.adobe.com/fr/enterprise/using/manage-assets-using-adobe-asset-link.html).
-
-## Prochaines étapes
-
-Maintenant que vous avez intégré les applications Creative Cloud à Assets Essentials, [Intégrez Adobe Workfront à Experience Manager Assets Essentials](integrate-assets-essentials-workfront.md).
