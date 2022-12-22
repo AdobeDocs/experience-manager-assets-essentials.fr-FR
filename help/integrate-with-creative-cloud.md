@@ -1,10 +1,11 @@
 ---
 title: Intégration d’Assets Essentials aux applications Creative Cloud
 description: Intégrer Assets Essentials aux applications Creative Cloud afin que vous puissiez utiliser le panneau in-app Adobe Asset Link pour vous connecter au référentiel  [!DNL Assets Essentials]  depuis les applications de bureau  [!DNL Adobe Creative Cloud]  prises en charge.
-source-git-commit: 44b8b8f3c734bd80e9d86177d607d897e696e4ed
-workflow-type: tm+mt
+exl-id: 817bc955-0074-435e-83a8-3fd5f7f2505a
+source-git-commit: 6194a778133842d40c4ef2bc257eec8a34b0a481
+workflow-type: ht
 source-wordcount: '761'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +27,7 @@ Exécutez les tâches suivantes pour intégrer Assets Essentials aux application
 
 ## Créer un répertoire de confiance entre Creative Cloud et Experience Cloud Admin Consoles {#directory-trusting-cc-assets-essentials-consoles}
 
-Si votre Creative Cloud est déployé dans un Adobe Admin Console distinct de celui avec Assets Essentials (solution Experience Cloud), vous devez ajouter une relation de confiance entre les deux consoles.
+Si votre Creative Cloud est déployé dans une Adobe Admin Console distincte de celle d’Assets Essentials (solution Experience Cloud), vous devez ajouter une relation de confiance entre les deux consoles.
 
 Pour intégrer les applications Creative Cloud et Assets Essentials, les utilisateurs qui sont disponibles dans Admin Console for Creative Cloud doivent être disponibles dans Admin Console for Experience Cloud. Si Creative Cloud et Assets Essentials sont déployés dans des Admin Console distincts, une relation de confiance entre eux est nécessaire pour activer cette fonctionnalité.
 
@@ -64,7 +65,7 @@ Pour savoir comment configurer Adobe Asset Link pour Adobe XD, cliquez [ici](
 
 >[!NOTE]
 >
->Lorsque vous travaillez sur du matériel Apple Silicon/M1, Adobe Photoshop doit être lancé en mode de compatibilité Rosetta afin de garantir aux utilisateurs créatifs l’accès au panneau Adobe Asset Link, car celui-ci est conçu à l’aide de la technologie d’extension CEP. Pour plus d’informations, voir [Photoshop pour Apple Silicon](https://helpx.adobe.com/fr/photoshop/kb/photoshop-for-apple-silicon.html).
+>Lorsque vous travaillez sur du matériel Apple Silicon/M1, Adobe Photoshop doit être lancé en mode de compatibilité Rosetta afin de garantir aux utilisateurs et aux utilisatrices créatifs l’accès au panneau Adobe Asset Link, car celui-ci est conçu à l’aide de la technologie d’extension CEP. Pour plus d’informations, voir [Photoshop pour Apple Silicon](https://helpx.adobe.com/fr/photoshop/kb/photoshop-for-apple-silicon.html).
 
 
 Utilisez Adobe Asset Link pour travailler avec les ressources stockées dans le référentiel Assets Essentials et les modifier. Vous pouvez effectuer diverses tâches, telles que :
