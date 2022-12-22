@@ -3,9 +3,9 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '759'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Assets Essentials vous permet d’afficher des données en temps réel pour vot
 
 ![Options de la barre d’outils lors de la sélection d’une ressource](assets/assets-essentials-live-statistics.png)
 
-Cliquez sur **[!UICONTROL Statistiques en direct]** disponibles dans le volet de navigation de gauche pour afficher les graphiques générés automatiquement suivants :
+Cliquez sur les **[!UICONTROL Statistiques en direct]** disponibles dans le volet de navigation de gauche pour afficher les graphiques générés automatiquement suivants :
 
 * **Téléchargements** : nombre de ressources téléchargées à partir de l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
 
