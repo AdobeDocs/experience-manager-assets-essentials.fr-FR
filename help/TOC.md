@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 73a425d494b00650e917a98a35fd53e23cb2a4f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 91%
 + [Gérer les notifications](manage-notifications.md)
 + [Gérer les rapports](manage-reports.md)
 + Intégration à d’autres solutions {#integration-with-other-solutions}
-   + [du commerce électronique](integration.md)
-   + [Intégration à Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
-   + [Intégration à Adobe Workfront](integrate-with-workfront.md)
+   + [Présentation](integration.md)
+   + [Intégrer à Creative Cloud abonnement Enterprise](integrate-with-creative-cloud.md)
+   + [Intégrer à Adobe Workfront](integrate-with-workfront.md)
 + [Vidéos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=fr)
