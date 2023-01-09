@@ -3,9 +3,9 @@ title: Administrer et gérer les utilisateurs
 description: Cas pratiques d’administration tels que le déploiement et la gestion des utilisateurs dans  [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 940f3155a8310ace2768cdfee152c62e99ea2526
+source-git-commit: c7b863aa81337293454199e72f705e53f05a5130
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1344'
 ht-degree: 92%
 
 ---
@@ -37,7 +37,7 @@ Effectuez les tâches de droits d’utilisateur suivantes à l’aide d’Admin 
 
 ### Créer un administrateur de l’application Assets Essentials {#create-assets-essentials-administrator}
 
-Un administrateur de Admin Console doit ajouter le profil de produit administrateur Assets Essentials à un utilisateur et non à un groupe d’utilisateurs. L’administrateur de l’application Assets Essentials peut ensuite gérer des tâches telles que la création d’une structure de dossiers, le chargement de ressources, la configuration des autorisations, la configuration de formulaires de métadonnées et la création de collections publiques. Pour plus d’informations sur l’affectation d’un utilisateur à un profil d’administrateur d’application Assets Essentials, voir [ajouter des utilisateurs à des profils de produit ;](#add-users-to-product-profiles).
+Un administrateur de Admin Console doit ajouter le profil de produit administrateur Assets Essentials à un utilisateur et non à un groupe d’utilisateurs. L’administrateur de l’application Assets Essentials peut ensuite gérer des tâches telles que la création d’une structure de dossiers, le chargement de ressources, la configuration des autorisations, la configuration de formulaires de métadonnées et la création de collections publiques. Pour plus d’informations sur l’affectation d’un profil d’administrateur d’application Assets Essentials à un utilisateur, voir [ajouter des profils de produit à des groupes d’utilisateurs ;](#add-product-profiles-to-user-groups).
 
 ### Ajouter des groupes d’utilisateurs {#add-user-groups}
 
