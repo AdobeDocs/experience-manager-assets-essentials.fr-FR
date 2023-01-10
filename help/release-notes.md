@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1471'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -46,15 +46,15 @@ Une nouvelle option Enregistrer les métadonnées est désormais disponible dans
 
 Améliorations et correctifs de bugs basés sur les commentaires des clients.
 
-**Adobe Asset Link version 3.3**
+**Adobe Asset Link version 3.3**
 
-[Adobe d’un lien de ressource](https://helpx.adobe.com/fr/enterprise/using/adobe-asset-link.html) La version 3.3 est publiée le 13 décembre 2022, avec les fonctionnalités suivantes :
+La version 3.3 d’[Adobe Asset Link](https://helpx.adobe.com/fr/enterprise/using/adobe-asset-link.html) est sortie le 13 décembre 2022, avec les fonctionnalités suivantes :
 
-* Prise en charge de [Creative Cloud pour les équipes](https://www.adobe.com/creativecloud/business/teams.html) en plus de la prise en charge [Creative Cloud pour entreprise](https://www.adobe.com/creativecloud/business/enterprise.html) avant.
+* Prise en charge de [Creative Cloud abonnement Équipe](https://www.adobe.com/fr/creativecloud/business/teams.html) en plus de la précédente prise en charge de [Creative Cloud abonnement Entreprise](https://www.adobe.com/fr/creativecloud/business/enterprise.html).
 
-* Prise en charge des dernières applications Adobe InDesign, Photoshop et Illustrator 2023.
+* Prise en charge des dernières applications Adobe InDesign, Photoshop et Illustrator 2023.
 
-* Prise en charge de l’utilisation du module externe CEP Adobe Asset Link dans les environnements avec des serveurs proxy.
+* Prise en charge de l’utilisation du plug-in CEP d’Adobe Asset Link dans les environnements avec des serveurs proxy.
 
 ## Problèmes connus {#known-issues}
 
