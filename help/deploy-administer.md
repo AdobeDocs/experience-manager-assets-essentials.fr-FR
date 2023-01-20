@@ -4,9 +4,9 @@ description: Cas pratiques d’administration tels que le déploiement et la ges
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: c7b863aa81337293454199e72f705e53f05a5130
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1344'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Effectuez les tâches de droits d’utilisateur suivantes à l’aide d’Admin 
 
 ### Créer un administrateur de l’application Assets Essentials {#create-assets-essentials-administrator}
 
-Un administrateur de Admin Console doit ajouter le profil de produit administrateur Assets Essentials à un utilisateur et non à un groupe d’utilisateurs. L’administrateur de l’application Assets Essentials peut ensuite gérer des tâches telles que la création d’une structure de dossiers, le chargement de ressources, la configuration des autorisations, la configuration de formulaires de métadonnées et la création de collections publiques. Pour plus d’informations sur l’affectation d’un profil d’administrateur d’application Assets Essentials à un utilisateur, voir [ajouter des profils de produit à des groupes d’utilisateurs ;](#add-product-profiles-to-user-groups).
+Un administrateur ou une administratrice d’Admin Console doit ajouter le profil de produit administrateur Assets Essentials à un utilisateur ou une utilisatrice et non à un groupe d’utilisateurs. L’administrateur ou l’administratrice de l’application Assets Essentials peut ensuite gérer des tâches telles que la création d’une structure de dossiers, le téléchargement de ressources, la configuration des autorisations et des formulaires de métadonnées, ainsi que la création de collections publiques. Pour plus d’informations sur l’affectation d’un profil d’administration d’application Assets Essentials à un utilisateur ou une utilisatrice, reportez-vous à la section [ajouter des profils de produit à des groupes d’utilisateurs](#add-product-profiles-to-user-groups).
 
 ### Ajouter des groupes d’utilisateurs {#add-user-groups}
 
@@ -51,11 +51,11 @@ Pour plus d’informations sur la gestion des groupes d’utilisateurs, consulte
 
 Pour plus d’informations sur la gestion de l’ajout d’utilisateurs aux groupes d’utilisateurs, consultez la section `Add users to groups` de la page [Gérer les groupes d’utilisateurs](https://helpx.adobe.com/fr/enterprise/using/user-groups.html#add-users-to-groups).
 
-### Ajout de profils de produit à des groupes d’utilisateurs {#add-product-profiles-to-user-groups}
+### Ajouter des profils de produit à des groupes d’utilisateurs {#add-product-profiles-to-user-groups}
 
-Ajoutez des profils de produit aux groupes d’utilisateurs afin qu’ils aient accès à l’application Assets Essentials.
+Ajoutez des profils de produit à des groupes d’utilisateurs afin qu’ils aient accès à l’application Assets Essentials.
 
-Pour ajouter des profils de produit aux groupes d’utilisateurs :
+Pour ajouter des profils de produit à des groupes d’utilisateurs :
 
 1. Accédez à [Admin Console](https://adminconsole.adobe.com) de votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, puis sur **[!UICONTROL AEM Assets Essentials]**, et enfin sur l’instance de [!DNL Assets Essentials]. Le nom de l’instance peut être différent de celui de la capture d’écran ci-dessous.
    >[!NOTE]
