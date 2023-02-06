@@ -4,10 +4,10 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '1026'
-ht-degree: 100%
+source-git-commit: 9a29e1a9403a9790a3e6aa50b222fa7a6bfd66ec
+workflow-type: tm+mt
+source-wordcount: '1203'
+ht-degree: 99%
 
 ---
 
@@ -59,9 +59,17 @@ Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes
 
 ## Formulaires de métadonnées {#metadata-forms}
 
-Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources.
+Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
 
-Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Essentials associe automatiquement les ressources chargées au nom du formulaire. Par exemple, si un formulaire de métadonnées portant le nom `PDF` ou `pdf` existe, les documents de PDF chargés contiennent des champs de métadonnées tels que définis dans le formulaire. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
+Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Essentials fait automatiquement correspondre le type MIME des ressources chargées au nom du formulaire et met à jour les métadonnées des ressources chargées en fonction des champs du formulaire.
+
+Par exemple, s’il existe un formulaire de métadonnées portant le nom `PDF` ou `pdf`, les documents PDF chargés contiennent les champs de métadonnées définis dans le formulaire.
+
+Assets Essentials utilise la séquence suivante pour rechercher des noms de formulaires de métadonnées existants afin d’appliquer les champs de métadonnées aux ressources chargées d’un type particulier :
+
+Formulaire de sous-type MIME > Type MIME > `default` > Formulaire prêt à l’emploi
+
+Par exemple, si un formulaire de métadonnées portant le nom `PDF` ou `pdf` existe, les documents PDF chargés contiennent des champs de métadonnées tels que définis dans le formulaire. Si un formulaire de métadonnées du nom de `PDF` ou `pdf` n’existe pas, Assets Essentials vérifie s’il existe un formulaire de métadonnées du nom de `application`. S’il existe un formulaire de métadonnées du nom de `application`, les documents PDF chargés contiennent les champs de métadonnées définis dans le formulaire. Si Assets Essentials ne trouve toujours pas de formulaire de métadonnées correspondant, il recherche le formulaire de métadonnées `default` pour appliquer les champs de métadonnées définis dans le formulaire aux documents PDF chargés. Si aucune de ces étapes ne fonctionne, Assets Essentials applique les champs de métadonnées définis dans le formulaire prêt à l’emploi à tous les documents PDF chargés.
 
 >[!IMPORTANT]
 >
@@ -87,6 +95,10 @@ Pour créer un formulaire de métadonnées, procédez comme suit :
 1. Si vous le souhaitez, cliquez sur **[!UICONTROL Aperçu]** pour prévisualiser le formulaire que vous êtes en train de créer.
 1. Vous pouvez ajouter d’autres onglets et les composants requis dans chaque onglet.
 1. Cliquez sur **[!UICONTROL Enregistrer]** une fois le formulaire terminé.
+
+Regardez cette vidéo pour voir la séquence d’étapes :
+
+>[!VIDEO](https://video.tv.adobe.com/v/341275)
 
 Une fois qu’un formulaire est créé, il est automatiquement appliqué lorsque les utilisateurs chargent une ressource du type MIME correspondant.
 
