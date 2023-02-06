@@ -4,16 +4,62 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
-workflow-type: ht
-source-wordcount: '1471'
-ht-degree: 100%
+source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
+workflow-type: tm+mt
+source-wordcount: '1690'
+ht-degree: 87%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials est sortie le 17 novembre 2022.
+La version actuelle d’Assets Essentials est publiée le 27 janvier 2023.
+
+Cette version fournit les éléments suivants :
+
+**Mon espace de travail avec des widgets configurables**
+
+Assets fournit désormais un espace de travail personnalisé qui constitue une solution ponctuelle permettant d’accéder facilement aux zones clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Un accès plus rapide à ces options augmente la vitesse du contenu et l’efficacité de vos projets.
+
+Mon espace de travail comprend des widgets pour les nouvelles fonctionnalités, les statistiques, les tâches et le contenu à venir. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
+
+**Interface utilisateur de la gestion des tâches dédiée**
+
+Assets Essentials vous permet désormais de gérer la liste des tâches qui vous sont actuellement assignées, que vous avez créées et que vous avez déjà effectuées à un emplacement centralisé, à l’aide de la nouvelle **[!UICONTROL Tâches]** option disponible dans le volet de navigation de gauche. Vous pouvez également prendre les mesures appropriées en sélectionnant une tâche à approuver ou à rejeter ou en ouvrant les détails de la tâche pour l’approuver, la rejeter, la modifier ou la supprimer.
+
+![Tâches dans Workspace](assets/tasks-workspace.png)
+
+**Liens générés automatiquement pour partager des ressources**
+
+Assets Essentials génère désormais automatiquement un lien dès que vous choisissez de partager une ressource à l’aide de l’interface utilisateur d’Assets Essentials. Le lien généré reste valide même si vous modifiez la date d’expiration.
+
+![Tâches dans Workspace](assets/share-asset.png)
+
+
+**Améliorations basées sur les commentaires des clients**
+
+Améliorations et correctifs de bugs basés sur les commentaires des clients.
+
+## Problèmes connus {#known-issues}
+
+La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
+
+Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
+
+## Versions antérieures {#past-releases}
+
+### 2022.11.0 {#november-2022}
+
+La version de novembre de [!DNL Assets Essentials] est publié le 17 novembre 2022.
 
 Cette version fournit les éléments suivants :
 
@@ -55,23 +101,6 @@ La version 3.3 d’[Adobe Asset Link](https://helpx.adobe.com/fr/enterprise/us
 * Prise en charge des dernières applications Adobe InDesign, Photoshop et Illustrator 2023.
 
 * Prise en charge de l’utilisation du plug-in CEP d’Adobe Asset Link dans les environnements avec des serveurs proxy.
-
-## Problèmes connus {#known-issues}
-
-La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
-
-Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
-
-## Versions antérieures {#past-releases}
 
 ### 2022.8.0 {#august-2022}
 
