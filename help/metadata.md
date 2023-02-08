@@ -4,9 +4,9 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 274028a1fb224b045c047e63539a9b96b1cc4357
+source-git-commit: 260eb904240652d174cc29bacfe92b03699305d0
 workflow-type: tm+mt
-source-wordcount: '1251'
+source-wordcount: '1252'
 ht-degree: 95%
 
 ---
@@ -57,7 +57,7 @@ Vous pouvez ajouter d’autres balises à vos ressources en plus des balises int
 
 Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes] des balises qui ont été automatiquement ajoutées par [!DNL Assets Essentials] à toutes les ressources chargées.
 
-## Forms des métadonnées {#metadata-forms}
+## Configurer les formulaires de métadonnées {#metadata-forms}
 
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
