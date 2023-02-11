@@ -4,7 +4,7 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 260eb904240652d174cc29bacfe92b03699305d0
+source-git-commit: fecbd1b05cc91148f41c576f4569f1799df6095e
 workflow-type: tm+mt
 source-wordcount: '1252'
 ht-degree: 95%
@@ -62,7 +62,7 @@ Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
 >title="Forms des métadonnées"
->abstract="[!DNL Experience Manager Assets] fournit de nombreux champs de métadonnées standard par défaut. Les entreprises ont des exigences de métadonnées supplémentaires et ont besoin de champs de métadonnées supplémentaires pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
+>abstract="[!DNL Experience Manager Assets] fournit de nombreux champs de métadonnées standard par défaut. Les entreprises ont d’autres besoins en métadonnées et nécessitent plus de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
 
 Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
 
