@@ -3,14 +3,20 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: ht
-source-wordcount: '802'
-ht-degree: 100%
+source-git-commit: 18929733eb7ef1c862637cc5d03d44ac3c62875b
+workflow-type: tm+mt
+source-wordcount: '869'
+ht-degree: 92%
 
 ---
 
 # Recherche de ressources dans [!DNL Assets Essentials] {#search-assets}
+
+>[!CONTEXTUALHELP]
+>id="assets_search"
+>title="Recherche de ressources"
+>abstract="Recherchez vos ressources en spécifiant les critères de recherche ou en filtrant les ressources en fonction de leur état, type de fichier, type MIME, taille, création, modification et dates d’expiration. Vous pouvez également appliquer des filtres personnalisés en plus des filtres standard. Vous pouvez enregistrer les résultats filtrés sous la forme d’une recherche enregistrée ou d’une collection dynamique."
+>additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en#manage-smart-collection" text="Création de collections dynamiques"
 
 [!DNL Assets Essentials] offre des fonctionnalités de recherche efficaces, qui fonctionnent simplement par défaut. La recherche fonctionne de façon exhaustive car il s’agit d’une recherche de type plein texte. Ses puissantes fonctionnalités de recherche vous permettent de trouver rapidement la ressource appropriée et d’améliorer la vitesse de votre contenu. [!DNL Assets Essentials] fournit une recherche plein texte, ou même des capacités de recherche basées sur les métadonnées telles que les balises intelligentes, le titre, la date de création et le copyright.
 
