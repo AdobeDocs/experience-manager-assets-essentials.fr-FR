@@ -5,35 +5,35 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1690'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials est publiée le 27 janvier 2023.
+La version actuelle d’Assets Essentials a été publiée le 27 janvier 2023.
 
 Cette version fournit les éléments suivants :
 
 **Mon espace de travail avec des widgets configurables**
 
-Assets fournit désormais un espace de travail personnalisé qui constitue une solution ponctuelle permettant d’accéder facilement aux zones clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Un accès plus rapide à ces options augmente la vitesse du contenu et l’efficacité de vos projets.
+Assets offre désormais un espace de travail personnalisé. Accédez facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus, sans quitter votre page actuelle. Vous pouvez ainsi augmenter la vitesse du contenu et l’efficacité de vos projets.
 
-Mon espace de travail comprend des widgets pour les nouvelles fonctionnalités, les statistiques, les tâches et le contenu à venir. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
+Mon espace de travail comprend des widgets pour les nouvelles fonctionnalités à venir, les insights, les tâches et le contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
 
-**Interface utilisateur de la gestion des tâches dédiée**
+**Interface utilisateur de la gestion des tâches dédiées**
 
-Assets Essentials vous permet désormais de gérer la liste des tâches qui vous sont actuellement assignées, que vous avez créées et que vous avez déjà effectuées à un emplacement centralisé, à l’aide de la nouvelle **[!UICONTROL Tâches]** option disponible dans le volet de navigation de gauche. Vous pouvez également prendre les mesures appropriées en sélectionnant une tâche à approuver ou à rejeter ou en ouvrant les détails de la tâche pour l’approuver, la rejeter, la modifier ou la supprimer.
+Assets Essentials vous permet désormais de gérer les tâches qui vous sont actuellement assignées, les tâches que vous avez créées et celles que vous avez déjà effectuées, et ce à partir d’un seul emplacement : il vous suffit de sélectionner le nouveau menu **[!UICONTROL Tâches]**, disponible dans le volet de navigation de gauche. Vous pouvez également prendre les actions appropriées en sélectionnant une tâche pour l’approuver ou la rejeter ou en affichant les détails de la tâche pour l’approuver, la rejeter, la modifier ou la supprimer.
 
-![Tâches dans Workspace](assets/tasks-workspace.png)
+![Tâches dans l’espace de travail](assets/tasks-workspace.png)
 
 **Liens générés automatiquement pour partager des ressources**
 
-Assets Essentials génère désormais automatiquement un lien dès que vous choisissez de partager une ressource à l’aide de l’interface utilisateur d’Assets Essentials. Le lien généré reste valide même si vous modifiez la date d’expiration.
+Assets Essentials génère désormais automatiquement un lien dès que vous choisissez de partager une ressource à l’aide de l’interface utilisateur d’Assets Essentials. Le lien généré reste valide même si vous modifiez la date d’expiration.
 
-![Tâches dans Workspace](assets/share-asset.png)
+![Tâches dans l’espace de travail](assets/share-asset.png)
 
 
 **Améliorations basées sur les commentaires des clients**
@@ -59,7 +59,7 @@ Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélio
 
 ### 2022.11.0 {#november-2022}
 
-La version de novembre de [!DNL Assets Essentials] est publié le 17 novembre 2022.
+La version de novembre d’[!DNL Assets Essentials] a été publiée le 17 novembre 2022.
 
 Cette version fournit les éléments suivants :
 
