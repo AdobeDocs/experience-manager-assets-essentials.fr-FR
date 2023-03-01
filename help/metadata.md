@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: fecbd1b05cc91148f41c576f4569f1799df6095e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1252'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -61,12 +61,12 @@ Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes
 
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
->title="Forms des métadonnées"
->abstract="[!DNL Experience Manager Assets] fournit de nombreux champs de métadonnées standard par défaut. Les entreprises ont d’autres besoins en métadonnées et nécessitent plus de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
+>title="Formulaires de métadonnées"
+>abstract="[!DNL Experience Manager Assets] fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et demandent des champs de métadonnées supplémentaires afin d’ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
 
 Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
 
-Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Assets Essentials fait automatiquement correspondre le type MIME des ressources chargées au nom du formulaire et met à jour les métadonnées des ressources chargées en fonction des champs du formulaire.
+Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Assets Essentials fait automatiquement correspondre le type MIME des ressources chargées au nom du formulaire et met à jour les métadonnées des ressources téléchargées en fonction des champs du formulaire.
 
 Par exemple, s’il existe un formulaire de métadonnées portant le nom `PDF` ou `pdf`, les documents PDF chargés contiennent les champs de métadonnées définis dans le formulaire.
 
