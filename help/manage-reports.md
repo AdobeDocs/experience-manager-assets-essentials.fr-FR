@@ -3,9 +3,9 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: ec9cdf0d206aa59d67b8ac96504b590a2db19663
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,15 +15,15 @@ Les rapports de ressources offrent aux administrateurs une visibilité sur l’a
 
 ## Accéder aux rapports {#access-reports}
 
-Tous les utilisateurs affectés à la variable [Profil de produit des administrateurs Assets Essentials](deploy-administer.md) Vous pouvez accéder au tableau de bord Statistiques ou créer des rapports définis par l’utilisateur dans Assets Essentials.
+Tous les utilisateurs et toutes les utilisatrices affectés au [profil de produit Administration d’Assets Essentials](deploy-administer.md) peuvent accéder au tableau de bord des insights ou créer des rapports définis par l’utilisateur dans Assets Essentials.
 
-## Affichage des informations {#view-live-statistics}
+## Affichage des insights {#view-live-statistics}
 
-Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Statistiques . Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
+Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
 
 ![Options de la barre d’outils lors de la sélection d’une ressource](assets/assets-essentials-live-statistics.png)
 
-Cliquez sur **[!UICONTROL Insights]** disponibles dans le volet de navigation de gauche pour afficher les graphiques générés automatiquement suivants :
+Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigation de gauche pour afficher les graphiques générés automatiquement suivants :
 
 * **Téléchargements** : nombre de ressources téléchargées à partir de l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
 
