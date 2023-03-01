@@ -1,59 +1,59 @@
 ---
-title: Mon espace de travail pour les ressources
-description: My Workspace est une page qui fournit des modules visuels personnalisables pour accéder facilement aux zones clés de l’interface utilisateur d’Assets et des informations les plus pertinentes pour l’utilisateur.
+title: Mon espace de travail d’Assets
+description: La page Mon espace de travail est composée de modules visuels personnalisables permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations les plus pertinentes pour l’utilisateur et l’utilisatrice.
 source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '477'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Mon espace de travail pour les ressources {#my-workspace}
+# Mon espace de travail d’Assets {#my-workspace}
 
-Assets comprend désormais un espace de travail personnalisable qui fournit des widgets pour accéder facilement aux zones clés de l’interface utilisateur d’Assets et des informations qui vous concernent le plus. Cette page sert de solution ponctuelle pour fournir un aperçu de vos tâches et pour donner un accès rapide aux workflows clés. Un accès plus pratique à ces options augmente votre efficacité et votre vitesse de contenu.
+Assets comprend désormais un espace de travail personnalisable, composé de widgets permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
 
-Vous pouvez accéder à Mon espace de travail en cliquant sur **[!UICONTROL Mon espace de travail]** des éléments disponibles dans le volet de navigation de gauche. Mon espace de travail comprend divers widgets qui affichent les nouvelles fonctionnalités à venir, les widgets Statistiques, Tâches et Contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
+Pour accéder à Mon espace de travail, cliquez sur **[!UICONTROL Mon espace de travail]** à partir des éléments disponibles dans le volet de navigation de gauche. Mon espace de travail comprend différents widgets qui affichent des informations sur les nouvelles fonctionnalités bientôt disponibles, les insights, les tâches et le contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
 
 >[!NOTE]
 >
->Le widget Statistiques n’est visible que par les administrateurs.
+>Le widget Insights n’est visible que par l’administration.
 
 **Nouvelles fonctionnalités bientôt disponibles**
 
-Met en évidence les fonctionnalités à venir pour Assets.
+Affiche les fonctionnalités à venir pour Assets.
 
-![Nouvelles fonctionnalités bientôt disponibles dans Workspace](assets/new-features.png)
+![Nouvelles fonctionnalités bientôt disponibles dans l’espace de travail](assets/new-features.png)
 
-**Statistiques**
+**Insights**
 
-Les administrateurs peuvent afficher un résumé du nombre de téléchargements et de téléchargements effectués dans l’environnement Assets au cours des 30 derniers jours. Vous pouvez cliquer sur **[!UICONTROL Afficher tout]** pour accéder rapidement à la page Statistiques afin d’obtenir des tableaux de bord plus détaillés.
+L’administration peut afficher un résumé du nombre de téléchargements et de chargements effectués dans l’environnement Assets au cours des 30 derniers jours. Vous pouvez cliquer sur **[!UICONTROL Afficher tout]** pour accéder rapidement à la page Insights afin de consulter des tableaux de bord plus détaillés.
 
-![Statistiques dans Workspace](assets/insights.png)
+![Insights dans l’espace de travail](assets/insights.png)
 
 **Tâches**
 
-Affiche la liste des tâches qui vous sont actuellement affectées dans le **[!UICONTROL Mes tâches]** , créé par vous dans la **[!UICONTROL Tâches affectées]** et les tâches déjà effectuées par vous dans la **[!UICONTROL Terminé]** . Vous pouvez sélectionner une tâche et cliquer sur **[!UICONTROL Terminer la tâche]** pour approuver ou rejeter une tâche. Vous pouvez également sélectionner une tâche et cliquer sur **[!UICONTROL Ouvrir les détails de la tâche]** pour afficher la tâche et l’approuver, la rejeter, la modifier ou la supprimer.
+Ce widget affiche les listes de tâches suivantes : les tâches qui vous sont actuellement affectées (sous l’onglet **[!UICONTROL Mes tâches]**), les tâches que avez créées (sous l’onglet **[!UICONTROL Tâches affectées]**) et les tâches que vous avez déjà effectuées (sous l’onglet **[!UICONTROL Terminé]**). Vous pouvez sélectionner une tâche et cliquer sur **[!UICONTROL Terminer la tâche]** pour l’approuver ou la rejeter. Vous pouvez également sélectionner une tâche et cliquer sur **[!UICONTROL Afficher les détails de la tâche]** pour afficher la tâche et l’approuver, la rejeter, la modifier ou la supprimer.
 
-![Tâches dans Workspace](assets/tasks-workspace.png)
+![Tâches dans l’espace de travail](assets/tasks-workspace.png)
 
 >[!NOTE]
 >
-> Le **[!UICONTROL Affecter des tâches]** l’option permettant d’affecter une tâche sur une ressource à un autre utilisateur est disponible lorsque vous sélectionnez une ressource ou lorsque vous ouvrez la vue d’informations sur la ressource.
+> Le menu **[!UICONTROL Assigner des tâches]**, permettant d’assigner une tâche sur une ressource à un autre utilisateur, est disponible lorsque vous sélectionnez une ressource ou affichez le volet des détails de celle-ci.
 
 **Contenu**
 
-Affiche des vues assorties de ressources, y compris la liste des ressources que vous avez récemment consultées. Vous pouvez choisir d’afficher les ressources du widget en mode Liste, Grille, Galerie ou Cascade, et de les trier par nom, taille et date de modification. Vous pouvez également sélectionner une ressource pour afficher les détails de la ressource ou la supprimer de la liste des ressources récemment consultées.
+Présente les ressources sous différents affichages, y compris la liste des ressources que vous avez récemment consultées. Vous pouvez afficher les ressources du widget en vue liste, grille, galerie ou cascade et les trier par nom, taille ou date de modification. Vous pouvez également sélectionner une ressource pour en afficher les détails ou la supprimer de la liste des ressources récemment consultées.
 
-![Widget de contenu dans Workspace](assets/workspace-content.png)
+![Widget Contenu dans l’espace de travail](assets/workspace-content.png)
 
-## Personnalisation de mon espace de travail {#configure-widgets}
+## Personnaliser mon espace de travail {#configure-widgets}
 
-Tous les widgets s’affichent par défaut, mais vous pouvez activer ou désactiver les widgets qui s’affichent dans Mon espace de travail. Les préférences sont spécifiques à chaque utilisateur.
+Tous les widgets s’affichent par défaut, mais vous pouvez activer ou désactiver les widgets qui composent « Mon espace de travail ». Les préférences sont propres à chaque utilisateur et utilisatrice.
 
-1. Cliquez sur **[!UICONTROL Mon espace de travail]** disponible dans le volet de navigation de gauche, puis cliquez sur **[!UICONTROL Personnaliser]**.
+1. Cliquez sur **[!UICONTROL Mon espace de travail]**, disponible dans le volet de navigation de gauche, puis cliquez sur **[!UICONTROL Personnaliser]**.
 
-1. Désactivez le bouton d’activation/désactivation du widget que vous n’avez pas besoin d’afficher dans Workspace. Vous pouvez également faire glisser un widget vers un emplacement approprié pour mettre à jour son ordre d’affichage dans l’espace de travail.
+1. Désactivez le bouton (bascule) du widget que vous ne souhaitez pas afficher dans votre espace de travail. Vous pouvez également faire glisser un widget vers un autre emplacement pour modifier son ordre d’affichage dans l’espace de travail.
 
 1. Cliquez sur **[!UICONTROL Terminé]** pour enregistrer les modifications.
 
-   ![Personnalisation des widgets dans Workspace](assets/customize-workspace.png)
+   ![Personnaliser les widgets dans l’espace de travail](assets/customize-workspace.png)
