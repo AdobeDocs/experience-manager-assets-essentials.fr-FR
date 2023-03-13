@@ -9,9 +9,9 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
+source-git-commit: 55f24357266d2f063d1aaf92777fae32c7b127bd
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 100%
 
 + [Présentation de la solution](introduction.md)
 + [Notes de mise à jour](release-notes.md)
++ [Sécurité](security-overview.md)
 + [Mon espace de travail](my-workspace.md)
 + Prise en main d’Assets Essentials pour l’administration {#get-started-admins}
    + [Administrer et ajouter des utilisateurs](deploy-administer.md)
