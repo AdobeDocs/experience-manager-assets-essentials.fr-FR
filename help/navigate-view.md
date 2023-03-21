@@ -3,10 +3,10 @@ title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
 description: Comprendre l’interface utilisateur et de la navigation dans  [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '586'
-ht-degree: 100%
+source-git-commit: b627c20ee9be9be79bb0325b55543ae9e2935b9a
+workflow-type: tm+mt
+source-wordcount: '616'
+ht-degree: 95%
 
 ---
 
@@ -44,7 +44,7 @@ Vous pouvez accéder aux dossiers requis à partir de l’interface utilisateur 
 
 * **Ressources** : liste de tous les dossiers auxquels vous avez accès sous la forme d’une arborescence.
 * **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
-* **Corbeille** :
+* **Corbeille** : Répertorier les ressources supprimées de la racine **[!UICONTROL Ressources]** dossier. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
@@ -105,7 +105,7 @@ Other use cases after previewing.
 
 ## Étapes suivantes {#next-steps}
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
