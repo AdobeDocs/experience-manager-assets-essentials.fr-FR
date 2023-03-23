@@ -1,19 +1,19 @@
 ---
-title: "Présentation de la sécurité pour Assets Essentials"
-description: Présentation de la sécurité d’Assets Essentials
+title: « Vue d’ensemble de la sécurité d’Assets Essentials »
+description: Vue d’ensemble de la sécurité d’Assets Essentials
 mini-toc-levels: 1
 source-git-commit: 895f178384f653729a5625db4782d3c134cf3309
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
-# Présentation de la sécurité d’Assets Essentials {#security-overview}
+# Vue d’ensemble de la sécurité d’Assets Essentials {#security-overview}
 
-L’approche proactive d’Assets Essential en matière de sécurité et de procédures rigoureuses contribue à protéger la sécurité de la solution Assets Essentials et des données confidentielles du client. La sécurité de l’expérience numérique est surveillée en permanence afin d’anticiper les activités malveillantes et d’assurer la sécurité des données du client.
+L’approche proactive d’Assets Essential en matière de sécurité et de procédures rigoureuses contribue à protéger la sécurité de la solution Assets Essentials et des données confidentielles du client ou de la cliente. La sécurité de l’expérience digitale est surveillée en permanence afin d’anticiper les activités malveillantes et d’assurer la sécurité des données du client et de la cliente.
 
-Voir [Sécurité Assets Essentials](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-experience-manager-assets-essentials-security-overview.pdf) livre blanc pour une présentation détaillée de la sécurité.
+Consultez le livre blanc [Sécurité Assets Essentials](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-experience-manager-assets-essentials-security-overview.pdf) pour une vue d’ensemble détaillée de la sécurité.
 
 ## Étapes suivantes {#next-steps}
 
