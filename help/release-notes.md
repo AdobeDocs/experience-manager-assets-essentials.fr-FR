@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: f06e3a5db2c91e6778ea196fdc69293d1b2732e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1695'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 99%
 
 La version actuelle d’Assets Essentials a été publiée le 27 janvier 2023.
 
-La liste des fonctionnalités de cette version comprend :
+La liste des fonctionnalités de cette version comprend :
 
 **Mon espace de travail avec des widgets configurables**
 
