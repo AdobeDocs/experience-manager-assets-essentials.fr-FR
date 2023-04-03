@@ -1,12 +1,12 @@
 ---
 title: Administrer et gérer les utilisateurs
-description: Cas pratiques d’administration tels que le déploiement et la gestion des utilisateurs dans  [!DNL Assets Essentials].
+description: Cas pratiques d’administration tels que le déploiement et la gestion des utilisateurs dans [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 989d4b2105636b03bef8b8aa5e653c3800845f69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1342'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -70,8 +70,8 @@ Pour ajouter des profils de produit à des groupes d’utilisateurs :
 
    * Les **[!DNL Assets Essentials] utilisateurs** : ont accès à l’interface utilisateur complète. Ces utilisateurs peuvent charger, organiser, baliser et rechercher des ressources numériques.
 
-   * **[!DNL Assets Essentials]Utilisateurs clients** peut effectuer des opérations de recherche, de prévisualisation et de téléchargement dans Assets Essentials. Ils peuvent également rechercher et sélectionner des ressources dans Adobe Journey Optimizer, ainsi que rechercher et sélectionner des ressources à utiliser dans Workfront.
-Pour plus d’informations, voir [Intégration à d’autres solutions ](integration.md).
+   * Les utilisateurs consommateurs et les utilisatrices consommatrices **[!DNL Assets Essentials]** peuvent effectuer des opérations de recherche, de prévisualisation et de téléchargement dans Assets Essentials. Ils ou elles peuvent également rechercher et sélectionner des ressources dans Adobe Journey Optimizer, et rechercher et sélectionner des ressources à utiliser dans Workfront.
+Pour plus d’informations, voir [Intégration à d’autres solutions](integration.md).
 
    ![Profil administrateur Admin Console](assets/admin-console-admin-profile.png)
 
@@ -149,7 +149,7 @@ Pour plus d’informations sur le formulaires de métadonnées, voir [Formulaire
 
 Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 
-Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections. Pour plus d’informations, consultez la section [Gérer des collections](manage-collections.md).
+Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections. Pour plus d’informations, consultez la section [Gérer des collections](manage-collections.md).
 
 ![Collections](assets/collections.png)
 
