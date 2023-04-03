@@ -1,12 +1,12 @@
 ---
 title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
-description: Comprendre l’interface utilisateur et de la navigation dans  [!DNL Assets Essentials].
+description: Comprendre l’interface utilisateur et de la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: b627c20ee9be9be79bb0325b55543ae9e2935b9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '616'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Lorsque vous vous connectez à [!DNL Assets Essentials], l’interface suivante 
 
 <!-- TBD: Update this screenshot. Remove top bar. Remove 2 labels from top bar. -->
 
-![[!DNL Assets Essentials]Interface utilisateur d’](assets/essentials-interface1.png)
+![[!DNL Assets Essentials]Interface utilisateur](assets/essentials-interface1.png)
 
 *Figure : premier écran après connexion et emplacement des principales fonctionnalités.*
     *A : barre latérale gauche permettant de parcourir le référentiel et permet d’accéder à quelques autres options.*
@@ -44,7 +44,7 @@ Vous pouvez accéder aux dossiers requis à partir de l’interface utilisateur 
 
 * **Ressources** : liste de tous les dossiers auxquels vous avez accès sous la forme d’une arborescence.
 * **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
-* **Corbeille** : Répertorier les ressources supprimées de la racine **[!UICONTROL Ressources]** dossier. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement.
+* **Corbeille** : Répertorier les ressources supprimées du dossier racine **[!UICONTROL Ressources]**. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
