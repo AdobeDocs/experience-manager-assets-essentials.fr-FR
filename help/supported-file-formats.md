@@ -4,10 +4,10 @@ description: Formats de fichiers pris en charge pour les différents cas d’uti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: e8791aab7c99e020921bdd65ed3d579bb11ffd6b
-workflow-type: ht
-source-wordcount: '363'
-ht-degree: 100%
+source-git-commit: 93c6c273e2ad82237b29f93bc42d090f219e6c79
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,7 +41,7 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 | Type de ressource | [Parcourir](/help/navigate-view.md) | Copier | [Chargement](/help/add-delete.md) | Créer | [Supprimer](/help/add-delete.md#delete-assets) | Détails | Zoom sur l’image | [Récemment consultés](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
 | Images pixellisées | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| RAW fichiers | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Fichiers RAW | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | Dossiers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
 | Vidéos MP4 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
 | PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
@@ -57,12 +57,13 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 | Type de ressource | [Télécharger](/help/manage-organize.md#download) | Glisser-déplacer | [Éditeur d’image](/help/edit-images.md) | [Rechercher](/help/search.md) | [Balises intelligentes](/help/metadata.md#tags) | [Renommer](/help/manage-organize.md) | [Versions](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| RAW fichiers | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Fichiers RAW | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Dossiers | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 | Vidéos | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | Bibliothèques CC | − | − | − | − | − | ✓ | ✓ |
 | PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
-| PSD, AI et INDD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| PSD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| AI et INDD | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 | Autres fichiers binaires. | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 
 
@@ -71,7 +72,7 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 | Type de ressource | Annoter | Commentaire | Création de tâches et révision |
 |---------------|----------|----------|-------------------------|
 | Images pixellisées | ✓ | ✓ | ✓ |
-| RAW fichiers | ✓ | ✓ | ✓ |
+| Fichiers RAW | ✓ | ✓ | ✓ |
 | Dossiers | − | − | − |
 | Vidéos | − | ✓ | ✓ |
 | Bibliothèques CC | − | − | − |
@@ -92,7 +93,7 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 | Type de ressource | [Métadonnées](/help/metadata.md) | [Rendus](/help/add-delete.md#renditions) | [Corbeille](/help/add-delete.md#delete-assets) | Copier | Déplacer |
 |---------------|-------------------|------------|----------|----------|----------|
 | Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ |
-| RAW fichiers | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Fichiers RAW | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Dossiers | ✓ | − | ✓ | ✓ | ✓ |
 | Vidéos | ✓ | − | ✓ | ✓ | ✓ |
 | Bibliothèques CC | ✓ | − | − | − | − |
