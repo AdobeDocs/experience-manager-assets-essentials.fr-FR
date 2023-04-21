@@ -5,7 +5,7 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: b222e03a8eca0837ca647740baed7d77afe96ed3
 workflow-type: tm+mt
 source-wordcount: '781'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 97%
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Rapports"
->abstract="Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit. Tous les utilisateurs affectés au profil de produit Administrateurs peuvent accéder au tableau de bord Statistiques ou créer des rapports définis par l’utilisateur."
+>abstract="Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit. Tous les utilisateurs et toutes les utilisatrices affectés au profil de produit Administration d’Assets Essentials peuvent accéder au tableau de bord des insights ou créer des rapports définis par l’utilisateur ou l’utilisatrice."
 
 Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit.
 
