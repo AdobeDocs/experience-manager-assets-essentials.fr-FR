@@ -2,7 +2,7 @@
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d’accès aux dossiers disponibles dans le référentiel. Pour gérer les niveaux d’accès, créez des groupes d’utilisateurs et attribuez-leur des autorisations. En tant qu’administrateur, vous pouvez également déléguer les droits de gestion des autorisations à des groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 5ebfa8080b59bee3b7cf4c25056a778c821003f1
+source-git-commit: 14048cd4c40c4d942d43a2ed955d09c71d72b684
 workflow-type: tm+mt
 source-wordcount: '1691'
 ht-degree: 100%
@@ -12,7 +12,7 @@ ht-degree: 100%
 # Gérer les autorisations des dossiers {#manage-permissions}
 
 >[!CONTEXTUALHELP]
->id="assets_workspace"
+>id="assets_permissions_folders"
 >title="Gérer les autorisations"
 >abstract="Grâce à [!DNL Assets Essentials], les administrateurs et les administratrices peuvent gérer les niveaux d’accès aux dossiers disponibles dans le référentiel. En tant qu’administrateur, vous pouvez créer des groupes d’utilisateurs et leur attribuer des autorisations afin de gérer les niveaux d’accès. Vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier."
 

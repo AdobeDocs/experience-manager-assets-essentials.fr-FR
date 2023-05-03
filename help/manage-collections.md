@@ -2,14 +2,19 @@
 title: Gestion des collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
-workflow-type: ht
-source-wordcount: '737'
-ht-degree: 100%
+source-git-commit: 14048cd4c40c4d942d43a2ed955d09c71d72b684
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Gestion des collections {#manage-collections}
+
+>[!CONTEXTUALHELP]
+>id="assets_collections"
+>title="Gérer les collections"
+>abstract="Une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections."
 
 Une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Adobe Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 
@@ -19,7 +24,7 @@ Contrairement aux dossiers, une collection peut comporter des ressources provena
 You can share collections with various users that are assigned different levels of privileges, including viewing, editing, and so on.
 -->
 
-Vous pouvez partager plusieurs collections avec un utilisateur. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
+Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
 
 ![Collections](assets/collections.png)
 
