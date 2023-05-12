@@ -3,13 +3,13 @@ title: Gérer les notifications
 description: Surveillez toute opération effectuée sur les ressources ou dossiers du répertoire à l’aide des notifications Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: c48ec7f5bfa1e449f461e73c5f3b725d52d9b1d1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '617'
+ht-degree: 100%
 
 ---
 
-# Surveillance des ressources, des dossiers et des collections {#watch-assets-folders}
+# Surveiller des ressources, des dossiers et des collections {#watch-assets-folders}
 
 Les notifications Assets Essentials vous permettent de surveiller les opérations effectuées sur les ressources, les dossiers ou les collections disponibles dans le référentiel. Pour recevoir les notifications, vous devez sélectionner le contenu et vous y abonner. Vous pouvez également configurer les catégories pour lesquelles les notifications vous sont envoyées.
 
