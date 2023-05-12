@@ -4,9 +4,9 @@ description: Comprendre l’interface utilisateur et de la navigation dans [!DNL
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 3cc4d8ea48b0b2c8014572fce7609ee39f5868e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '902'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -24,15 +24,15 @@ Lorsque vous vous connectez à [!DNL Assets Essentials], l’interface suivante 
 
 ![[!DNL Assets Essentials]Interface utilisateur](assets/essentials-interface.png)
 
-    *A : Barre latérale gauche pour parcourir le référentiel et permet d’accéder à quelques autres options.*
-    *B : Afficher ou réduire la barre latérale gauche pour augmenter la zone d’affichage des ressources*
-    *C : Filtrage des résultats de recherche*
-    *D : Sélectionner tout le contenu du dossier sélectionné*
-    *E : Options de tri des ressources*
-    *F : Zone de recherche*
-    *G : Télécharger ou faire glisser des fichiers à l’aide de `Add Assets` button*
-    *H : Création d’un dossier*
-    *I : Basculer entre différentes vues*
+    *A : barre latérale gauche pour parcourir le référentiel et qui permet d’accéder à d’autres options.*
+    *B : afficher ou réduire la barre latérale gauche pour augmenter la zone d’affichage des ressources.*
+    *C : filtrer les résultats de la recherche.*
+    *D : sélectionner tout le contenu du dossier sélectionné.*
+    *E : options de tri des ressources.*
+    *F : zone de recherche.*
+    *G : télécharger ou glisser-déposer des fichiers à l’aide du bouton `Add Assets`.*
+    *H : créer un nouveau dossier.*
+    *I : basculer entre différentes vues.*
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -40,15 +40,15 @@ Lorsque vous vous connectez à [!DNL Assets Essentials], l’interface suivante 
 
 Vous pouvez accéder aux dossiers requis à partir de l’interface utilisateur principale ou de la barre latérale gauche. Lors de votre navigation, vous pouvez utiliser l’interface pour afficher les miniatures de vos ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
 
-* [Mon espace de travail](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): Assets comprend désormais un espace de travail personnalisable qui fournit des widgets pour accéder facilement aux zones clés de l’interface utilisateur d’Assets et des informations qui vous concernent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
-* [Tâches](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): Vous pouvez afficher les tâches qui vous sont affectées sous **Mes tâches** . En revanche, les tâches que vous créez peuvent être visualisées sous **Tâches affectées** . En outre, les tâches que vous effectuez se trouvent sous **Tâches terminées** .
-* [Ressources](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=en) : liste de tous les dossiers auxquels vous avez accès sous la forme d’une arborescence.
+* [Mon espace de travail](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=fr) : Assets comprend désormais un espace de travail personnalisable, composé de widgets permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
+* [Tâches](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=fr) : vous pouvez afficher les tâches qui vous sont affectées sous l’onglet **Mes tâches**. En revanche, les tâches que vous créez peuvent être affichées sous l’onglet **Tâches affectées**. En outre, les tâches que vous avez terminées se trouvent sous l’onglet **Tâches terminées**.
+* [Ressources](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=fr) : liste de tous les dossiers auxquels vous avez accès sous la forme d’une arborescence.
 * **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
-* [Collections](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=fr): Une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Adobe Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
+* [Collections](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=fr) : une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Adobe Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs et utilisatrices. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
 
-* [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=en#view-live-statistics): Dans [!DNL Assets Essentials], vous pouvez afficher des informations en temps réel sur votre tableau de bord. Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
-* **Corbeille**: Répertorier les ressources supprimées de la racine **[!UICONTROL Ressources]** dossier. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement.
-* **Paramètres**: Vous pouvez configurer différentes options d’Assets Essentials à l’aide de l’option **Paramètres**, par exemple, les formulaires de métadonnées, les rapports et la gestion de la taxonomie.
+* [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=fr#view-live-statistics) : dans [!DNL Assets Essentials], vous pouvez afficher des insights en temps réel sur votre tableau de bord. Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
+* **Corbeille** : répertorie les ressources supprimées du dossier racine **[!UICONTROL Ressources]**. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement.
+* **Paramètres** : vous pouvez configurer différentes options d’Assets Essentials à l’aide des **Paramètres**, par exemple, les formulaires de métadonnées, les rapports et la gestion de la taxonomie.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
@@ -82,23 +82,23 @@ Pour prévisualiser une ressource, sélectionnez-la et cliquez sur ![icône de d
 
 ![Aperçu d’une ressource](assets/preview-asset-2.png)
 
-*A : Revenez au dossier actuel ou au résultat de la recherche dans le référentiel.*
-*B : Nom et format du fichier que vous prévisualisez*
-*C : Affecter des tâches*
-*D : Télécharger une ressource*
-*E : Aperçu de la ressource et affichage des informations de métadonnées*
-*D : Métadonnées avancées*
-*E : Mots-clés et balises intelligentes*
-*F : Commenter et annoter*
-*G : Afficher les tâches liées à la ressource sélectionnée*
-*H : Affichage et gestion des versions*
-*I : Affichage des rendus de l’image*
-*J : Modifier l’image*
-*K : Métadonnées de base*
-*L : Métadonnées avancées*
-*M : Mots-clés et balises intelligentes*
-*N : Aperçu plus détaillé. Zoom, plein écran et autres options*
-*O : Passez à la ressource précédente ou suivante dans le dossier actif sans revenir au dossier*
+*A : revenir au dossier actuel ou au résultat de la recherche actuel dans le référentiel.*
+*B : nom et format du fichier que vous prévisualisez.*
+*C : affecter des tâches.*
+*D : télécharger une ressource.*
+*E : prévisualiser la ressource et afficher les informations de métadonnées.*
+*D : métadonnées avancées.*
+*E : mots-clés et balises intelligentes.*
+*F : commenter et annoter.*
+*G : afficher les tâches liées à la ressource sélectionnée.*
+*H : afficher et gérer les versions.*
+*I : afficher les rendus de l’image.*
+*J : modifier l’image.*
+*K : métadonnées de base.*
+*L : métadonnées avancées.*
+*M : mots-clés et balises intelligentes.*
+*N : aperçu plus détaillé. Zoom, plein écran et autres options*
+*O : passer à la ressource précédente ou suivante dans le dossier actif sans revenir au dossier.*
 
 Vous pouvez également prévisualiser des vidéos.
 
