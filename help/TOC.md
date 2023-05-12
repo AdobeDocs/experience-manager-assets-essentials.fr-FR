@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 7acef27127f5659ad2aa5da69f7032da1280e1eb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '127'
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 + [Gestion des métadonnées des ressource](metadata.md)
 + [Partager des ressources](share-links-for-assets.md)
 + [Gestion des collections](manage-collections.md)
-+ [Surveillance des ressources, des dossiers et des collections](manage-notifications.md)
++ [Surveiller des ressources, des dossiers et des collections](manage-notifications.md)
 + [Gérer les rapports](manage-reports.md)
 + Intégration à d’autres solutions {#integration-with-other-solutions}
    + [Présentation](integration.md)
