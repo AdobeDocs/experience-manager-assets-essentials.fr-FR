@@ -4,28 +4,32 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: aefa3e0c76a4b92b00ff069655297387cfe733b0
-workflow-type: ht
-source-wordcount: '1734'
-ht-degree: 100%
+source-git-commit: de0a8e4f31a378f79c5b94414886c8ec9d3d7891
+workflow-type: tm+mt
+source-wordcount: '1783'
+ht-degree: 95%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials a été publiée le 30 mars 2023.
+La version actuelle d’Assets Essentials est publiée le 24 mai 2023.
 
 La liste des fonctionnalités récemment ajoutées comprend les éléments suivants :
 
+**Ressources les plus téléchargées**
+
+Mon espace de travail affiche désormais les dix ressources les plus téléchargées pour votre environnement Assets Essentials dans [!UICONTROL Contenu] . Vous pouvez également afficher le type de format et le nombre de téléchargements pour chaque ressource répertoriée.
+
 **Mises à jour en bloc des métadonnées de ressources**
 
-Les mises à jour en bloc des métadonnées vous permettent d’effectuer simultanément des mises à jour de métadonnées courantes sur plusieurs ressources. Il n’est pas nécessaire de mettre à jour les enregistrements individuellement. Vous pouvez appliquer rapidement des propriétés aux ressources, accessibles par le biais de recherches, de dossiers et de collections.
+Les mises à jour en bloc des métadonnées vous permettent d’effectuer simultanément des mises à jour de métadonnées courantes sur plusieurs ressources. Vous n’avez pas besoin de mettre à jour les enregistrements individuellement et vous pouvez rapidement appliquer des propriétés aux ressources ou aux dossiers accessibles par le biais de la recherche.
 
 **Mon espace de travail avec des widgets configurables**
 
 Assets offre désormais un espace de travail personnalisé. Accédez facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus, sans quitter votre page actuelle. Vous pouvez ainsi augmenter la vitesse du contenu et l’efficacité de vos projets.
 
-Mon espace de travail comprend des widgets pour les nouvelles fonctionnalités à venir, les insights, les tâches et le contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
+Mon espace de travail comprend des widgets pour les statistiques, les tâches et le contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
 
 **Interface utilisateur de la gestion des tâches dédiées**
 
@@ -56,6 +60,8 @@ La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révis�
 
 
 * Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
+
+* En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
 
 Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
 
