@@ -3,14 +3,14 @@ title: Prise en main d’ [!DNL Assets Essentials]
 description: Accès, connexion, cas d’utilisation pris en charge et problèmes connus dans [!DNL Assets Essentials].
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
+source-git-commit: a95f0cba350d0c766fefb90609aba5a3f50e9d0f
+workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 100%
 
 ---
 
-# Prise en main d’[!DNL Experience Manager Assets Essentials] {#assets-essentials-get-started}
+# Prise en main d’[!DNL Adobe Experience Manager Assets Essentials] {#assets-essentials-get-started}
 
 <!-- TBD: Make links for these steps. -->
 
