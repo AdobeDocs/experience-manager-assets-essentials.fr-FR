@@ -3,9 +3,9 @@ title: Mon espace de travail d’Assets
 description: La page Mon espace de travail est composée de modules visuels personnalisables permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations les plus pertinentes pour l’utilisateur et l’utilisatrice.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: e6c6a7ee20fca5e87f521708fb7ddec453131e40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '568'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ Ce widget affiche les listes de tâches suivantes : les tâches qui vous sont a
 
 Présente les ressources sous différents affichages, y compris la liste des ressources que vous avez récemment consultées. Vous pouvez afficher les ressources du widget dans la vue Liste, Grille, Galerie ou Cascade et les trier par nom, taille ou date de modification. Vous pouvez également sélectionner une ressource pour en afficher les détails ou la supprimer de la liste des ressources récemment consultées.
 
-Le **[!UICONTROL Principaux téléchargements]** affiche les dix ressources les plus téléchargées disponibles dans votre environnement Assets Essentials. Vous pouvez choisir d’afficher les ressources en mode Liste ou en mode Grille. Les deux vues affichent le type de format et le nombre de téléchargements pour chaque ressource. Vous pouvez également sélectionner une ressource et cliquer sur **[!UICONTROL Détails]** pour afficher ses propriétés.
+L’onglet **[!UICONTROL Meilleurs téléchargements]** affiche les dix ressources les plus téléchargées disponibles dans votre environnement Assets Essentials. Vous pouvez choisir d’afficher les ressources en vue Liste ou vue Grille. Les deux vues affichent le type de format et le nombre de téléchargements pour chaque ressource. Vous pouvez également sélectionner une ressource et cliquer sur **[!UICONTROL Détails]** pour afficher ses propriétés.
 
 ![Widget Contenu dans l’espace de travail](assets/workspace-content.png)
 
