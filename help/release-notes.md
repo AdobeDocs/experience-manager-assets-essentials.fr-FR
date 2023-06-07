@@ -5,31 +5,31 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: de0a8e4f31a378f79c5b94414886c8ec9d3d7891
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1783'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials est publiée le 24 mai 2023.
+La version actuelle d’Assets Essentials a été publiée le 24 mai 2023.
 
 La liste des fonctionnalités récemment ajoutées comprend les éléments suivants :
 
 **Ressources les plus téléchargées**
 
-Mon espace de travail affiche désormais les dix ressources les plus téléchargées pour votre environnement Assets Essentials dans [!UICONTROL Contenu] . Vous pouvez également afficher le type de format et le nombre de téléchargements pour chaque ressource répertoriée.
+Mon espace de travail affiche désormais les dix ressources les plus téléchargées pour votre environnement Assets Essentials dans la section [!UICONTROL Contenu]. Vous pouvez également afficher le type de format et le nombre de téléchargements pour chaque ressource répertoriée.
 
 **Mises à jour en bloc des métadonnées de ressources**
 
-Les mises à jour en bloc des métadonnées vous permettent d’effectuer simultanément des mises à jour de métadonnées courantes sur plusieurs ressources. Vous n’avez pas besoin de mettre à jour les enregistrements individuellement et vous pouvez rapidement appliquer des propriétés aux ressources ou aux dossiers accessibles par le biais de la recherche.
+Les mises à jour en bloc des métadonnées vous permettent d’effectuer simultanément des mises à jour de métadonnées courantes sur plusieurs ressources. Il n’est pas nécessaire de mettre à jour les enregistrements individuellement. Vous pouvez appliquer rapidement des propriétés aux ressources ou fichiers, accessibles par le biais de recherches.
 
 **Mon espace de travail avec des widgets configurables**
 
 Assets offre désormais un espace de travail personnalisé. Accédez facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus, sans quitter votre page actuelle. Vous pouvez ainsi augmenter la vitesse du contenu et l’efficacité de vos projets.
 
-Mon espace de travail comprend des widgets pour les statistiques, les tâches et le contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
+Mon espace de travail comprend des widgets pour les informations, les tâches et le contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
 
 **Interface utilisateur de la gestion des tâches dédiées**
 
