@@ -4,7 +4,7 @@ description: Cas pratiques d’administration tels que le déploiement et la ges
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1342'
 ht-degree: 100%
 
