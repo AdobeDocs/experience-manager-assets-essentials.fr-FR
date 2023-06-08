@@ -4,7 +4,7 @@ description: Modifiez les images à l’aide des options optimisées d’ [!DNL 
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 100%
 
