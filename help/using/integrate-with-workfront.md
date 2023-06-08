@@ -3,7 +3,7 @@ title: Intégrer Assets Essentials à Adobe Workfront
 description: Intégrer Assets Essentials à l’application Adobe Workfront afin de pouvoir accéder au référentiel Assets Essentials dans l’application Workfront.
 exl-id: 9605fa3a-d454-48b5-9f84-b384eb1ad493
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 100%
 
