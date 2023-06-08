@@ -4,7 +4,7 @@ description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 100%
 
