@@ -3,10 +3,10 @@ title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
 description: Comprendre l’interface utilisateur et de la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: b2ec3dde3d231cdb772833dfa7c9de01b7c3dd38
 workflow-type: tm+mt
-source-wordcount: '902'
-ht-degree: 100%
+source-wordcount: '937'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,7 @@ Vous pouvez accéder aux dossiers requis à partir de l’interface utilisateur 
 * [Collections](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=fr) : une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Adobe Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs et utilisatrices. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=fr#view-live-statistics) : dans [!DNL Assets Essentials], vous pouvez afficher des insights en temps réel sur votre tableau de bord. Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
-* **Corbeille** : répertorie les ressources supprimées du dossier racine **[!UICONTROL Ressources]**. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement.
+* **Corbeille** : répertorie les ressources supprimées du dossier racine **[!UICONTROL Ressources]**. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement. Vous pouvez également spécifier un mot-clé ou appliquer des filtres standard ou personnalisés pour rechercher les ressources appropriées dans le dossier Corbeille. Pour plus d’informations sur l’utilisation de filtres standard et personnalisés, voir [Recherche de ressources dans Assets Essentials](search.md).
 * **Paramètres** : vous pouvez configurer différentes options d’Assets Essentials à l’aide des **Paramètres**, par exemple, les formulaires de métadonnées, les rapports et la gestion de la taxonomie.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
