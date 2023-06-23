@@ -4,16 +4,77 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: d6737d903b8010e2a3b7434584a7aae0d7bc68bd
 workflow-type: tm+mt
-source-wordcount: '1783'
-ht-degree: 100%
+source-wordcount: '2040'
+ht-degree: 87%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials a été publiée le 24 mai 2023.
+La version actuelle d’Assets Essentials est publiée le 8 juin 2023.
+
+Voici la liste des fonctionnalités :
+
+
+**Balisage hiérarchique des ressources pour une expérience de recherche plus rapide**
+
+Les listes plats de vocabulaires contrôlés deviennent ingérables au fil du temps. Assets Essentials prend désormais en charge la structure de balisage hiérarchique, qui facilite l’application des métadonnées pertinentes, la classification des ressources, la prise en charge de la recherche, la réutilisation des balises, l’amélioration de la visibilité, etc.
+
+![Gestion des balises](assets/tags-hierarchy.png)
+
+**Importation de fichiers, dossiers et collections pour un accès rapide**
+
+Vous pouvez désormais épingler des fichiers, des dossiers et des collections pour accéder plus rapidement à ces éléments lorsque vous en aurez besoin ultérieurement. Les éléments épinglés s’affichent dans la variable **Accès rapide** de Mon espace de travail. Vous pouvez y accéder à l’aide de Mon espace de travail au lieu d’accéder à l’emplacement où ils sont enregistrés dans le référentiel.
+
+![Tâches dans l’espace de travail](assets/quick-access.png)
+
+**Filtrage des ressources dans le dossier Corbeille**
+
+Assets Essentials vous permet désormais de filtrer les ressources disponibles dans le dossier Corbeille. Vous pouvez appliquer des filtres standard ou personnalisés pour rechercher les ressources appropriées dans le dossier Corbeille afin de les restaurer ou de les supprimer définitivement.
+
+**Aperçu des miniatures pour les ressources 3D**
+
+Assets Essentials génère désormais des aperçus miniatures pour les formats de fichiers 3D courants, notamment gLB, USDz, FBX, 3DS, OBJ et SBSAR. Lorsque ces fichiers sont téléchargés vers Assets Essentials, les miniatures sont automatiquement générées par le système, par défaut.
+
+![Tâches dans l’espace de travail](assets/3d-preview.png)
+
+**Afficher les termes les plus recherchés**
+
+Assets Essentials prend désormais en charge l’affichage des termes recherchés les plus courants dans votre déploiement Assets Essentials à l’aide du **Insights** de Mon espace de travail. Vous pouvez également accéder à Informations détaillées pour afficher les principales recherches effectuées au cours des 30 ou 12 derniers jours.
+
+![Tâches dans l’espace de travail](assets/insights-top-searches.png)
+
+**Améliorations des formulaires de métadonnées**
+
+Assets Essentials vous permet désormais d’ajouter des composants de propriétés de texte et de liste déroulante à plusieurs valeurs aux formulaires de métadonnées.
+
+
+**Améliorations basées sur les commentaires des clients**
+
+Améliorations et correctifs de bugs basés sur les commentaires des clients.
+
+## Problèmes connus {#known-issues}
+
+La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
+
+* En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
+
+Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
+
+## Versions antérieures {#past-releases}
+
+### Versions multiples en 2023 {#multiple-releases-2023}
 
 La liste des fonctionnalités récemment ajoutées comprend les éléments suivants :
 
@@ -47,25 +108,6 @@ Assets Essentials génère désormais automatiquement un lien dès que vous cho
 **Améliorations basées sur les commentaires des clients**
 
 Améliorations et correctifs de bugs basés sur les commentaires des clients.
-
-## Problèmes connus {#known-issues}
-
-La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
-
-* En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
-
-Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
-
-## Versions antérieures {#past-releases}
 
 ### 2022.11.0 {#november-2022}
 
@@ -253,7 +295,7 @@ En outre, l’extension d’[!DNL Adobe Asset Link] pour Creative Cloud (Photos
 
 La version 2021.8.0 d’[!DNL Assets Essentials] est sortie le 30 août 2021 et comprend les mises à jour suivantes :
 
-* Intégrations à [!DNL Adobe Workfront] qui permettent aux utilisateurs de [!DNL Workfront] de gérer leurs ressources numériques dans le cadre de la gestion de leur travail. Pour plus d’informations, voir [Intégrations avec d’autres solutions Adobe](/help/using/integration.md).
+* Intégrations à [!DNL Adobe Workfront] qui permettent aux utilisateurs de [!DNL Workfront] de gérer leurs ressources numériques dans le cadre de la gestion de leur travail.
 
 ### Version 2021.7.0 {#july2021}
 
@@ -269,4 +311,4 @@ La première version d’[!DNL Assets Essentials], sortie le 21 juin 2021, off
 * Chargement et ajout de ressources, y compris des dossiers imbriqués. Aperçu des ressources et des versions.
 * Recherche en plein texte, filtres de recherche nuancés et enregistrement des paramètres de recherche pour découvrir rapidement de ressources.
 * Opérations de gestion des ressources de base telles que la mise à jour, la suppression, le téléchargement et la gestion des métadonnées.
-* [!DNL Assets Essentials] permet aux utilisateurs d’[!DNL Adobe Journey Optimizer] de gérer les ressources lors de la création de messages. Pour plus d’informations, voir [Intégrations avec d’autres solutions Adobe](/help/using/integration.md).
+* [!DNL Assets Essentials] permet aux utilisateurs d’[!DNL Adobe Journey Optimizer] de gérer les ressources lors de la création de messages.
