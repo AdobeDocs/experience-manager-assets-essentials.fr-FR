@@ -1,14 +1,17 @@
 ---
 title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
-source-git-commit: faa88352204ffa607f669e90fce0fb25320f3de8
+source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 8%
+source-wordcount: '305'
+ht-degree: 9%
 
 ---
 
+
 # Présentation de la vue Assets {#assets-view}
+
+![Déployer Assets Essentials](assets/banner-image.jpg)
 
 Dans le paysage actuel de la gestion dynamique des actifs numériques, où la création et la diffusion de contenu en temps réel sont essentielles, une expérience de gestion des actifs numériques (DAM) conçue pour la vitesse marketing en aval est primordiale. Adobe, qui tire parti de son expertise pour autonomiser les professionnels du marketing et de la création, présente une nouvelle expérience utilisateur Assets View qui change tout le monde. Cette approche axée sur les workflows permet de révolutionner la manière dont les entreprises gèrent leurs ressources numériques dynamiques, en permettant aux marketeurs d’optimiser l’efficacité dans la recherche, la collaboration, la personnalisation et la diffusion des ressources. Ces workflows rationalisés accélèrent la vitesse du contenu et propulsent vos efforts marketing vers de nouveaux sommets.
 
