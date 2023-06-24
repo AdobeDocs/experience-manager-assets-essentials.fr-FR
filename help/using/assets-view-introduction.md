@@ -1,10 +1,10 @@
 ---
 title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
-source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
+source-git-commit: 839c85efa1ba91db5644c7463ff269b6b06f69a1
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 9%
+source-wordcount: '412'
+ht-degree: 7%
 
 ---
 
@@ -46,5 +46,10 @@ Saluez une solution de gestion des ressources numériques qui comprend les diff�
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
+## Première recherche pour améliorer l’efficacité
+
+Déverrouillez le potentiel de la bibliothèque de ressources numériques de votre entreprise grâce à la puissance de recherche grâce à des fonctionnalités de pointe. Vous pouvez faire vos adieux à la difficulté de trier manuellement un nombre incalculable de fichiers et de dossiers. Tout utilisateur peut immédiatement localiser l’image, la vidéo ou le document idéal dont vous avez besoin pour créer des campagnes marketing éblouissantes, des présentations captivantes et du contenu engageant. Notre premier moteur de recherche vous permet de parcourir facilement les types de ressources, les métadonnées, les balises intelligentes, et même le contenu lui-même sans connaître le mot-clé exact. Préparez l’avenir de la gestion des ressources numériques avec notre outil Search-First et libérez tout le potentiel de votre bibliothèque de ressources numériques.
+
+![Déployer Assets Essentials](assets/search-first.gif)
 
 
