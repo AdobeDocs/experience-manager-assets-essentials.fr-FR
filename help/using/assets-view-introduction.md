@@ -3,10 +3,10 @@ title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
 hidefromtoc: true
 hide: true
-source-git-commit: b26a7698152998cc6353924eb7d2698315c9da16
+source-git-commit: 2378e09a21dfa3c87964058bca38a3d6d2ead98f
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 7%
+source-wordcount: '505'
+ht-degree: 10%
 
 ---
 
@@ -14,6 +14,8 @@ ht-degree: 7%
 # Présentation de la vue Assets {#assets-view}
 
 ![Déployer Assets Essentials](assets/banner-image.jpg)
+
+![Déployer Assets Essentials](assets/banner-image1.png)
 
 Dans le paysage actuel de la gestion dynamique des actifs numériques, où la création et la diffusion de contenu en temps réel sont essentielles, une expérience de gestion des actifs numériques (DAM) conçue pour la vitesse marketing en aval est primordiale. Adobe, qui tire parti de son expertise pour autonomiser les professionnels du marketing et de la création, présente une nouvelle expérience utilisateur Assets View qui change tout le monde. Cette approche axée sur les workflows permet de révolutionner la manière dont les entreprises gèrent leurs ressources numériques dynamiques, en permettant aux marketeurs d’optimiser l’efficacité dans la recherche, la collaboration, la personnalisation et la diffusion des ressources. Ces workflows rationalisés accélèrent la vitesse du contenu et propulsent vos efforts marketing vers de nouveaux sommets.
 
@@ -53,5 +55,13 @@ Saluez une solution de gestion des ressources numériques qui comprend les diff�
 Déverrouillez le potentiel de la bibliothèque de ressources numériques de votre entreprise grâce à la puissance de recherche grâce à des fonctionnalités de pointe. Vous pouvez faire vos adieux à la difficulté de trier manuellement un nombre incalculable de fichiers et de dossiers. Tout utilisateur peut immédiatement localiser l’image, la vidéo ou le document idéal dont vous avez besoin pour créer des campagnes marketing éblouissantes, des présentations captivantes et du contenu engageant. Notre premier moteur de recherche vous permet de parcourir facilement les types de ressources, les métadonnées, les balises intelligentes, et même le contenu lui-même sans connaître le mot-clé exact. Préparez l’avenir de la gestion des ressources numériques avec notre outil Search-First et libérez tout le potentiel de votre bibliothèque de ressources numériques.
 
 ![Déployer Assets Essentials](assets/search-first.gif)
+
+## Informations pour prendre des décisions pilotées par les données {#insights-data}
+
+Pour suivre la vitesse du contenu, des informations exploitables sont essentielles. La nouvelle expérience Affichage des ressources offre des informations avancées dans My Workspace, fournissant des données précieuses sur les performances des ressources, l’utilisation de l’audience et les engagements. Les marketeurs peuvent prendre des décisions basées sur les données, optimiser les stratégies de contenu et affiner leur diffusion en aval pour obtenir des résultats optimaux. Grâce à l&#39;accès à des informations significatives, les entreprises peuvent rester en avance sur la compétition et générer des résultats exceptionnels.
+
+![Déployer Assets Essentials](assets/insights-overview.gif)
+
+[![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
 
