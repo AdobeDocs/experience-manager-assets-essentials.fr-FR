@@ -3,7 +3,7 @@ title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 836f4524bde739614cca0595e7aace5f7674a954
+source-git-commit: 1ff1ced0910f1b2ca18e9130b07a399da1ccf27f
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 9%
@@ -65,6 +65,8 @@ Pour suivre la vitesse du contenu, des informations exploitables sont essentiell
 ## Accélérer la collaboration {#accelerate-collaboration}
 
 La nouvelle expérience fournit un solide ensemble de fonctionnalités de collaboration, notamment la modification en temps réel avec des fonctionnalités Adobe Photoshop intégrées, des contrôles de version et des outils d’annotation. Cela permet une collaboration transparente entre les équipes de conception, de création, de valorisation de marque et de marketing, ce qui leur permet de surmonter les goulets d’étranglement et d’accélérer le processus des opérations marketing. Les marketeurs disposent désormais d’outils puissants pour accélérer la livraison du projet et accroître leur productivité globale.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
 
 
