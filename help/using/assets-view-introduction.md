@@ -3,10 +3,10 @@ title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 2378e09a21dfa3c87964058bca38a3d6d2ead98f
+source-git-commit: 836f4524bde739614cca0595e7aace5f7674a954
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 10%
+source-wordcount: '566'
+ht-degree: 9%
 
 ---
 
@@ -14,8 +14,6 @@ ht-degree: 10%
 # Présentation de la vue Assets {#assets-view}
 
 ![Déployer Assets Essentials](assets/banner-image.jpg)
-
-![Déployer Assets Essentials](assets/banner-image1.png)
 
 Dans le paysage actuel de la gestion dynamique des actifs numériques, où la création et la diffusion de contenu en temps réel sont essentielles, une expérience de gestion des actifs numériques (DAM) conçue pour la vitesse marketing en aval est primordiale. Adobe, qui tire parti de son expertise pour autonomiser les professionnels du marketing et de la création, présente une nouvelle expérience utilisateur Assets View qui change tout le monde. Cette approche axée sur les workflows permet de révolutionner la manière dont les entreprises gèrent leurs ressources numériques dynamiques, en permettant aux marketeurs d’optimiser l’efficacité dans la recherche, la collaboration, la personnalisation et la diffusion des ressources. Ces workflows rationalisés accélèrent la vitesse du contenu et propulsent vos efforts marketing vers de nouveaux sommets.
 
@@ -46,7 +44,7 @@ Répétez ces étapes pour revenir à la vue Admin.
 
 Saluez une solution de gestion des ressources numériques qui comprend les différents besoins des différents rôles de l’entreprise. La nouvelle vue étincelante des ressources donne la priorité à la facilité d’utilisation et à la vitesse, en fonction des préférences des marketeurs en matière d’attrait visuel et d’espaces de travail encombrants. Avec un tableau de bord My Workspace personnalisé spécifique à l’utilisateur, les marketeurs peuvent rapidement trouver, prévisualiser, modifier, gérer et diffuser des ressources avec une efficacité remarquable. Adieu aux interminables heures passées à rechercher des ressources spécifiques et accueillir une expérience simplifiée qui met tout ce dont vous avez besoin au bout de vos doigts.
 
-![Déployer Assets Essentials](assets/experiment.gif)
+![Déployer Assets Essentials](assets/my-workspace-demo.gif)
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
@@ -63,5 +61,11 @@ Pour suivre la vitesse du contenu, des informations exploitables sont essentiell
 ![Déployer Assets Essentials](assets/insights-overview.gif)
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
+
+## Accélérer la collaboration {#accelerate-collaboration}
+
+La nouvelle expérience fournit un solide ensemble de fonctionnalités de collaboration, notamment la modification en temps réel avec des fonctionnalités Adobe Photoshop intégrées, des contrôles de version et des outils d’annotation. Cela permet une collaboration transparente entre les équipes de conception, de création, de valorisation de marque et de marketing, ce qui leur permet de surmonter les goulets d’étranglement et d’accélérer le processus des opérations marketing. Les marketeurs disposent désormais d’outils puissants pour accélérer la livraison du projet et accroître leur productivité globale.
+
+
 
 
