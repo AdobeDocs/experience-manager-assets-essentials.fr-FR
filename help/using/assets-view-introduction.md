@@ -3,10 +3,10 @@ title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
 hidefromtoc: true
 hide: true
-source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
+source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
 workflow-type: tm+mt
-source-wordcount: '861'
-ht-degree: 15%
+source-wordcount: '1022'
+ht-degree: 13%
 
 ---
 
@@ -93,6 +93,16 @@ Le dossier Corbeille disponible dans la vue Ressources répertorie les ressource
 ![Suppression progressive](assets/soft-delete.gif)
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
+
+En plus de ces fonctionnalités, la vue Assets vous permet d’exécuter les fonctionnalités suivantes qui ne sont pas disponibles dans la vue Admin :
+
+* Transférez une nouvelle version d’une ressource, portant un nom différent, depuis votre système de fichiers local vers le référentiel de ressources. La ressource chargée est disponible sous la forme d’une nouvelle version portant le même nom que la ressource d’origine.
+
+* Renommez les ressources et le dossier disponibles dans le référentiel.
+
+## Conclusion {#conclusion}
+
+L’ère du numérique d’abord est arrivée, et il est temps de transformer nos outils marketing pour prendre en charge l’évolution du paysage des affaires. La nouvelle vue Adobe Experience Manager Assets est conçue pour rationaliser les workflows, favoriser la collaboration et accélérer la diffusion des ressources. En adoptant la vitesse du contenu, les marketeurs peuvent exploiter tout le potentiel de leurs ressources numériques et libérer la créativité comme jamais auparavant. Soyez prêt à exploiter la puissance de la nouvelle expérience d’affichage des ressources de l’Adobe et à obtenir des résultats exceptionnels dans vos campagnes marketing. Il est temps d’embrasser l’avenir de la gestion des ressources numériques et de propulser votre entreprise vers l’avenir.
 
 
 
