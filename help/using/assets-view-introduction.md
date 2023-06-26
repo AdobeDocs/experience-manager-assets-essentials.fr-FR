@@ -3,9 +3,9 @@ title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
 hidefromtoc: true
 hide: true
-source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
+source-git-commit: 9ce744b0a920dc553a41e631d0f1be1d8f26bb93
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1037'
 ht-degree: 13%
 
 ---
@@ -65,6 +65,8 @@ Pour suivre la vitesse du contenu, des informations exploitables sont essentiell
 ## Intégration de Adobe Photoshop Express pour accélérer la collaboration {#accelerate-collaboration}
 
 La nouvelle expérience fournit un solide ensemble de fonctionnalités de collaboration, notamment la modification en temps réel avec des fonctionnalités Adobe Photoshop intégrées, des contrôles de version et des outils d’annotation. Cela permet une collaboration transparente entre les équipes de conception, de création, de valorisation de marque et de marketing, ce qui leur permet de surmonter les goulets d’étranglement et d’accélérer le processus des opérations marketing. Les marketeurs disposent désormais d’outils puissants pour accélérer la livraison du projet et accroître leur productivité globale.
+
+Regardez cette vidéo pour comprendre la puissance de l’intégration de la vue Assets à Adobe Photoshop Express :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
