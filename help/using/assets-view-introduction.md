@@ -3,10 +3,10 @@ title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
 hidefromtoc: true
 hide: true
-source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
+source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
 workflow-type: tm+mt
-source-wordcount: '677'
-ht-degree: 13%
+source-wordcount: '773'
+ht-degree: 15%
 
 ---
 
@@ -62,7 +62,7 @@ Pour suivre la vitesse du contenu, des informations exploitables sont essentiell
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Accélérer la collaboration avec l’intégration de Adobe Photoshop Express {#accelerate-collaboration}
+## Intégration de Adobe Photoshop Express pour accélérer la collaboration {#accelerate-collaboration}
 
 La nouvelle expérience fournit un solide ensemble de fonctionnalités de collaboration, notamment la modification en temps réel avec des fonctionnalités Adobe Photoshop intégrées, des contrôles de version et des outils d’annotation. Cela permet une collaboration transparente entre les équipes de conception, de création, de valorisation de marque et de marketing, ce qui leur permet de surmonter les goulets d’étranglement et d’accélérer le processus des opérations marketing. Les marketeurs disposent désormais d’outils puissants pour accélérer la livraison du projet et accroître leur productivité globale.
 
@@ -70,13 +70,21 @@ La nouvelle expérience fournit un solide ensemble de fonctionnalités de collab
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## Configuration rapide de la structure hiérarchique à l’aide des téléchargements de dossiers {#folder-uploads}
+## Chargements de dossiers pour configurer la structure hiérarchique de votre organisation {#folder-uploads}
 
 Configurez rapidement une structure de dossiers pour votre organisation à l’aide de la vue Ressources en chargeant les dossiers qui existent sur votre système de fichiers local. Il n’est pas nécessaire de créer des dossiers sous le dossier racine, puis de charger manuellement les ressources dans ces dossiers afin de conserver la structure hiérarchique logique. Tous les dossiers et ressources situés sous le dossier racine sont automatiquement chargés vers Experience Manager Assets.
 
-![Déployer Assets Essentials](assets/folder-uploads.gif)
+![Chargement de dossiers](assets/folder-uploads.gif)
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
+
+## Abonner au contenu pour recevoir des notifications
+
+La vue Assets permet de surveiller les opérations effectuées sur les ressources, dossiers ou collections disponibles dans le référentiel. Pour recevoir les notifications, vous devez sélectionner le contenu et vous y abonner. Vous pouvez également configurer les types d’événements, tels que la suppression de votre contenu abonné, les modifications apportées au contenu abonné, etc. Les notifications vous sont alors envoyées uniquement pour ces types d’événements.
+
+![Réception de notifications](assets/notifications.gif)
+
+[![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
 
 
