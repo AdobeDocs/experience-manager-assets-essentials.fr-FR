@@ -3,10 +3,10 @@ title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 7a1d9c01ed19015f8552b088142122b354c6074b
+source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 10%
+source-wordcount: '677'
+ht-degree: 13%
 
 ---
 
@@ -73,6 +73,10 @@ La nouvelle expérience fournit un solide ensemble de fonctionnalités de collab
 ## Configuration rapide de la structure hiérarchique à l’aide des téléchargements de dossiers {#folder-uploads}
 
 Configurez rapidement une structure de dossiers pour votre organisation à l’aide de la vue Ressources en chargeant les dossiers qui existent sur votre système de fichiers local. Il n’est pas nécessaire de créer des dossiers sous le dossier racine, puis de charger manuellement les ressources dans ces dossiers afin de conserver la structure hiérarchique logique. Tous les dossiers et ressources situés sous le dossier racine sont automatiquement chargés vers Experience Manager Assets.
+
+![Déployer Assets Essentials](assets/folder-uploads.gif)
+
+[![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
 
 
