@@ -3,9 +3,9 @@ title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
+source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '861'
 ht-degree: 15%
 
 ---
@@ -78,13 +78,21 @@ Configurez rapidement une structure de dossiers pour votre organisation à l’a
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## Abonner au contenu pour recevoir des notifications
+## Abonnement au contenu du référentiel pour une gestion efficace des ressources
 
 La vue Assets permet de surveiller les opérations effectuées sur les ressources, dossiers ou collections disponibles dans le référentiel. Pour recevoir les notifications, vous devez sélectionner le contenu et vous y abonner. Vous pouvez également configurer les types d’événements, tels que la suppression de votre contenu abonné, les modifications apportées au contenu abonné, etc. Les notifications vous sont alors envoyées uniquement pour ces types d’événements.
 
 ![Réception de notifications](assets/notifications.gif)
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
+
+## Suppression des ressources de type Soft pour offrir un meilleur contrôle aux administrateurs {#soft-delete-assets}
+
+Le dossier Corbeille disponible dans la vue Ressources répertorie les ressources supprimées du dossier Ressources racine. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement. Vous pouvez également spécifier un mot-clé ou appliquer des filtres standard ou personnalisés pour rechercher les ressources appropriées dans le dossier Corbeille.
+
+![Suppression progressive](assets/soft-delete.gif)
+
+[![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
 
 
 
