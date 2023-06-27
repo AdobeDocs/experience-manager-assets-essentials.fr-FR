@@ -4,10 +4,10 @@ description: Nouveautés de la vue Assets
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 138e8eaa8e4c0ff83c46e2b6a62e92740c87f366
+source-git-commit: 52ec2263e237e6c3b47dc967eb5cc3e6acbe814f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1020'
+ht-degree: 12%
 
 ---
 
@@ -22,23 +22,29 @@ Dans le paysage actuel de la gestion dynamique des actifs numériques, où la cr
 
 Vous pouvez accéder à la vue Ressources de la manière suivante :
 
-* **Activation/désactivation dans la vue d’administration**
+![Présentation de My Workspace](assets/assets-view.png)
 
-   * Se connecter [!DNL Experience Manager] à l’aide de Cloud Manager.
-   * Accédez à **[!UICONTROL Ressources]** > **[!UICONTROL Fichiers]**.
-   * Cliquez sur l’icône de profil dans le coin supérieur droit.
-   * Cliquez sur **[!UICONTROL Mode bascule]** de la **[!UICONTROL Paramètres de profil]** .
-Répétez ces étapes pour revenir à la vue Admin.
+<!--
 
-* **Sélecteur de produits**
-   * Se connecter [!DNL Experience Manager] et cliquez sur
-   * Sélectionner **[!UICONTROL Experience Manager Assets]** pour accéder à la vue Ressources.
-   * Sélectionner **[!UICONTROL Experience Manager]** pour accéder à la vue Admin.
+* **Toggle in Admin view**
 
-* **Liens rapides**
-   * Connectez-vous à experience.adobe.com.
-   * Cliquez sur **[!UICONTROL Experience Manager Assets]** pour accéder à la vue Ressources.
-   * Cliquez sur **[!UICONTROL Experience Manager Assets]** pour accéder à la vue Ressources.
+    * Log into [!DNL Experience Manager] using Cloud Manager.
+    * Navigate to **[!UICONTROL Assets]** > **[!UICONTROL Files]**.
+    * Click the profile icon on the top right corner.
+    * Click **[!UICONTROL Switch View]** from the **[!UICONTROL Profile Settings]** section.
+    Repeat these steps to switch back to the Admin view.
+
+* **Product Switcher**
+    * Log into [!DNL Experience Manager] and click ![Product selector](assets/waffle-icon.svg).
+    * Select **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+    * Select **[!UICONTROL Experience Manager]** to access the Admin view.
+
+* **Quick Links** 
+    * Log into experience.adobe.com.
+    * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+    * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+
+    -->
 
 ## Pourquoi la vue Assets ?
 
