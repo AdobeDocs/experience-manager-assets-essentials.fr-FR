@@ -1,12 +1,13 @@
 ---
 title: Présentation de la vue Assets
 description: Nouveautés de la vue Assets
+mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 9ce744b0a920dc553a41e631d0f1be1d8f26bb93
+source-git-commit: 138e8eaa8e4c0ff83c46e2b6a62e92740c87f366
 workflow-type: tm+mt
-source-wordcount: '1037'
-ht-degree: 13%
+source-wordcount: '1103'
+ht-degree: 11%
 
 ---
 
@@ -39,30 +40,35 @@ Répétez ces étapes pour revenir à la vue Admin.
    * Cliquez sur **[!UICONTROL Experience Manager Assets]** pour accéder à la vue Ressources.
    * Cliquez sur **[!UICONTROL Experience Manager Assets]** pour accéder à la vue Ressources.
 
+## Pourquoi la vue Assets ?
 
-## Mon tableau de bord Workspace pour offrir des expériences rationalisées
+La vue Assets offre les avantages clés suivants qui ne sont pas disponibles dans la vue Admin :
+
+* [Mon tableau de bord Workspace pour offrir des expériences rationalisées](#my-workspace-for-streamlined-experience)
+* [Première recherche pour améliorer l’efficacité](#search-first)
+* [Informations pour prendre des décisions pilotées par les données](#insights-data)
+* [Intégration de Adobe Photoshop Express pour accélérer la collaboration](#accelerate-collaboration)
+* [Chargements de dossiers pour configurer la structure hiérarchique de votre organisation](#folder-uploads)
+* [Abonnement au contenu du référentiel pour une gestion efficace des ressources](#subscribe-content)
+* [Suppression des ressources de type Soft pour offrir un meilleur contrôle aux administrateurs](#soft-delete-assets)
+
+### Mon tableau de bord Workspace pour offrir des expériences rationalisées {#my-workspace-for-streamlined-experience}
 
 Saluez une solution de gestion des ressources numériques qui comprend les différents besoins des différents rôles de l’entreprise. La nouvelle vue étincelante des ressources donne la priorité à la facilité d’utilisation et à la vitesse, en fonction des préférences des marketeurs en matière d’attrait visuel et d’espaces de travail encombrants. Avec un tableau de bord My Workspace personnalisé spécifique à l’utilisateur, les marketeurs peuvent rapidement trouver, prévisualiser, modifier, gérer et diffuser des ressources avec une efficacité remarquable. Adieu aux interminables heures passées à rechercher des ressources spécifiques et accueillir une expérience simplifiée qui met tout ce dont vous avez besoin au bout de vos doigts.
 
-![Déployer Assets Essentials](assets/my-workspace-demo.gif)
+![Présentation de My Workspace](assets/my-workspace-demo.gif)
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
-## Première recherche pour améliorer l’efficacité
-
-Déverrouillez le potentiel de la bibliothèque de ressources numériques de votre entreprise grâce à la puissance de recherche grâce à des fonctionnalités de pointe. Vous pouvez faire vos adieux à la difficulté de trier manuellement un nombre incalculable de fichiers et de dossiers. Tout utilisateur peut immédiatement localiser l’image, la vidéo ou le document idéal dont vous avez besoin pour créer des campagnes marketing éblouissantes, des présentations captivantes et du contenu engageant. Notre premier moteur de recherche vous permet de parcourir facilement les types de ressources, les métadonnées, les balises intelligentes, et même le contenu lui-même sans connaître le mot-clé exact. Préparez l’avenir de la gestion des ressources numériques avec notre outil Search-First et libérez tout le potentiel de votre bibliothèque de ressources numériques.
-
-![Déployer Assets Essentials](assets/search-first.gif)
-
-## Informations pour prendre des décisions pilotées par les données {#insights-data}
+### Informations pour prendre des décisions pilotées par les données {#insights-data}
 
 Pour suivre la vitesse du contenu, des informations exploitables sont essentielles. La nouvelle expérience Affichage des ressources offre des informations avancées dans My Workspace, fournissant des données précieuses sur les performances des ressources, l’utilisation de l’audience et les engagements. Les marketeurs peuvent prendre des décisions basées sur les données, optimiser les stratégies de contenu et affiner leur diffusion en aval pour obtenir des résultats optimaux. Grâce à l&#39;accès à des informations significatives, les entreprises peuvent rester en avance sur la compétition et générer des résultats exceptionnels.
 
-![Déployer Assets Essentials](assets/insights-overview.gif)
+![Présentation d’Insights](assets/insights-overview.gif)
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Intégration de Adobe Photoshop Express pour accélérer la collaboration {#accelerate-collaboration}
+### Intégration de Adobe Photoshop Express pour accélérer la collaboration {#accelerate-collaboration}
 
 La nouvelle expérience fournit un solide ensemble de fonctionnalités de collaboration, notamment la modification en temps réel avec des fonctionnalités Adobe Photoshop intégrées, des contrôles de version et des outils d’annotation. Cela permet une collaboration transparente entre les équipes de conception, de création, de valorisation de marque et de marketing, ce qui leur permet de surmonter les goulets d’étranglement et d’accélérer le processus des opérations marketing. Les marketeurs disposent désormais d’outils puissants pour accélérer la livraison du projet et accroître leur productivité globale.
 
@@ -72,7 +78,7 @@ Regardez cette vidéo pour comprendre la puissance de l’intégration de la vue
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## Chargements de dossiers pour configurer la structure hiérarchique de votre organisation {#folder-uploads}
+### Chargements de dossiers pour configurer la structure hiérarchique de votre organisation {#folder-uploads}
 
 Configurez rapidement une structure de dossiers pour votre organisation à l’aide de la vue Ressources en chargeant les dossiers qui existent sur votre système de fichiers local. Il n’est pas nécessaire de créer des dossiers sous le dossier racine, puis de charger manuellement les ressources dans ces dossiers afin de conserver la structure hiérarchique logique. Tous les dossiers et ressources situés sous le dossier racine sont automatiquement chargés vers Experience Manager Assets.
 
@@ -80,7 +86,13 @@ Configurez rapidement une structure de dossiers pour votre organisation à l’a
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## Abonnement au contenu du référentiel pour une gestion efficace des ressources
+### Première recherche pour améliorer l’efficacité {#search-first}
+
+Déverrouillez le potentiel de la bibliothèque de ressources numériques de votre entreprise grâce à la puissance de recherche grâce à des fonctionnalités de pointe. Vous pouvez faire vos adieux à la difficulté de trier manuellement un nombre incalculable de fichiers et de dossiers. Tout utilisateur peut immédiatement localiser l’image, la vidéo ou le document idéal dont vous avez besoin pour créer des campagnes marketing éblouissantes, des présentations captivantes et du contenu engageant. Notre premier moteur de recherche vous permet de parcourir facilement les types de ressources, les métadonnées, les balises intelligentes, et même le contenu lui-même sans connaître le mot-clé exact. Préparez l’avenir de la gestion des ressources numériques avec notre outil Search-First et libérez tout le potentiel de votre bibliothèque de ressources numériques.
+
+![Recherche d’abord](assets/search-first.gif)
+
+### Abonnement au contenu du référentiel pour une gestion efficace des ressources {#subscribe-content}
 
 La vue Assets permet de surveiller les opérations effectuées sur les ressources, dossiers ou collections disponibles dans le référentiel. Pour recevoir les notifications, vous devez sélectionner le contenu et vous y abonner. Vous pouvez également configurer les types d’événements, tels que la suppression de votre contenu abonné, les modifications apportées au contenu abonné, etc. Les notifications vous sont alors envoyées uniquement pour ces types d’événements.
 
@@ -88,7 +100,7 @@ La vue Assets permet de surveiller les opérations effectuées sur les ressource
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
-## Suppression des ressources de type Soft pour offrir un meilleur contrôle aux administrateurs {#soft-delete-assets}
+### Suppression des ressources de type Soft pour offrir un meilleur contrôle aux administrateurs {#soft-delete-assets}
 
 Le dossier Corbeille disponible dans la vue Ressources répertorie les ressources supprimées du dossier Ressources racine. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à l’emplacement d’origine ou la supprimer définitivement. Vous pouvez également spécifier un mot-clé ou appliquer des filtres standard ou personnalisés pour rechercher les ressources appropriées dans le dossier Corbeille.
 
