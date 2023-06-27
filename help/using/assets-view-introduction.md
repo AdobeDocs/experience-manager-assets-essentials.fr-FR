@@ -4,10 +4,10 @@ description: Nouveautés de la vue Assets
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 52ec2263e237e6c3b47dc967eb5cc3e6acbe814f
+source-git-commit: 094ee651d7ac90675df88b52a5e76dd3e6e84094
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 12%
+source-wordcount: '1070'
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,6 @@ Dans le paysage actuel de la gestion dynamique des actifs numériques, où la cr
 ## Comment accéder à la vue Assets ? {#access-assets-view}
 
 Vous pouvez accéder à la vue Ressources de la manière suivante :
-
 ![Présentation de My Workspace](assets/assets-view.png)
 
 <!--
@@ -81,6 +80,8 @@ La nouvelle expérience fournit un solide ensemble de fonctionnalités de collab
 Regardez cette vidéo pour comprendre la puissance de l’intégration de la vue Assets à Adobe Photoshop Express :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
+
+Les prochaines versions comprennent également [Intégration des Adobes Firefly via Adobe Express](https://firefly.adobe.com/?gclid=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE&amp;sdid=JM4FW6VL&amp;mv=search&amp;mv2=paidsearch&amp;ef_id=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE:G:s&amp;s_kwcid=AL!3085!3!652077237594!e!!g!!adobe%20firefly!19870733758!148140507838).
 
 [![Voir le Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
