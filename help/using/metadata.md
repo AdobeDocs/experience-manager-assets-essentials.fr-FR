@@ -4,9 +4,9 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: d22d6690196b330e7893b062fee103ffac1d6c78
+source-git-commit: 839ec4e2dcd324c481d9b4b5aba2210ec95203ba
 workflow-type: tm+mt
-source-wordcount: '1536'
+source-wordcount: '1544'
 ht-degree: 73%
 
 ---
@@ -67,6 +67,7 @@ Les balises peuvent également être imbriquées dans une hiérarchie pour prend
 >id="assets_metadata_forms"
 >title="Formulaires de métadonnées"
 >abstract="[!DNL Experience Manager Assets] fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et demandent des champs de métadonnées supplémentaires afin d’ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
+>additional-url="https://video.tv.adobe.com/v/3420922/?captions=fre_fr" text="Regarder la fonctionnalité en action"
 
 Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
 
