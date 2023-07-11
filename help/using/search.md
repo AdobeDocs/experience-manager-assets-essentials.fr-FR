@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 932291e62094544cdca41324ad85d124cbbf1870
+source-git-commit: 5c9578e18c81166641da088713dbedb3c2b738dc
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 98%
+source-wordcount: '905'
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 >title="Rechercher des ressources"
 >abstract="Recherchez des ressources en spécifiant un mot-clé dans la barre de recherche ou en filtrant les ressources en fonction de leur statut, de leur type de fichier, de leur type MIME, de leur taille ou de leurs dates de création, de modification et d’expiration. Outre les filtres standard, vous pouvez également appliquer des filtres personnalisés. Vous pouvez enregistrer les résultats filtrés sous la forme d’une recherche enregistrée ou d’une collecte dynamique."
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=fr#manage-smart-collection" text="Créer des collectes dynamiques"
->additional-url="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/insights-overview.gif?lang=en" text="Regardez le Gif en action"
+>additional-url="https://video.tv.adobe.com/v/3420922/?captions=fre_fr" text="Regarder la fonctionnalité en action"
 
 [!DNL Assets Essentials] offre des fonctionnalités de recherche efficaces, qui fonctionnent simplement par défaut. La recherche fonctionne de façon exhaustive car il s’agit d’une recherche de type plein texte. Ses puissantes fonctionnalités de recherche vous permettent de trouver rapidement la ressource appropriée et d’améliorer la vitesse de votre contenu. [!DNL Assets Essentials] fournit une recherche plein texte, ou même des capacités de recherche basées sur les métadonnées telles que les balises intelligentes, le titre, la date de création et le copyright.
 
