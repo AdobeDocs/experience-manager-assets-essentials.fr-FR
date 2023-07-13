@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 839ec4e2dcd324c481d9b4b5aba2210ec95203ba
+source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 100%
+source-wordcount: '1033'
+ht-degree: 86%
 
 ---
 
@@ -141,6 +141,34 @@ What about temporarily hiding an asset (suspending search on it) from the search
 
 When userA is searching and userB add an asset that matches search results, will the asset display in search as soon as userA refreshes the page? Assuming indexing is near real-time. May not be so for bulk uploads.
 -->
+
+## Utilisation des résultats de recherche {#work-with-search-results}
+
+Vous pouvez sélectionner les ressources qui s’affichent dans les résultats de recherche et effectuer les opérations suivantes :
+
+* **Détails**: Affichez et modifiez les propriétés de la ressource.
+
+* **Ajouter à la collection**: Ajoutez la ressource sélectionnée à une collection.
+
+* **Télécharger**: Téléchargez une ressource.
+
+* **Supprimer**: Supprimer une ressource.
+
+* **Copier**: Copiez une ressource vers un autre emplacement de dossier.
+
+* **Déplacer**: Déplacez une ressource vers un autre emplacement de dossier.
+
+* **Renommer**: Renommez une ressource.
+
+* **Affecter des tâches**: Affectez des tâches aux utilisateurs pour une ressource.
+
+* **Partager le lien**: [Partage de liens](share-links-for-assets.md) pour une ressource avec d’autres utilisateurs afin qu’ils puissent y accéder et la télécharger.
+
+* **Regarder**: [Surveillance des opérations](manage-notifications.md) effectuée sur une ressource.
+
+* **Afficher l’emplacement du fichier**: Accédez à l’emplacement du dossier de ressources.
+
+* **Épingler l’accès rapide**: [Épinglage d’une ressource](my-workspace.md) pour un accès plus rapide lorsque vous en avez besoin plus tard. Tous les éléments épinglés s’affichent dans la **Accès rapide** de Mon espace de travail.
 
 ## Étapes suivantes {#next-steps}
 
