@@ -3,9 +3,9 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
+source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1042'
 ht-degree: 86%
 
 ---
@@ -50,7 +50,7 @@ Vous pouvez filtrer les résultats de la recherche en fonction des paramètres s
 
 * Filtres personnalisés : [ajoutez des filtres personnalisés](#custom-filters) à l’interface utilisateur d’Assets Essentials. Appliquez ces filtres personnalisés en plus des filtres standard pour affiner les résultats de la recherche.
 
-Vous pouvez trier les ressources recherchées par ordre croissant ou décroissant de `Name`, `Relevancy`, `Size`, `Modified` et `Created`.
+Vous pouvez trier les ressources recherchées par ordre croissant ou décroissant de `Name`, `Relevance`, `Size`, `Modified` et `Created`. Les ressources recherchées sont triées en fonction des `Relevance`, par défaut.
 
 ## Gestion des filtres personnalisés {#custom-filters}
 
@@ -146,29 +146,29 @@ When userA is searching and userB add an asset that matches search results, will
 
 Vous pouvez sélectionner les ressources qui s’affichent dans les résultats de recherche et effectuer les opérations suivantes :
 
-* **Détails**: Affichez et modifiez les propriétés de la ressource.
+* **Détails**: affichez et modifiez les propriétés de la ressource.
 
-* **Ajouter à la collection**: Ajoutez la ressource sélectionnée à une collection.
+* **Ajouter à la collection**: ajoute la ressource sélectionnée à une collection.
 
-* **Télécharger**: Téléchargez une ressource.
+* **Télécharger**: téléchargez une ressource.
 
-* **Supprimer**: Supprimer une ressource.
+* **Supprimer**: permet de supprimer une ressource.
 
-* **Copier**: Copiez une ressource vers un autre emplacement de dossier.
+* **Copier**: copie une ressource vers un autre emplacement de dossier.
 
-* **Déplacer**: Déplacez une ressource vers un autre emplacement de dossier.
+* **Déplacer**: déplace une ressource vers un autre emplacement de dossier.
 
-* **Renommer**: Renommez une ressource.
+* **Renommer**: renommez une ressource.
 
-* **Affecter des tâches**: Affectez des tâches aux utilisateurs pour une ressource.
+* **Affecter des tâches**: attribuez des tâches aux utilisateurs pour une ressource.
 
 * **Partager le lien**: [Partage de liens](share-links-for-assets.md) pour une ressource avec d’autres utilisateurs afin qu’ils puissent y accéder et la télécharger.
 
 * **Regarder**: [Surveillance des opérations](manage-notifications.md) effectuée sur une ressource.
 
-* **Afficher l’emplacement du fichier**: Accédez à l’emplacement du dossier de ressources.
+* **Afficher l’emplacement du fichier**: accédez à l’emplacement du dossier de ressources.
 
-* **Épingler l’accès rapide**: [Épinglage d’une ressource](my-workspace.md) pour un accès plus rapide lorsque vous en avez besoin plus tard. Tous les éléments épinglés s’affichent dans la **Accès rapide** de Mon espace de travail.
+* **Épingler l’accès rapide**: [Épinglage d’une ressource](my-workspace.md) pour un accès plus rapide lorsque vous en avez besoin plus tard. Tous les éléments épinglés s’affichent dans la **Accès rapide** de My Workspace.
 
 ## Étapes suivantes {#next-steps}
 

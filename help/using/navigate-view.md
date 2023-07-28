@@ -3,10 +3,10 @@ title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
 description: Comprendre l’interface utilisateur et de la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: b2ec3dde3d231cdb772833dfa7c9de01b7c3dd38
+source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 96%
+source-wordcount: '1000'
+ht-degree: 90%
 
 ---
 
@@ -111,6 +111,16 @@ Si vous prévisualisez explicitement une ressource, [!DNL Assets Essentials] l�
 Explicitly previewed assets are displayed as recently viewed assets. Give screenshot of this.
 Other use cases after previewing.
 -->
+
+## Configuration de l’affichage des colonnes pour la vue Liste des ressources {#configure-columns-list-view}
+
+Vous pouvez sélectionner les colonnes qui s’affichent en mode Liste des ressources, telles que État, Format, Dimensions, Taille, etc. :
+
+1. Sélectionner **[!UICONTROL Ressources]** dans le volet de navigation de gauche, passez en mode Liste des ressources, puis cliquez sur ![icône paramètres](assets/settings-icon.svg).
+
+1. Sélectionnez les colonnes à afficher en mode Liste, puis cliquez sur **[!UICONTROL Confirmer]**.
+
+   ![Configurer les colonnes](/help/using/assets/configure-columns.png)
 
 ## Étapes suivantes {#next-steps}
 

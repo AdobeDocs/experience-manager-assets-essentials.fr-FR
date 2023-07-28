@@ -4,10 +4,10 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 5b9e3297c37bca0e5badc2073f8c6467e012ccde
+source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
 workflow-type: tm+mt
 source-wordcount: '1558'
-ht-degree: 72%
+ht-degree: 74%
 
 ---
 
@@ -59,7 +59,7 @@ Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes
 
 ## Gestion de la taxonomie {#taxonomy-management}
 
-Les balises peuvent également être imbriquées dans une hiérarchie pour prendre en charge des relations telles que la catégorie et la sous-catégorie. Si vous devez insérer des balises hiérarchiques, elles sont facilement gérées par l’administrateur dans la variable [!UICONTROL Gestion de la taxonomie] section [!UICONTROL Paramètres]. Vous pouvez créer un ensemble d’espaces de noms et de balises régis auxquels tous les utilisateurs peuvent accéder pour décrire le contenu. Seuls les administrateurs peuvent configurer des hiérarchies de balises dans [!UICONTROL Taxonomy Manager] s’assurer que les valeurs sont contrôlées et utilisées de manière cohérente.
+Les balises peuvent également être imbriquées dans une hiérarchie pour prendre en charge des relations telles que la catégorie et la sous-catégorie. Si vous devez insérer des balises hiérarchiques, elles sont facilement gérées par l’administrateur dans la variable [!UICONTROL Gestion de la taxonomie] section de [!UICONTROL Paramètres]. Vous pouvez créer un ensemble d’espaces de noms et de balises régis auxquels tous les utilisateurs peuvent accéder pour décrire le contenu. Seuls les administrateurs peuvent configurer des hiérarchies de balises dans [!UICONTROL Taxonomy Manager] s’assurer que les valeurs sont contrôlées et utilisées de manière cohérente.
 
 ## Configurer les formulaires de métadonnées {#metadata-forms}
 
@@ -69,7 +69,7 @@ Les balises peuvent également être imbriquées dans une hiérarchie pour prend
 >abstract="[!DNL Experience Manager Assets] fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et demandent des champs de métadonnées supplémentaires afin d’ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/ac1b52fa-823e-447f-8e96-e880b33fe12e_1687708758.854x480at800_h264.mp4" text="Regarder la fonctionnalité en action"
 
-Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
+Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires de toutes pièces ou réutiliser un formulaire existant.
 
 Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Assets Essentials fait automatiquement correspondre le type MIME des ressources chargées au nom du formulaire et met à jour les métadonnées des ressources chargées en fonction des champs du formulaire.
 
@@ -114,7 +114,7 @@ Une fois qu’un formulaire est créé, il est automatiquement appliqué lorsque
 
 Pour réutiliser un formulaire existant afin d’en créer un nouveau, sélectionnez un formulaire de métadonnées, cliquez sur **[!UICONTROL Copier]** dans la barre d’outils, choisissez un nom, puis cliquez sur **[!UICONTROL Confirmer]**. Vous pouvez modifier un formulaire de métadonnées. Lorsque vous modifiez un formulaire, il est utilisé pour les ressources chargées après la modification. Les ressources existantes ne sont pas modifiées.
 
-## Composants de propriété {#property-components}
+### Composants de propriété {#property-components}
 
 Vous pouvez personnaliser votre formulaire de métadonnées à l’aide de l’un des composants de propriété suivants. Il vous suffit de faire glisser et de déposer le type de composant sur le formulaire à l’emplacement souhaité et de modifier les paramètres du composant.
 Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mode de stockage.
@@ -134,6 +134,24 @@ Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mo
 | Balises | Ajoutez une balise à partir des valeurs stockées dans la Gestion de la taxonomie (mappée sur xcm:tags). |
 | Mots-clés | Ajoutez des mots-clés de forme libre (mappés sur dc:subject). |
 | Balises intelligentes | Ajoutez ce composant pour augmenter les capacités de recherche en ajoutant automatiquement des balises de métadonnées. |
+
+<!--
+
+### Assign metadata form to a folder {#assign-metadata-form-folder}
+
+You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
+
+To assign a metadata form to a folder:
+
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
+
+2. Click **[!UICONTROL Assign to Folder]**.
+
+3. Select the folder and click **[!UICONTROL Assign]**.
+
+   ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
 
 ## Étapes suivantes {#next-steps}
 
