@@ -3,9 +3,9 @@ title: Mon espace de travail d’Assets
 description: La page Mon espace de travail est composée de modules visuels personnalisables permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations les plus pertinentes pour l’utilisateur et l’utilisatrice.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '687'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 81%
 
 Assets comprend désormais un espace de travail personnalisable, composé de widgets permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
 
-Pour accéder à Mon espace de travail, cliquez sur **[!UICONTROL Mon espace de travail]** à partir des éléments disponibles dans le volet de navigation de gauche. Mon espace de travail comprend une variété de widgets qui affichent un accès rapide, des informations, des tâches et des widgets de contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
+Pour accéder à Mon espace de travail, cliquez sur **[!UICONTROL Mon espace de travail]** à partir des éléments disponibles dans le volet de navigation de gauche. Mon espace de travail comprend différents widgets qui affichent des informations sur l’accès rapide, les Insights, les tâches et le contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
 
 >[!NOTE]
 >
@@ -38,17 +38,17 @@ Highlights upcoming features for Assets.
 
 **Accès rapide**
 
-Epinglez des fichiers, des dossiers et des collections pour un accès plus rapide à ces éléments lorsque vous en avez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la **Accès rapide** de Mon espace de travail. Vous pouvez y accéder à l’aide de Mon espace de travail au lieu d’accéder à l’emplacement où ils sont enregistrés dans le référentiel.
+Épinglez des fichiers, des dossiers et des collections pour accéder plus rapidement à ces éléments lorsque vous en aurez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail. Vous pouvez y accéder à l’aide de Mon espace de travail au lieu d’accéder à l’emplacement où ils sont enregistrés dans le référentiel.
 
-Pour épingler une ressource, un dossier ou une collection, sélectionnez l’élément et cliquez sur **[!UICONTROL Épingler l’accès rapide]**.
+Pour épingler une ressource, un dossier ou une collection, sélectionnez l’élément et cliquez sur **[!UICONTROL Épingler à l’accès rapide]**.
 
-![Tâches dans l’espace de travail](assets/quick-access.png)
+![Tâches dans l’espace de travail.](assets/quick-access.png)
 
 **Insights**
 
 L’administration peut afficher un résumé du nombre de téléchargements et de chargements effectués dans l’environnement Assets au cours des 30 derniers jours. Vous pouvez cliquer sur **[!UICONTROL Afficher tout]** pour accéder rapidement à la page Insights afin de consulter des tableaux de bord plus détaillés.
 
-Vous pouvez également afficher les principaux termes recherchés, ainsi que le nombre de fois où ces termes sont recherchés dans votre déploiement Assets Essentials à l’aide de la variable **Insights** de Mon espace de travail. Vous pouvez également accéder à Informations détaillées pour afficher les principales recherches effectuées au cours des 30 ou 12 derniers jours.
+Vous pouvez également afficher les principaux termes recherchés, ainsi que le nombre de fois où ces termes sont recherchés dans votre déploiement d’Assets Essentials à l’aide de la section **Insights** de Mon espace de travail. Vous pouvez également accéder à Insights pour afficher les principales recherches effectuées au cours des 30 ou 12 derniers jours.
 
 ![Insights dans l’espace de travail](assets/insights.png)
 
