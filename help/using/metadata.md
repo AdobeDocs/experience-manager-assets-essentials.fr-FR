@@ -5,13 +5,13 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1558'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# Métadonnées en mode Ressources {#metadata}
+# Métadonnées dans la vue Assets {#metadata}
 
 Les métadonnées sont constituées de données ou de descriptions de données. Par exemple, vos images en tant que ressource peuvent contenir des informations sur l’appareil photo qui a pris la photo ou des informations relatives aux droits d’auteur. Ces informations représentent les métadonnées de l’image. Les métadonnées sont essentielles pour gérer efficacement des ressources. Elles constituent un ensemble de toutes les données disponibles pour cette ressource mais sans être nécessairement contenues dans cette ressource.
 
@@ -31,13 +31,13 @@ Pour afficher les métadonnées d’une ressource, accédez à la ressource ou r
 
 ![Afficher les métadonnées d’une ressource](assets/metadata-view1.png)
 
-*Figure : Pour afficher une ressource et ses métadonnées, cliquez sur **[!UICONTROL Détails]**dans la barre d’outils ou double-cliquez sur la ressource.*
+*Illustration : pour afficher une ressource et ses métadonnées, cliquez sur **[!UICONTROL Détails]** dans la barre d’outils ou double-cliquez sur la ressource.*
 
 Les métadonnées de base telles que le titre, la description et la date de chargement sont disponibles dans l’onglet [!UICONTROL De base]. L’onglet [!UICONTROL Avancé] contient des métadonnées plus précises telles que le modèle de l’appareil photo, les informations sur l’objectif et des informations de géolocalisation. L’onglet [!UICONTROL Balises] contient des balises appliquées automatiquement en fonction du contenu de l’image.
 
 ## Mettre à jour les métadonnées {#update-metadata}
 
-Une fois que l’administrateur configure le formulaire de métadonnées, d’autres champs peuvent être mis à jour manuellement. Vous pouvez modifier ce paramètre, car il se lit uniquement en fonction du formulaire de métadonnées prêt à l’emploi.
+Dès que le formulaire de métadonnées est configuré par la personne administratrice, d’autres champs peuvent être mis à jour manuellement. Vous pouvez modifier ce paramètre, car il se lit uniquement en fonction du formulaire de métadonnées prêt à l’emploi.
 
 ## Balises intelligentes {#smart-tags}
 
@@ -47,7 +47,7 @@ Les balises intelligentes sont appliquées en temps quasi réel et sont génér�
 
 ![Affichage des balises intelligentes d’une ressource](assets/metadata-view-tags.png)
 
-*Figure : Pour afficher les balises intelligentes d’une ressource, cliquez sur **[!UICONTROL Détails]**dans la barre d’outils ou double-cliquez sur la ressource.*
+*Illustration : pour afficher les balises intelligentes d’une ressource, cliquez sur **[!UICONTROL Détails]** dans la barre d’outils ou double-cliquez sur la ressource.*
 
 Les balises intelligentes contiennent également un score de confiance en pourcentage. Elle indique le degré de confiance associé à la balise appliquée. Vous pouvez modérer les balises intelligentes qui ont été appliquées automatiquement.
 
@@ -59,7 +59,7 @@ Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes
 
 ## Gestion de la taxonomie {#taxonomy-management}
 
-Les balises peuvent également être imbriquées dans une hiérarchie pour prendre en charge des relations telles que la catégorie et la sous-catégorie. Si vous devez insérer des balises hiérarchiques, elles sont facilement gérées par l’administrateur dans la variable [!UICONTROL Gestion de la taxonomie] section de [!UICONTROL Paramètres]. Vous pouvez créer un ensemble d’espaces de noms et de balises régis auxquels tous les utilisateurs peuvent accéder pour décrire le contenu. Seuls les administrateurs peuvent configurer des hiérarchies de balises dans [!UICONTROL Taxonomy Manager] s’assurer que les valeurs sont contrôlées et utilisées de manière cohérente.
+Les balises peuvent également être imbriquées dans une hiérarchie pour prendre en charge des relations telles que la catégorie et la sous-catégorie. Si vous devez insérer des balises hiérarchiques, celles-ci sont facilement gérées par la personne administratrice dans la section [!UICONTROL Gestion de la taxonomie] des [!UICONTROL Paramètres]. Vous pouvez créer un ensemble d’espaces de noms et de balises régis auxquels l’ensemble des utilisateurs et utilisatrices peuvent accéder pour décrire le contenu. Seules les personnes administratrices peuvent configurer des hiérarchies de balises dans le [!UICONTROL Gestionnaire de taxonomie] et s’assurer que les valeurs sont contrôlées et utilisées de manière cohérente.
 
 ## Configurer les formulaires de métadonnées {#metadata-forms}
 
@@ -69,9 +69,9 @@ Les balises peuvent également être imbriquées dans une hiérarchie pour prend
 >abstract="[!DNL Experience Manager Assets] fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et demandent des champs de métadonnées supplémentaires afin d’ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/ac1b52fa-823e-447f-8e96-e880b33fe12e_1687708758.854x480at800_h264.mp4" text="Regarder la fonctionnalité en action"
 
-Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires de toutes pièces ou réutiliser un formulaire existant.
+Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires à partir de zéro ou réutiliser des formulaires existants.
 
-Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Assets Essentials fait automatiquement correspondre le type MIME des ressources chargées au nom du formulaire et met à jour les métadonnées des ressources chargées en fonction des champs du formulaire.
+Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Assets Essentials fait automatiquement correspondre le type MIME des ressources chargées au nom du formulaire et met à jour les métadonnées des ressources téléchargées en fonction des champs du formulaire.
 
 Par exemple, s’il existe un formulaire de métadonnées portant le nom `PDF` ou `pdf`, les documents PDF chargés contiennent les champs de métadonnées définis dans le formulaire.
 
@@ -79,7 +79,7 @@ Assets Essentials utilise la séquence suivante pour rechercher des noms de form
 
 Formulaire de sous-type MIME > Type MIME > `default` > Formulaire prêt à l’emploi
 
-Par exemple, si un formulaire de métadonnées portant le nom `PDF` ou `pdf` existe, les documents PDF chargés contiennent des champs de métadonnées tels que définis dans le formulaire. Si un formulaire de métadonnées est nommé `PDF` ou `pdf` n’existe pas, Assets Essentials correspond si un formulaire de métadonnées porte le nom . `application`. S’il existe un formulaire de métadonnées portant le nom `application`, les documents de PDF chargés contiennent des champs de métadonnées tels que définis dans le formulaire. Si Assets Essentials ne trouve toujours pas de formulaire de métadonnées correspondant, il recherche le formulaire de métadonnées `default` pour appliquer les champs de métadonnées définis dans le formulaire aux documents PDF chargés. Si aucune de ces étapes ne fonctionne, Assets Essentials applique les champs de métadonnées définis dans le formulaire prêt à l’emploi à tous les documents PDF chargés.
+Par exemple, si un formulaire de métadonnées portant le nom `PDF` ou `pdf` existe, les documents PDF chargés contiennent des champs de métadonnées tels que définis dans le formulaire. Si un formulaire de métadonnées du nom de `PDF` ou `pdf` n’existe pas, Assets Essentials vérifie s’il existe un formulaire de métadonnées du nom de `application`. S’il existe un formulaire de métadonnées du nom de `application`, les documents PDF chargés contiennent les champs de métadonnées définis dans le formulaire. Si Assets Essentials ne trouve toujours pas de formulaire de métadonnées correspondant, il recherche le formulaire de métadonnées `default` pour appliquer les champs de métadonnées définis dans le formulaire aux documents PDF chargés. Si aucune de ces étapes ne fonctionne, Assets Essentials applique les champs de métadonnées définis dans le formulaire prêt à l’emploi à tous les documents PDF chargés.
 
 >[!IMPORTANT]
 >
@@ -100,7 +100,7 @@ Pour créer un formulaire de métadonnées, procédez comme suit :
 
    *Figure : interface de création de formulaire de métadonnées comprenant des options permettant d’ajouter des composants et une option pour prévisualiser le formulaire.*
 
-1. Pour chaque composant, indiquez un nom dans la variable **[!UICONTROL Paramètres]** dans le rail de droite, fournissez un mappage avec les propriétés prises en charge.
+1. Pour chaque composant, indiquez un nom dans la section **[!UICONTROL Paramètres]** du rail de droite, ainsi qu’un mappage avec les propriétés prises en charge.
 1. Si vous le souhaitez, pour un composant, vous pouvez sélectionner **[!UICONTROL Obligatoire]** pour rendre le champ de métadonnées obligatoire et sélectionner **[!UICONTROL Lecture seule]** pour rendre le champ non modifiable dans la page [!UICONTROL Détails] de la ressource.
 1. Si vous le souhaitez, cliquez sur **[!UICONTROL Aperçu]** pour prévisualiser le formulaire que vous êtes en train de créer.
 1. Vous pouvez ajouter d’autres onglets et les composants requis dans chaque onglet.
@@ -121,18 +121,18 @@ Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mo
 
 | Nom du composant | Description |
 |---|---|
-| Conteneur en accordéon | Ajoutez un en-tête réductible pour une liste de composants et de propriétés communs. Il peut être développé ou réduit par défaut. |
-| Texte sur une seule ligne | Permet d’ajouter une propriété de texte d’une seule ligne. |
-| Texte multi-lignes | Ajoutez plusieurs lignes de texte ou un paragraphe. Il se développe en tant que types d’utilisateurs pour contenir tout le contenu. |
-| Texte à plusieurs valeurs | Ajoutez une propriété de texte à plusieurs valeurs. |
+| Conteneur en accordéon | Permet d’ajouter un en-tête réductible pour une liste de composants et de propriétés communs. Il peut être développé ou réduit par défaut. |
+| Texte monoligne | Permet d’ajouter une propriété de texte monoligne. |
+| Texte de plusieurs lignes | Permet d’ajouter plusieurs lignes de texte ou un paragraphe. Il se développe à mesure que la personne saisit et englobe tout le contenu. |
+| Texte à plusieurs valeurs | Permet d’ajouter une propriété de texte à plusieurs valeurs. |
 | Nombre | Permet d’ajouter un composant de nombre. |
-| Case à cocher | Ajoutez une valeur booléenne. Stockée sur TRUE ou FALSE une fois qu’une valeur est enregistrée. |
+| Case à cocher | Permet d’ajouter une valeur booléenne. Stockée comme TRUE ou FALSE quand une valeur est enregistrée. |
 | Date | Permet d’ajouter un composant de date. |
 | Liste déroulante | Permet d’ajouter une liste déroulante. |
-| État | Ajoutez la propriété d’état du référentiel (mappée sur repo:state). |
-| Statut de la ressource | Ajoutez la propriété Asset Status par défaut (mappée sur dam:assetStatus). |
-| Balises | Ajoutez une balise à partir des valeurs stockées dans la Gestion de la taxonomie (mappée sur xcm:tags). |
-| Mots-clés | Ajoutez des mots-clés de forme libre (mappés sur dc:subject). |
+| État | Permet d’ajouter la propriété d’état du référentiel (mappée sur repo:state). |
+| Statut de la ressource | Permet d’ajouter la propriété du statut de la ressource par défaut (mappée sur dam:assetStatus). |
+| Balises | Permettent d’ajouter une balise à partir des valeurs stockées dans la Gestion de la taxonomie (mappée sur xcm:tags). |
+| Mots-clés | Permettent d’ajouter des mots-clés de forme libre (mappés sur dc:subject). |
 | Balises intelligentes | Ajoutez ce composant pour augmenter les capacités de recherche en ajoutant automatiquement des balises de métadonnées. |
 
 <!--
