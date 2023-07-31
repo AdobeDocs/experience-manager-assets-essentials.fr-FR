@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
 workflow-type: tm+mt
 source-wordcount: '1042'
-ht-degree: 86%
+ht-degree: 99%
 
 ---
 
@@ -142,33 +142,33 @@ What about temporarily hiding an asset (suspending search on it) from the search
 When userA is searching and userB add an asset that matches search results, will the asset display in search as soon as userA refreshes the page? Assuming indexing is near real-time. May not be so for bulk uploads.
 -->
 
-## Utilisation des résultats de recherche {#work-with-search-results}
+## Utiliser des résultats de recherche {#work-with-search-results}
 
-Vous pouvez sélectionner les ressources qui s’affichent dans les résultats de recherche et effectuer les opérations suivantes :
+Vous pouvez sélectionner les ressources qui s’affichent dans les résultats de recherche et effectuer les opérations suivantes :
 
-* **Détails**: affichez et modifiez les propriétés de la ressource.
+* **Détails** : affichez et modifiez les propriétés de la ressource.
 
-* **Ajouter à la collection**: ajoute la ressource sélectionnée à une collection.
+* **Ajouter à la collection** : ajoutez la ressource sélectionnée à une collection.
 
-* **Télécharger**: téléchargez une ressource.
+* **Télécharger** : téléchargez une ressource.
 
-* **Supprimer**: permet de supprimer une ressource.
+* **Supprimer** : supprimez une ressource.
 
-* **Copier**: copie une ressource vers un autre emplacement de dossier.
+* **Copier** : copiez une ressource vers un autre emplacement de dossier.
 
-* **Déplacer**: déplace une ressource vers un autre emplacement de dossier.
+* **Déplacer** : déplacez une ressource vers un autre emplacement de dossier.
 
-* **Renommer**: renommez une ressource.
+* **Renommer** : renommez une ressource.
 
-* **Affecter des tâches**: attribuez des tâches aux utilisateurs pour une ressource.
+* **Affecter des tâches** : affectez des tâches aux utilisateurs et utilisatrices pour une ressource.
 
-* **Partager le lien**: [Partage de liens](share-links-for-assets.md) pour une ressource avec d’autres utilisateurs afin qu’ils puissent y accéder et la télécharger.
+* **Partager le lien** : [partagez des liens](share-links-for-assets.md) d’une ressource avec d’autres personnes utilisatrices, afin qu’elles puissent y accéder et la télécharger.
 
-* **Regarder**: [Surveillance des opérations](manage-notifications.md) effectuée sur une ressource.
+* **Surveiller** : [surveillez les opérations](manage-notifications.md) effectuées sur une ressource.
 
-* **Afficher l’emplacement du fichier**: accédez à l’emplacement du dossier de ressources.
+* **Afficher l’emplacement du fichier** : accédez à l’emplacement du dossier de ressources.
 
-* **Épingler l’accès rapide**: [Épinglage d’une ressource](my-workspace.md) pour un accès plus rapide lorsque vous en avez besoin plus tard. Tous les éléments épinglés s’affichent dans la **Accès rapide** de My Workspace.
+* **Épingler à l’accès rapide**: [Épinglez une ressource](my-workspace.md) pour y accéder plus rapidement lorsque vous en aurez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail.
 
 ## Étapes suivantes {#next-steps}
 

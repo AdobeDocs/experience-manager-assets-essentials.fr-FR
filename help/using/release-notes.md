@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
 workflow-type: tm+mt
 source-wordcount: '2154'
-ht-degree: 84%
+ht-degree: 96%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 84%
 
 La version actuelle d’Assets Essentials est publiée le 27 juillet 2023.
 
-La liste des fonctionnalités incluses dans la version est la suivante :
+La liste des fonctionnalités incluses dans cette version comprend les éléments suivants :
 
 <!--
 
@@ -67,37 +67,37 @@ Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélio
 
 ### Version de juin  {#june2023-release}
 
-**Balisage hiérarchique des ressources pour accélérer la recherche**
+**Balisage hiérarchique des ressources pour une expérience de recherche plus rapide**
 
-Les listes plats de vocabulaires contrôlés deviennent ingérables au fil du temps. Assets Essentials prend désormais en charge la structure de balisage hiérarchique, qui facilite l’application des métadonnées pertinentes, la classification des ressources, la prise en charge de la recherche, la réutilisation des balises, l’amélioration de la visibilité, etc.
+Les listes plates de vocabulaires contrôlés deviennent ingérables au fil du temps. Assets Essentials prend désormais en charge la structure de balisage hiérarchique, qui facilite l’application des métadonnées pertinentes, la classification des ressources, la prise en charge de la recherche, la réutilisation des balises, l’amélioration de la visibilité, etc.
 
-![Gestion des balises](assets/tags-hierarchy.png)
+![Gestion du balisage.](assets/tags-hierarchy.png)
 
-**Importation de fichiers, dossiers et collections pour un accès rapide**
+**Épingler les fichiers, les dossiers et les collections pour un accès rapide**
 
-Vous pouvez désormais épingler des fichiers, des dossiers et des collections pour accéder plus rapidement à ces éléments lorsque vous en aurez besoin ultérieurement. Les éléments épinglés s’affichent dans la variable **Accès rapide** de My Workspace. Vous pouvez y accéder à l’aide de Mon espace de travail au lieu d’accéder à l’emplacement où ils sont enregistrés dans le référentiel.
+Vous pouvez désormais épingler des fichiers, des dossiers et des collections pour y accéder plus rapidement lorsque vous en aurez besoin ultérieurement. Les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail. Vous pouvez y accéder à l’aide de Mon espace de travail au lieu d’accéder à l’emplacement où ils sont enregistrés dans le référentiel.
 
-![Tâches dans l’espace de travail](assets/quick-access.png)
+![Tâches dans l’espace de travail.](assets/quick-access.png)
 
-**Filtrage des ressources dans le dossier Corbeille**
+**Filtrer les ressources dans le dossier Corbeille**
 
-Assets Essentials vous permet désormais de filtrer les ressources disponibles dans le dossier Corbeille. Vous pouvez appliquer des filtres standard ou personnalisés pour rechercher les ressources appropriées dans le dossier Corbeille afin de les restaurer ou de les supprimer définitivement.
+Assets Essentials vous permet désormais de filtrer les ressources disponibles dans le dossier Corbeille. Vous pouvez appliquer des filtres standard ou personnalisés pour rechercher les ressources appropriées dans le dossier Corbeille afin de les restaurer ou de les supprimer définitivement.
 
-**Aperçu des miniatures pour les ressources 3D**
+**Aperçus de miniatures pour les ressources 3D**
 
-Assets Essentials génère désormais des aperçus miniatures pour les formats de fichiers 3D courants, notamment gLB, USDz, FBX, 3DS, OBJ et SBSAR. Lorsque ces fichiers sont téléchargés vers Assets Essentials, les miniatures sont automatiquement générées par le système, par défaut.
+Assets Essentials génère désormais des aperçus de miniatures pour les formats de fichiers 3D courants, notamment gLB, USDz, FBX, 3DS, OBJ et SBSAR. Lorsque ces fichiers sont téléchargés vers Assets Essentials, par défaut, les miniatures sont automatiquement générées par le système.
 
-![Tâches dans l’espace de travail](assets/3d-preview.png)
+![Tâches dans l’espace de travail.](assets/3d-preview.png)
 
 **Afficher les termes les plus recherchés**
 
-Assets Essentials prend désormais en charge l’affichage des termes recherchés les plus courants dans votre déploiement Assets Essentials à l’aide du **Informations** de My Workspace. Vous pouvez également accéder à Informations détaillées pour afficher les principales recherches effectuées au cours des 30 ou 12 derniers jours.
+Assets Essentials prend désormais en charge l’affichage des termes recherchés les plus courants dans votre déploiement Assets Essentials à l’aide de la section **Insights** de Mon espace de travail. Vous pouvez également accéder à Insights pour afficher les principales recherches effectuées au cours des 30 ou 12 derniers jours.
 
-![Tâches dans l’espace de travail](assets/insights-top-searches.png)
+![Tâches dans l’espace de travail.](assets/insights-top-searches.png)
 
 **Améliorations des formulaires de métadonnées**
 
-Assets Essentials vous permet désormais d’ajouter des composants de propriétés de texte et de liste déroulante à plusieurs valeurs aux formulaires de métadonnées.
+Assets Essentials vous permet désormais d’ajouter des composants de propriétés de texte et de liste déroulante à plusieurs valeurs aux formulaires de métadonnées.
 
 ### Versions multiples en 2023 {#multiple-releases-2023}
 
@@ -320,7 +320,7 @@ En outre, l’extension d’[!DNL Adobe Asset Link] pour Creative Cloud (Photos
 
 La version 2021.8.0 d’[!DNL Assets Essentials] est sortie le 30 août 2021 et comprend les mises à jour suivantes :
 
-* Intégrations à [!DNL Adobe Workfront] qui permettent aux utilisateurs de [!DNL Workfront] de gérer leurs ressources numériques dans le cadre de la gestion de leur travail.
+* Intégrations à [!DNL Adobe Workfront] qui permettent aux utilisateurs et aux utilisatrices de [!DNL Workfront] de gérer leurs ressources numériques dans le cadre de la gestion de leur travail.
 
 ### Version 2021.7.0 {#july2021}
 
@@ -336,4 +336,4 @@ La première version d’[!DNL Assets Essentials], sortie le 21 juin 2021, off
 * Chargement et ajout de ressources, y compris des dossiers imbriqués. Aperçu des ressources et des versions.
 * Recherche en plein texte, filtres de recherche nuancés et enregistrement des paramètres de recherche pour découvrir rapidement de ressources.
 * Opérations de gestion des ressources de base telles que la mise à jour, la suppression, le téléchargement et la gestion des métadonnées.
-* [!DNL Assets Essentials] permet aux utilisateurs d’[!DNL Adobe Journey Optimizer] de gérer les ressources lors de la création de messages.
+* [!DNL Assets Essentials] permet aux utilisateurs et aux utilisatrices d’[!DNL Adobe Journey Optimizer] de gérer les ressources lors de la création de messages.
