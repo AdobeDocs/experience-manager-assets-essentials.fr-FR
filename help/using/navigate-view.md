@@ -4,9 +4,9 @@ description: Comprendre l’interface utilisateur et de la navigation dans [!DNL
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1000'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -112,11 +112,11 @@ Explicitly previewed assets are displayed as recently viewed assets. Give screen
 Other use cases after previewing.
 -->
 
-## Configuration de l’affichage des colonnes pour la vue Liste des ressources {#configure-columns-list-view}
+## Configurer l’affichage des colonnes pour le mode Liste des ressources {#configure-columns-list-view}
 
-Vous pouvez sélectionner les colonnes qui s’affichent en mode Liste des ressources, telles que État, Format, Dimensions, Taille, etc. :
+Vous pouvez sélectionner les colonnes qui s’affichent en mode Liste des ressources, telles que Statut, Format, Dimensions, Taille, etc. :
 
-1. Sélectionner **[!UICONTROL Ressources]** dans le volet de navigation de gauche, passez en mode Liste des ressources, puis cliquez sur ![icône paramètres](assets/settings-icon.svg).
+1. Sélectionnez **[!UICONTROL Ressources]** dans le volet de navigation de gauche, passez en mode Liste des ressources, puis cliquez sur ![icône des paramètres](assets/settings-icon.svg).
 
 1. Sélectionnez les colonnes à afficher en mode Liste, puis cliquez sur **[!UICONTROL Confirmer]**.
 
