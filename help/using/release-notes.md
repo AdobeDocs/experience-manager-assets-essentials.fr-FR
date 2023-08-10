@@ -5,17 +5,17 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2154'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials est publiée le 27 juillet 2023.
+La version actuelle d’Assets Essentials a été publiée le 27 juillet 2023.
 
-La liste des fonctionnalités incluses dans cette version comprend les éléments suivants :
+La liste des fonctionnalités incluses dans cette version comprend :
 
 <!--
 
@@ -31,15 +31,15 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 Experience Manager Assets utilise désormais un framework d’intelligence artificielle amélioré pour les balises intelligentes d’image. Celui-ci améliore la pertinence et la précision des balises intelligentes disponibles pour toutes les ressources d’image lors de l’ingestion.
 
-**Configuration de l’affichage des colonnes pour la vue Liste des ressources**
+**Configurer l’affichage des colonnes pour le mode Liste des ressources**
 
-Assets Essentials permet désormais de sélectionner les colonnes qui s’affichent en mode Liste des ressources, telles que État, Format, Dimensions, Taille, etc.
+Assets Essentials permet désormais de sélectionner les colonnes qui s’affichent en mode Liste des ressources, telles que Statut, Format, Dimensions, Taille, etc.
 
 ![Configurer les colonnes](/help/using/assets/configure-columns.png)
 
 **Trier les résultats de recherche en fonction de la pertinence**
 
-Assets Essentials trie désormais les résultats de la recherche en fonction de la pertinence, par défaut. Vous pouvez trier les ressources recherchées par ordre croissant ou décroissant de `Name`, `Relevance`, `Size`, `Modified` et `Created`.
+Assets Essentials trie désormais les résultats de la recherche en fonction de la pertinence, par défaut. Vous pouvez trier les ressources recherchées par ordre croissant ou décroissant de `Name`, `Relevance`, `Size`, `Modified` et `Created`.
 
 **Améliorations basées sur les commentaires des clients**
 
