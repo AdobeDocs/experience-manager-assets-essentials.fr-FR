@@ -4,10 +4,10 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 6a9bc34907f9eb8c7d18a8fbb139e27244538256
+source-git-commit: 50b9ba30eac2d99fe72a8cfacf4b0361b8955a87
 workflow-type: tm+mt
-source-wordcount: '1606'
-ht-degree: 99%
+source-wordcount: '1558'
+ht-degree: 100%
 
 ---
 
@@ -58,11 +58,6 @@ Vous pouvez ajouter d’autres balises à vos ressources en plus des balises int
 Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes] des balises qui ont été automatiquement ajoutées par [!DNL Assets Essentials] à toutes les ressources chargées.
 
 ## Gestion de la taxonomie {#taxonomy-management}
-
->[!CONTEXTUALHELP]
->id="assets_express_integration"
->title="Intégration d’Adobe Express"
->abstract="[!DNL Experience Manager Assets] fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et demandent des champs de métadonnées supplémentaires afin d’ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
 
 Les balises peuvent également être imbriquées dans une hiérarchie pour prendre en charge des relations telles que la catégorie et la sous-catégorie. Si vous devez insérer des balises hiérarchiques, celles-ci sont facilement gérées par la personne administratrice dans la section [!UICONTROL Gestion de la taxonomie] des [!UICONTROL Paramètres]. Vous pouvez créer un ensemble d’espaces de noms et de balises régis auxquels l’ensemble des utilisateurs et utilisatrices peuvent accéder pour décrire le contenu. Seules les personnes administratrices peuvent configurer des hiérarchies de balises dans le [!UICONTROL Gestionnaire de taxonomie] et s’assurer que les valeurs sont contrôlées et utilisées de manière cohérente.
 
