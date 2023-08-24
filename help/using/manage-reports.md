@@ -2,10 +2,10 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: ht
-source-wordcount: '814'
-ht-degree: 100%
+source-git-commit: 7bda2024fd9e9d2ad05ccffccf76a51b16a113fa
+workflow-type: tm+mt
+source-wordcount: '839'
+ht-degree: 94%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 100%
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Rapports"
->abstract="Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit. Tous les utilisateurs et toutes les utilisatrices affectés au profil de produit Administration d’Assets Essentials peuvent accéder au tableau de bord des insights ou créer des rapports définis par l’utilisateur ou l’utilisatrice."
+>abstract="Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit. Tous les utilisateurs peuvent accéder au tableau de bord Statistiques et ceux qui sont affectés au profil de produit Administrateurs peuvent créer des rapports définis par l’utilisateur."
 
-Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit.
+Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit. Tous les utilisateurs peuvent accéder au tableau de bord Statistiques et ceux qui sont affectés au profil de produit Administrateurs peuvent créer des rapports définis par l’utilisateur.
 
 ## Accéder aux rapports {#access-reports}
 
@@ -55,6 +55,7 @@ Pour créer un rapport de téléchargement, procédez comme suit :
 1. Sélectionnez le chemin d’accès au dossier, qui contient les ressources sur lesquelles portera le rapport, à l’aide du champ **[!UICONTROL Sélectionner le chemin d’accès au dossier]**.
 
 1. Sélectionnez la période du rapport.
+
    >[!NOTE]
    >
    > Assets Essentials convertit tous les fuseaux horaires locaux en temps universel coordonné (UTC).
