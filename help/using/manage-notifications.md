@@ -2,9 +2,9 @@
 title: Gérer les notifications
 description: Surveillez toute opération effectuée sur les ressources ou dossiers du répertoire à l’aide des notifications Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 07457e86a37b5d39a6c843c2c2cf8750a6acb354
+source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '617'
 ht-degree: 100%
 
 ---
@@ -95,11 +95,6 @@ Assets Essentials envoie désormais des notifications pour les catégories auxq
 De même, pour annuler votre abonnement, sélectionnez la ressource, le dossier ou la collection auquel vous vous êtes abonné, puis cliquez sur **[!UICONTROL Ne pas observer]**.
 
 ## Consulter les notifications {#view-notifications}
-
->[!CONTEXTUALHELP]
->id="assets_express_integration"
->title="Intégration d’Adobe Express"
->abstract="[!DNL Experience Manager Assets] fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et demandent des champs de métadonnées supplémentaires afin d’ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page Détails d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources."
 
 Les notifications s’affichent à l’extrémité droite de la barre de menu dans l’interface utilisateur d’Assets Essentials.
 

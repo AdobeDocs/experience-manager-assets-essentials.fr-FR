@@ -3,10 +3,10 @@ title: Modification des images
 description: Modifiez les images à l’aide des options optimisées d’ [!DNL Adobe Photoshop Express] et enregistrez les images mises à jour sous forme de versions.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 10709417b2656ab15a3bade94bea701f50ec5ae3
+source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 53%
+source-wordcount: '896'
+ht-degree: 52%
 
 ---
 
@@ -22,7 +22,12 @@ Après avoir modifié une image, vous pouvez enregistrer la nouvelle image en ta
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Modifier des images à l’aide de [!DNL Adobe Express] {#edit-using-express}
+## Modifier des images à l’aide d’Adobe Express {#edit-using-express}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration"
+>title="Intégration d’Adobe Express"
+>abstract="Des outils simples et intuitifs d’édition d’images optimisés par l’Adobe Express sont disponibles directement dans AEM Assets pour augmenter la réutilisation du contenu et accélérer la vitesse de diffusion du contenu."
 
 ### Redimensionnement de l’image {#resize-image-using-express}
 
