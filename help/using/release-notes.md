@@ -4,16 +4,16 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
-workflow-type: ht
-source-wordcount: '2154'
-ht-degree: 100%
+source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
+workflow-type: tm+mt
+source-wordcount: '2298'
+ht-degree: 93%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials a été publiée le 27 juillet 2023.
+La version actuelle d’Assets Essentials est sortie le 24 août 2023.
 
 La liste des fonctionnalités incluses dans cette version comprend :
 
@@ -27,19 +27,23 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 -->
 
-**Amélioration du framework d’intelligence artificielle pour les balises intelligentes d’image**
+**Importation en bloc de ressources à partir de sources de données**
 
-Experience Manager Assets utilise désormais un framework d’intelligence artificielle amélioré pour les balises intelligentes d’image. Celui-ci améliore la pertinence et la précision des balises intelligentes disponibles pour toutes les ressources d’image lors de l’ingestion.
+Les administrateurs peuvent désormais importer un grand nombre de ressources d’une source de données vers AEM Assets. Les administrateurs n’ont plus besoin de charger des ressources ou des dossiers individuels vers AEM Assets. Les sources de données prises en charge pour l’importation en bloc sont Azure, AWS, Google Cloud et Dropbox.
 
-**Configurer l’affichage des colonnes pour le mode Liste des ressources**
+![Importation en bloc de ressources à partir d’une source de données](/help/using/assets/bulk-import.png)
 
-Assets Essentials permet désormais de sélectionner les colonnes qui s’affichent en mode Liste des ressources, telles que Statut, Format, Dimensions, Taille, etc.
+**Outils de retouche d’images optimisés par Adobe Express**
 
-![Configurer les colonnes](/help/using/assets/configure-columns.png)
+Des outils simples et intuitifs d’édition d’images optimisés par l’Adobe Express sont disponibles directement dans AEM Assets pour augmenter la réutilisation du contenu et accélérer la vitesse de diffusion du contenu.
 
-**Trier les résultats de recherche en fonction de la pertinence**
+![Modification d’images avec Adobe Express](/help/using/assets/edit-adobe-express.png)
 
-Assets Essentials trie désormais les résultats de la recherche en fonction de la pertinence, par défaut. Vous pouvez trier les ressources recherchées par ordre croissant ou décroissant de `Name`, `Relevance`, `Size`, `Modified` et `Created`.
+**Flexibilité lors de l’épinglage d’éléments pour l’accès rapide à My Workspace**
+
+Possibilité de sélectionner et d’épingler des éléments pour vous, pour l’ensemble de votre organisation ou pour une liste de groupes afin qu’ils s’affichent dans la section Accès rapide de Mon espace de travail en fonction de votre sélection.
+
+![Épingler des éléments pour les groupes](assets/pin-items-for-groups.png)
 
 **Améliorations basées sur les commentaires des clients**
 
@@ -65,7 +69,23 @@ Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélio
 
 ## Versions antérieures {#past-releases}
 
-### Version de juin  {#june2023-release}
+### Version de juillet 2023 {#july2023-release}
+
+**Amélioration du framework d’intelligence artificielle pour les balises intelligentes d’image**
+
+Experience Manager Assets utilise désormais un framework d’intelligence artificielle amélioré pour les balises intelligentes d’image. Celui-ci améliore la pertinence et la précision des balises intelligentes disponibles pour toutes les ressources d’image lors de l’ingestion.
+
+**Configurer l’affichage des colonnes pour le mode Liste des ressources**
+
+Assets Essentials permet désormais de sélectionner les colonnes qui s’affichent en mode Liste des ressources, telles que Statut, Format, Dimensions, Taille, etc.
+
+![Configurer les colonnes](/help/using/assets/configure-columns.png)
+
+**Trier les résultats de recherche en fonction de la pertinence**
+
+Assets Essentials trie désormais les résultats de la recherche en fonction de la pertinence, par défaut. Vous pouvez trier les ressources recherchées par ordre croissant ou décroissant de `Name`, `Relevance`, `Size`, `Modified` et `Created`.
+
+### Version de juin 2023 {#june2023-release}
 
 **Balisage hiérarchique des ressources pour une expérience de recherche plus rapide**
 
