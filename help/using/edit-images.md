@@ -3,10 +3,10 @@ title: Modification des images
 description: Modifiez les images à l’aide des options optimisées d’ [!DNL Adobe Photoshop Express] et enregistrez les images mises à jour sous forme de versions.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
+source-git-commit: 701da4ddf9dcadb9e8ad3070877788344d0210fc
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 52%
+source-wordcount: '908'
+ht-degree: 51%
 
 ---
 
@@ -34,10 +34,10 @@ Après avoir modifié une image, vous pouvez enregistrer la nouvelle image en ta
 Le redimensionnement d’une image à une taille spécifique est un cas d’utilisation courant. [!DNL Assets Essentials] permet de redimensionner rapidement l’image pour l’adapter aux tailles de photo courantes en fournissant de nouvelles résolutions précalculées pour des tailles de photo spécifiques. Pour redimensionner l’image à l’aide de [!DNL Assets Essentials], procédez comme suit :
 
 1. Sélectionnez une image, puis cliquez sur **Modifier**.
-2. Cliquez sur **[!DNL Resize Image]** dans les actions rapides disponibles dans le volet de gauche.
+2. Cliquez sur **[!UICONTROL Redimensionner l’image]** dans les actions rapides disponibles dans le volet de gauche.
 3. Sélectionnez la plateforme de médias sociaux appropriée dans la **[!UICONTROL Redimensionner pour]** et sélectionnez la taille de l’image parmi les options qui s’affichent.
 4. Mettez l’image à l’échelle, le cas échéant, à l’aide de la fonction **[!UICONTROL Échelle d’image]** champ .
-5. Cliquez sur **[!DNL Apply]** pour appliquer vos modifications.
+5. Cliquez sur **[!UICONTROL Appliquer]** pour appliquer vos modifications.
    ![Modification d’images avec Adobe Express](/help/using/assets/adobe-express-resize-image.png)
 
    Votre image modifiée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource.
@@ -48,8 +48,8 @@ Le redimensionnement d’une image à une taille spécifique est un cas d’util
 Vous pouvez supprimer l’arrière-plan d’une image en quelques étapes simples, comme indiqué ci-dessous :
 
 1. Sélectionnez une image, puis cliquez sur **Modifier**.
-2. Cliquez sur **[!DNL Remove Background]** dans les actions rapides disponibles dans le volet de gauche. Experience Manager Assets affiche l’image sans arrière-plan.
-3. Cliquez sur **[!DNL Apply]** pour appliquer vos modifications.
+2. Cliquez sur **[!UICONTROL Supprimer l’arrière-plan]** dans les actions rapides disponibles dans le volet de gauche. Experience Manager Assets affiche l’image sans arrière-plan.
+3. Cliquez sur **[!UICONTROL Appliquer]** pour appliquer vos modifications.
    ![Enregistrer l’image avec Adobe Express](/help/using/assets/adobe-express-remove-background.png)
 
    Votre image modifiée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource.
@@ -59,9 +59,9 @@ Vous pouvez supprimer l’arrière-plan d’une image en quelques étapes simple
 La transformation d’une image en taille parfaite est facile à l’aide de l’incorporation. [!DNL Adobe Express] actions rapides.
 
 1. Sélectionnez une image, puis cliquez sur **Modifier**.
-2. Cliquez sur **[!DNL Crop Image]** dans les actions rapides disponibles dans le volet de gauche.
+2. Cliquez sur **[!UICONTROL Recadrer l’image]** dans les actions rapides disponibles dans le volet de gauche.
 3. Faites glisser les poignées sur les coins de l’image pour créer le recadrage souhaité.
-4. Cliquez sur **[!DNL Apply]**.
+4. Cliquez sur **[!UICONTROL Appliquer]**.
    ![Enregistrer l’image avec Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 L’image recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource.
 
@@ -70,7 +70,7 @@ L’image recadrée peut être téléchargée. Vous pouvez enregistrer la ressou
 Vous pouvez rapidement convertir une image de JPEG au format PNG à l’aide d’Adobe Express. Procédez comme suit :
 
 1. Sélectionnez une image, puis cliquez sur **Modifier**.
-2. Cliquez sur **[!DNL JPEG to PNG]** dans les actions rapides disponibles dans le volet de gauche.
+2. Cliquez sur **[!UICONTROL JPEG à PNG]** dans les actions rapides disponibles dans le volet de gauche.
    ![Conversion en PNG avec Adobe Express](/help/using/assets/adobe-express-convert-image.png)
 3. Cliquez sur **[!UICONTROL Télécharger]**.
 
