@@ -1,16 +1,25 @@
 ---
 title: Importation de ressources en bloc à l’aide de la vue Assets
 description: Découvrez comment importer des ressources en bloc à l’aide de la nouvelle interface utilisateur d’Assets (vue Assets). Il permet aux administrateurs d’importer un grand nombre de ressources d’une source de données vers AEM Assets.
-source-git-commit: ceadd99c1d846a97752ed13097bafd0d10bb2a35
+source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
 workflow-type: tm+mt
-source-wordcount: '992'
-ht-degree: 13%
+source-wordcount: '1244'
+ht-degree: 21%
 
 ---
 
 # Importation de ressources en bloc à l’aide de la vue Assets  {#bulk-import-assets-view}
 
+>[!CONTEXTUALHELP]
+>id="assets_bulk_import"
+>title="Importation de ressources en bloc"
+>abstract="Les administrateurs peuvent désormais importer un grand nombre de ressources d’une source de données vers Experience Manager Assets à l’aide de la vue Assets. Les administrateurs n’ont plus besoin de charger des ressources ou des dossiers individuels vers Experience Manager Assets. Les fournisseurs de stockage dans le cloud pris en charge pour l’importation en bloc sont Azure, AWS, Google Cloud et Dropbox."
+
 L’importation en bloc dans la vue AEM Assets permet aux administrateurs d’importer un grand nombre de ressources d’une source de données vers AEM Assets. Les administrateurs n’ont plus besoin de charger des ressources ou des dossiers individuels vers AEM Assets.
+
+>[!NOTE]
+>
+>L’importateur en masse d’affichage des ressources utilise le même serveur principal que celui de l’importateur en masse d’affichage administrateur. Cependant, il offre davantage de sources de données à importer et une expérience utilisateur plus simplifiée.
 
 Vous pouvez importer des ressources à partir des sources de données suivantes :
 
@@ -58,6 +67,14 @@ Pour créer une configuration d’import en bloc, procédez comme suit :
    ![Exécution de l’importation en bloc](assets/bulk-import-run.png)
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** pour exécuter l’option sélectionnée.
+
+### Gestion des noms de fichier lors de l’importation en bloc {#filename-handling-bulkimport-assets-view}
+
+Lorsque vous importez des ressources ou des dossiers en bloc, [!DNL Experience Manager Assets] importe toute la structure de ce qui existe dans la source d’import. [!DNL Experience Manager] suit les règles intégrées pour les caractères spéciaux dans les noms de ressources et de dossiers ; par conséquent, ces noms de fichier doivent être assainis. Pour les noms de dossier et de ressource, le titre défini par l’utilisateur reste inchangé et est stocké dans `jcr:title`.
+
+Lors de l’importation en bloc, [!DNL Experience Manager] recherche les dossiers existants pour éviter de réimporter les ressources et les dossiers et vérifie également les règles d’assainissement appliquées dans le dossier parent où l’importation a lieu. Si les règles d’assainissement sont appliquées dans le dossier parent, les mêmes règles sont appliquées à la source d’importation. Pour une nouvelle importation, les règles d’assainissement suivantes sont appliquées pour gérer les noms de fichiers des ressources et dossiers.
+
+Pour plus d’informations sur les noms interdits, la gestion des noms de ressources et la gestion des noms de dossiers lors de l’importation en bloc, voir [Gestion des noms de fichier lors de l’importation en bloc dans la vue d’administration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
 
 ## Affichage des configurations d’importation en bloc existantes {#view-import-configuration}
 
