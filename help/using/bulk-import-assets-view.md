@@ -4,7 +4,7 @@ description: Découvrez comment importer des ressources en bloc à l’aide de l
 source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
 workflow-type: tm+mt
 source-wordcount: '1244'
-ht-degree: 21%
+ht-degree: 25%
 
 ---
 
@@ -12,8 +12,8 @@ ht-degree: 21%
 
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
->title="Importation de ressources en bloc"
->abstract="Les administrateurs peuvent désormais importer un grand nombre de ressources d’une source de données vers Experience Manager Assets à l’aide de la vue Assets. Les administrateurs n’ont plus besoin de charger des ressources ou des dossiers individuels vers Experience Manager Assets. Les fournisseurs de stockage dans le cloud pris en charge pour l’importation en bloc sont Azure, AWS, Google Cloud et Dropbox."
+>title="Importer des ressources en bloc"
+>abstract="Les administrateurs et administratrices peuvent désormais importer un grand nombre de ressources d’une source de données vers Experience Manager Assets à l’aide de la vue Assets. Les administrateurs et administratrices n’ont plus besoin de charger des ressources ou des dossiers individuels vers Experience Manager Assets. Les fournisseurs d’espace de stockage pris en charge pour l’importation en bloc sont Azure, AWS, Google Cloud et Dropbox."
 
 L’importation en bloc dans la vue AEM Assets permet aux administrateurs d’importer un grand nombre de ressources d’une source de données vers AEM Assets. Les administrateurs n’ont plus besoin de charger des ressources ou des dossiers individuels vers AEM Assets.
 
