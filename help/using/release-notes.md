@@ -4,28 +4,24 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
+source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
 workflow-type: tm+mt
-source-wordcount: '2298'
-ht-degree: 93%
+source-wordcount: '2342'
+ht-degree: 92%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials est sortie le 24 août 2023.
+La version actuelle des Assets Essentials est publiée le 21 septembre 2023.
 
-La liste des fonctionnalités incluses dans cette version comprend :
+La liste des fonctionnalités récemment ajoutées comprend les éléments suivants :
 
-<!--
+**Affectation d’un formulaire de métadonnées à un dossier**
 
-**Assign metadata form to a folder**
+Vous pouvez désormais affecter un formulaire de métadonnées à un dossier spécifique dans le déploiement Assets Essentials. Toutes les ressources du dossier, y compris les ressources des sous-dossiers, affichent ensuite les propriétés définies dans le formulaire de métadonnées affecté.
 
-You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
-
-![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
-
--->
+![affecter un formulaire de métadonnées à un dossier](/help/using/assets/assign-to-folder.png)
 
 **Importation en bloc de ressources à partir de sources de données**
 
@@ -35,7 +31,7 @@ Les administrateurs peuvent désormais importer un grand nombre de ressources d�
 
 **Outils de retouche d’images optimisés par Adobe Express**
 
-Des outils simples et intuitifs d’édition d’images optimisés par l’Adobe Express sont disponibles directement dans AEM Assets pour augmenter la réutilisation du contenu et accélérer la vitesse de diffusion du contenu.
+Des outils simples et intuitifs d’édition d’images optimisés par Adobe Express sont disponibles directement dans AEM Assets pour augmenter la réutilisation du contenu et accélérer sa vitesse de diffusion.
 
 ![Modification d’images avec Adobe Express](/help/using/assets/edit-adobe-express.png)
 
