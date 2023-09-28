@@ -1,20 +1,20 @@
 ---
-title: Comment gérer les balises dans la vue Assets ?
-description: Découvrez comment gérer les balises dans la vue Assets. Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces.
-source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: ht
-source-wordcount: '1422'
-ht-degree: 100%
+title: Comment gérer les balises dans les Assets Essentials ?
+description: Découvrez comment gérer les balises dans les Assets Essentials. Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces.
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+workflow-type: tm+mt
+source-wordcount: '1292'
+ht-degree: 88%
 
 ---
 
-# Gérer les balises dans la vue Assets {#view-assets-and-details}
+# Gestion des balises dans les Assets Essentials {#view-assets-and-details}
 
 
 >[!CONTEXTUALHELP]
 >id="assets_taxonomy_management"
 >title="Gérer les balises"
->abstract="Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces. Les administrateurs ont la possibilité d’utiliser la structure de balisage hiérarchique, qui facilite l’application des métadonnées pertinentes, la classification des ressources, la prise en charge de la recherche, la réutilisation des balises, l’amélioration de la visibilité, etc."
+>abstract="Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces. Les administrateurs et administratrices ont la possibilité d’utiliser la structure de balisage hiérarchique, qui facilite l’application des métadonnées pertinentes, la classification des ressources, la prise en charge de la recherche, la réutilisation des balises, l’amélioration de la visibilité, etc."
 
 Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces. Le balisage permet de propager la taxonomie appropriée à d’autres utilisateurs et utilisatrices et workflows.
 
@@ -32,7 +32,7 @@ Le balisage offre de nombreux avantages :
 
 * Les balises peuvent évoluer au fil du temps à mesure qu’un vocabulaire organisationnel change.
 
-* Les balises gérées dans la vue Admin restent synchronisées avec les balises gérées dans la vue Assets, ce qui garantit la gouvernance et l’intégrité des métadonnées.
+* Les balises gérées dans Assets as a Cloud Service restent synchronisées avec les balises gérées dans Assets Essentials, ce qui garantit la gouvernance et l’intégrité des métadonnées.
 
 Pour pouvoir appliquer des balises à des ressources, vous devez d’abord créer un espace de noms, puis créer et ajouter des balises. Vous pouvez également créer des balises et les ajouter à un espace de noms existant. Toutes les balises que vous créez au niveau racine sont automatiquement ajoutées à l’espace de noms des balises standard. Vous pouvez ensuite ajouter le champ Balises au formulaire de métadonnées afin qu’il s’affiche sur la page Détails de la ressource. Après avoir configuré ces paramètres, vous pouvez commencer à appliquer des balises aux ressources.
 
@@ -42,7 +42,7 @@ Pour pouvoir appliquer des balises à des ressources, vous devez d’abord crée
 
 ![Gestion du balisage.](assets/tagging-taxonomy-management.png)
 
-D’autres fonctionnalités non mentionnées dans cet article, dont la fusion, le changement de nom, la localisation et la publication de balises, sont disponibles dans la vue Admin.
+D’autres fonctionnalités, outre celles mentionnées dans cet article, telles que la fusion, le changement de nom, la localisation et la publication de balises, sont disponibles dans Assets as a Cloud Service.
 
 ## Créer un espace de noms {#creating-a-namespace}
 
@@ -92,7 +92,7 @@ Pour créer une balise standard, cliquez sur `Create Tag` au niveau racine. Indi
 
 >[!NOTE]
 >
->Si vous supprimez l’espace de noms `Standard Tags` à l’aide de la vue Admin, les balises créées au niveau racine ne s’affichent pas dans la liste des balises disponibles.
+>Si vous supprimez `Standard Tags` à l’aide d’Assets as a Cloud Service, les balises créées au niveau racine ne s’affichent pas dans la liste des balises disponibles.
 
 ## Déplacer des balises {#moving-tags}
 
@@ -115,7 +115,7 @@ Pour modifier le titre de la balise, sélectionnez cette dernière, puis cliquez
 >[!NOTE]
 >
 >* Le `Name` d’une balise ne peut pas être mis à jour. Le chemin d’accès racine d’une balise est également basé sur le nom de la balise. Le chemin d’accès reste le même, même si vous mettez à jour le champ `Title`.
->* D’autres opérations telles que la fusion, la localisation et la publication, sont disponibles dans la vue Admin.
+>* D’autres opérations telles que la fusion, la localisation et la publication sont disponibles dans Assets as a Cloud Service.
 
 ## Supprimer des balises {#deleting-tags}
 
@@ -134,7 +134,7 @@ Pour supprimer des balises, procédez comme suit :
 
 ## Ajouter le composant Balises au formulaire de métadonnées {#adding-tags-to-metadata-form}
 
-Le composant Balises est ajouté automatiquement au formulaire de métadonnées `default`. Vous pouvez concevoir un [formulaire de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=fr#metadata-forms) soit en utilisant un modèle, soit à partir de zéro. Si vous n’utilisez pas de modèle de formulaire de métadonnées existant, vous pouvez modifier votre formulaire de métadonnées et ajouter le composant Balises. Le mappage des propriétés de métadonnées est renseigné automatiquement et ne peut pas être modifié pour le moment. Les personnes utilisant la vue Admin peuvent mettre à jour le mappage pour stocker les valeurs de balise à l’aide d’espaces de noms personnalisés et n’exposer que les sous-ensembles de hiérarchies à l’aide des chemins d’accès racine.
+Le composant Balises est ajouté automatiquement au formulaire de métadonnées `default`. Vous pouvez concevoir un [formulaire de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=fr#metadata-forms) soit en utilisant un modèle, soit à partir de zéro. Si vous n’utilisez pas de modèle de formulaire de métadonnées existant, vous pouvez modifier votre formulaire de métadonnées et ajouter le composant Balises. Le mappage des propriétés de métadonnées est renseigné automatiquement et ne peut pas être modifié pour le moment. Les utilisateurs as a Cloud Service de ressources peuvent mettre à jour le mappage pour stocker les valeurs de balise à l’aide d’espaces de noms personnalisés et exposer uniquement les sous-ensembles de hiérarchies à l’aide de chemins d’accès racine.
 
 Regardez cette vidéo rapide pour découvrir comment ajouter le composant Balises à votre formulaire de métadonnées :
 
@@ -149,17 +149,7 @@ Regardez cette vidéo rapide pour découvrir comment ajouter le composant Balise
    ![Balisage des ressources.](assets/adding-tags-to-assets.png)
 
 1. Sélectionnez une ou plusieurs balises. La sous-balise est sélectionnée automatiquement avec la balise ou l’espace de noms parent.
-Les balises modifiées dans la vue Assets sont également appliquées dans la vue Admin.
-
-## Limites {#limitations}
-
-Les fonctionnalités de taxonomie avancée suivantes ne sont actuellement pas disponibles dans la vue Assets et ne sont accessibles que via la vue Admin :
-
-* **Localisation :** toute localisation doit se produire dans la vue Admin.
-* **Chemin d’accès racine :** les chemins d’accès racine ne peuvent pas être configurés. Tous les espaces de noms stockés dans la Gestion de la taxonomie sont exposés sur la propriété Balises dans la vue Assets.
-* **Balises standard :** les balises standard appliquées dans la vue Admin sont visibles dans la vue Assets. Vous ne pouvez pas ajouter de nouvelles balises standard dans la vue Assets de la page Détails de la ressource. Les valeurs existantes qui sont stockées dans des balises standard sont appliquées à la page Détails des ressources.
-* **Espaces de noms personnalisés :** les balises ne peuvent pas être mappées à des espaces de noms personnalisés.
-* **Affichage des références :** les personnes administratrices peuvent voir l’utilisation des balises dans la vue Assets. Cela fait référence à toutes les ressources qui utilisent activement une balise. Toutefois, les personnes administratrices ne peuvent pas voir les ressources individuelles à l’aide de la balise dans les références.
+Les balises modifiées dans les Assets Essentials sont également appliquées dans Assets as a Cloud Service.
 
 <!--
 *   Overview
