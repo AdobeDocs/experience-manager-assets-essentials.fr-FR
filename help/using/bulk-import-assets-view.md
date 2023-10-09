@@ -1,10 +1,11 @@
 ---
 title: Importation de ressources en bloc à l’aide d’Assets Essentials
 description: Découvrez comment importer des ressources en bloc à l’aide de la nouvelle interface utilisateur d’Assets (Assets Essentials). Il permet aux administrateurs d’importer un grand nombre de ressources d’une source de données vers AEM Assets.
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
+source-git-commit: 77accbc70d973a9b4afddde1c8bcd60c37ff636d
 workflow-type: tm+mt
 source-wordcount: '1245'
-ht-degree: 24%
+ht-degree: 25%
 
 ---
 
@@ -13,7 +14,7 @@ ht-degree: 24%
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Importer des ressources en bloc"
->abstract="Les administrateurs peuvent désormais importer un grand nombre de ressources d’une source de données vers Experience Manager Assets à l’aide d’Assets Essentials. Les administrateurs et administratrices n’ont plus besoin de charger des ressources ou des dossiers individuels vers Experience Manager Assets. Les fournisseurs d’espace de stockage pris en charge pour l’importation en bloc sont Azure, AWS, Google Cloud et Dropbox."
+>abstract="Les administrateurs et administratrices peuvent désormais importer un grand nombre de ressources d’une source de données vers Experience Manager Assets à l’aide d’Assets Essentials. Les administrateurs et administratrices n’ont plus besoin de charger des ressources ou des dossiers individuels vers Experience Manager Assets. Les fournisseurs d’espace de stockage pris en charge pour l’importation en bloc sont Azure, AWS, Google Cloud et Dropbox."
 
 L’importation en bloc dans AEM Assets Essentials permet aux administrateurs d’importer un grand nombre de ressources d’une source de données vers AEM Assets. Les administrateurs n’ont plus besoin de charger des ressources ou des dossiers individuels vers AEM Assets.
 
@@ -138,4 +139,3 @@ Cliquez sur ... correspondant au nom de configuration existant dans . **[!UICONT
 ## Accès aux ressources après l’importation en bloc {#view-assets-after-bulk-import}
 
 Pour afficher l’emplacement cible Ressources où les ressources sont importées après l’exécution de la tâche d’importation en bloc, cliquez sur ... correspondant au nom de la configuration, puis cliquez sur **[!UICONTROL Affichage des ressources]**.
-
