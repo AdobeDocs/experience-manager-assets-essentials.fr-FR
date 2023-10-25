@@ -5,7 +5,7 @@ exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 1db631a927e806d4b8ed83b1e0fc4a1e4f5bef71
 workflow-type: tm+mt
 source-wordcount: '739'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 88%
 
 Assets comprend désormais un espace de travail personnalisable, composé de widgets permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
 
-Pour accéder à Mon espace de travail, cliquez sur **[!UICONTROL Mon espace de travail]** à partir des éléments disponibles dans le volet de navigation de gauche. Mon espace de travail comprend divers widgets qui affichent un accès rapide, des informations, des tâches et des widgets de contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
+Pour accéder à Mon espace de travail, cliquez sur **[!UICONTROL Mon espace de travail]** à partir des éléments disponibles dans le volet de navigation de gauche. Mon espace de travail comprend différents widgets qui affichent les widgets Accès rapide, Insights, Tâches et Contenu. Vous pouvez configurer l’affichage de ces widgets dans votre espace de travail en fonction de vos préférences.
 
 >[!NOTE]
 >
@@ -40,17 +40,17 @@ Highlights upcoming features for Assets.
 
 Épinglez des fichiers, des dossiers et des collections pour accéder plus rapidement à ces éléments lorsque vous en aurez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail. Vous pouvez y accéder à l’aide de Mon espace de travail au lieu d’accéder à l’emplacement où ils sont enregistrés dans le référentiel.
 
-Pour épingler une ressource, un dossier ou une collection :
+Pour épingler une ressource, un dossier ou une collection :
 
-1. Sélectionnez l’élément et cliquez sur **[!UICONTROL Épingler l’accès rapide]**.
+1. Sélectionnez l’élément et cliquez sur **[!UICONTROL Épingler à l’accès rapide]**.
 
-1. Sélectionnez cette option si vous devez épingler l’élément uniquement pour vous, pour l’ensemble de l’organisation ou pour les groupes sélectionnés. Si vous sélectionnez **[!UICONTROL Groupes]**, définissez les noms des groupes dans la variable **[!UICONTROL Epinglage pour les groupes]** champ .
+1. Sélectionnez cette option si vous devez épingler l’élément uniquement pour vous, pour l’ensemble de l’organisation ou pour les groupes sélectionnés. Si vous sélectionnez **[!UICONTROL Pour les groupes]**, définissez les noms des groupes dans le champ **[!UICONTROL Épingler pour les groupes]**.
 
-   ![Épingler des éléments pour les groupes](assets/pin-items-for-groups.png)
-1. Cliquez sur **[!UICONTROL Epinglage]**.
+   ![Épinglage d’éléments pour les groupes.](assets/pin-items-for-groups.png)
+1. Cliquez sur **[!UICONTROL Épingler]**.
 
-   L’élément sélectionné s’affiche dans la **[!UICONTROL Accès rapide]** de My Workspace.
-   ![Tâches dans l’espace de travail.](assets/quick-access.png)
+   Les éléments épinglés s’affichent dans la section **[!UICONTROL Accès rapide]** de Mon espace de travail.
+   ![Tâches dans l’espace de travail](assets/quick-access.png)
 
 **Insights**
 
