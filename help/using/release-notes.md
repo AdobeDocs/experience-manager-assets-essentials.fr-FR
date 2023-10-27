@@ -4,42 +4,28 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
 workflow-type: tm+mt
-source-wordcount: '2342'
-ht-degree: 92%
+source-wordcount: '2435'
+ht-degree: 93%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle des Assets Essentials est publiée le 21 septembre 2023.
+La version actuelle des Assets Essentials est publiée le 26 octobre 2023.
 
-La liste des fonctionnalités récemment ajoutées comprend les éléments suivants :
+Les nouvelles fonctionnalités sont les suivantes :
 
-**Affectation d’un formulaire de métadonnées à un dossier**
+**Importation en masse de ressources à partir de la source de données OneDrive**
 
-Vous pouvez désormais affecter un formulaire de métadonnées à un dossier spécifique dans le déploiement Assets Essentials. Toutes les ressources du dossier, y compris les ressources des sous-dossiers, affichent ensuite les propriétés définies dans le formulaire de métadonnées affecté.
+Les administrateurs peuvent désormais [importer un grand nombre de ressources de OneDrive vers AEM Assets ;](/help/using/bulk-import-assets-view.md). La liste mise à jour des sources de données prises en charge pour l’importation en bloc comprend Azure, AWS, Google Cloud, Dropbox et OneDrive.
 
-![affecter un formulaire de métadonnées à un dossier](/help/using/assets/assign-to-folder.png)
+![affecter un formulaire de métadonnées à un dossier](/help/using/assets/bulk-import-source-details.png)
 
-**Importation en bloc de ressources à partir de sources de données**
+**Prise en charge des droits inter-organisations pour les bibliothèques**
 
-Les administrateurs peuvent désormais importer un grand nombre de ressources d’une source de données vers AEM Assets. Les administrateurs n’ont plus besoin de charger des ressources ou des dossiers individuels vers AEM Assets. Les sources de données prises en charge pour l’importation en bloc sont Azure, AWS, Google Cloud et Dropbox.
-
-![Importation en bloc de ressources à partir d’une source de données](/help/using/assets/bulk-import.png)
-
-**Outils de retouche d’images optimisés par Adobe Express**
-
-Des outils simples et intuitifs d’édition d’images optimisés par Adobe Express sont disponibles directement dans AEM Assets pour augmenter la réutilisation du contenu et accélérer sa vitesse de diffusion.
-
-![Modification d’images avec Adobe Express](/help/using/assets/edit-adobe-express.png)
-
-**Flexibilité lors de l’épinglage d’éléments pour l’accès rapide à My Workspace**
-
-Possibilité de sélectionner et d’épingler des éléments pour vous, pour l’ensemble de votre organisation ou pour une liste de groupes afin qu’ils s’affichent dans la section Accès rapide de Mon espace de travail en fonction de votre sélection.
-
-![Épingler des éléments pour les groupes](assets/pin-items-for-groups.png)
+Experience Manager Assets vous permet désormais de configurer l’accès aux bibliothèques de Creative Cloud dans une autre organisation IMS. Cela permet d’accéder plus facilement aux derniers workflows inter-produits entre Creative Cloud et Experience Manager et réduit le temps et les efforts pour les créatifs.
 
 **Améliorations basées sur les commentaires des clients**
 
@@ -64,6 +50,33 @@ La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révis�
 Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
 
 ## Versions antérieures {#past-releases}
+
+### Version de septembre 2023 {#september2023-release}
+
+**Affectation d’un formulaire de métadonnées à un dossier**
+
+Vous pouvez désormais affecter un formulaire de métadonnées à un dossier spécifique dans le déploiement Assets Essentials. Toutes les ressources du dossier, y compris les ressources des sous-dossiers, affichent ensuite les propriétés définies dans le formulaire de métadonnées affecté.
+
+![affecter un formulaire de métadonnées à un dossier](/help/using/assets/assign-to-folder.png)
+
+**Importer des ressources en bloc à partir de sources de données**
+
+Les administrateurs et administratrices peuvent désormais importer un grand nombre de ressources d’une source de données vers AEM Assets. Les administrateurs et administratrices n’ont plus besoin de charger des ressources ou des dossiers individuels vers AEM Assets. Les sources de données prises en charge pour l’import en bloc sont Azure, AWS, Google Cloud et Dropbox.
+
+![Import de ressources en bloc à partir d’une source de données.](/help/using/assets/bulk-import.png)
+
+**Outils de retouche d’images optimisés par Adobe Express**
+
+Des outils simples et intuitifs d’édition d’images optimisés par Adobe Express sont disponibles directement dans AEM Assets pour augmenter la réutilisation du contenu et accélérer sa vitesse de diffusion.
+
+![Modification d’images avec Adobe Express.](/help/using/assets/edit-adobe-express.png)
+
+**Flexibilité lors de l’épinglage d’éléments pour l’accès rapide à Mon espace de travail**
+
+Possibilité de sélectionner et d’épingler des éléments pour vous, pour l’ensemble de votre organisation ou pour une liste de groupes afin qu’ils s’affichent dans la section Accès rapide de Mon espace de travail en fonction de votre sélection.
+
+![Épinglage d’éléments pour les groupes.](assets/pin-items-for-groups.png)
+
 
 ### Version de juillet 2023 {#july2023-release}
 
@@ -93,7 +106,7 @@ Les listes plates de vocabulaires contrôlés deviennent ingérables au fil du t
 
 Vous pouvez désormais épingler des fichiers, des dossiers et des collections pour y accéder plus rapidement lorsque vous en aurez besoin ultérieurement. Les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail. Vous pouvez y accéder à l’aide de Mon espace de travail au lieu d’accéder à l’emplacement où ils sont enregistrés dans le référentiel.
 
-![Tâches dans l’espace de travail.](assets/quick-access.png)
+![Tâches dans l’espace de travail](assets/quick-access.png)
 
 **Filtrer les ressources dans le dossier Corbeille**
 
@@ -109,7 +122,7 @@ Assets Essentials génère désormais des aperçus de miniatures pour les forma
 
 Assets Essentials prend désormais en charge l’affichage des termes recherchés les plus courants dans votre déploiement Assets Essentials à l’aide de la section **Insights** de Mon espace de travail. Vous pouvez également accéder à Insights pour afficher les principales recherches effectuées au cours des 30 ou 12 derniers jours.
 
-![Tâches dans l’espace de travail.](assets/insights-top-searches.png)
+![Tâches dans l’espace de travail](assets/insights-top-searches.png)
 
 **Améliorations des formulaires de métadonnées**
 
