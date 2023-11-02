@@ -9,7 +9,7 @@ ht-degree: 88%
 
 ---
 
-# Gestion des balises dans les Assets Essentials {#view-assets-and-details}
+# Gérer les balises dans Assets Essentials {#view-assets-and-details}
 
 
 >[!CONTEXTUALHELP]
