@@ -2,10 +2,10 @@
 title: Mon espace de travail d’Assets
 description: La page Mon espace de travail est composée de modules visuels personnalisables permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations les plus pertinentes pour l’utilisateur et l’utilisatrice.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
+source-git-commit: 55418ab5b6346785bcc14bf32322a2e69738895d
 workflow-type: tm+mt
 source-wordcount: '738'
-ht-degree: 96%
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 >[!CONTEXTUALHELP]
 >id="assets_my_workspace"
 >title="Mon espace de travail"
->abstract="Assets comprend un espace de travail personnalisable qui fournit des widgets pour accéder facilement aux zones clés de l’interface utilisateur d’Assets et des informations qui vous concernent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows."
+>abstract="Assets comprend un espace de travail personnalisable qui fournit des widgets pour accéder facilement aux zones clés de l’interface utilisateur d’Assets et des informations qui vous concernent le plus. Cette page sert de solution ponctuelle pour fournir un aperçu de vos tâches et faciliter l’accès rapide aux workflows clés."
 
 Assets comprend désormais un espace de travail personnalisable, composé de widgets permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
 
