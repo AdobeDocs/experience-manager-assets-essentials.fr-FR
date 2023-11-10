@@ -2,19 +2,14 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 7bda2024fd9e9d2ad05ccffccf76a51b16a113fa
+source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
 workflow-type: tm+mt
-source-wordcount: '839'
-ht-degree: 100%
+source-wordcount: '827'
+ht-degree: 95%
 
 ---
 
 # Gérer les rapports {#manage-reports}
-
->[!CONTEXTUALHELP]
->id="assets_reports"
->title="Rapports"
->abstract="Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit. Tous les utilisateurs et utilisatrices peuvent accéder au tableau de bord Insights et ceux qui sont affectés au profil de produit Administrateurs et administratrices peuvent créer des rapports définis par l’utilisateur ou l’utilisatrice."
 
 Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit. Tous les utilisateurs et utilisatrices peuvent accéder au tableau de bord Insights et ceux qui sont affectés au profil de produit Administrateurs et administratrices peuvent créer des rapports définis par l’utilisateur ou l’utilisatrice.
 
@@ -23,6 +18,11 @@ Les rapports de ressources offrent aux administrateurs une visibilité sur l’a
 Tous les utilisateurs et toutes les utilisatrices affectés au [profil de produit Administration d’Assets Essentials](deploy-administer.md) peuvent accéder au tableau de bord des insights ou créer des rapports définis par l’utilisateur dans Assets Essentials.
 
 ## Affichage des insights {#view-live-statistics}
+
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="Rapports"
+>abstract="Le tableau de bord des statistiques vous permet d’afficher les mesures des événements en temps réel pour votre environnement Experience Manager Assets au cours des 30 derniers jours ou des 12 derniers mois. La liste des événements inclut le nombre de téléchargements, de chargements, de recherches principales, etc."
 
 Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
 
