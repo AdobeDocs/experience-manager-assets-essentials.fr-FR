@@ -5,7 +5,7 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
 workflow-type: tm+mt
 source-wordcount: '827'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Tous les utilisateurs et toutes les utilisatrices affectés au [profil de produi
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Rapports"
->abstract="Le tableau de bord des statistiques vous permet d’afficher les mesures des événements en temps réel pour votre environnement Experience Manager Assets au cours des 30 derniers jours ou des 12 derniers mois. La liste des événements inclut le nombre de téléchargements, de chargements, de recherches principales, etc."
+>abstract="Le tableau de bord Insights vous permet d’afficher les mesures des événements en temps réel pour votre environnement Experience Manager Assets au cours des 30 derniers jours ou des 12 derniers mois. La liste des événements inclut le nombre de téléchargements, de chargements, de recherches principales, etc."
 
 Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
 
