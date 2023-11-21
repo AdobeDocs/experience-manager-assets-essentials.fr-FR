@@ -2,9 +2,9 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: aee57f5a83bfa5a292e9c0c50e2cb00499dbb08c
+source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '910'
 ht-degree: 90%
 
 ---
@@ -40,7 +40,7 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 
 Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
 
-![Options de la barre d’outils lors de la sélection d’une ressource](assets/assets-essentials-live-statistics.png)
+<!--![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)-->
 
 Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigation de gauche pour afficher les graphiques générés automatiquement suivants :
 
@@ -52,7 +52,7 @@ Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigatio
 
 * **Utilisation du stockage**: utilisation du stockage, en octets, pour l’environnement Assets Essentials représenté à l’aide d’un graphique à barres, selon la convivialité.
 
-  ![Stockage](assets/storage.png)
+  <!--![Storage](assets/storage.png)-->
 
 
 * **Diffusion**: le graphique représente le nombre de ressources comme dates de diffusion.
@@ -60,6 +60,9 @@ Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigatio
 * **Nombre de ressources par type de ressource**: représente le nombre de différents types MIME des ressources disponibles. Par exemple, application/zip, image/png, video/mp4, application/postscripte.
 
 * **Principales recherches** : affichez les termes recherchés les plus fréquemment, ainsi que le nombre de fois où ces termes ont été recherchés dans votre environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentés sous forme de tableau.
+
+  ![Insights](assets/insights1.png)
+  ![Insights](assets/insights2.png)
 
 ## Créer un rapport de téléchargement {#create-download-report}
 
