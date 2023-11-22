@@ -2,10 +2,10 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
+source-git-commit: b065a56bbd0ce86bc9dd6ac568364de30d77be4e
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 90%
+source-wordcount: '850'
+ht-degree: 96%
 
 ---
 
@@ -48,21 +48,23 @@ Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigatio
 
 * **Transferts** : nombre de ressources téléchargées en amont dans l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
 
-* **Nombre de ressources par taille**: division du nombre de ressources en fonction de leur plage de tailles variées allant de 0 Mo à 100 Go.
+<!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Utilisation du stockage**: utilisation du stockage, en octets, pour l’environnement Assets Essentials représenté à l’aide d’un graphique à barres, selon la convivialité.
 
   <!--![Storage](assets/storage.png)-->
 
 
-* **Diffusion**: le graphique représente le nombre de ressources comme dates de diffusion.
+<!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
-* **Nombre de ressources par type de ressource**: représente le nombre de différents types MIME des ressources disponibles. Par exemple, application/zip, image/png, video/mp4, application/postscripte.
+<!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Principales recherches** : affichez les termes recherchés les plus fréquemment, ainsi que le nombre de fois où ces termes ont été recherchés dans votre environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentés sous forme de tableau.
 
-  ![Insights](assets/insights1.png)
-  ![Insights](assets/insights2.png)
+  <!--
+   ![Insights](assets/insights1.png)
+   ![Insights](assets/insights2.png)
+   -->
 
 ## Créer un rapport de téléchargement {#create-download-report}
 
