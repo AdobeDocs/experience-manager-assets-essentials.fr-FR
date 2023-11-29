@@ -2,7 +2,7 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: cf5cba28d20d1633566881a7f651da6bcaa48c7b
+source-git-commit: 7ceeeda677e845cc7cb31964edaa687c806f3afe
 workflow-type: tm+mt
 source-wordcount: '851'
 ht-degree: 96%
@@ -44,6 +44,8 @@ Assets Essentials vous permet d’afficher des données en temps réel pour vot
 
 Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigation de gauche pour afficher les graphiques générés automatiquement suivants :
 
+![Insights](assets/insights.png)
+
 * **Téléchargements** : nombre de ressources téléchargées à partir de l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
 
 * **Transferts** : nombre de ressources téléchargées en amont dans l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
@@ -58,9 +60,7 @@ Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigatio
 
 * **Principales recherches** : affichez les termes recherchés les plus fréquemment, ainsi que le nombre de fois où ces termes ont été recherchés dans votre environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentés sous forme de tableau.
 
-![Insights](assets/insights.png)
-
-<!--
+  <!--
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
