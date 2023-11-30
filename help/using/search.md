@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
+source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
 workflow-type: tm+mt
-source-wordcount: '1041'
-ht-degree: 100%
+source-wordcount: '1303'
+ht-degree: 76%
 
 ---
 
@@ -56,7 +56,7 @@ Vous pouvez trier les ressources recherchées par ordre croissant ou décroissan
 
 **Autorisations requises :**  `Can Edit`, `Owner` ou administrateur.
 
-Assets Essentials vous permet également d’ajouter des filtres personnalisés à l’interface utilisateur. Vous pouvez ensuite appliquer ces filtres personnalisés en plus des [filtres standard](#refine-search-results) pour affiner vos résultats de recherche.
+Les Assets Essentials vous permettent également d’ajouter des filtres personnalisés à l’interface utilisateur. Vous pouvez ensuite appliquer ces filtres personnalisés en plus des [filtres standard](#refine-search-results) pour affiner vos résultats de recherche.
 
 Assets Essentials fournit les filtres personnalisés suivants :
 
@@ -123,7 +123,7 @@ Pour supprimer des filtres personnalisés :
 
 ## Recherches enregistrées {#saved-search}
 
-La fonctionnalité de recherche est assez facile à utiliser dans [!DNL Assets Essentials]. Dans la zone de recherche, vous pouvez non seulement saisir un mot-clé et appuyer sur Entrée pour afficher les résultats, mais vous pouvez également rechercher rapidement vos mots-clés recherchés récemment en un seul clic.
+La fonctionnalité de recherche est assez facile à utiliser dans [!DNL Assets Essentials]. Dans la zone de recherche, vous pouvez non seulement saisir un mot-clé et appuyer sur Retour pour afficher les résultats, mais vous pouvez également rechercher rapidement vos mots-clés récemment recherchés en un seul clic.
 
 Vous pouvez également filtrer les résultats de la recherche en fonction de critères spécifiques relatifs aux métadonnées et au type de ressources. Pour les filtres fréquemment utilisés, [!DNL Assets Essentials] permet d’enregistrer les paramètres de recherche afin d’améliorer l’expérience de recherche. Vous pouvez ensuite sélectionner la recherche enregistrée pour l’utiliser et appliquer le filtre, en un seul clic.
 
@@ -169,6 +169,39 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 * **Afficher l’emplacement du fichier** : accédez à l’emplacement du dossier de ressources.
 
 * **Épingler à l’accès rapide**: [Épinglez une ressource](my-workspace.md) pour y accéder plus rapidement lorsque vous en aurez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail.
+
+## Configuration de la première page d’accueil de la recherche {#configuring-search-first-homepage}
+
+La première page d’accueil de la recherche vous permet de parcourir instantanément différents fichiers et dossiers. Il vous permet de parcourir facilement les types de ressources, les métadonnées, les balises intelligentes, et même le contenu sans connaître le mot-clé exact. [!DNL Assets Essentials] vous permet de configurer votre page d’accueil en contrôlant ce qui doit apparaître lorsque vous vous connectez à [!DNL Assets Essentials].
+
+Pour configurer la première page d’accueil de la recherche, procédez comme suit :
+
+1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
+1. Sélectionner **[!UICONTROL Recherche d’abord]**. Il ouvre ensuite la première configuration associée à la recherche. Vous pouvez définir [alignement](#setting-alignment-search-bar) ou [définir l’image d’arrière-plan et de logo ;](#setting-background-image-and-logo) de votre page d’accueil.
+
+### Alignement de la barre de recherche {#setting-alignment-search-bar}
+
+[!DNL Assets Essentials] permet de modifier l’alignement de la barre de recherche. Vous pouvez faire apparaître la barre de recherche au centre ou en haut. Sélectionnez l’alignement approprié et cliquez sur **[!UICONTROL Enregistrer]**.
+
+![Recherche de l’alignement de la première page d’accueil](assets/search-first-alignment.png)
+
+### Définition de l’image d’arrière-plan et du logo de la page d’accueil {#setting-background-image-and-logo}
+
+Vous pouvez ajouter le logo de la marque et l’image d’arrière-plan à la première page d’accueil de votre recherche. Procédez comme suit :
+
+1. Accédez à **[!UICONTROL Image d’arrière-plan et logo]** section sous **[!UICONTROL Page d’accueil]**.
+1. Cliquez sur **[!UICONTROL Remplacer]** pour parcourir les images du référentiel de ressources existant.
+1. Cliquez sur **[!UICONTROL Enregistrer]**. [Aperçu](#preview-configured-homepage) les modifications à apporter.
+
+### Aperçu de la page d’accueil configurée {#preview-configured-homepage}
+
+Vous pouvez prévisualiser pour vérifier la mise en page et le formatage de la première page d’accueil de la recherche. Utilisation **[!UICONTROL Aperçu]**, vous pouvez corriger la mise en page ou apporter des modifications en fonction des besoins. Pour prévisualiser la page d’accueil configurée, procédez comme suit :
+
+1. Cliquez sur **[!UICONTROL Paramètres généraux]** et sélectionnez **[!UICONTROL Recherche d’abord]**.
+1. Accédez à **[!UICONTROL Personnalisation de la première page d’accueil de la recherche]** et cliquez sur **[!UICONTROL Aperçu]**. Basculer **[!UICONTROL Thème sombre]** pour prévisualiser la page d’accueil sur un thème sombre ou clair.
+1. Cliquez sur **[!UICONTROL Fermer]** pour fermer l’écran de prévisualisation.
+
+   ![Recherche de l’aperçu de la première page d’accueil](assets/search-first-preview.gif)
 
 ## Étapes suivantes {#next-steps}
 
