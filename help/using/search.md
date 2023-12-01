@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
+source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 76%
+source-wordcount: '1295'
+ht-degree: 77%
 
 ---
 
@@ -172,7 +172,7 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 
 ## Configuration de la première page d’accueil de la recherche {#configuring-search-first-homepage}
 
-La première page d’accueil de la recherche vous permet de parcourir instantanément différents fichiers et dossiers. Il vous permet de parcourir facilement les types de ressources, les métadonnées, les balises intelligentes, et même le contenu sans connaître le mot-clé exact. [!DNL Assets Essentials] vous permet de configurer votre page d’accueil en contrôlant ce qui doit apparaître lorsque vous vous connectez à [!DNL Assets Essentials].
+Assets Essentials vous permet de sélectionner la page d’entrée par défaut de votre entreprise. Lors de l’utilisation de la fonction Rechercher d’abord comme page d’accueil, vous avez également la possibilité de personnaliser l’identité graphique de la page en configurant les images d’arrière-plan et de logo en fonction de votre marque.
 
 Pour configurer la première page d’accueil de la recherche, procédez comme suit :
 
@@ -191,7 +191,7 @@ Vous pouvez ajouter le logo de la marque et l’image d’arrière-plan à la pr
 
 1. Accédez à **[!UICONTROL Image d’arrière-plan et logo]** section sous **[!UICONTROL Page d’accueil]**.
 1. Cliquez sur **[!UICONTROL Remplacer]** pour parcourir les images du référentiel de ressources existant.
-1. Cliquez sur **[!UICONTROL Enregistrer]**. [Aperçu](#preview-configured-homepage) les modifications à apporter.
+1. Cliquez sur **[!UICONTROL Enregistrer]**. [Aperçu](#preview-configured-homepage) les modifications pour passer en revue les modifications.
 
 ### Aperçu de la page d’accueil configurée {#preview-configured-homepage}
 
