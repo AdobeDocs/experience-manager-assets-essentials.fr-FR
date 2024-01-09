@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 608cd11dbdee46606e898fe3c79ffbad0101cebc
+source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 69%
+source-wordcount: '1442'
+ht-degree: 67%
 
 ---
 
@@ -32,11 +32,16 @@ Pour rechercher des ressources,
 
 ## Recherche de ressources à l’aide d’Adobe Firefly
 
-Avec l’intégration de [!UICONTROL Adobe Firefly] et [!UICONTROL Adobe Experience Manager Assets], vous pouvez rechercher efficacement des ressources non disponibles dans l’un des dossiers de ressources. <br> Par exemple, vous pouvez rechercher une ressource à l’aide du mot-clé `Bugatti Type 57`. Lors de la recherche de `Bugatti Type 57`, aucun résultat n’est trouvé.
+Si vous recherchez une ressource non disponible dans l’un des dossiers de ressources, utilisez la variable [!UICONTROL Adobe Firefly] fonctionnalité de recherche de ressources dans [!UICONTROL Adobe Experience Manager Assets]. Cette fonctionnalité vous permet de rechercher efficacement des ressources qui ne sont peut-être pas stockées dans les dossiers désignés.  <br> Par exemple, vous pouvez rechercher une ressource à l’aide du mot-clé `Bugatti Type 57`. Lors de la recherche de `Bugatti Type 57`, aucun résultat n’est trouvé. <br>
+Dans la barre de recherche, saisissez le nom de la ressource, puis cliquez sur **[!UICONTROL Générer]**.
 
-Dans la barre de recherche, saisissez le nom de la ressource, puis cliquez sur **[!UICONTROL Générer]**. Les exemples de ressources s’affichent à l’écran. Vous pouvez charger ces ressources dans le dossier de votre choix pour un accès facile.
+![Intégration de Firefly](firefly-integration.jpg)
+*Figure : Aucun résultat trouvé pour le type Bugatti 57 dans le dossier de ressources.*
+
+Les exemples de ressources s’affichent à l’écran. Vous pouvez charger ces ressources dans le dossier de votre choix pour un accès facile.
 
 ![Intégration de Firefly](assets/bugatti-type-57.jpg)
+*Figure : Ressources de référence recherchées à l’aide de la fonctionnalité de recherche de ressources d’Adobe Firefly.*
 
 ## Filtrer les résultats de la recherche {#refine-search-results}
 

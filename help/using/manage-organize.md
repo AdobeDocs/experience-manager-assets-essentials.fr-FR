@@ -4,10 +4,10 @@ description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: e13e204482e480b3a66b48263e965787bd980842
+source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
 workflow-type: tm+mt
-source-wordcount: '1026'
-ht-degree: 100%
+source-wordcount: '1152'
+ht-degree: 90%
 
 ---
 
@@ -17,19 +17,43 @@ Vous pouvez effectuer facilement de nombreuses tâches de gestion des actifs num
 
 Utilisez [!DNL Assets Essentials] pour accomplir les tâches de gestion des actifs suivantes. Lorsque vous sélectionnez une ressource, les options suivantes s’affichent dans la barre d’outils supérieure.
 
-![Options de la barre d’outils lors de la sélection d’une ressource](assets/toolbar-image-selected.png)
+![Options de la barre d’outils lors de la sélection d’une ressource](assets/asset-options.png)
 
 *Image : options disponibles dans la barre d’outils lors de la sélection d’une image.*
 
+Vous pouvez sélectionner les ressources qui s’affichent dans les résultats de recherche et effectuer les opérations suivantes :
+
 * ![Icône Désélectionner](assets/do-not-localize/close-icon.png) Désélectionne la sélection.
+
+* ![icône de recherche similaire](assets/do-not-localize/find-similar.svg) Recherchez une ressource image similaire dans l’interface utilisateur Assets en fonction des métadonnées et des balises intelligentes.
+
 * ![Icône Détails](assets/do-not-localize/edit-in-icon.png) Cliquez pour prévisualiser une ressource et afficher le détail des métadonnées. Lors de la prévisualisation, vous pouvez afficher les versions et modifier une image.
+
 * ![Icône Télécharger](assets/do-not-localize/download-icon.png) Téléchargez la ressource sélectionnée vers votre système de fichiers local.
+
+* ![icône ajouter une collection](assets/do-not-localize/add-collection.svg) Ajoutez la ressource sélectionnée à une collection.
+
+* ![Icône Pincer les ressources](assets/do-not-localize/pin-quick-access.svg) Épinglez une ressource pour un accès plus rapide lorsque vous en avez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail.
+
+* ![modification dans l’icône express](assets/do-not-localize/edit-e.svg) Modifiez une image dans l’Adobe Express intégré d’Adobe Experience Manager Assets.
+
+* ![icône de modification de ressource](assets/do-not-localize/edit-e.svg) Modifiez l’image à l’aide de Adobe Express.
+
+* ![icône de lien de partage de ressource](assets/do-not-localize/share-link.svg) pour une ressource avec d’autres utilisateurs afin qu’ils puissent y accéder et la télécharger.
+
 * ![Icône Supprimer](assets/do-not-localize/delete-icon.png) Supprimez la ressource ou le dossier sélectionné.
-* ![Icône Extraire](assets/do-not-localize/checkout-icon.png) Extrayez la ressource sélectionnée.
+
 * ![Icône Copier](assets/do-not-localize/copy-icon.png) Copiez le fichier ou le dossier sélectionné.
+
 * ![Icône Déplacer](assets/do-not-localize/move-icon.png) Déplacez la ressource ou le dossier sélectionné vers un autre emplacement de la hiérarchie du référentiel.
+
 * ![Icône renommer](assets/do-not-localize/rename-icon.png) Renommez la ressource ou le dossier sélectionné. Utilisez un nom unique sans quoi le renommage pourrait échouer avec un avertissement. Vous pouvez réessayer avec un nouveau nom.
+
+* ![icône de copie de bibliothèque](assets/do-not-localize/copy-icon.png) Ajoutez une ressource à la bibliothèque.
+
 * ![Icône Affecter une tâche](assets/do-not-localize/review-delegate-icon.png) Affectez des tâches à d’autres utilisateurs afin de collaborer sur une ressource.
+
+* ![icône affecter une tâche](assets/do-not-localize/watch-asset.svg) Surveillez les opérations effectuées sur une ressource.
 
 Vous pouvez afficher les mêmes options sur les miniatures des ressources.
 
@@ -148,9 +172,3 @@ Pour ajouter un champ de métadonnées Date d’expiration au formulaire, faites
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
 * Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
-
-
-
-<!-- * ![find similar icon](assets/do-not-localize/find-similar-image-icon.svg) Find similar image asset in the Assets UI based on the metadata and smart tags.
-* ![Add to Collection]() Add the selected asset to a collection.
-* **Pin to Quick Access**: Pin an asset to quickly access the asset when you need it later. -->
