@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
+source-git-commit: 608cd11dbdee46606e898fe3c79ffbad0101cebc
 workflow-type: tm+mt
-source-wordcount: '1295'
-ht-degree: 77%
+source-wordcount: '1401'
+ht-degree: 69%
 
 ---
 
@@ -29,6 +29,14 @@ Pour rechercher des ressources,
    * Effectuez une recherche à l’aide d’un mot-clé ou vous pouvez changer de dossier. Appuyez sur Entrée.
 
    * Commencez à travailler avec une ressource récemment consultée en la recherchant directement. Cliquez dans la zone de recherche et sélectionnez une ressource récemment consultée parmi les suggestions.
+
+## Recherche de ressources à l’aide d’Adobe Firefly
+
+Avec l’intégration de [!UICONTROL Adobe Firefly] et [!UICONTROL Adobe Experience Manager Assets], vous pouvez rechercher efficacement des ressources non disponibles dans l’un des dossiers de ressources. <br> Par exemple, vous pouvez rechercher une ressource à l’aide du mot-clé `Bugatti Type 57`. Lors de la recherche de `Bugatti Type 57`, aucun résultat n’est trouvé.
+
+Dans la barre de recherche, saisissez le nom de la ressource, puis cliquez sur **[!UICONTROL Générer]**. Les exemples de ressources s’affichent à l’écran. Vous pouvez charger ces ressources dans le dossier de votre choix pour un accès facile.
+
+![Intégration de Firefly](assets/bugatti-type-57.jpg)
 
 ## Filtrer les résultats de la recherche {#refine-search-results}
 
@@ -146,11 +154,21 @@ When userA is searching and userB add an asset that matches search results, will
 
 Vous pouvez sélectionner les ressources qui s’affichent dans les résultats de recherche et effectuer les opérations suivantes :
 
+* **Rechercher une image similaire**: recherchez une ressource image similaire dans l’interface utilisateur Assets en fonction des métadonnées et des balises intelligentes.
+
 * **Détails** : affichez et modifiez les propriétés de la ressource.
+
+* **Télécharger** : téléchargez une ressource.
 
 * **Ajouter à la collection** : ajoutez la ressource sélectionnée à une collection.
 
-* **Télécharger** : téléchargez une ressource.
+* **Épingler à l’accès rapide**: [Épinglez une ressource](my-workspace.md) pour y accéder plus rapidement lorsque vous en aurez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail.
+
+* **Ouvrir dans Adobe Express**: modifiez une image dans l’Adobe Express intégré à partir de l’écran Adobe Experience Manager Assets.
+
+* **Modifier**: modifiez l’image à l’aide de Adobe Express.
+
+* **Partager le lien** : [partagez des liens](share-links-for-assets.md) d’une ressource avec d’autres personnes utilisatrices, afin qu’elles puissent y accéder et la télécharger.
 
 * **Supprimer** : supprimez une ressource.
 
@@ -160,15 +178,11 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 
 * **Renommer** : renommez une ressource.
 
+* **Copier vers les bibliothèques**: ajoutez une ressource à la bibliothèque.
+
 * **Affecter des tâches** : affectez des tâches aux utilisateurs et utilisatrices pour une ressource.
 
-* **Partager le lien** : [partagez des liens](share-links-for-assets.md) d’une ressource avec d’autres personnes utilisatrices, afin qu’elles puissent y accéder et la télécharger.
-
 * **Surveiller** : [surveillez les opérations](manage-notifications.md) effectuées sur une ressource.
-
-* **Afficher l’emplacement du fichier** : accédez à l’emplacement du dossier de ressources.
-
-* **Épingler à l’accès rapide**: [Épinglez une ressource](my-workspace.md) pour y accéder plus rapidement lorsque vous en aurez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail.
 
 ## Configuration de la première page d’accueil de la recherche {#configuring-search-first-homepage}
 

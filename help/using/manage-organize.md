@@ -4,9 +4,9 @@ description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: e13e204482e480b3a66b48263e965787bd980842
 workflow-type: tm+mt
-source-wordcount: '1036'
+source-wordcount: '1026'
 ht-degree: 100%
 
 ---
@@ -151,4 +151,6 @@ Pour ajouter un champ de métadonnées Date d’expiration au formulaire, faites
 
 
 
-
+<!-- * ![find similar icon](assets/do-not-localize/find-similar-image-icon.svg) Find similar image asset in the Assets UI based on the metadata and smart tags.
+* ![Add to Collection]() Add the selected asset to a collection.
+* **Pin to Quick Access**: Pin an asset to quickly access the asset when you need it later. -->
