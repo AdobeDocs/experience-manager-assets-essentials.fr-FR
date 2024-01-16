@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1152'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -23,23 +23,23 @@ Utilisez [!DNL Assets Essentials] pour accomplir les tâches de gestion des acti
 
 Vous pouvez sélectionner les ressources qui s’affichent dans les résultats de recherche et effectuer les opérations suivantes :
 
-* ![Icône Désélectionner](assets/do-not-localize/close-icon.png) Désélectionne la sélection.
+* ![deselect icon](assets/do-not-localize/close-icon.png) Désélectionnez la sélection.
 
-* ![icône de recherche similaire](assets/do-not-localize/find-similar.svg) Recherchez une ressource image similaire dans l’interface utilisateur Assets en fonction des métadonnées et des balises intelligentes.
+* ![find similar icon](assets/do-not-localize/find-similar.svg) Recherchez une ressource d’image similaire dans l’interface utilisateur Assets en fonction des métadonnées et des balises intelligentes.
 
 * ![Icône Détails](assets/do-not-localize/edit-in-icon.png) Cliquez pour prévisualiser une ressource et afficher le détail des métadonnées. Lors de la prévisualisation, vous pouvez afficher les versions et modifier une image.
 
 * ![Icône Télécharger](assets/do-not-localize/download-icon.png) Téléchargez la ressource sélectionnée vers votre système de fichiers local.
 
-* ![icône ajouter une collection](assets/do-not-localize/add-collection.svg) Ajoutez la ressource sélectionnée à une collection.
+* ![add collection icon](assets/do-not-localize/add-collection.svg) Ajoutez la ressource sélectionnée à une collection.
 
-* ![Icône Pincer les ressources](assets/do-not-localize/pin-quick-access.svg) Épinglez une ressource pour un accès plus rapide lorsque vous en avez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail.
+* ![Pin assets icon](assets/do-not-localize/pin-quick-access.svg) Épinglez une ressource pour y accéder plus rapidement lorsque vous en aurez besoin ultérieurement. Tous les éléments épinglés s’affichent dans la section **Accès rapide** de Mon espace de travail.
 
-* ![modification dans l’icône express](assets/do-not-localize/edit-e.svg) Modifiez une image dans l’Adobe Express intégré d’Adobe Experience Manager Assets.
+* ![edit in express icon](assets/do-not-localize/edit-e.svg) Modifiez une image dans Adobe Express intégré à Adobe Experience Manager Assets.
 
-* ![icône de modification de ressource](assets/do-not-localize/edit-e.svg) Modifiez l’image à l’aide de Adobe Express.
+* ![edit asset icon](assets/do-not-localize/edit-e.svg) Modifiez l’image à l’aide d’Adobe Express.
 
-* ![icône de lien de partage de ressource](assets/do-not-localize/share-link.svg) pour une ressource avec d’autres utilisateurs afin qu’ils puissent y accéder et la télécharger.
+* ![share asset link icon](assets/do-not-localize/share-link.svg) Partagez des liens d’une ressource avec d’autres personnes, afin qu’elles puissent y accéder et la télécharger.
 
 * ![Icône Supprimer](assets/do-not-localize/delete-icon.png) Supprimez la ressource ou le dossier sélectionné.
 
@@ -49,11 +49,11 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 
 * ![Icône renommer](assets/do-not-localize/rename-icon.png) Renommez la ressource ou le dossier sélectionné. Utilisez un nom unique sans quoi le renommage pourrait échouer avec un avertissement. Vous pouvez réessayer avec un nouveau nom.
 
-* ![icône de copie de bibliothèque](assets/do-not-localize/copy-icon.png) Ajoutez une ressource à la bibliothèque.
+* ![copy library icon](assets/do-not-localize/copy-icon.png) Ajoutez une ressource à la bibliothèque.
 
-* ![Icône Affecter une tâche](assets/do-not-localize/review-delegate-icon.png) Affectez des tâches à d’autres utilisateurs afin de collaborer sur une ressource.
+* ![assign task icon](assets/do-not-localize/review-delegate-icon.png) Affectez des tâches à d’autres utilisateurs et utilisatrices afin de collaborer sur une ressource.
 
-* ![icône affecter une tâche](assets/do-not-localize/watch-asset.svg) Surveillez les opérations effectuées sur une ressource.
+* ![watch-asset icon](assets/do-not-localize/watch-asset.svg) Surveillez les opérations effectuées sur une ressource.
 
 Vous pouvez afficher les mêmes options sur les miniatures des ressources.
 
