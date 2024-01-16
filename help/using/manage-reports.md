@@ -3,9 +3,9 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: b24113299b5f8d32b3c4aef453923b23dc775228
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '857'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ Les rapports de ressources offrent aux administrateurs une visibilité sur l’a
 
 Tous les utilisateurs et toutes les utilisatrices affectés au [profil de produit Administration d’Assets Essentials](deploy-administer.md) peuvent accéder au tableau de bord des insights ou créer des rapports définis par l’utilisateur dans Assets Essentials.
 
-Pour accéder aux rapports, accédez à **[!UICONTROL Rapports]** under **[!UICONTROL Paramètres]**.
+Pour accéder aux rapports, accédez à **[!UICONTROL Rapports]** sous **[!UICONTROL Paramètres]**.
 
-![Rapports](assets/reports.png)
+![Rapports.](assets/reports.png)
 <!--
 In the **[!UICONTROL Reports]** screen, various components are shown in the tabular format which includes the following:
 
@@ -44,7 +44,7 @@ Assets Essentials vous permet d’afficher des données en temps réel pour vot
 
 Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigation de gauche pour afficher les graphiques générés automatiquement suivants :
 
-![Insights](assets/insights.png)
+![Insights.](assets/insights.png)
 
 * **Téléchargements** : nombre de ressources téléchargées à partir de l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
 
@@ -52,7 +52,7 @@ Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigatio
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **Utilisation du stockage**: utilisation du stockage, en octets, pour l’environnement Assets Essentials représenté à l’aide d’un graphique à barres.
+* **Utilisation du stockage** : utilisation du stockage, en octets, pour l’environnement Assets Essentials, représentée à l’aide d’un graphique à barres.
 
 <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
