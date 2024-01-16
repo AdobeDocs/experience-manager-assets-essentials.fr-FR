@@ -5,13 +5,13 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: b14d8533854df448e2cb7b527ef5b7e69c072380
-workflow-type: tm+mt
-source-wordcount: '1664'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '1652'
+ht-degree: 100%
 
 ---
 
-# Métadonnées en Assets Essentials {#metadata}
+# Métadonnées dans Assets Essentials {#metadata}
 
 Les métadonnées sont constituées de données ou de descriptions de données. Par exemple, vos images en tant que ressource peuvent contenir des informations sur l’appareil photo qui a pris la photo ou des informations relatives aux droits d’auteur. Ces informations représentent les métadonnées de l’image. Les métadonnées sont essentielles pour gérer efficacement des ressources. Elles constituent un ensemble de toutes les données disponibles pour cette ressource mais sans être nécessairement contenues dans cette ressource.
 
@@ -134,21 +134,21 @@ Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mo
 | Mots-clés | Permettent d’ajouter des mots-clés de forme libre (mappés sur dc:subject). |
 | Balises intelligentes | Ajoutez ce composant pour augmenter les capacités de recherche en ajoutant automatiquement des balises de métadonnées. |
 
-### Affectation d’un formulaire de métadonnées à un dossier {#assign-metadata-form-folder}
+### Attribuer un formulaire de métadonnées à un dossier {#assign-metadata-form-folder}
 
-Vous pouvez également affecter un formulaire de métadonnées à un dossier dans le déploiement Assets Essentials. Le formulaire de métadonnées affecté à un dossier selon le type MIME est remplacé lorsque vous appliquez manuellement un formulaire de métadonnées à un dossier. Toutes les ressources du dossier, y compris les ressources des sous-dossiers, affichent ensuite les propriétés définies dans le formulaire de métadonnées.
+Vous pouvez également attribuer un formulaire de métadonnées à un dossier dans votre déploiement Assets Essentials. Le formulaire de métadonnées attribué à un dossier selon le type MIME est remplacé lorsque vous appliquez manuellement un formulaire de métadonnées à un dossier. Toutes les ressources du dossier, y compris les ressources des sous-dossiers, affichent ensuite les propriétés définies dans le formulaire de métadonnées.
 
-Pour attribuer un formulaire de métadonnées à un dossier :
+Pour attribuer un formulaire de métadonnées à un dossier :
 
-1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Forms des métadonnées]** et sélectionnez un formulaire de métadonnées.
+1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Formulaires de métadonnées]** et sélectionnez un formulaire de métadonnées.
 
 2. Cliquez sur **[!UICONTROL Attribuer au dossier]**.
 
 3. Sélectionnez le dossier et cliquez sur **[!UICONTROL Attribuer]**.
 
-   ![affecter un formulaire de métadonnées à un dossier](/help/using/assets/assign-to-folder.png)
+   ![attribuer un formulaire de métadonnées à un dossier](/help/using/assets/assign-to-folder.png)
 
-   Vous pouvez également accéder à la page des détails du dossier et sélectionner un formulaire de métadonnées dans les propriétés du dossier disponibles dans le volet de droite pour affecter le formulaire de métadonnées au dossier.
+   Vous pouvez également accéder à la page des détails du dossier et sélectionner un formulaire de métadonnées dans les propriétés du dossier disponibles dans le volet de droite pour attribuer le formulaire de métadonnées au dossier.
 
 ## Étapes suivantes {#next-steps}
 
