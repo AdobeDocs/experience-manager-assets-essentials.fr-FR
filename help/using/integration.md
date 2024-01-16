@@ -4,9 +4,9 @@ description: « [!DNL Assets Essentials] s’intègre à d’autres solutions A
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
-workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 82%
+workflow-type: ht
+source-wordcount: '385'
+ht-degree: 100%
 
 ---
 
@@ -26,11 +26,11 @@ L’expérience [!DNL Assets Essentials] incorporée peut s’intégrer aux solu
 
   [Regardez une vidéo pour configurer l’intégration d’Adobe Workfront et d’Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=fr).
 
-## Intégration à la création basée sur des documents pour les Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
+## Intégration à la création basée sur des documents pour les Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
 
-Edge Delivery vous permet de créer des sites web rapides et attrayants où les auteurs peuvent rapidement mettre à jour et publier du contenu, et où de nouveaux sites peuvent être lancés rapidement.
+Edge Delivery permet de créer rapidement des sites web dans lesquels les auteurs et autrices peuvent rapidement mettre à jour et publier du contenu, afin de lancer rapidement de nouveaux sites.
 
-Intégrez AEM Assets à la création basée sur des documents pour que les Edge Delivery Services puissent permettre aux créateurs de sites web d’utiliser les images disponibles dans les référentiels AEM Assets lors de la création de documents dans Microsoft Word ou Google Docs. Pour plus d’informations, voir [Intégration d’AEM Assets à la création basée sur des documents](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
+Intégrez AEM Assets à la création basée sur des documents pour que les Edge Delivery Services puissent permettre aux créateurs et créatrices de sites web d’utiliser les images disponibles dans les référentiels AEM Assets lors de la création de documents dans Microsoft Word ou Google Docs. Pour plus d’informations, voir [Intégrer AEM Assets à la création basée sur des documents](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html?lang=fr#integrate-assets-edge).
 
 ## Étapes suivantes {#next-steps}
 
