@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
 workflow-type: tm+mt
 source-wordcount: '2666'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
@@ -15,41 +15,41 @@ ht-degree: 86%
 
 La version actuelle d’Assets Essentials a été publiée le vendredi 11 janvier 2024.
 
-Voici quelques-unes des fonctions récemment ajoutées :
+Voici quelques-unes des fonctions récemment ajoutées :
 
 **Liste bloquée des balises intelligentes**
 
 Assets Essentials vous permet désormais de définir une liste bloquée qui comprend des mots qui ne doivent pas être ajoutés en tant que balises intelligentes aux ressources lorsqu’ils sont chargés dans le référentiel. Cette fonctionnalité vous aide à maintenir la conformité de la marque et réduit les efforts de modération des balises intelligentes.
 
-![informations sur l’utilisation du stockage](/help/using/assets/block-tags.png)
+![Insights sur l’utilisation du stockage.](/help/using/assets/block-tags.png)
 
-**Création d’images GenAI avec Adobe Firefly**
+**Créer des images GenAI avec Adobe Firefly**
 
-Créez de nouvelles images à partir de requêtes de recherche avec une intégration de la fonctionnalité Adobe Firefly texte/image (nécessite une licence d’Adobe Firefly).
+Créez des images à partir de requêtes de recherche avec une intégration de la fonctionnalité « du texte à l’image » d’Adobe Firefly (nécessite une licence Adobe Firefly).
 
-![Intégration de Assets Firefly](/help/using/assets/assets-firefly-integration.png)
+![Intégration des ressources Firefly](/help/using/assets/assets-firefly-integration.png)
 
 **Rechercher des images similaires**
 
-Vous pouvez désormais facilement trouver du contenu en sélectionnant une image et en affichant des images similaires dans le référentiel Experience Manager Assets.
+Vous pouvez désormais facilement rechercher du contenu en sélectionnant une image et en affichant des images similaires dans le référentiel Experience Manager Assets.
 
-**Éditeur d’Adobe Express intégré dans AEM Assets**
+**Éditeur d’Adobe Express intégré à AEM Assets**
 
-Les utilisateurs ayant accès à Express disposent désormais d’outils intégrés d’édition et de création d’images d’Adobe Express et d’Adobe Firefly disponibles directement dans AEM Assets afin d’améliorer la réutilisation du contenu et d’accélérer la vitesse du contenu.
+Les personnes ayant accès à Express disposent désormais d’outils intégrés d’édition et de création d’images Adobe Express et Adobe Firefly disponibles directement dans AEM Assets, permettant d’améliorer la réutilisation du contenu et d’accélérer sa vitesse.
 
-![affecter un formulaire de métadonnées à un dossier](/help/using/assets/adobe-express-aem-assets.png)
+![Attribution d’un formulaire de métadonnées à un dossier.](/help/using/assets/adobe-express-aem-assets.png)
 
-**Rapports sur l’utilisation du stockage dans Insights**:
+**Rapports sur l’utilisation du stockage dans Insights** :
 
-Les administrateurs ont désormais la possibilité d’afficher les rapports sur l’utilisation du stockage disponibles dans le cadre d’ Insights .
+Les administrateurs et administratrices ont désormais la possibilité d’afficher les rapports sur l’utilisation du stockage disponibles dans le cadre d’Insights.
 
-![informations sur l’utilisation du stockage](/help/using/assets/storage-usage-insights.png)
+![Insights sur l’utilisation du stockage.](/help/using/assets/storage-usage-insights.png)
 
-**Recherche de la première configuration de page d’accueil**
+**Configuration de la page d’accueil axée sur la recherche**
 
-Assets Essentials vous permet désormais de configurer l’expérience de la page d’accueil pour votre entreprise. Si vous sélectionnez d’abord la recherche comme page d’accueil, vous pouvez configurer l’alignement de la barre de recherche, l’image d’arrière-plan et le logo de votre entreprise.
+Assets Essentials vous permet désormais de configurer l’expérience de la page d’accueil de votre organisation. Si vous sélectionnez l’approche axée sur la recherche pour votre page d’accueil, vous pouvez configurer l’alignement de la barre de recherche, l’image d’arrière-plan et le logo de votre organisation.
 
-![première configuration de recherche](/help/using/assets/search-first-configuration.png)
+![Configuration de l’approche axée sur la recherche.](/help/using/assets/search-first-configuration.png)
 
 
 
@@ -79,23 +79,23 @@ Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélio
 
 ### Version d’octobre 2023 {#october2023-release}
 
-**Importation en masse de ressources à partir de la source de données OneDrive**
+**Importer des ressources en bloc à partir d’une source de données OneDrive**
 
-Les administrateurs peuvent désormais [importer un grand nombre de ressources de OneDrive vers AEM Assets ;](/help/using/bulk-import-assets-view.md). La liste mise à jour des sources de données prises en charge pour l’importation en bloc comprend Azure, AWS, Google Cloud, Dropbox et OneDrive.
+Les administrateurs et administratrices peuvent désormais [importer un grand nombre de ressources depuis une source de données vers AEM Assets](/help/using/bulk-import-assets-view.md). La liste mise à jour des sources de données prises en charge pour l’import en bloc comprend Azure, AWS, Google Cloud, Dropbox et OneDrive.
 
-![affecter un formulaire de métadonnées à un dossier](/help/using/assets/bulk-import-source-details.png)
+![Attribution d’un formulaire de métadonnées à un dossier.](/help/using/assets/bulk-import-source-details.png)
 
 **Prise en charge des droits inter-organisations pour les bibliothèques**
 
-Experience Manager Assets vous permet désormais de configurer l’accès aux bibliothèques de Creative Cloud dans une autre organisation IMS. Cela permet d’accéder plus facilement aux derniers workflows inter-produits entre Creative Cloud et Experience Manager et réduit le temps et les efforts pour les créatifs.
+Experience Manager Assets vous permet désormais de configurer l’accès aux bibliothèques Creative Cloud dans une autre organisation IMS. Cela permet d’accéder plus facilement aux derniers workflows inter-produits entre Creative Cloud et Experience Manager et réduit le temps et les efforts pour les personnes responsables de la création.
 
 ### Version de septembre 2023 {#september2023-release}
 
-**Affectation d’un formulaire de métadonnées à un dossier**
+**Attribuer un formulaire de métadonnées à un dossier**
 
-Vous pouvez désormais affecter un formulaire de métadonnées à un dossier spécifique dans le déploiement Assets Essentials. Toutes les ressources du dossier, y compris les ressources des sous-dossiers, affichent ensuite les propriétés définies dans le formulaire de métadonnées affecté.
+Vous pouvez désormais attribuer un formulaire de métadonnées à un dossier spécifique dans votre déploiement d’Assets Essentials. Toutes les ressources du dossier, y compris les ressources des sous-dossiers, affichent les propriétés définies dans le formulaire de métadonnées attribué.
 
-![affecter un formulaire de métadonnées à un dossier](/help/using/assets/assign-to-folder.png)
+![Attribution d’un formulaire de métadonnées à un dossier.](/help/using/assets/assign-to-folder.png)
 
 **Importer des ressources en bloc à partir de sources de données**
 

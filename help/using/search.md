@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
 workflow-type: tm+mt
 source-wordcount: '1524'
-ht-degree: 64%
+ht-degree: 85%
 
 ---
 
@@ -56,7 +56,7 @@ Vous pouvez trier les ressources recherchées par ordre croissant ou décroissan
 
 **Autorisations requises :**  `Can Edit`, `Owner` ou administrateur.
 
-Les Assets Essentials vous permettent également d’ajouter des filtres personnalisés à l’interface utilisateur. Vous pouvez ensuite appliquer ces filtres personnalisés en plus des [filtres standard](#refine-search-results) pour affiner vos résultats de recherche.
+Assets Essentials vous permet également d’ajouter des filtres personnalisés à l’interface utilisateur. Vous pouvez ensuite appliquer ces filtres personnalisés en plus des [filtres standard](#refine-search-results) pour affiner vos résultats de recherche.
 
 Assets Essentials fournit les filtres personnalisés suivants :
 
@@ -154,7 +154,7 @@ Pour charger la ressource générée dans le référentiel de ressources :
 
 ## Recherches enregistrées {#saved-search}
 
-La fonctionnalité de recherche est assez facile à utiliser dans [!DNL Assets Essentials]. Dans la zone de recherche, vous pouvez non seulement saisir un mot-clé et appuyer sur Retour pour afficher les résultats, mais vous pouvez également rechercher rapidement vos mots-clés récemment recherchés en un seul clic.
+La fonctionnalité de recherche est assez facile à utiliser dans [!DNL Assets Essentials]. Dans la zone de recherche, vous pouvez non seulement saisir un mot-clé et appuyer sur Entrée pour afficher les résultats, mais également retrouver rapidement vos mots-clés recherchés récemment en un seul clic.
 
 Vous pouvez également filtrer les résultats de la recherche en fonction de critères spécifiques relatifs aux métadonnées et au type de ressources. Pour les filtres fréquemment utilisés, [!DNL Assets Essentials] permet d’enregistrer les paramètres de recherche afin d’améliorer l’expérience de recherche. Vous pouvez ensuite sélectionner la recherche enregistrée pour l’utiliser et appliquer le filtre, en un seul clic.
 
@@ -177,7 +177,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 Vous pouvez sélectionner les ressources qui s’affichent dans les résultats de recherche et effectuer les opérations suivantes :
 
-* **Rechercher une image similaire**: recherchez une ressource image similaire dans l’interface utilisateur Assets en fonction des métadonnées et des balises intelligentes.
+* **Rechercher une image similaire** : recherchez une ressource d’image similaire dans l’interface utilisateur d’Assets en fonction des métadonnées et des balises intelligentes.
 
 * **Détails** : affichez et modifiez les propriétés de la ressource.
 
@@ -189,9 +189,9 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 
 * **Ouvrir dans Adobe Express**: modifiez une image dans l’Adobe Express intégré à partir de l’écran Experience Manager Assets.
 
-* **Modifier**: modifiez l’image à l’aide de Adobe Express.
+* **Modifier** : modifiez l’image à l’aide d’Adobe Express.
 
-* **Partager le lien** : [partagez des liens](share-links-for-assets.md) d’une ressource avec d’autres personnes utilisatrices, afin qu’elles puissent y accéder et la télécharger.
+* **Partager le lien** : [partagez des liens](share-links-for-assets.md) d’une ressource avec d’autres personnes, afin qu’elles puissent y accéder et la télécharger.
 
 * **Supprimer** : supprimez une ressource.
 
@@ -201,44 +201,44 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 
 * **Renommer** : renommez une ressource.
 
-* **Copier vers les bibliothèques**: ajoutez une ressource à la bibliothèque.
+* **Copier vers les bibliothèques** : ajoutez une ressource à la bibliothèque.
 
 * **Affecter des tâches** : affectez des tâches aux utilisateurs et utilisatrices pour une ressource.
 
 * **Surveiller** : [surveillez les opérations](manage-notifications.md) effectuées sur une ressource.
 
-## Configuration de la première page d’accueil de la recherche {#configuring-search-first-homepage}
+## Configurer la page d’accueil axée sur la recherche {#configuring-search-first-homepage}
 
-Assets Essentials vous permet de sélectionner la page d’entrée par défaut de votre entreprise. Lors de l’utilisation de la fonction Rechercher d’abord comme page d’accueil, vous avez également la possibilité de personnaliser l’identité graphique de la page en configurant les images d’arrière-plan et de logo en fonction de votre marque.
+Assets Essentials vous permet de sélectionner la page de destination par défaut de votre organisation. Lorsque vous utilisez l’approche axée sur la recherche pour votre page d’accueil, vous disposez également d’options pour personnaliser l’image de marque de la page en configurant les images d’arrière-plan et du logo en fonction de votre marque.
 
-Pour configurer la première page d’accueil de la recherche, procédez comme suit :
+Pour configurer la page d’accueil axée sur la recherche, exécutez les étapes ci-dessous :
 
-1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
-1. Sélectionner **[!UICONTROL Recherche d’abord]**. Il ouvre ensuite la première configuration associée à la recherche. Vous pouvez définir [alignement](#setting-alignment-search-bar) ou [définir l’image d’arrière-plan et de logo ;](#setting-background-image-and-logo) de votre page d’accueil.
+1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
+1. Sélectionnez **[!UICONTROL Approche axée sur la recherche]**. La configuration de l’approche axée sur la recherche s’ouvre. Vous pouvez définir l’[alignement](#setting-alignment-search-bar) ou l’[image de l’arrière-plan et du logo](#setting-background-image-and-logo) de votre page d’accueil.
 
-### Alignement de la barre de recherche {#setting-alignment-search-bar}
+### Définir l’alignement de la barre de recherche {#setting-alignment-search-bar}
 
-[!DNL Assets Essentials] permet de modifier l’alignement de la barre de recherche. Vous pouvez faire apparaître la barre de recherche au centre ou en haut. Sélectionnez l’alignement approprié et cliquez sur **[!UICONTROL Enregistrer]**.
+[!DNL Assets Essentials] vous permet de modifier l’alignement de la barre de recherche. Vous pouvez afficher la barre de recherche soit au centre, soit en haut. Sélectionnez l’alignement approprié et cliquez sur **[!UICONTROL Sauvegarder]**.
 
-![Recherche de l’alignement de la première page d’accueil](assets/search-first-alignment.png)
+![Alignement de la page d’accueil axée sur la recherche.](assets/search-first-alignment.png)
 
-### Définition de l’image d’arrière-plan et du logo de la page d’accueil {#setting-background-image-and-logo}
+### Définir l’image d’arrière-plan et le logo de la page d’accueil {#setting-background-image-and-logo}
 
-Vous pouvez ajouter le logo de la marque et l’image d’arrière-plan à la première page d’accueil de votre recherche. Procédez comme suit :
+Vous pouvez ajouter le logo de votre marque et une image d’arrière-plan à votre page d’accueil axée sur la recherche. Procédez comme suit :
 
-1. Accédez à **[!UICONTROL Image d’arrière-plan et logo]** section sous **[!UICONTROL Page d’accueil]**.
-1. Cliquez sur **[!UICONTROL Remplacer]** pour parcourir les images du référentiel de ressources existant.
-1. Cliquez sur **[!UICONTROL Enregistrer]**. [Aperçu](#preview-configured-homepage) les modifications pour passer en revue les modifications.
+1. Accédez à la section **[!UICONTROL Image d’arrière-plan et de logo]** sous **[!UICONTROL Page d’accueil]**.
+1. Cliquez sur **[!UICONTROL Remplacer]** pour parcourir les images du référentiel de ressources.
+1. Cliquez sur **[!UICONTROL Enregistrer]**. [Prévisualisez](#preview-configured-homepage) vos modifications.
 
-### Aperçu de la page d’accueil configurée {#preview-configured-homepage}
+### Prévisualiser la page d’accueil configurée {#preview-configured-homepage}
 
-Vous pouvez prévisualiser pour vérifier la mise en page et le formatage de la première page d’accueil de la recherche. Utilisation **[!UICONTROL Aperçu]**, vous pouvez corriger la mise en page ou apporter des modifications en fonction des besoins. Pour prévisualiser la page d’accueil configurée, procédez comme suit :
+Vous pouvez prévisualiser votre page d’accueil axée sur la recherche afin d’en vérifier la disposition et le formatage. La fonction d’**[!UICONTROL Aperçu]** permet de corriger la mise en page ou d’apporter des modifications selon les besoins. Pour prévisualiser la page d’accueil configurée, exécutez les étapes ci-dessous :
 
-1. Cliquez sur **[!UICONTROL Paramètres généraux]** et sélectionnez **[!UICONTROL Recherche d’abord]**.
-1. Accédez à **[!UICONTROL Personnalisation de la première page d’accueil de la recherche]** et cliquez sur **[!UICONTROL Aperçu]**. Basculer **[!UICONTROL Thème sombre]** pour prévisualiser la page d’accueil sur un thème sombre ou clair.
-1. Cliquez sur **[!UICONTROL Fermer]** pour fermer l’écran de prévisualisation.
+1. Cliquez sur **[!UICONTROL Paramètres généraux]** et sélectionnez **[!UICONTROL Approche axée sur la recherche]**.
+1. Accédez à **[!UICONTROL Personnaliser la page d’accueil axée sur la recherche]** et cliquez sur **[!UICONTROL Aperçu]**. Activez le bouton **[!UICONTROL Thème sombre]** pour prévisualiser la page d’accueil avec un thème sombre ou clair.
+1. Cliquez sur **[!UICONTROL Fermer]** pour quitter l’écran d’aperçu.
 
-   ![Recherche de l’aperçu de la première page d’accueil](assets/search-first-preview.gif)
+   ![Aperçu de la page d’accueil axée sur la recherche.](assets/search-first-preview.gif)
 
 ## Étapes suivantes {#next-steps}
 
