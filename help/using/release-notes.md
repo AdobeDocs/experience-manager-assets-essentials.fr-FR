@@ -5,23 +5,23 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2666'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials a été publiée le vendredi 11 janvier 2024.
+La version actuelle d’Assets Essentials a été publiée le 11 janvier 2024.
 
 Voici quelques-unes des fonctions récemment ajoutées :
 
 **Liste bloquée des balises intelligentes**
 
-Assets Essentials vous permet désormais de définir une liste bloquée qui comprend des mots qui ne doivent pas être ajoutés en tant que balises intelligentes aux ressources lorsqu’ils sont chargés dans le référentiel. Cette fonctionnalité vous aide à maintenir la conformité de la marque et réduit les efforts de modération des balises intelligentes.
+Assets Essentials vous permet désormais de définir une liste bloquée contenant des mots qui ne doivent pas être ajoutés en tant que balises intelligentes aux ressources chargées dans le référentiel. Cette fonctionnalité vous aide à maintenir la conformité de la marque et réduit les efforts de modération des balises intelligentes.
 
-![Insights sur l’utilisation du stockage.](/help/using/assets/block-tags.png)
+![Informations sur l’utilisation du stockage](/help/using/assets/block-tags.png)
 
 **Créer des images GenAI avec Adobe Firefly**
 
