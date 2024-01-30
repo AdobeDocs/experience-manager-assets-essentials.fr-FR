@@ -2,10 +2,10 @@
 title: Gestion des balises dans Assets Essentials
 description: Découvrez comment gérer les balises dans Assets Essentials. Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces.
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
-source-git-commit: 74f78f0675e01c09a8654d7f7d0db14a0ee674a2
-workflow-type: ht
-source-wordcount: '1284'
-ht-degree: 100%
+source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
+workflow-type: tm+mt
+source-wordcount: '1748'
+ht-degree: 65%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces. Le balisage permet de propager la taxonomie appropriée à d’autres utilisateurs et utilisatrices et workflows.
 
-Les listes plates de vocabulaires contrôlés peuvent devenir ingérables au fil du temps. Les administrateurs et administratrices ont la possibilité d’utiliser la structure de balisage hiérarchique, qui facilite l’application des métadonnées pertinentes, la classification des ressources, la prise en charge de la recherche, la réutilisation des balises, l’amélioration de la visibilité, etc.
+Les listes plates de vocabulaires contrôlés peuvent devenir ingérables au fil du temps. Les administrateurs peuvent utiliser la structure hiérarchique du balisage, qui facilite l’application des métadonnées pertinentes, la classification des ressources, la prise en charge de la recherche, la réutilisation des balises, l’amélioration de la visibilité, etc.
 
 Vous pouvez créer un espace de noms au niveau racine et créer une structure hiérarchique de sous-balises dans l’espace de noms. Par exemple, vous pouvez créer un espace de noms `Activities` au niveau racine et placer les balises `Cycling`, `Hiking` et `Running` dans l’espace de noms. Vous pouvez placer d’autres sous-balises `Clothing` et `Shoes` dans `Running`.
 
@@ -29,11 +29,11 @@ Le balisage offre de nombreux avantages :
 
 * Le balisage permet aux auteurs et aux autrices d’organiser facilement des ressources dissemblables par le biais d’une taxonomie commune. Les auteurs et autrices peuvent rapidement rechercher et organiser des ressources par des balises communes.
 
-* Les balises hiérarchiques sont extrêmement flexibles et constituent un excellent moyen d’organiser les termes de manière logique. Grâce aux espaces de noms, balises et sous-balises, des systèmes taxonomiques complets peuvent être représentés.
+* Les balises hiérarchiques sont flexibles et constituent un excellent moyen d’organiser les termes de manière logique. Grâce aux espaces de noms, balises et sous-balises, des systèmes taxonomiques complets peuvent être représentés.
 
 * Les balises peuvent évoluer au fil du temps à mesure qu’un vocabulaire organisationnel change.
 
-* Les balises gérées dans Assets as a Cloud Service restent synchronisées avec les balises gérées dans Assets Essentials, ce qui garantit la gouvernance et l’intégrité des métadonnées.
+* Les balises gérées dans Assets as a Cloud Service restent synchronisées avec les balises gérées dans Assets Essentials, ce qui garantit la gouvernance et l’intégrité des métadonnées.
 
 Pour pouvoir appliquer des balises à des ressources, vous devez d’abord créer un espace de noms, puis créer et ajouter des balises. Vous pouvez également créer des balises et les ajouter à un espace de noms existant. Toutes les balises que vous créez au niveau racine sont automatiquement ajoutées à l’espace de noms des balises standard. Vous pouvez ensuite ajouter le champ Balises au formulaire de métadonnées afin qu’il s’affiche sur la page Détails de la ressource. Après avoir configuré ces paramètres, vous pouvez commencer à appliquer des balises aux ressources.
 
@@ -45,7 +45,7 @@ Pour pouvoir appliquer des balises à des ressources, vous devez d’abord crée
 
 D’autres fonctionnalités non mentionnées dans cet article, dont la fusion, le changement de nom, la localisation et la publication de balises, sont disponibles dans Assets as a Cloud Service.
 
-## Créer un espace de noms {#creating-a-namespace}
+## Création d’un espace de noms {#create-a-namespace}
 
 Un espace de noms est un conteneur de balises qui ne peut exister qu’au niveau racine. Vous pouvez commencer à configurer la structure hiérarchique des balises en définissant d’abord un nom logique pour l’espace de noms. Si vous n’ajoutez pas de balise aux espaces de noms existants, la balise passe automatiquement aux balises standard.
 
@@ -57,19 +57,13 @@ Pour créer un espace de noms, procédez comme suit :
 
    ![Gestion du balisage](assets/tags-hierarchy.png)
 
-   <!--
-    >[!NOTE]
-    >You can use `Name` as a primary key if you are using any other metadata management tool is the source of truth for taxonomy values, you can use the name as a primary key.
-    >
-    -->
-
 1. Cliquez sur `Save`.
 
-## Ajouter des balises à un espace de noms {#adding-tags-to-namespace}
+## Ajout de balises à un espace de noms {#add-tags-to-namespace}
 
 Pour ajouter des balises à un espace de noms, procédez comme suit :
 
-1. Accédez à `Taxonomy Management`.
+1. Accédez à **[!UICONTROL Gestion de la taxonomie]**.
 1. Sélectionnez l’espace de noms et cliquez sur `Create` pour créer la balise au niveau supérieur sous l’espace de noms. Si vous devez créer une sous-balise sous une balise qui existe dans un espace de noms, sélectionnez la balise, puis cliquez sur `Create`.
    ![Hiérarchie des balises](assets/hierarchy-of-tags.png)
 
@@ -83,7 +77,7 @@ Pour ajouter des balises à un espace de noms, procédez comme suit :
    >* Par défaut, l’outil copie le texte saisi dans le champ Titre, supprime les espaces vides ou les caractères spéciaux (. &amp; / \ : * ? [ ] | &quot; %) et le stocke en tant que nom.
    >* Vous pouvez mettre à jour le champ `Title` plus tard, mais le champ `Name` est en lecture seule.
 
-## Ajouter des balises aux balises standard {#adding-tags-to-standard-tags}
+## Ajout de balises à des balises standard {#add-tags-to-standard-tags}
 
 Les balises non structurées ou qui n’ont pas de hiérarchie sont stockées dans l’espace de noms `Standard Tags`. De plus, lorsque vous souhaitez ajouter des termes descriptifs supplémentaires sans affecter la taxonomie régie, vous pouvez stocker cette valeur sous `Standard Tags`. Vous pouvez déplacer ces valeurs dans des espaces de noms structurés au fil du temps. De plus, vous pouvez utiliser l’espace de noms `Standard Tags` comme entrée de formulaire libre pour les mots-clés.
 
@@ -95,7 +89,7 @@ Pour créer une balise standard, cliquez sur `Create Tag` au niveau racine. Indi
 >
 >Si vous supprimez l’espace de noms `Standard Tags` à l’aide d’Assets as a Cloud Service, les balises créées au niveau racine ne s’affichent pas dans la liste des balises disponibles.
 
-## Déplacement des balises {#moving-tags}
+## Déplacer des balises {#move-tags}
 
 Si vous stockez vos balises sous une hiérarchie incorrecte ou si votre taxonomie change au fil du temps, vous pouvez déplacer les balises sélectionnées pour préserver l’intégrité des données. Les conditions suivantes doivent être prises en compte lors du déplacement des balises :
 
@@ -109,7 +103,7 @@ Effectuez les étapes suivantes pour déplacer des balises d’un emplacement à
 1. Dans la boîte de dialogue Déplacer, sélectionnez la nouvelle balise de destination ou le nouvel espace de noms à l’aide de la section `Select Tag`.
 1. Cliquez sur `Save`. La balise s’affiche à son nouvel emplacement.
 
-## Modification des balises {#editing-tags}
+## Modifier les balises {#edit-tags}
 
 Pour modifier le titre de la balise, sélectionnez cette dernière, puis cliquez sur `Edit`. Indiquez le nouveau titre, puis cliquez sur `Save`.
 
@@ -118,7 +112,7 @@ Pour modifier le titre de la balise, sélectionnez cette dernière, puis cliquez
 >* Le `Name` d’une balise ne peut pas être mis à jour. Le chemin d’accès racine d’une balise est également basé sur le nom de la balise. Le chemin d’accès reste le même, même si vous mettez à jour le champ `Title`.
 >* D’autres opérations telles que la fusion, la localisation et la publication, sont disponibles dans Assets as a Cloud Service.
 
-## Suppression des balises {#deleting-tags}
+## Supprimer des balises {#delete-tags}
 
 Vous pouvez supprimer plusieurs espaces de noms ou balises simultanément. L’opération de suppression ne peut pas être annulée.
 
@@ -133,16 +127,16 @@ Pour supprimer des balises, procédez comme suit :
 >* La suppression d’une balise supprime également toutes ses références des ressources.
 >* Vous ne pouvez pas supprimer les balises standard qui existent au niveau racine.
 
-## Ajout du composant Balises au formulaire de métadonnées {#adding-tags-to-metadata-form}
+## Ajout du composant Balises au formulaire de métadonnées {#add-tags-to-metadata-form}
 
-Le composant Balises est ajouté automatiquement au formulaire de métadonnées `default`. Vous pouvez concevoir un [formulaire de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=fr#metadata-forms) soit en utilisant un modèle, soit à partir de zéro. Si vous n’utilisez pas de modèle de formulaire de métadonnées existant, vous pouvez modifier votre formulaire de métadonnées et ajouter le composant Balises. Le mappage des propriétés de métadonnées est renseigné automatiquement et ne peut pas être modifié pour le moment. Les personnes utilisant Assets as a Cloud Service peuvent mettre à jour le mappage pour stocker les valeurs de balise à l’aide d’espaces de noms personnalisés et n’exposer que les sous-ensembles de hiérarchies à l’aide des chemins d’accès racine.
+Le composant Balises est ajouté automatiquement au formulaire de métadonnées `default`. Vous pouvez concevoir un [formulaire de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=fr#metadata-forms) soit en utilisant un modèle, soit à partir de zéro. Si vous n’utilisez pas de modèle de formulaire de métadonnées existant, vous pouvez modifier votre formulaire de métadonnées et ajouter le composant Balises. Le mappage des propriétés de métadonnées est renseigné automatiquement et ne peut pas être modifié pour le moment. [!DNL Assets as a Cloud Service] les utilisateurs peuvent mettre à jour le mappage pour stocker les valeurs de balise à l’aide d’espaces de noms personnalisés et n’exposer que les sous-ensembles de hiérarchies à l’aide de chemins d’accès racine.
 
 Regardez cette vidéo rapide pour découvrir comment ajouter le composant Balises à votre formulaire de métadonnées :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420452)
 
 
-### Ajout de balises aux ressources {#adding-tags-to-assets}
+### Ajout de balises à Assets {#add-tags-to-assets}
 
 1. Accédez à la page Détails de la ressource, puis à la section `Tags` du formulaire de métadonnées.
 1. Sélectionnez l’icône du sélecteur de balises située en regard du champ Balises ou commencez à saisir un nom de balise pour afficher les résultats suggérés.
@@ -151,3 +145,63 @@ Regardez cette vidéo rapide pour découvrir comment ajouter le composant Balise
 
 1. Sélectionnez une ou plusieurs balises. La sous-balise est sélectionnée automatiquement avec la balise ou l’espace de noms parent.
 Les balises modifiées dans Assets Essentials sont également appliquées dans Assets as a Cloud Service.
+
+## Ajout de balises à la liste bloquée {#blocklist-essentials}
+
+[!DNL Assets Essentials] vous permet de configurer une liste bloquée qui inclut des mots qui ne doivent pas être ajoutés en tant que balises intelligentes aux ressources lorsqu’ils sont chargés dans le référentiel. Cette fonctionnalité vous aide à maintenir la conformité de la marque et réduit les efforts de modération des balises intelligentes.
+
+<!--
+### Block smart tags for single asset {#block-smart-tags-for-single-asset}
+![block smart tags](assets/block-smart-tags.png)
+-->
+
+### Balises intelligentes pour tous les actifs {#block-smart-tags-for-all-assets}
+
+[!DNL Assets Essentials] permet à un administrateur de bloquer les balises intelligentes pour les ressources existantes et nouvellement ajoutées. Pour bloquer des balises, procédez comme suit :
+
+1. Accédez à **[!UICONTROL Balises bloquées]** under **[!UICONTROL Paramètres]**.
+1. Cliquez sur **[!UICONTROL Ajout d’une balise bloquée]**.
+1. Saisissez les balises dans la zone de texte à bloquer, puis cliquez sur **[!UICONTROL Entrée]**.
+1. Une fois l’ajout de balises terminé, cliquez sur **[!UICONTROL Ajouter]**. Les balises saisies sont répertoriées dans la liste des balises bloquées.
+
+   >[!NOTE]
+   >
+   >Vous pouvez ajouter un maximum de 25 balises à la liste à la fois. Répétez les étapes pour ajouter d’autres balises à la liste bloquée.
+
+Vous pouvez également bloquer les balises intelligentes d’une seule ressource. Accédez aux détails d’une ressource. Sous **[!UICONTROL Balises]** , supprimez les balises intelligentes indésirables et cliquez sur **[!UICONTROL Enregistrer]**. Les balises sont répertoriées dans la liste bloquée de la ressource sélectionnée.
+
+### Actions effectuées sur la liste bloquée {#blocklist-actions}
+
+* **Supprimer des balises :** Vous pouvez également supprimer les balises de la liste bloquée. Pour ce faire, sélectionnez une ou plusieurs balises à supprimer. Cliquez sur **[!UICONTROL Supprimer]**. Vous pouvez supprimer simultanément un maximum de 25 balises de la liste.
+* **Sélectionnez tout :** Cochez la case en regard de **Nom de balise** pour sélectionner toutes les balises de la liste bloquée.
+* **Tri :** Vous pouvez trier la liste bloquée par ordre croissant ou décroissant. Pour ce faire, cliquez sur la flèche en regard de **Nom de balise**.
+
+  ![balises block](assets/blocklist.gif)
+
+  >[!NOTE]
+  >
+  >N’utilisez pas de caractères spéciaux lors de l’ajout d’une balise dans la liste bloquée. Vous pouvez utiliser des caractères tels que a-z, A-Z, 0-9 et -.
+
+### Liste bloquée d’exportation{#export-blocklist}
+
+Assets Essentials vous permet d’exporter les balises bloquées répertoriées au format CSV. Pour exporter une liste bloquée, procédez comme suit :
+
+1. Cliquez sur **[!UICONTROL Exportation au format CSV]**.
+1. Sélectionnez l’emplacement approprié pour enregistrer le fichier CSV. Vous pouvez également renommer le fichier selon vos besoins.
+1. Cliquez sur **[!UICONTROL Enregistrer]**. La liste exportée au format CSV est téléchargée à l’emplacement sélectionné.
+
+### Liste bloquée d’importation{#import-blocklist}
+
+Assets Essentials permet d’importer des balises bloquées à partir d’une source de données (CSV). Pour importer une liste bloquée, procédez comme suit :
+
+1. Cliquez sur **[!UICONTROL Importation au format CSV]**.
+1. Sélectionnez le fichier CSV sur votre appareil. Cliquez sur **[!UICONTROL sélectionner un fichier ;]** pour accéder au fichier à partir de votre appareil. Vous pouvez également faire glisser et déposer le fichier CSV depuis votre appareil.
+1. Cliquez sur **[!UICONTROL Charger]**. Les balises du fichier CSV sont répertoriées dans la liste des balises bloquées.
+
+   ![Importer la liste des balises bloquées](assets/import-blocked-tags.png)
+
+Si vous souhaitez télécharger un modèle de balises bloquées, procédez comme suit :
+
+1. Cliquez sur **[!UICONTROL Modèle de téléchargement]**.
+1. Sélectionnez l’emplacement approprié pour enregistrer le fichier CSV. Vous pouvez également renommer le fichier selon vos besoins.
+1. Cliquez sur **[!UICONTROL Enregistrer]**. Les modèles de balises block au format CSV sont téléchargés à l’emplacement sélectionné.
