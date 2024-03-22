@@ -3,8 +3,8 @@ title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
 description: Comprendre l’interface utilisateur et de la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 3b70810a264dac062032b07dc3d8ce169b56b4cd
-workflow-type: ht
+source-git-commit: 8620efd0430d230338ef8005847de498a5a95a7e
+workflow-type: tm+mt
 source-wordcount: '982'
 ht-degree: 100%
 
@@ -39,6 +39,7 @@ Vous pouvez accéder aux dossiers requis à partir de l’interface utilisateur 
 * [Collections](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=fr) : une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Adobe Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs et utilisatrices. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=fr#view-live-statistics) : dans [!DNL Assets Essentials], vous pouvez afficher des insights en temps réel sur votre tableau de bord. Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
+
 
 * **Corbeille** : répertorie les ressources supprimées du dossier racine **[!UICONTROL Ressources]**. Vous pouvez sélectionner une ressource dans le dossier Corbeille pour la restaurer à son emplacement d’origine ou la supprimer définitivement. Vous pouvez spécifier un mot-clé ou appliquer des filtres tels que le statut de la ressource, le type de fichier, le type MIME, la taille de l’image, la création, la modification et les dates d’expiration des ressources, ainsi que le filtrage par ressources ignorées par la personne actuelle. Vous pouvez également appliquer des filtres personnalisés pour rechercher les ressources appropriées dans le dossier Corbeille. Pour plus d’informations sur l’utilisation des filtres standard et personnalisés, découvrez comment [rechercher des ressources dans Assets Essentials](search.md).
 
