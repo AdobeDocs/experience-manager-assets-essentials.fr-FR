@@ -2,10 +2,10 @@
 title: Gérer les collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 27ac4035863924dfda1abf2593da9278a57b02a2
 workflow-type: tm+mt
-source-wordcount: '793'
-ht-degree: 100%
+source-wordcount: '916'
+ht-degree: 87%
 
 ---
 
@@ -48,6 +48,8 @@ Vous pouvez effectuer les tâches suivantes pour gérer et utiliser les collecti
 
 * [Suppression d’une collection](#delete-collection)
 
+* [Gestion des autorisations d’une collection privée](#manage-permissions-to-a-private-collection)
+
 ## Création d’une collection {#create-collection}
 
 Pour créer une collection :
@@ -60,7 +62,7 @@ Pour créer une collection :
 
 1. Cliquez sur **[!UICONTROL Créer]** pour créer la collection.
 
-![Créer une collection](assets/create-collection.png)
+   ![Créer une collection](assets/create-collection.png)
 
 <!--
    
@@ -154,7 +156,7 @@ Pour afficher et modifier les métadonnées :
 1. Affichez les métadonnées de la collection à l’aide de l’onglet **[!UICONTROL De base]**.
 1. Modifiez les champs de métadonnées selon les besoins. Vous pouvez modifier le [!UICONTROL Titre] et la [!UICONTROL Description].
 
-![Métadonnées de collection](assets/collection-metadata.png)
+   ![Métadonnées de collection](assets/collection-metadata.png)
 
 ## Partage de liens vers des collections {#share-collection-links}
 
@@ -185,6 +187,18 @@ Pour supprimer une collection, procédez comme suit :
 1. Sélectionnez la collection que vous devez supprimer.
 
 1. Cliquez sur **[!UICONTROL Supprimer]**.
+
+## Gestion des autorisations pour une collection privée{#manage-permissions-private-collection}
+
+Vous pouvez autoriser les administrateurs à gérer [niveaux d’accès](/help/using/manage-permissions.md#manage-permissions-on-folders) pour les collections privées disponibles dans le référentiel. Vous pouvez attribuer des autorisations telles que `Can View` et `Can Edit` aux groupes d’utilisateurs ou aux utilisateurs. Vous pouvez également déléguer des privilèges de gestion des autorisations aux groupes d’utilisateurs. Les utilisateurs qui créent des collections privées sont les propriétaires de ces collections. Ils peuvent utiliser la variable [!UICONTROL Gestion des autorisations] pour accorder l’accès aux autres utilisateurs. En outre, les administrateurs peuvent afficher et gérer les autorisations des collections privées dans la variable [!DNL Experience Manager] référentiel.
+
+>[!NOTE]
+>
+>Adobe recommande de ne pas attribuer dʼautorisations aux utilisateurs.
+
+Pour plus d’informations sur l’affectation des autorisations disponibles aux groupes d’utilisateurs, voir [Ajout d’autorisations aux groupes d’utilisateurs](/help/using/manage-permissions.md#add-permissions).
+
+Pour plus d’informations sur le workflow de bout en bout, voir [gestion des autorisations](/help/using/manage-permissions.md).
 
 ## Étapes suivantes {#next-steps}
 
