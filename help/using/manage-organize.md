@@ -4,10 +4,10 @@ description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
-workflow-type: ht
-source-wordcount: '1152'
-ht-degree: 100%
+source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
+workflow-type: tm+mt
+source-wordcount: '1195'
+ht-degree: 95%
 
 ---
 
@@ -48,6 +48,9 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 * ![Icône Déplacer](assets/do-not-localize/move-icon.png) Déplacez la ressource ou le dossier sélectionné vers un autre emplacement de la hiérarchie du référentiel.
 
 * ![Icône renommer](assets/do-not-localize/rename-icon.png) Renommez la ressource ou le dossier sélectionné. Utilisez un nom unique sans quoi le renommage pourrait échouer avec un avertissement. Vous pouvez réessayer avec un nouveau nom.
+Vous pouvez également cliquer sur le titre d’une ressource ou d’un dossier pour la renommer. Mentionnez le nouveau texte dans le **Renommer la ressource** textbox et cliquez sur **Enregistrer**. Cette fonctionnalité est disponible en mode Grille, Galerie, Cascade et Liste.
+
+* ![icône de vue de cascade](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vue de la cascade].
 
 * ![copy library icon](assets/do-not-localize/copy-icon.png) Ajoutez une ressource à la bibliothèque.
 
