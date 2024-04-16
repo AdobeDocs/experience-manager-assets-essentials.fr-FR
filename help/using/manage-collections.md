@@ -2,10 +2,10 @@
 title: Gérer les collections
 description: Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 27ac4035863924dfda1abf2593da9278a57b02a2
+source-git-commit: d0884f7c5a50d89cb8ce4166dc038814bd7fd07d
 workflow-type: tm+mt
-source-wordcount: '916'
-ht-degree: 87%
+source-wordcount: '907'
+ht-degree: 86%
 
 ---
 
@@ -191,11 +191,11 @@ Pour supprimer une collection, procédez comme suit :
 ## Gestion des autorisations pour une collection privée{#manage-permissions-private-collection}
 
 Vous pouvez autoriser les administrateurs à gérer [niveaux d’accès](/help/using/manage-permissions.md#manage-permissions-on-folders) pour les collections privées disponibles dans le référentiel. Vous pouvez attribuer des autorisations telles que `Can View` et `Can Edit` aux groupes d’utilisateurs ou aux utilisateurs. Vous pouvez également déléguer des privilèges de gestion des autorisations aux groupes d’utilisateurs. Les utilisateurs qui créent des collections privées sont les propriétaires de ces collections. Ils peuvent utiliser la variable [!UICONTROL Gestion des autorisations] pour accorder l’accès aux autres utilisateurs. En outre, les administrateurs peuvent afficher et gérer les autorisations des collections privées dans la variable [!DNL Experience Manager] référentiel.
-
+<!--
 >[!NOTE]
 >
->Adobe recommande de ne pas attribuer dʼautorisations aux utilisateurs.
-
+>Adobe does not recommend to assign permissions to users.
+-->
 Pour plus d’informations sur l’affectation des autorisations disponibles aux groupes d’utilisateurs, voir [Ajout d’autorisations aux groupes d’utilisateurs](/help/using/manage-permissions.md#add-permissions).
 
 Pour plus d’informations sur le workflow de bout en bout, voir [gestion des autorisations](/help/using/manage-permissions.md).
