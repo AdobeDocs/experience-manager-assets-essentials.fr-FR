@@ -3,10 +3,10 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
-workflow-type: ht
-source-wordcount: '1524'
-ht-degree: 100%
+source-git-commit: 0da570c129407b6ecaf3e41223f61ce279a308d0
+workflow-type: tm+mt
+source-wordcount: '1890'
+ht-degree: 81%
 
 ---
 
@@ -205,9 +205,9 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 
 * **Affecter des tâches** : affectez des tâches aux utilisateurs et utilisatrices pour une ressource.
 
-* **Surveiller** : [surveillez les opérations](manage-notifications.md) effectuées sur une ressource.
+* **Surveiller** : [surveillez les opérations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/search-assets) effectuées sur une ressource.
 
-## Configurer la page d’accueil axée sur la recherche {#configuring-search-first-homepage}
+## Configuration de la première page d’accueil de la recherche {#configuring-search-first-homepage}
 
 Assets Essentials vous permet de sélectionner la page de destination par défaut de votre organisation. Lorsque vous utilisez l’approche axée sur la recherche pour votre page d’accueil, vous disposez également d’options pour personnaliser l’image de marque de la page en configurant les images d’arrière-plan et du logo en fonction de votre marque.
 
@@ -239,6 +239,92 @@ Vous pouvez prévisualiser votre page d’accueil axée sur la recherche afin d�
 1. Cliquez sur **[!UICONTROL Fermer]** pour quitter l’écran d’aperçu.
 
    ![Aperçu de la page d’accueil axée sur la recherche.](assets/search-first-preview.gif)
+
+## Recherche contextuelle {#contextual-search}
+
+Vous pouvez également rechercher des ressources disponibles dans le référentiel en définissant des invites de texte. Experience Manager Assets transforme automatiquement ces invites de texte en filtres de recherche et affiche les résultats de la recherche. Vous pouvez afficher et modifier des filtres automatiques à l’aide du volet Filtres pour affiner davantage les résultats de la recherche.
+
+### Accès à la recherche contextuelle {#access-contextual-search}
+
+Pour accéder à la recherche contextuelle dans Experience Manager Assets :
+
+1. Cliquez sur **[!UICONTROL Rechercher]** dans le volet de gauche.
+
+   ![Recherche contextuelle](/help/using/assets/access-contextual-search.png)
+
+1. Définissez l’invite de texte dans la zone de texte Rechercher et cliquez sur **[!UICONTROL Recherche contextuelle]**.
+
+   ![Invite de texte de recherche contextuelle](/help/using/assets/contextual-search-text-prompt.png)
+
+   [!DNL Experience Manager Assets] affiche les résultats de la recherche.
+
+
+### Filtres pris en charge {#supported-filters}
+
+La recherche contextuelle prend en charge les filtres prêts à l’emploi suivants. Basez vos invites de texte sur ces filtres pour afficher les résultats de recherche appropriés.
+
+* Hauteur de l’image
+
+* Largeur de l’image
+
+* Type de fichier : image, document, vidéo ou dossier.
+
+* Type MIME : JPG, PNG, TIFF, GIF, MP4, PDF, PPTX, DOCX ou XLSX
+
+* Date de création
+
+* Date de modification
+
+* Date d’expiration
+
+* État de la ressource : approuvée, rejetée ou toutes les
+
+* Ressources expirées
+
+### Exemples de invites de texte {#text-prompts-examples}
+
+**Exemple 1**
+
+**Invite de texte**: images créées ce mois-ci.
+
+[!DNL Experience Manager Assets] applique automatiquement les filtres suivants et affiche les résultats de la recherche :
+
+![Exemple de recherche contextuelle 1](/help/using/assets/contextual-search-example1.png)
+
+**Exemple 2**
+
+**Invite de texte**: images d&#39;au moins 200 px de haut et 100 px de large avec plage et ciel clair.
+
+[!DNL Experience Manager Assets] applique automatiquement les filtres suivants et affiche les résultats de la recherche :
+
+![Exemple de recherche contextuelle 2](/help/using/assets/contextual-search-example2.png)
+
+**Exemple 3**
+
+**Invite de texte**: j’ai besoin d’images de ciel bleu de 1500 et 2500 pixels de hauteur et créées au cours du dernier mois et qui ne sont pas expirées et approuvées.
+
+[!DNL Experience Manager Assets] applique automatiquement les filtres suivants et affiche les résultats de la recherche :
+
+![Exemple de recherche contextuelle 3](/help/using/assets/contextual-search-example3.png)
+
+La vidéo suivante illustre le processus de bout en bout, de l’accès à l’interface utilisateur de la recherche contextuelle à la définition d’invites de texte, en passant par l’affichage des résultats de la recherche.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428407)
+
+### Désactiver la recherche contextuelle {#disable-contextual-search}
+
+Les administrateurs ont également la possibilité de désactiver la recherche contextuelle pour les utilisateurs de votre entreprise. Pour ce faire, procédez comme suit :
+
+1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
+
+1. Dans le [!UICONTROL Recherche contextuelle] , désactivez la fonction **[!UICONTROL Activer la recherche contextuelle pour votre organisation]** pour désactiver la fonction de recherche contextuelle pour tous les utilisateurs de votre entreprise.
+
+### Commentaires sur la recherche contextuelle {#contextual-search-feedback}
+
+Si vous devez fournir des commentaires sur la fonction de recherche contextuelle, cliquez sur ![Icône Recherche contextuelle](assets/do-not-localize/contextual-search-icon.png)  et cliquez sur l’icône Commentaires . Sélectionnez le type de commentaire, spécifiez l’objet et la description, puis cliquez sur **[!UICONTROL Envoyer]**.
+
+![Commentaires sur la recherche contextuelle](/help/using/assets/contextual-search-feedback.png)
+
 
 ## Étapes suivantes {#next-steps}
 
