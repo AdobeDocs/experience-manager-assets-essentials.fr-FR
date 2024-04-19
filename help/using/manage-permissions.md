@@ -2,7 +2,7 @@
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d’accès aux dossiers disponibles dans le référentiel. Pour gérer les niveaux d’accès, créez des groupes d’utilisateurs et attribuez-leur des autorisations. En tant qu’administrateur, vous pouvez également déléguer les droits de gestion des autorisations à des groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: a77513f925203f9ad6cad9fd517f28989385af95
+source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
 workflow-type: tm+mt
 source-wordcount: '1657'
 ht-degree: 100%
@@ -118,7 +118,7 @@ Pour attribuer des autorisations sur des dossiers à un groupe, procédez comme 
 
 1. Dans la boîte de dialogue **[!UICONTROL Gestion des autorisations]**, saisissez le nom du groupe ou d’un utilisateur dans le champ **[!UICONTROL Groupes et utilisateurs]**.
 
-1. Sélectionnez le [niveau d’accès](#manage-permissions-folders) dans la liste déroulante **[!UICONTROL Accès]**.
+1. Sélectionnez le [niveau d’accès](#manage-permissions-on-folders) dans la liste déroulante **[!UICONTROL Accès]**.
 
 1. Cliquez sur **[!UICONTROL Ajouter]** pour apporter une modification immédiate aux autorisations accordées à l’utilisateur ou au groupe d’utilisateurs.
 
@@ -144,7 +144,7 @@ Pour modifier les autorisations affectées aux groupes d’utilisateurs sur des 
 
 1. Sélectionnez le dossier et cliquez sur **[!UICONTROL Gestion des autorisations]**.
 
-1. Dans la boîte de dialogue **[!UICONTROL Gestion des autorisations]**, modifiez le [niveau d’accès](#manage-permissions-folders) de la liste déroulante **[!UICONTROL Accès]**.
+1. Dans la boîte de dialogue **[!UICONTROL Gestion des autorisations]**, modifiez le [niveau d’accès](#manage-permissions-on-folders) de la liste déroulante **[!UICONTROL Accès]**.
 
 1. [Ajoutez d’autres groupes d’utilisateurs ou utilisateurs](#add-permissions) aux règles d’autorisation existantes, si nécessaire.
 
