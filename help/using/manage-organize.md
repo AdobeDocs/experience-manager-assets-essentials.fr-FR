@@ -1,13 +1,13 @@
 ---
 title: Gérer vos ressources numériques
-description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la version de vos ressources dans  [!DNL Assets Essentials].
+description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la version de vos ressources dans [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1195'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -48,9 +48,9 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 * ![Icône Déplacer](assets/do-not-localize/move-icon.png) Déplacez la ressource ou le dossier sélectionné vers un autre emplacement de la hiérarchie du référentiel.
 
 * ![Icône renommer](assets/do-not-localize/rename-icon.png) Renommez la ressource ou le dossier sélectionné. Utilisez un nom unique sans quoi le renommage pourrait échouer avec un avertissement. Vous pouvez réessayer avec un nouveau nom.
-Vous pouvez également cliquer sur le titre d’une ressource ou d’un dossier pour la renommer. Mentionnez le nouveau texte dans le **Renommer la ressource** textbox et cliquez sur **Enregistrer**. Cette fonctionnalité est disponible en mode Grille, Galerie, Cascade et Liste.
+Vous pouvez également cliquer sur le titre d’une ressource ou d’un dossier pour renommer. Mentionnez le nouveau texte dans la zone de texte **Renommer la ressource** et cliquez sur **Enregistrer**. Cette fonctionnalité est disponible dans les vues Grille, Galerie, Cascade et Liste.
 
-* ![icône de vue de cascade](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vue de la cascade].
+* ![Icône de vue cascade](assets/do-not-localize/waterfall-view.png) [!UICONTROL Vue Cascade]
 
 * ![copy library icon](assets/do-not-localize/copy-icon.png) Ajoutez une ressource à la bibliothèque.
 
@@ -168,10 +168,10 @@ Pour ajouter un champ de métadonnées Date d’expiration au formulaire, faites
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les ressources dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html?lang=fr).
+* [Regardez une vidéo pour gérer les ressources dans Assets Essentials](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets-essentials/basics/managing).
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General#support).
