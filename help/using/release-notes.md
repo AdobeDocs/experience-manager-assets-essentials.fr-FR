@@ -4,18 +4,77 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
-workflow-type: ht
-source-wordcount: '2666'
-ht-degree: 100%
+source-git-commit: 8ad7c9e02e94656200b715047bb25ed79bdbf06d
+workflow-type: tm+mt
+source-wordcount: '2865'
+ht-degree: 93%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials a été publiée le 11 janvier 2024.
+La version actuelle d’Assets Essentials a été publiée le vendredi 18 avril 2024.
 
 Voici quelques-unes des fonctions récemment ajoutées :
+
+**Recherche contextuelle**
+
+Vous pouvez désormais également rechercher des ressources disponibles dans le référentiel en définissant des invites de texte. Experience Manager Assets transforme automatiquement ces invites de texte en filtres de recherche et affiche les résultats de la recherche. Vous pouvez afficher et modifier des filtres automatiques à l’aide du volet Filtres pour affiner davantage les résultats de la recherche.
+
+![Informations sur l’utilisation du stockage](/help/using/assets/contextual-search-text-prompt1.png)
+
+<!--
+
+**Dynamic renditions**
+
+You can now view and download dynamic renditions (including smart crops) in Experience Manager Assets. Dynamic renditions are customized versions of image assets created in real-time to meet specific needs, such as resizing images based on device resolution or cropping to fit different aspect ratios. These renditions enable organizations to deliver personalized and optimized experiences to diverse audience needs.
+
+![storage usage insights](/help/using/assets/renditions-view-download.png)
+
+-->
+
+**Changement statique du nom des ressources et des dossiers**
+
+Experience Manager Assets offre désormais une expérience utilisateur simplifiée en permettant de renommer une ressource ou un dossier en un seul clic.
+
+**Actions rapides de vidéo express**
+
+Experience Manager Assets comprend désormais des outils d’édition vidéo simples et intuitifs, optimisés par Adobe Express, pour augmenter la réutilisation du contenu et accélérer la vitesse de diffusion du contenu. La modification légère de vidéos dans AEM Assets ne nécessite pas une connaissance approfondie des outils et des concepts de montage vidéo. Les options de modification incluent le rognage, le recadrage, le redimensionnement d’une vidéo, ainsi que la conversion d’un fichier MP4 en fichier GIF.
+
+![recadrage de vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+
+**Affectation ou suppression d’un formulaire de métadonnées à plusieurs dossiers**
+
+Vous pouvez désormais attribuer ou supprimer un formulaire de métadonnées à plusieurs dossiers.
+
+**Gestion des autorisations pour les collections privées**
+
+Vous pouvez autoriser les administrateurs à gérer les niveaux d’accès pour les collections privées disponibles dans le référentiel. Vous pouvez attribuer les autorisations `Can View` et `Can Edit` aux groupes d’utilisateurs et d’utilisatrices et aux personnes. Vous pouvez également déléguer des privilèges de gestion des autorisations aux groupes d’utilisateurs.
+
+
+**Améliorations basées sur les commentaires des clients**
+
+Améliorations et correctifs de bugs basés sur les commentaires des clients.
+
+
+## Problèmes connus {#known-issues}
+
+La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
+
+Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
+
+## Versions antérieures {#past-releases}
+
+### Version de janvier 2024 {#january-2024-release}
 
 **Liste bloquée des balises intelligentes**
 
@@ -50,32 +109,6 @@ Les administrateurs et administratrices ont désormais la possibilité d’affic
 Assets Essentials vous permet désormais de configurer l’expérience de la page d’accueil de votre organisation. Si vous sélectionnez l’approche axée sur la recherche pour votre page d’accueil, vous pouvez configurer l’alignement de la barre de recherche, l’image d’arrière-plan et le logo de votre organisation.
 
 ![Configuration de l’approche axée sur la recherche.](/help/using/assets/search-first-configuration.png)
-
-
-
-**Améliorations basées sur les commentaires des clients**
-
-Améliorations et correctifs de bugs basés sur les commentaires des clients.
-
-
-## Problèmes connus {#known-issues}
-
-La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement :
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Les collections privées sont disponibles pour les créateurs et les utilisateurs disposant de droits d’administrateur. En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
-
-* En tant qu’administrateur, vous ne pouvez pas déléguer les autorisations d’accès à la collection à d’autres utilisateurs.
-
-Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
-
-## Versions antérieures {#past-releases}
 
 ### Version d’octobre 2023 {#october2023-release}
 
