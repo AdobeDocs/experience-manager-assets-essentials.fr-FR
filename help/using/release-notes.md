@@ -4,9 +4,9 @@ description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essent
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 8ad7c9e02e94656200b715047bb25ed79bdbf06d
+source-git-commit: ae72670b4e66b79ac531f4050703951e0e7852e0
 workflow-type: tm+mt
-source-wordcount: '2865'
+source-wordcount: '2847'
 ht-degree: 93%
 
 ---
@@ -39,7 +39,7 @@ Experience Manager Assets offre désormais une expérience utilisateur simplifi�
 
 **Actions rapides de vidéo express**
 
-Experience Manager Assets comprend désormais des outils d’édition vidéo simples et intuitifs, optimisés par Adobe Express, pour augmenter la réutilisation du contenu et accélérer la vitesse de diffusion du contenu. La modification légère de vidéos dans AEM Assets ne nécessite pas une connaissance approfondie des outils et des concepts de montage vidéo. Les options de modification incluent le rognage, le recadrage, le redimensionnement d’une vidéo, ainsi que la conversion d’un fichier MP4 en fichier GIF.
+Experience Manager Assets comprend désormais des outils d’édition vidéo simples et intuitifs, optimisés par Adobe Express, pour augmenter la réutilisation du contenu et accélérer la vitesse de diffusion du contenu. Les options de modification incluent le rognage, le recadrage, le redimensionnement d’une vidéo, ainsi que la conversion d’un fichier MP4 en fichier GIF.
 
 ![recadrage de vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
