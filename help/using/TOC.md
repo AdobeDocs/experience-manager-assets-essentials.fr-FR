@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 9c37194a04057600fe602b4de373c21e69389a16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 + [Mon espace de travail](my-workspace.md)
 + Prise en main d’Assets Essentials pour l’administration {#get-started-admins}
    + [Administrer et ajouter des utilisateurs](deploy-administer.md)
-   + Gérer l’accès aux dossiers {#folder-access}
+   + Gérer l’accès aux dossiers{#folder-access}
       + [Gérer les autorisations des dossiers](manage-permissions.md)
       + [Bonnes pratiques relatives à la gestion des autorisations](permission-management-best-practices.md)
    + [Parcours administrateur pour Assets Essentials pour Creative Cloud Pro avec les solutions de gestion de travail](assets-essentials-cc-pro-work-management-admin-journey.md)
@@ -37,8 +37,8 @@ ht-degree: 98%
 + [Recherche et découverte de ressources](search.md)
 + [Tâches de gestion des ressources](manage-organize.md)
 + [Modification des images](edit-images.md)
-+ [Modification de vidéos](edit-videos.md)
-+ [Gestion des métadonnées des ressource](metadata.md)
++ [Modifier des vidéos](edit-videos.md)
++ [Gérer les métadonnées des ressource](metadata.md)
 + [Partager des ressources](share-links-for-assets.md)
 + [Gestion des collections](manage-collections.md)
 + [Surveiller des ressources, des dossiers et des collections](manage-notifications.md)
