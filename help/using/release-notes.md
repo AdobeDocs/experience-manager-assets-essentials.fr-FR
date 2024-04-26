@@ -5,21 +5,21 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: ae72670b4e66b79ac531f4050703951e0e7852e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2847'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # Notes de mise à jour d’[!DNL Assets Essentials] {#release-notes}
 
-La version actuelle d’Assets Essentials a été publiée le vendredi 18 avril 2024.
+La version actuelle d’Assets Essentials a été publiée le 18 avril 2024.
 
 Voici quelques-unes des fonctions récemment ajoutées :
 
 **Recherche contextuelle**
 
-Vous pouvez désormais également rechercher des ressources disponibles dans le référentiel en définissant des invites de texte. Experience Manager Assets transforme automatiquement ces invites de texte en filtres de recherche et affiche les résultats de la recherche. Vous pouvez afficher et modifier des filtres automatiques à l’aide du volet Filtres pour affiner davantage les résultats de la recherche.
+Vous pouvez également rechercher des ressources disponibles dans le référentiel en définissant des invites de texte. Experience Manager Assets transforme automatiquement ces invites de texte en filtres de recherche et affiche les résultats de la recherche. Vous pouvez afficher et modifier des filtres automatiques à l’aide du volet Filtres pour affiner davantage les résultats de la recherche.
 
 ![Informations sur l’utilisation du stockage](/help/using/assets/contextual-search-text-prompt1.png)
 
@@ -35,21 +35,21 @@ You can now view and download dynamic renditions (including smart crops) in Expe
 
 **Changement statique du nom des ressources et des dossiers**
 
-Experience Manager Assets offre désormais une expérience utilisateur simplifiée en permettant de renommer une ressource ou un dossier en un seul clic.
+Experience Manager Assets offre désormais une expérience utilisateur simplifiée en permettant de renommer une ressource ou un dossier en un seul clic.
 
-**Actions rapides de vidéo express**
+**Actions rapides sur les vidéos express**
 
-Experience Manager Assets comprend désormais des outils d’édition vidéo simples et intuitifs, optimisés par Adobe Express, pour augmenter la réutilisation du contenu et accélérer la vitesse de diffusion du contenu. Les options de modification incluent le rognage, le recadrage, le redimensionnement d’une vidéo, ainsi que la conversion d’un fichier MP4 en fichier GIF.
+Experience Manager Assets comprend désormais des outils d’édition vidéo simples et intuitifs optimisés par Adobe Express pour augmenter la réutilisation du contenu et accélérer sa vitesse de diffusion. Les options de retouche incluent le rognage, le recadrage, le redimensionnement d’une vidéo, ainsi que la conversion d’un fichier MP4 en fichier GIF.
 
-![recadrage de vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+![Recadrage vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
-**Affectation ou suppression d’un formulaire de métadonnées à plusieurs dossiers**
+**Affecter un formulaire de métadonnées à plusieurs dossiers ou le supprimer de ceux-ci**
 
-Vous pouvez désormais attribuer ou supprimer un formulaire de métadonnées à plusieurs dossiers.
+Vous pouvez désormais affecter un formulaire de métadonnées à plusieurs dossiers ou le supprimer de ceux-ci.
 
-**Gestion des autorisations pour les collections privées**
+**Gérer les autorisations des collections privées**
 
-Vous pouvez autoriser les administrateurs à gérer les niveaux d’accès pour les collections privées disponibles dans le référentiel. Vous pouvez attribuer les autorisations `Can View` et `Can Edit` aux groupes d’utilisateurs et d’utilisatrices et aux personnes. Vous pouvez également déléguer des privilèges de gestion des autorisations aux groupes d’utilisateurs.
+Vous pouvez autoriser les administrateurs et administratrices à gérer les niveaux d’accès pour les collections privées disponibles dans le référentiel. Vous pouvez attribuer les autorisations `Can View` et `Can Edit` aux groupes d’utilisateurs et d’utilisatrices et aux personnes. Vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs et d’utilisatrices.
 
 
 **Améliorations basées sur les commentaires des clients**
