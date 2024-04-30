@@ -3,9 +3,9 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 0da570c129407b6ecaf3e41223f61ce279a308d0
+source-git-commit: 5d6cc2c27fc416d3f616a25db0e6497d9ad946c1
 workflow-type: ht
-source-wordcount: '1890'
+source-wordcount: '1834'
 ht-degree: 100%
 
 ---
@@ -311,17 +311,19 @@ La vidéo suivante illustre le processus de bout en bout, de l’accès à l’i
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
-### Désactiver la recherche contextuelle {#disable-contextual-search}
+<!--
+### Disable Contextual Search {#disable-contextual-search}
 
-Les administrateurs et administratrices ont également la possibilité de désactiver la recherche contextuelle pour les utilisateurs et utilisatrices de votre organisation. Pour cela, procédez comme suit :
+Administrators also have the option to disable Contextual Search for users in your organization. To do so, execute the following steps:
 
-1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
 
-1. Dans la section [!UICONTROL Recherche contextuelle], désactivez la fonction **[!UICONTROL Activer la recherche contextuelle pour votre organisation]** pour désactiver la fonction de recherche contextuelle pour toutes les personnes de votre organisation.
+1. In the [!UICONTROL Contextual Search] section, turn off the **[!UICONTROL Enable Contextual Search for your organization]** toggle to disable the Contextual Search feature for all users in your organization.  
+-->
 
 ### Commentaires sur la recherche contextuelle {#contextual-search-feedback}
 
-Si vous devez fournir des commentaires sur la fonction de recherche contextuelle, cliquez sur l’![icône Recherche contextuelle](assets/do-not-localize/contextual-search-icon.png), puis sur l’icône Commentaires. Sélectionnez le type de commentaire, spécifiez l’objet et la description, puis cliquez sur **[!UICONTROL Soumettre]**.
+Si vous devez fournir des commentaires sur la fonction de recherche contextuelle, cliquez sur l’![icône Recherche contextuelle](assets/do-not-localize/Smock_Help_18_N.svg), puis sur l’icône Commentaires. Sélectionnez le type de commentaire, spécifiez l’objet et la description, puis cliquez sur **[!UICONTROL Soumettre]**.
 
 ![Commentaires sur la recherche contextuelle](/help/using/assets/contextual-search-feedback.png)
 
