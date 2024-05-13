@@ -2,10 +2,10 @@
 title: Comment partager des liens vers des ressources ?
 description: Générez un lien et partagez les ressources avec d’autres personnes qui n’ont pas accès à l’application  [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 100%
+source-wordcount: '413'
+ht-degree: 76%
 
 ---
 
@@ -21,6 +21,11 @@ Pour générer un lien pour une ressource ou un dossier contenant des ressources
 
 1. Si vous souhaitez l’ajuster, cliquez sur l’icône Calendrier pour définir une date d’expiration pour le lien à l’aide du champ **[!UICONTROL Date d’expiration]**. Vous pouvez également spécifier une date directement au format `yyyy-mm-dd`. Par défaut, la date d’expiration d’un lien est fixée à 2 semaines à compter de la date de partage.
 
+>[!NOTE]
+> Le format de date change en fonction du paramètre régional sélectionné.
+> Par exemple, la variable `de-DE` uses `dd-mm-yyyy`, `ja-JA` uses `yyyy-mm-dd`, alors que `en-EN` uses `mm-dd-yyyy`.
+>
+
 1. Copiez le lien à partir du champ **[!UICONTROL Partager le lien]**.
 
    ![Option pour recadrer et redresser](assets/share-asset-link.png)
@@ -29,7 +34,7 @@ Pour générer un lien pour une ressource ou un dossier contenant des ressources
 
 ## Accéder aux ressources partagées {#access-shared-assets}
 
-Après avoir partagé le lien public pour les ressources, les destinataires peuvent cliquer sur le lien pour prévisualiser ou télécharger les ressources partagées dans un navigateur Web sans avoir à se connecter à [!DNL Assets Essentials].
+Après avoir partagé le lien public des ressources, les destinataires peuvent cliquer sur le lien pour prévisualiser ou télécharger les ressources partagées dans un navigateur web sans avoir à se connecter à [!DNL Assets Essentials].
 
 Cliquez sur le lien, cliquez sur le dossier pour accéder à la ressource, puis cliquez sur la ressource pour la prévisualiser. Vous pouvez choisir d’afficher les ressources partagées en Vue Liste ou Vue Vignette.
 
@@ -43,10 +48,10 @@ Pour télécharger toutes les ressources en une seule fois, basculez sur la **[!
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour partager des liens pour les ressources dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=fr).
+* [Regardez une vidéo pour partager des liens vers des ressources dans les Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=fr).
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Fournir des commentaires sur les produits à l’aide de la variable [!UICONTROL Commentaires] est disponible dans l’interface utilisateur d’ Assets Essentials .
 
-* Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
+* Fournir des commentaires sur la documentation à l’aide de [!UICONTROL Modifier cette page] ![modifier la page ;](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Création d’un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
+* Contact [Assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
