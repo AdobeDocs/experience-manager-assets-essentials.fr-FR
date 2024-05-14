@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: eac31e102b9e26241cd513b1aeb8774802120a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2903'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,15 +44,15 @@ Experience Manager Assets comprend désormais des outils d’édition vidéo s
 ![Recadrage vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
 >[!NOTE]
-> Droits d&#39;accès [!DNL Adobe Express] est requis et au moins un environnement dans AEM Assets. L’environnement peut être l’un des référentiels dans [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
+> Des droits d’accès [!DNL Adobe Express] sont requis, ainsi qu’au moins un environnement dans AEM Assets. L’environnement peut être l’un des référentiels dans [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
 
 **Affecter un formulaire de métadonnées à plusieurs dossiers ou le supprimer de ceux-ci**
 
-Un formulaire de métadonnées peut désormais être attribué ou supprimé de plusieurs dossiers.
+Un formulaire de métadonnées peut désormais être attribué à plusieurs dossiers ou supprimé de ceux-ci.
 
 **Gérer les autorisations des collections privées**
 
-Vous pouvez autoriser les administrateurs ou les non-administrateurs (autres utilisateurs) à gérer les niveaux d’accès pour les collections privées disponibles dans le référentiel. Vous pouvez attribuer les autorisations `Can View` et `Can Edit` aux groupes d’utilisateurs et d’utilisatrices et aux personnes. Vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs et d’utilisatrices.
+Vous pouvez autoriser les administrateurs et administratrices, de même que les personnes qui ne le sont pas, à gérer les niveaux d’accès pour les collections privées disponibles dans le référentiel. Vous pouvez attribuer les autorisations `Can View` et `Can Edit` aux groupes d’utilisateurs et d’utilisatrices et aux personnes. Vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs et d’utilisatrices.
 
 
 **Améliorations basées sur les commentaires des clients**
@@ -62,7 +62,7 @@ Améliorations et correctifs de bugs basés sur les commentaires des clients.
 
 ## Problèmes connus {#known-issues}
 
-Liste des problèmes connus de [!DNL Assets Essentials] l’offre est continuellement révisée et mise à jour.
+La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révisée et mise à jour régulièrement.
 
 <!--
 
@@ -109,9 +109,9 @@ Les administrateurs et administratrices ont désormais la possibilité d’affic
 
 **Configuration de la page d’accueil axée sur la recherche**
 
-Assets Essentials vous permet désormais de configurer l’expérience de la page d’accueil de votre organisation. Si vous sélectionnez d’abord la recherche comme page d’accueil, vous pouvez configurer l’alignement de la barre de recherche, l’image d’arrière-plan et le logo de votre entreprise. Choix [!UICONTROL Paramètres généraux] remplace la landing page par défaut. Par exemple, l’entrée par défaut est [!UICONTROL Mon espace de travail] pour les administrateurs et [!UICONTROL Recherche d’abord] pour les utilisateurs qui ne sont pas administrateurs, le fait de choisir l’une des options sous Paramètres généraux s’applique à tous les utilisateurs.
+Assets Essentials vous permet désormais de configurer l’expérience de la page d’accueil de votre organisation. Si vous sélectionnez l’approche axée sur la recherche pour votre page d’accueil, vous pouvez configurer l’alignement de la barre de recherche, l’image d’arrière-plan et le logo de votre organisation. Le fait de choisir [!UICONTROL Paramètres généraux] remplace la page de destination par défaut. Par exemple, la page de destination par défaut est [!UICONTROL Mon espace de travail] pour l’équipe d’administration et une [!UICONTROL page axée sur la recherche] pour les personnes non administratrices. Le fait de choisir l’une des options sous Paramètres généraux s’applique à toutes les personnes.
 
-![Configuration de l’approche axée sur la recherche.](/help/using/assets/search-first-configuration.png)
+![Configuration de l’approche axée sur la recherche](/help/using/assets/search-first-configuration.png)
 
 ### Version d’octobre 2023 {#october2023-release}
 
@@ -212,7 +212,7 @@ Mon espace de travail affiche désormais les dix ressources les plus télécharg
 
 **Mises à jour en bloc des métadonnées de ressources**
 
-Les mises à jour en bloc des métadonnées vous permettent d’effectuer simultanément des mises à jour de métadonnées courantes sur plusieurs ressources. Vous n’avez pas besoin de mettre à jour les enregistrements individuellement et vous pouvez rapidement appliquer des propriétés aux ressources ou aux dossiers accessibles par le biais de la recherche. En outre, les mises à jour de métadonnées en masse remplacent toutes les valeurs existantes, ce qui signifie que les mots-clés existants sont écrasés par la mise à jour des métadonnées en bloc.
+Les mises à jour en bloc des métadonnées vous permettent d’effectuer simultanément des mises à jour de métadonnées courantes sur plusieurs ressources. Il n’est pas nécessaire de mettre à jour les enregistrements individuellement. Vous pouvez appliquer rapidement des propriétés aux ressources ou fichiers, accessibles par le biais de recherches. En outre, les mises à jour de métadonnées en masse remplacent toutes les valeurs existantes, ce qui signifie que les mots-clés existants sont écrasés par la mise à jour des métadonnées en masse.
 
 **Mon espace de travail avec des widgets configurables**
 
