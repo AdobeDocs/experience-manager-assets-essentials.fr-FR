@@ -3,7 +3,7 @@ title: Modification des images
 description: Modifiez les images à l’aide des options optimisées d’ [!DNL Adobe Photoshop Express] et enregistrez les images mises à jour sous forme de versions.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 1f306241ef3040557661cdd79b8864916e3a4240
+source-git-commit: 745dd77210caece8ef2497e4340e55d85347546f
 workflow-type: tm+mt
 source-wordcount: '797'
 ht-degree: 100%
@@ -172,7 +172,7 @@ TBD: Insert a video of the available social media options.
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
-* Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
+* Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![Modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
 * Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
 
