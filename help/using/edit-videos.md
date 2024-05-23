@@ -1,11 +1,12 @@
 ---
-title: Modification de vidéos
+title: Modifier des vidéos
 description: Modification des vidéos à l’aide de [!DNL Adobe Express] options optimisées et enregistrez les vidéos mises à jour sous forme de versions.
 role: User
-source-git-commit: 5bcec500ff6bf67426f532a98eec5d351cc1ad03
+exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
+source-git-commit: 2b27cf67be1cc0466a41b29f04a96adddedd1977
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
@@ -34,7 +35,7 @@ Vous pouvez éliminer les parties indésirables de la vidéo en utilisant l’é
 3. Faites glisser les poignées dans les coins de la vidéo pour créer le recadrage souhaité ou choisissez parmi les tailles d’écran existantes selon vos besoins.
 4. Vous pouvez choisir de mettre la vidéo en sourdine ou d’en annuler la mute.
 5. Cliquez sur **[!UICONTROL Appliquer]**.
-   ![recadrage de vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+   ![Recadrage vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
    La vidéo recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource. ![Enregistrer la vidéo avec Adobe Express](/help/using/assets/adobe-express-save-video.png)
 
@@ -84,7 +85,7 @@ Votre vidéo peut être téléchargée au format GIF. Vous pouvez enregistrer la
 
 * Seules les vidéos au format MP4 sont prises en charge pour modification.
 
-* La taille de fichier source maximale prise en charge est de 200 Mo.
+* La taille de fichier source maximale prise en charge est de 1 Go.
 
 * Les vidéos prises en charge font plus de 46 pixels et sont plus petites que 3 840 pixels de tous les côtés.
 
