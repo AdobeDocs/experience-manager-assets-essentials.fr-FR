@@ -3,7 +3,7 @@ title: Modifier des vidéos
 description: Modification des vidéos à l’aide de [!DNL Adobe Express] options optimisées et enregistrez les vidéos mises à jour sous forme de versions.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: eede4280258595b7c74061786a8c173afaeee058
+source-git-commit: e775f6ebeda48ff01082c471a9f997c57e0dedb3
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 18%
