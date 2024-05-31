@@ -2,10 +2,10 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 9cfb01590ae8ce620cc0eed042dcddfbb8b91742
+source-git-commit: 5b5fe779f1dd50470016706a5ba3f6f59ab46793
 workflow-type: tm+mt
-source-wordcount: '929'
-ht-degree: 93%
+source-wordcount: '862'
+ht-degree: 100%
 
 ---
 
@@ -65,12 +65,6 @@ Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigatio
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
-
-* **Nombre de ressources par taille :** Segmente le nombre total de ressources dans l’environnement de base d’Assets en différentes plages de tailles, en soulignant le nombre et le pourcentage de ressources dans chaque plage de tailles, représentés par un graphique en anneau.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
-
-* **Nombre de ressources par type de ressource :** Segmente le nombre total de ressources dans l’environnement essentiel d’Assets, en soulignant le nombre et le pourcentage de ressources en fonction de leurs types de fichiers, représentés par un graphique en anneau.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
 ## Créer un rapport de téléchargement {#create-download-report}
 
