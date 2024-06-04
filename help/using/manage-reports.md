@@ -3,7 +3,7 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 71a0381f5f7c32d3da1923778b3cd7b678391cae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '862'
 ht-degree: 100%
 
