@@ -3,7 +3,7 @@ title: Modifier des vidéos
 description: Modification des vidéos à l’aide de [!DNL Adobe Express] options optimisées et enregistrez les vidéos mises à jour sous forme de versions.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: 8254fac0d1fd5929dcedc59598cf168b66aed24e
+source-git-commit: 78187929a6baa0f1ab5d8675287408a24e1ada98
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 18%
@@ -85,7 +85,7 @@ Votre vidéo peut être téléchargée au format GIF. Vous pouvez enregistrer la
 
 * Seules les vidéos au format MP4 sont prises en charge pour modification.
 
-* La taille de fichier source maximale prise en charge est de 200 Mo.
+* La taille de fichier source maximale prise en charge est de 1 Go.
 
 * Les vidéos prises en charge font plus de 46 pixels et sont plus petites que 3 840 pixels de tous les côtés.
 
