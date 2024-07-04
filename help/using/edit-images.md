@@ -4,15 +4,15 @@ description: Modifiez les images à l’aide des options optimisées d’ [!DNL 
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 5947e7db586b691f1db3bf734481de8438e5a3b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1116'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # Modifier des images dans [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-L’interface utilisateur d’Assets Essentials permet de modifier des images de base, notamment de redimensionner, de supprimer l’arrière-plan, de recadrer et de convertir les formats JPEG et PNG. En outre, elle permet une modification avancée via l’intégration à Adobe Express. Après avoir modifié une image, vous pouvez enregistrer la nouvelle image en tant que nouvelle version de cette image. Le contrôle de version vous permet de revenir ultérieurement à la ressource d’origine, si nécessaire. Pour modifier une image, [ouvrez sa prévisualisation](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) et cliquez sur **Modifier l’image**.
+L’interface d’utilisation Asset Essentials permet de modifier des images de base, notamment de les redimensionner, de supprimer l’arrière-plan, de les recadrer et de les convertir aux formats JPEG et PNG. En outre, elle permet une modification avancée via l’intégration à Adobe Express. Après avoir modifié une image, vous pouvez enregistrer la nouvelle image en tant que nouvelle version de cette image. Le contrôle de version vous permet de revenir ultérieurement à la ressource d’origine, si nécessaire. Pour modifier une image, [ouvrez sa prévisualisation](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) et cliquez sur **Modifier l’image**.
 
 >[!NOTE]
 >
@@ -22,8 +22,8 @@ L’interface utilisateur d’Assets Essentials permet de modifier des images de
 
 ## Modifier l’image {#edit-images}
 
-Accédez à l’interface utilisateur Assets Essentials à l’aide du lien - [Interface utilisateur des Assets Essentials](https://experience.adobe.com/#/assets) et en sélectionnant le référentiel approprié. Pour recevoir un accès, contactez l’équipe d’administration de votre entreprise.
-Pour toute information de référence supplémentaire, voir [Prise en main de Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/get-started), [présentation de l’interface utilisateur](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/navigate-view), [Cas d’utilisation essentiels d’Assets](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/get-started#use-cases) et [problèmes connus](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/release-notes).
+Accédez à l’interface d’utilisation d’Asset Essentials à l’aide du lien [Interface d’utilisation d’Asset Essentials](https://experience.adobe.com/#/assets) et en sélectionnant le référentiel approprié. Pour recevoir un accès, contactez l’équipe d’administration de votre entreprise.
+Pour toute information de référence supplémentaire, voir [Commencer à utiliser Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/get-started), [Présentation de l’interface d’utilisation](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/navigate-view), [Cas d’utilisation d’Adobe Essentials](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/get-started#use-cases) et [Problèmes connus](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/release-notes).
 <!--
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
@@ -86,11 +86,11 @@ Les utilisateurs et utilisatrices disposant de droits Express peuvent utiliser l
 ![Express dans l’interface d’utilisation d’Essentials](/help/using/assets/express-in-essentials-ui.jpg)
 Pour modifier des images à l’aide de l’éditeur intégré Adobe Express, procédez comme suit :
 
-1. Accédez à l’interface utilisateur d’AEM Assets Essentials à l’aide du lien - [Interface utilisateur d’AEM Assets Essentials](https://experience.adobe.com/#/assets) et sélectionnez le référentiel approprié.
+1. Accédez à l’interface d’utilisation d’AEM Assets Essentials à l’aide du lien [Interface d’utilisation d’AEM Assets Essentials](https://experience.adobe.com/#/assets) et sélectionnez le référentiel approprié.
 1. Cliquez sur **Ressources**, saisissez un dossier et sélectionnez une image.
 1. Cliquez sur **Ouvrir dans Adobe Express**. L’image s’ouvre sur une zone de travail Express.
 1. Apportez les modifications requises à l’image.
-1. Si votre projet nécessite l’ajout de pages supplémentaires, cliquez sur **Ajouter**, sélectionnez des ressources, saisissez un dossier, sélectionnez une image à importer sur la page de zone de travail, puis effectuez les modifications requises sur l’image.
+1. Si votre projet nécessite l’ajout de pages supplémentaires, cliquez sur **Ajouter**, sélectionnez Ressources, saisissez un dossier, sélectionnez une image à importer sur la page de zone de travail, puis apportez les modifications requises à l’image.
 1. Pour enregistrer les images, cliquez sur **Enregistrer**. La boîte de dialogue d’enregistrement s’affiche.
 
    >[!NOTE]
