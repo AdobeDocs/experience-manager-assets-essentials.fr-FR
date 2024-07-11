@@ -4,9 +4,9 @@ description: Modifiez les images à l’aide des options optimisées d’ [!DNL 
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1138'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -20,12 +20,12 @@ L’interface d’utilisation Asset Essentials permet de modifier des images de
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Modifier les images {#edit-images}
+## Modifier des images {#edit-images}
 
 Accédez à l’interface d’utilisation d’Asset Essentials à l’aide du lien [Interface d’utilisation d’Asset Essentials](https://experience.adobe.com/#/assets) et en sélectionnant le référentiel approprié. Pour recevoir un accès, contactez l’équipe d’administration de votre entreprise.
 Pour toute information de référence supplémentaire, voir [Commencer à utiliser Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/get-started), [Présentation de l’interface d’utilisation](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/navigate-view), [Cas d’utilisation d’Adobe Essentials](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/get-started#use-cases) et [Problèmes connus](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/release-notes).
 
-### Modifier des images à l’aide d’un Adobe Express {#edit-images-using-adobe-express}
+### Modifier des images à l’aide d’Adobe Express {#edit-images-using-adobe-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
