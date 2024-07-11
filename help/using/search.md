@@ -4,7 +4,7 @@ description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: a471074ec0eee8487222cc344046715ed5d90d0b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1890'
 ht-degree: 100%
 
