@@ -3,7 +3,7 @@ title: Droits inter-organisations dans les intégrations AEM Assets pour Creati
 description: Découvrez comment configurer les droits inter-organisations dans les intégrations AEM Assets pour Creative Cloud. Connectez-vous à un droit Creative Cloud fourni à une autre organisation IMS afin d’utiliser facilement les dernières intégrations Creative Cloud dans AEM Assets, notamment les bibliothèques Express et Creative Cloud.
 exl-id: 5a39b640-4195-4149-9757-2733ed70e616
 source-git-commit: ebc49d5c29118cd09cf1f97e8f71f63df76b3779
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
 

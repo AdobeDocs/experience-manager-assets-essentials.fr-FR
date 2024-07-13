@@ -4,7 +4,7 @@ description: Intégrer Assets Essentials à l’application Adobe Workfront af
 exl-id: 47c2963d-57f0-463e-8d5b-5e5af9928f77
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '528'
 ht-degree: 100%
 
 ---

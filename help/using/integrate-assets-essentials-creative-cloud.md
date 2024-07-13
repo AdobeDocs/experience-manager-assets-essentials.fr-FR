@@ -4,7 +4,7 @@ description: Intégrer Assets Essentials aux applications Creative Cloud afin q
 exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '812'
 ht-degree: 100%
 
 ---

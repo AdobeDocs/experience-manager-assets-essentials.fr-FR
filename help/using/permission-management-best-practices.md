@@ -4,7 +4,7 @@ description: Bonnes pratiques pour une gestion efficace des autorisations
 exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '441'
 ht-degree: 100%
 
 ---

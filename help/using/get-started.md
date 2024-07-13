@@ -5,7 +5,7 @@ role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: fedcf02b5338d6640e557dad25ca03cfbd78d7e5
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '418'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ La gestion de vos ressources numériques à l’aide d’[!DNL Assets Essentials
 * **Étape 2** : [rechercher](/help/using/search.md) et [télécharger](/help/using/manage-organize.md#download) des ressources.
 * **Étape 3** : [gérer et organiser](/help/using/manage-organize.md) vos ressources.
 
-Pour utiliser [!DNL Assets Essentials], connectez-vous à l’adresse [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Lors de la connexion, sélectionnez `Company or School Account`. Pour recevoir un accès, contactez l’administrateur de votre entreprise.
+Pour utiliser [!DNL Assets Essentials], connectez-vous à l’adresse [https://experience.adobe.com/#/assets](https://experience.adobe.com/#/assets). Lors de la connexion, sélectionnez `Company or School Account`. Pour recevoir un accès, contactez l’administrateur ou l’administratrice de votre organisation.
 
 En outre, des informations de référence supplémentaires qui peuvent s’avérer utiles sont la [compréhension de l’interface utilisateur](/help/using/navigate-view.md) et la [liste des cas d’utilisation](#use-cases) <!-- TBD: [supported file types](/help/using/supported-file-formats.md), --> et des [problèmes connus](/help/using/release-notes.md#known-issues).
 

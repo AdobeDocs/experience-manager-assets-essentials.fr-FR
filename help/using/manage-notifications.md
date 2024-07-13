@@ -3,7 +3,7 @@ title: Gérer les notifications
 description: Surveillez toute opération effectuée sur les ressources ou dossiers du répertoire à l’aide des notifications Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 100%
 
@@ -84,7 +84,7 @@ Une fois que vous êtes [abonné aux catégories de notification](#subscribe-to-
 >* Pour les catégories de notification **[!UICONTROL Demandes]** et **[!UICONTROL Attribué à moi]**, vous n’avez pas besoin de vous abonner au contenu après vous être abonné aux catégories de notification. Les notifications vous sont automatiquement envoyées dans les situations suivantes : lorsque vous créez une demande et lorsqu’une tâche vous est affectée.
 >* Assets Essentials envoie des notifications uniquement lorsque d’autres utilisateurs effectuent des actions sur le contenu avec abonnement. Vous ne recevez pas de notifications pour les actions que vous effectuez sur le contenu avec abonnement.
 
-Pour vous abonner au contenu, sélectionnez le dossier, la ressource ou la collection auquel vous souhaitez vous abonner, puis cliquez sur **[!UICONTROL Observer]**.
+Pour vous abonner au contenu, sélectionnez le dossier, la ressource ou la collection auquel vous souhaitez vous abonner, puis cliquez sur **[!UICONTROL Surveiller]**.
 
 Assets Essentials affiche un message de succès. Sur celui-ci, vous pouvez cliquer sur **[!UICONTROL Accéder aux préférences de notification]** pour modifier votre [abonnement aux catégories de notification](#subscribe-to-notification-categories).
 

@@ -1,6 +1,6 @@
 ---
 title: Modifier des vidéos
-description: Modification des vidéos à l’aide de [!DNL Adobe Express] options optimisées et enregistrez les vidéos mises à jour sous forme de versions.
+description: Modifiez les vidéos à l’aide des options  [!DNL Adobe Express] optimisées et enregistrez les vidéos mises à jour sous forme de versions.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
 source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
@@ -12,15 +12,15 @@ ht-degree: 22%
 
 # Modification de vidéos dans [!DNL Assets Essentials] {#edit-videos}
 
-La création de variantes de contenu vidéo est facile pour les utilisateurs d’Assets avec l’élément intégré [!DNL Adobe Express] actions rapides pour la vidéo. Actions rapides dans [!DNL Assets Essentials] optimisée par [!DNL Adobe Express] fournit des options d’édition vidéo conviviales, notamment recadrer la vidéo, redimensionner la vidéo, rogner la vidéo et convertir la vidéo en GIF.
+La création de variantes de contenu vidéo est facile pour les utilisateurs d’Assets avec les actions rapides [!DNL Adobe Express] incorporées pour la vidéo. Les actions rapides de [!DNL Assets Essentials], optimisées par [!DNL Adobe Express], offrent des options d’édition vidéo conviviales, notamment le recadrage de vidéo, le redimensionnement de la vidéo, le rognage de la vidéo et la conversion de la vidéo en GIF.
 
-Pour modifier une vidéo, accédez aux détails de la vidéo et cliquez sur [!UICONTROL Modifier la vidéo]. Vous pouvez également sélectionner la ressource et cliquer sur les détails, puis cliquer sur ![ciseaux](assets/do-not-localize/cut.svg) dans le volet de droite. Après avoir modifié une vidéo, vous pouvez enregistrer la nouvelle vidéo sous la forme d’une nouvelle version ou d’une nouvelle ressource.
+Pour modifier une vidéo, accédez aux détails de la vidéo et cliquez sur [!UICONTROL Modifier la vidéo]. Vous pouvez également sélectionner la ressource et cliquer sur les détails, puis cliquer sur l’icône ![ciseaux](assets/do-not-localize/cut.svg) disponible dans le volet de droite. Après avoir modifié une vidéo, vous pouvez enregistrer la nouvelle vidéo sous la forme d’une nouvelle version ou d’une nouvelle ressource.
 
-En savoir plus sur le [interface d’aperçu](/help/using/navigate-view.md#preview-assets).
+En savoir plus sur l’ [interface d’aperçu](/help/using/navigate-view.md#preview-assets).
 
 ## Conditions préalables {#prerequisites}
 
-Droits d&#39;accès [!DNL Adobe Express] et au moins un environnement dans AEM Assets. L’environnement peut être l’un des référentiels dans [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
+Droits d’accès à [!DNL Adobe Express] et à au moins un environnement dans AEM Assets. L’environnement peut être l’un des référentiels dans [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
 
 ## Modification de vidéos à l’aide d’Adobe Express {#edit-video-using-express}
 
@@ -29,13 +29,13 @@ Droits d&#39;accès [!DNL Adobe Express] et au moins un environnement dans AEM A
 >title="Intégration d’Adobe Express pour la modification vidéo"
 >abstract="Experience Manager Assets comprend désormais des outils d’édition vidéo simples et intuitifs optimisés par Adobe Express pour augmenter la réutilisation du contenu et accélérer sa vitesse de diffusion. Les options de retouche incluent le rognage, le recadrage, le redimensionnement d’une vidéo, ainsi que la conversion d’un fichier MP4 en fichier GIF."
 
-La transformation d’une vidéo en une taille et une orientation parfaites est facile à l’aide de l’incorporation. [!DNL Adobe Express] actions rapides.
+La transformation d’une vidéo en une taille et une orientation parfaites est facile à l’aide d’actions rapides [!DNL Adobe Express] incorporées.
 
 ### Recadrer la vidéo {#crop-video-using-express}
 
-Vous pouvez éliminer les parties indésirables de la vidéo en utilisant l’élément incorporé [!DNL Adobe Express] actions rapides. Pour ce faire, procédez comme suit :
+Vous pouvez éliminer les parties indésirables de la vidéo à l’aide des actions rapides [!DNL Adobe Express] incorporées. Pour ce faire, procédez comme suit :
 
-1. Sélectionnez une vidéo, puis cliquez sur **[!UICONTROL Modifier]**.
+1. Sélectionnez une vidéo et cliquez sur **[!UICONTROL Modifier]**.
 2. Cliquez sur **[!UICONTROL Recadrer la vidéo]** dans les actions rapides disponibles dans le volet de gauche.
 3. Faites glisser les poignées dans les coins de la vidéo pour créer le recadrage souhaité ou choisissez parmi les tailles d’écran existantes selon vos besoins.
 4. Vous pouvez choisir de mettre la vidéo en sourdine ou d’en annuler la mute.
@@ -46,12 +46,12 @@ Vous pouvez éliminer les parties indésirables de la vidéo en utilisant l’é
 
 ### Redimensionner la vidéo {#resize-video-using-express}
 
-Le contenu vidéo final dans la gestion des ressources numériques doit souvent être redimensionné pour être distribué à des canaux spécifiques. [!DNL Assets Essentials] vous permet de redimensionner facilement la vidéo pour l’adapter aux dimensions requises par les canaux sociaux courants. Vous pouvez également redimensionner la vidéo selon des résolutions personnalisées. Pour redimensionner la vidéo à l’aide de [!DNL Assets Essentials], exécutez les étapes ci-dessous :
+Le contenu vidéo final dans la gestion des ressources numériques doit souvent être redimensionné pour être distribué à des canaux spécifiques. [!DNL Assets Essentials] vous permet de redimensionner facilement la vidéo pour l’adapter aux dimensions requises par les canaux sociaux courants et de redimensionner la vidéo en résolutions personnalisées. Pour redimensionner la vidéo à l’aide de [!DNL Assets Essentials], procédez comme suit :
 
-1. Sélectionnez une vidéo, puis cliquez sur **[!UICONTROL Modifier]**.
+1. Sélectionnez une vidéo et cliquez sur **[!UICONTROL Modifier]**.
 2. Cliquez sur **[!UICONTROL Redimensionner la vidéo]** dans les actions rapides disponibles dans le volet de gauche.
-3. Sélectionnez les dimensions appropriées sur la plateforme de médias sociaux sous **[!UICONTROL Redimensionner pour le]** liste déroulante. Vous pouvez également faire glisser les poignées sur les coins de la vidéo pour créer le recadrage souhaité.
-4. Mettez la vidéo à l’échelle, si nécessaire, à l’aide de la fonction **[!UICONTROL Échelle vidéo]** champ .
+3. Sélectionnez les dimensions appropriées dans la liste déroulante **[!UICONTROL Redimensionner pour la]** de la plateforme de médias sociaux. Vous pouvez également faire glisser les poignées sur les coins de la vidéo pour créer le recadrage souhaité.
+4. Mettez la vidéo à l’échelle, si nécessaire, à l’aide du champ **[!UICONTROL Échelle vidéo]** .
 5. Vous pouvez choisir de mettre la vidéo en sourdine ou d’en annuler la mute.
 6. Cliquez sur **[!UICONTROL Appliquer]** pour appliquer vos modifications.
    ![Redimensionnement vidéo avec Adobe Express](/help/using/assets/adobe-express-resize-video.png)
@@ -62,10 +62,10 @@ La vidéo redimensionnée peut être téléchargée. Vous pouvez enregistrer la 
 
 Si vous devez utiliser un clip d’une vidéo plus grande, vous pouvez utiliser la fonction &quot;Rogner la vidéo&quot; pour sélectionner et rogner une section de la vidéo. Procédez comme suit :
 
-1. Sélectionnez une vidéo, puis cliquez sur **[!UICONTROL Modifier]**.
+1. Sélectionnez une vidéo et cliquez sur **[!UICONTROL Modifier]**.
 2. Cliquez sur **[!UICONTROL Rogner la vidéo]** dans les actions rapides disponibles dans le volet de gauche.
 3. Spécifiez les heures de début et de fin de la vidéo pour rogner une partie particulière de celle-ci. Vous pouvez également faire glisser les poignées sur les coins de la vidéo pour créer le rognage de votre choix.
-4. Sélectionnez les dimensions appropriées dans la **[!UICONTROL Taille]** liste déroulante.
+4. Sélectionnez les dimensions appropriées dans la liste déroulante **[!UICONTROL Taille]** .
 5. Vous pouvez choisir de mettre la vidéo en sourdine ou d’en annuler la mute.
 6. Cliquez sur **[!UICONTROL Appliquer]** pour appliquer vos modifications.
    ![Redimensionnement vidéo avec Adobe Express](/help/using/assets/adobe-express-trim-video.png)
@@ -76,7 +76,7 @@ Votre vidéo abrégée peut être téléchargée. Vous pouvez enregistrer la res
 
 Vous pouvez rapidement convertir une vidéo MP4 au format GIF à l’aide d’Adobe Express. Procédez comme suit :
 
-1. Sélectionnez une vidéo, puis cliquez sur **[!UICONTROL Modifier]**.
+1. Sélectionnez une vidéo et cliquez sur **[!UICONTROL Modifier]**.
 2. Cliquez sur **[!UICONTROL Convertir en GIF]** dans les actions rapides disponibles dans le volet de gauche.
 3. Sélectionnez la taille de fichier appropriée en fonction de la qualité souhaitée. Vous pouvez également choisir l’orientation paysage, portrait ou carré.
 4. Faites glisser les poignées sur les coins de la vidéo pour créer le recadrage souhaité.

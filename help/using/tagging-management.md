@@ -3,7 +3,7 @@ title: Gestion des balises dans Assets Essentials
 description: Découvrez comment gérer les balises dans Assets Essentials. Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces.
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1748'
 ht-degree: 100%
 

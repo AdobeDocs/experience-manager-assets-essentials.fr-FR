@@ -5,8 +5,8 @@ role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
 workflow-type: tm+mt
-source-wordcount: '1342'
-ht-degree: 100%
+source-wordcount: '1304'
+ht-degree: 99%
 
 ---
 
@@ -131,7 +131,7 @@ Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d�
 
 Pour plus d’informations, voir [Gérer les autorisations pour les dossiers](manage-permissions.md).
 
-### Configurer les formulaires de métadonnées (Facultatif) {#metadata-forms}
+### Configuration du Forms des métadonnées (facultatif) {#metadata-forms}
 
 Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
 
@@ -147,7 +147,7 @@ Pour plus d’informations sur le formulaires de métadonnées, voir [Formulaire
 
 ### Créer des collections publiques (facultatif) {#create-public-collections}
 
-Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs.
+Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs et utilisatrices.
 
 Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections. Pour plus d’informations, consultez la section [Gérer des collections](manage-collections.md).
 
