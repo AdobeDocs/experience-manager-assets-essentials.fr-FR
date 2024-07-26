@@ -3,10 +3,10 @@ title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
 description: Comprendre l’interface utilisateur et de la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 8620efd0430d230338ef8005847de498a5a95a7e
+source-git-commit: c6b04d1882347a4647a690939353856844b2a27a
 workflow-type: tm+mt
-source-wordcount: '982'
-ht-degree: 100%
+source-wordcount: '1036'
+ht-degree: 90%
 
 ---
 
@@ -30,7 +30,8 @@ Lorsque vous vous connectez à [!DNL Assets Essentials], l’interface suivante 
 
 ## Parcourir et afficher les ressources et les dossiers {#browse-repository}
 
-Vous pouvez accéder aux dossiers requis à partir de l’interface utilisateur principale ou de la barre latérale gauche. Lors de votre navigation, vous pouvez utiliser l’interface pour afficher les miniatures de vos ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
+Vous pouvez accéder aux dossiers requis à partir de l’interface utilisateur principale ou de la barre latérale gauche. Experience Manager Assets affiche désormais des aperçus visuels du contenu du dossier sur la miniature du dossier lors de la navigation ou de la recherche de contenu, ce qui améliore la visibilité des ressources disponibles dans le référentiel AEM Assets. Cette miniature de dossier permet d’économiser le temps consacré à la recherche de ressources spécifiques dans un dossier du référentiel AEM Assets.
+Lorsque vous parcourez des ressources dans un dossier, vous pouvez utiliser l’interface pour afficher des miniatures de ressources afin de parcourir visuellement le référentiel ou d’afficher les détails de la ressource pour trouver rapidement la ressource souhaitée. Les options disponibles dans la barre latérale gauche sont les suivantes :
 
 * [Mon espace de travail](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=fr) : Assets comprend désormais un espace de travail personnalisable, composé de widgets permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
 * [Tâches](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=fr) : vous pouvez afficher les tâches qui vous sont affectées sous l’onglet **Mes tâches**. En revanche, les tâches que vous créez peuvent être affichées sous l’onglet **Tâches affectées**. En outre, les tâches que vous avez terminées se trouvent sous l’onglet **Tâches terminées**.
@@ -63,7 +64,7 @@ Dans [!DNL Assets Essentials], vous pouvez afficher les ressources, les dossiers
 
 Pour localiser une ressource, vous pouvez trier les ressources par ordre croissant ou décroissant de `Name`, `Relevancy`, `Size`, `Modified` et `Created`.
 
-Pour accéder à un dossier, double-cliquez sur la miniature du dossier ou sélectionnez le dossier dans la barre latérale gauche. Pour afficher les détails d’un dossier, sélectionnez-le et cliquez sur Détails dans la barre d’outils supérieure. Pour parcourir la hiérarchie de haut en bas, utilisez la barre latérale gauche ou le chemin de navigation en haut.
+Pour naviguer dans un dossier, double-cliquez sur les miniatures du dossier ou sélectionnez le dossier dans la barre latérale gauche. Pour afficher les détails d’un dossier, sélectionnez-le et cliquez sur Détails dans la barre d’outils supérieure. Pour parcourir la hiérarchie de haut en bas, utilisez la barre latérale gauche ou le chemin de navigation en haut.
 
 ![Parcourir les dossiers](assets/browsing-folders.png)
 
