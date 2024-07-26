@@ -3,10 +3,10 @@ title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
 description: Comprendre l’interface utilisateur et de la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: c6b04d1882347a4647a690939353856844b2a27a
+source-git-commit: 8debab75bb335d4a81279c9c0e84229c3b3ca2cd
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 90%
+ht-degree: 88%
 
 ---
 
@@ -55,7 +55,7 @@ Lorsque vous parcourez des ressources dans un dossier, vous pouvez utiliser l’
 
 Vous pouvez développer ou réduire la barre latérale gauche pour augmenter la zone d’affichage des ressources disponible.
 
-Dans [!DNL Assets Essentials], vous pouvez afficher les ressources, les dossiers et les résultats de recherche dans quatre types différents de mises en page.
+Dans [!DNL Assets Essentials], vous pouvez afficher les ressources, les dossiers et les résultats de recherche dans quatre types différents de mises en page :
 
 * ![Icône de vue liste](assets/do-not-localize/list-view.png) [!UICONTROL Vue Liste]
 * ![Icône de vue grille](assets/do-not-localize/grid-view.png) [!UICONTROL Vue Grille]
