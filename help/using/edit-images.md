@@ -3,7 +3,7 @@ title: Modification des images
 description: Modifiez les images à l’aide des options optimisées d’ [!DNL Adobe Express] et enregistrez les images mises à jour sous forme de versions.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 56a2af8467f3e44855f26bd86a394c76e9f7ccf3
+source-git-commit: 53f638e0dc934f2a4134acb89713b5d4828c8d1f
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 63%
@@ -85,6 +85,7 @@ Vous pouvez rapidement convertir les formats d’image JPEG et PNG à l’aide d
 ### Modifier des images à l’aide de l’éditeur intégré d’Adobe Express {#edit-images-in-adobe-express-embedded-editor}
 
 Les utilisateurs disposant de droits express peuvent utiliser l’éditeur express intégré dans l’interface utilisateur d’Assets Essentials pour modifier le contenu et créer facilement du contenu avec GenAI à partir d’Adobe Firefly. Cette fonctionnalité améliore la réutilisation du contenu et accélère la vitesse du contenu. Vous pouvez également utiliser des éléments prédéfinis pour optimiser l’aspect de vos ressources ou exécuter des actions rapides pour modifier vos images en quelques clics seulement.
+
 ![express dans l’IU de base](/help/using/assets/express-in-essentials-ui.jpg)
 Pour modifier des images dans l’éditeur incorporé d’Adobe Express, procédez comme suit :
 
