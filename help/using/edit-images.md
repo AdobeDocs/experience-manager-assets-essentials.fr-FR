@@ -3,10 +3,10 @@ title: Modification des images
 description: Modifiez les images à l’aide des options optimisées d’ [!DNL Adobe Express] et enregistrez les images mises à jour sous forme de versions.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 65e9f9414fe71d9e9add9b794856d77f87aed086
+source-git-commit: 56a2af8467f3e44855f26bd86a394c76e9f7ccf3
 workflow-type: tm+mt
 source-wordcount: '1182'
-ht-degree: 65%
+ht-degree: 63%
 
 ---
 
@@ -34,7 +34,7 @@ Pour obtenir des informations de référence supplémentaires, reportez-vous à 
 >title="Intégration d’Adobe Express"
 >abstract="Des outils simples et intuitifs d’édition d’images optimisés par Adobe Express sont disponibles directement dans AEM Assets pour augmenter la réutilisation du contenu et accélérer sa vitesse de diffusion."
 
-Après avoir accédé à l’interface d’utilisation d’Essentials, cliquez sur **Ressources**, sélectionnez une image, puis cliquez sur **Modifier** dans le rail supérieur. Le nouvel écran affiche les options de modification disponibles, optimisées par Adobe Express, notamment le redimensionnement, la suppression d’arrière-plan, le recadrage et la conversion entre les formats JPEG et PNG.
+Après avoir accédé à l’interface utilisateur d’Essentials, cliquez sur **Assets**, sélectionnez une image, puis cliquez sur **Modifier** dans le rail supérieur. Le nouvel écran affiche les options de modification disponibles, optimisées par Adobe Express, notamment le redimensionnement, la suppression d’arrière-plan, le recadrage et la conversion entre les formats JPEG et PNG.
 
 #### Redimensionnement de l’image {#resize-image-using-express}
 
