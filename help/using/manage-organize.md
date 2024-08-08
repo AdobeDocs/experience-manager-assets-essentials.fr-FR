@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: ce92eb58ede5d1ebbe88a98bfa7629532396f3be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1222'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -131,8 +131,8 @@ Pour définir le statut de la ressource :
 
 1. Sélectionnez la ressource, puis cliquez sur **[!UICONTROL Détails]** dans la barre d’outils.
 
-1. Dans l’onglet **[!UICONTROL De base]**, sélectionnez le statut de la ressource dans la liste déroulante **[!UICONTROL Statut]**. Les valeurs possibles sont Approuvé, Refusé et Aucun état (par défaut).
-Si des fonctionnalités OpenAPI de Dynamic Media sont configurées pour votre environnement, Experience Manager Assets génère une URL publique dès que vous marquez la ressource comme `Approved`.
+1. Dans l’onglet **[!UICONTROL De base]**, sélectionnez le statut de la ressource dans la liste déroulante **[!UICONTROL Statut]**. Les valeurs possibles sont Approuvé, Refusé et Aucun statut (par défaut).
+Si des fonctionnalités OpenAPI de Dynamic Media sont fournies pour votre environnement, Experience Manager Assets génère une URL publique dès que vous marquez la ressource comme `Approved`.
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
