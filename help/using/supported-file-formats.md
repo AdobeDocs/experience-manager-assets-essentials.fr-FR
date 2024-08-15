@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 source-git-commit: 243a41aef81cd1fdcbad8f4355fe2d888db394d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '527'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 94%
 [!DNL Assets Essentials] prend en charge un large éventail de formats de fichier. Chaque fonctionnalité prend en charge différents types de fichiers.
 
 * ![icône de type de fichier image](assets/image-icon.svg) Images : JPG, PNG, GIF, TIFF et autres.
-* ![Icône de type cloudtype créatif](assets/creative-cloud-files.svg) fichiers de Creative Cloud : PSD, PSB, AI et INDD
+* ![Icône creative cloudtype](assets/creative-cloud-files.svg) Fichiers de Creative Cloud : PSD, PSB, AI et INDD.
 * ![icône de type appareil photo](assets/camera-icon.svg) Fichiers RAW de caméras : CR2/CR3, NEF, SRW/SRF et autres.
 * ![Icône de type de fichier document](assets/document-icon.svg) Documents : DOCX, PDF, PPTX et XLSX
 * ![Icône de type de fichier vidéo](assets/video-icon.svg) Vidéos : MP4
@@ -127,4 +127,4 @@ Les utilisateurs de [!DNL Adobe Asset Link] peuvent charger et enregistrer (char
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General#support).
