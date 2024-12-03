@@ -2,10 +2,10 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 49b650b3efe5740eb1ce39b7dcf6f84e34e0e81a
-workflow-type: ht
-source-wordcount: '1226'
-ht-degree: 100%
+source-git-commit: cb3cd047d3fbfa8e6b2e5a398c11301f93692b2e
+workflow-type: tm+mt
+source-wordcount: '1591'
+ht-degree: 79%
 
 ---
 
@@ -42,7 +42,7 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
 
    **Dans l’onglet Configuration :**
 
-   1. **Type de rapport :** choisissez entre le type de chargement et de téléchargement.
+   1. **Type de rapport :** Sélectionnez parmi les types [!UICONTROL téléchargement], [!UICONTROL téléchargement] ou [Rapport de diffusion Dynamic Media](#dynamic-media-delivery-reports).
    1. **Titre :** ajoutez un titre au rapport.
    1. **Description :** ajoutez une description facultative au rapport.
    1. **Sélectionner le chemin d’accès au dossier :** sélectionnez un chemin d’accès au dossier pour générer le rapport des ressources chargées et téléchargées dans ce dossier spécifique. Par exemple, si vous avez besoin d’un rapport de ressources chargées dans un dossier, indiquez le chemin d’accès à ce dossier.
@@ -70,7 +70,7 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
      <tr>
       <td>Chemin</td>
       <td>Chemin d’accès au dossier qui contient la ressource dans Assets Essentials.</td>
-      <td>Chargement et téléchargement</td>
+      <td>Chargement, téléchargement et diffusion Dynamic Media</td>
      </tr>
      <tr>
       <td>Type MIME</td>
@@ -116,13 +116,71 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
       <td>Téléchargé par « Nom d’utilisateur »</td>
       <td>Nom de l’utilisateur qui a téléchargé la ressource.</td>
       <td>Téléchargement</td>
-     </tr>           
+     </tr>
+     <tr>
+      <td>Référent</td>
+      <td>URL de diffusion ou d’inclusion de la ressource</td>
+      <td>Diffusion Dynamic Media</td>
+     </tr>  
+     <tr>
+      <td>Accès</td>
+      <td>Nombre de fois où la ressource est diffusée (nombre de diffusions)</td>
+      <td>Diffusion Dynamic Media</td>
+     </tr>             
     </tbody>
    </table>
 
+## Rapports sur les diffusions Dynamic Media {#dynamic-media-delivery-reports}
+
+Obtenez des informations de diffusion pour les ressources diffusées avec Dynamic Media, avec le nombre de diffusions au niveau des ressources, les informations sur les référents, le chemin d’accès aux ressources dans AEM Assets et un identifiant de ressource unique. Les rapports peuvent être générés pour toutes les ressources diffusées via Dynamic Media pour le référentiel AEM Assets ou pour une hiérarchie de dossiers spécifique dans AEM Assets. En outre, les insights des rapports sur les diffusions Dynamic Media permettent de mesurer le retour sur investissement des ressources diffusées, de mesurer les performances des canaux et de prendre en charge des tâches de gestion des ressources informées.
+
+>[!NOTE]
+> 
+>Pour obtenir un accès anticipé au rapport de diffusion Dynamic Media sur votre compte Dynamic Media, [créez et envoyez un cas d’assistance clientèle d’Adobe](https://helpx.adobe.com/fr/enterprise/using/support-for-experience-cloud.html).
+
+### Conditions préalables {#prereqs-dynamic-media-delivery-reports}
+
+Vous devez disposer d’une licence Dynamic Media pour créer et utiliser ce rapport.
+
+>[!IMPORTANT]
+> 
+>* Les rapports sont fournis pour les ressources diffusées par Dynamic Media.
+>* Les rapports sont générés pour le premier million de lignes. Pour capturer tous les fichiers dans cette limite, pensez à inclure la colonne Référent pour les dossiers plus petits.
+>* Les rapports peuvent uniquement être générés pour les 3 derniers mois.
+
+### Création d’un rapport de diffusion Dynamic Media{#create-dynamic-media-delivery-report}
+
+1. Créez un rapport de diffusion Dynamic Media, en suivant les étapes mentionnées dans [Créer un rapport](#create-report).
+
+1. Sélectionnez **[!UICONTROL Diffusion Dynamic Media]** dans la liste déroulante **[!UICONTROL Type de rapport]** .
+
+   ![Liste déroulante Rapport de diffusion Dynamic Media](/help/using/assets/dynamic-media-delivery-report-option.png)
+
+
+1. Dans l’onglet **[!UICONTROL Colonnes]**, vous pouvez sélectionner la colonne **[!UICONTROL Référent]** pour l’inclure dans votre rapport.
+
+   ![Référent](/help/using/assets/referrer.png)
+
+   Toutes les colonnes du rapport téléchargé sont en lecture seule, à l’exception de la colonne **Référent**, que vous pouvez modifier pour inclure ou exclure du rapport. <!--Choosing a referrer displays the number of visitors received from each referred report that directs traffic to the site. It offers insights into the sources of traffic and the origin of the visitors. Such insights help measure ROI of delivered assets, measure channel performance, and help take informed asset management tasks for assets.-->
+
+### Actions effectuées sur le rapport Diffusion Dynamic Media {#actions-performed-dynamic-media-delivery-reports}
+
+Après avoir créé le rapport, vous pouvez effectuer les actions suivantes :
+
+* **[!UICONTROL Supprimer]** : vous pouvez supprimer le rapport sélectionné.
+* **[!UICONTROL Télécharger CSV]** : vous pouvez télécharger le rapport sélectionné au format CSV. Le rapport téléchargé se compose des colonnes Nom, Chemin, DynamicMediaID, Référent, Accès .
+   * La colonne **Référent** répertorie l’URL où la ressource est diffusée ou incluse.
+
+   * La colonne **Accès** liste le nombre de fois où la ressource est diffusée (nombre de diffusions).
+
+Pour supprimer ou télécharger le rapport Diffusion Dynamic Media au format CSV, reportez-vous à la section [Affichage et téléchargement d’un rapport existant](#View-and-download-existing-report).
+
+![Fichier CSV téléchargé sur le rapport de diffusion Dynamic Media](/help/using/assets/csv-dynamic-media-delivery-report.png)
+
+
 ## Afficher et télécharger un rapport existant {#View-and-download-existing-report}
 
-Les rapports existants s’affichent dans l’onglet **Rapports exécutés**. Cliquez sur **Rapports** et sélectionnez **Rapports exécutés** pour afficher tous les rapports créés dont le statut est **Terminé**, indiquant qu’ils peuvent être téléchargés. Pour télécharger le rapport au format CSV ou le supprimer, sélectionnez la ligne du rapport. Sélectionnez ensuite **Télécharger le fichier CSV** ou **Supprimer**.
+Les rapports existants s’affichent dans l’onglet **Rapports exécutés**. Cliquez sur **Rapports** et sélectionnez **Rapports exécutés** pour afficher tous les rapports créés dont le statut est **Terminé**, indiquant qu’ils peuvent être téléchargés. Pour télécharger le rapport au format CSV ou le supprimer, sélectionnez la ligne du rapport et choisissez **Télécharger CSV** ou **Supprimer**.
 ![Affichage et téléchargement de rapports existants](/help/using/assets/view-download-existing-report.png)
 
 ## Planifier un rapport {#schedule-report}
