@@ -5,7 +5,7 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
 workflow-type: tm+mt
 source-wordcount: '1226'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -124,7 +124,7 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
 
 ## Afficher et télécharger un rapport existant {#View-and-download-existing-report}
 
-Les rapports existants s’affichent dans l’onglet **Rapports exécutés**. Cliquez sur **Rapports** et sélectionnez **Rapports exécutés** pour afficher tous les rapports créés dont le statut est **Terminé**, indiquant qu’ils peuvent être téléchargés. Pour télécharger le rapport au format CSV ou le supprimer, sélectionnez la ligne du rapport et choisissez **Télécharger CSV** ou **Supprimer**.
+Les rapports existants s’affichent dans l’onglet **Rapports exécutés**. Cliquez sur **Rapports** et sélectionnez **Rapports exécutés** pour afficher tous les rapports créés dont le statut est **Terminé**, indiquant qu’ils peuvent être téléchargés. Pour télécharger le rapport au format CSV ou le supprimer, sélectionnez la ligne du rapport et choisissez **Télécharger le fichier CSV** ou **Supprimer**.
 ![Affichage et téléchargement de rapports existants](/help/using/assets/view-download-existing-report.png)
 
 ## Planifier un rapport {#schedule-report}
