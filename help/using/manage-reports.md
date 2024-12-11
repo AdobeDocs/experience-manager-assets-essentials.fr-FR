@@ -3,9 +3,9 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1226'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
 
    **Dans l’onglet Configuration :**
 
-   1. **Type de rapport :** Sélectionnez parmi le type de rapport [!UICONTROL Télécharger] ou [!UICONTROL Télécharger].
+   1. **Type de rapport :** sélectionnez parmi le type de rapport [!UICONTROL Chargement] ou [!UICONTROL Téléchargement].
    1. **Titre :** ajoutez un titre au rapport.
    1. **Description :** ajoutez une description facultative au rapport.
    1. **Sélectionner le chemin d’accès au dossier :** sélectionnez un chemin d’accès au dossier pour générer le rapport des ressources chargées et téléchargées dans ce dossier spécifique. Par exemple, si vous avez besoin d’un rapport de ressources chargées dans un dossier, indiquez le chemin d’accès à ce dossier.
