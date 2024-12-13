@@ -4,10 +4,10 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
+source-git-commit: 09040ef6dc777aa631b00bb37108f86b83bdf583
 workflow-type: tm+mt
-source-wordcount: '1773'
-ht-degree: 100%
+source-wordcount: '1884'
+ht-degree: 94%
 
 ---
 
@@ -130,9 +130,11 @@ Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mo
 | Liste déroulante | Permet d’ajouter une liste déroulante. |
 | État | Permet d’ajouter la propriété d’état du référentiel (mappée sur repo:state) |
 | Statut de la ressource | Permet d’ajouter la propriété du statut de la ressource par défaut (mappée sur dam:assetStatus) |
+| Approuvé pour | |
 | Balises | Permettent d’ajouter une balise à partir des valeurs stockées dans la Gestion de la taxonomie (mappée sur xcm:tags). |
 | Mots-clés | Permettent d’ajouter des mots-clés de forme libre (mappés sur dc:subject). |
 | Balises intelligentes | Ajoutez ce composant pour augmenter les capacités de recherche en ajoutant automatiquement des balises de métadonnées. |
+| Lien | Ajoutez ce composant pour activer les URL externes. |
 
 ### Attribuer un formulaire de métadonnées à des dossiers {#assign-metadata-form-folder}
 
@@ -165,6 +167,19 @@ Pour supprimer un formulaire de métadonnées d’un dossier :
 1. Sélectionnez le dossier et cliquez sur **[!UICONTROL Supprimer]**. Vous pouvez également sélectionner plusieurs dossiers dans la liste.
 
 Vous pouvez également accéder à la page des détails du dossier et sélectionner **[!UICONTROL Formulaire de métadonnées mappées sur le système]** dans le champ **[!UICONTROL Formulaires de métadonnées]** pour supprimer le formulaire de métadonnées affecté d’un dossier.
+
+### Utilisation du composant Lien dans le formulaire de métadonnées {#link-component-metadata-form}
+
+Le composant Link permet d’activer les URL externes, notamment les liens de stockage, les informations de copyright, les formulaires de contact, etc. Pour utiliser le composant Lien sur le formulaire de métadonnées, vous devez [configurer le formulaire de métadonnées](#metadata-forms).
+
+Suivez les étapes ci-dessous pour utiliser le composant Lien sur le formulaire de métadonnées :
+
+1. Accédez à la page des détails de la ressource et à **[!UICONTROL URL du lien]**.
+1. Ajoutez une URL que vous souhaitez utiliser pour rediriger pour la ressource sélectionnée.
+1. Cliquez sur **[!UICONTROL Ajouter un lien]**. Effectuez l’une des actions suivantes :
+   * Cliquez sur ![icône de copie](assets/do-not-localize/copy.svg) pour copier l’URL.
+   * Cliquez sur ![icône de modification](assets/do-not-localize/edit.svg) pour modifier l’URL.
+1. Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer les modifications.
 
 ## Étapes suivantes {#next-steps}
 
