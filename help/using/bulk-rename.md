@@ -3,7 +3,7 @@ title: Renommez et les ressources en bloc renomment dans  [!DNL Assets Essential
 description: Découvrez comment renommer des ressources en bloc à l’aide de la nouvelle interface utilisateur d’Assets (Assets Essentials). Il permet de renommer plusieurs ressources à la fois.
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: 631156a70271b6f480264e2c604314f09a820fc9
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 17%
@@ -51,7 +51,7 @@ Voici quelques exemples d’utilisation de l’IA pour renommer des ressources e
 * Supprimez le préfixe et le suffixe, conservez simplement la partie centrale du nom.
 * faire précéder les fichiers de 001, 002, etc. ; et traduire en anglais.
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3440975)
+>[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
 >[!NOTE]
 >
