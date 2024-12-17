@@ -4,10 +4,10 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
 workflow-type: tm+mt
-source-wordcount: '1884'
-ht-degree: 94%
+source-wordcount: '1964'
+ht-degree: 90%
 
 ---
 
@@ -130,11 +130,10 @@ Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mo
 | Liste déroulante | Permet d’ajouter une liste déroulante. |
 | État | Permet d’ajouter la propriété d’état du référentiel (mappée sur repo:state) |
 | Statut de la ressource | Permet d’ajouter la propriété du statut de la ressource par défaut (mappée sur dam:assetStatus) |
-| Approuvé pour | |
 | Balises | Permettent d’ajouter une balise à partir des valeurs stockées dans la Gestion de la taxonomie (mappée sur xcm:tags). |
 | Mots-clés | Permettent d’ajouter des mots-clés de forme libre (mappés sur dc:subject). |
 | Balises intelligentes | Ajoutez ce composant pour augmenter les capacités de recherche en ajoutant automatiquement des balises de métadonnées. |
-| Lien | Ajoutez ce composant pour activer les URL externes. |
+| Lien | Ajoutez ce composant pour activer les URL externes. Une fois configuré sur le formulaire de métadonnées, le composant URL peut être mappé à une propriété de métadonnées spécifique dans la page Éditeur de métadonnées . Ce [formulaire de métadonnées peut être affecté à des dossiers](#assign-metadata-form-folder). |
 
 ### Attribuer un formulaire de métadonnées à des dossiers {#assign-metadata-form-folder}
 
@@ -170,9 +169,9 @@ Vous pouvez également accéder à la page des détails du dossier et sélection
 
 ### Utilisation du composant Lien dans le formulaire de métadonnées {#link-component-metadata-form}
 
-Le composant Link permet d’activer les URL externes, notamment les liens de stockage, les informations de copyright, les formulaires de contact, etc. Pour utiliser le composant Lien sur le formulaire de métadonnées, vous devez [configurer le formulaire de métadonnées](#metadata-forms).
+Le composant Link permet d’activer les URL externes, notamment les liens de stockage, les informations de copyright, les formulaires de contact, etc. Pour utiliser le composant Lien sur le formulaire de métadonnées, vous devez [configurer le formulaire de métadonnées](#metadata-forms). Le composant URL peut être mappé à une propriété de métadonnées spécifique dans la page Éditeur de métadonnées, qui fonctionne de la même manière que les autres composants de métadonnées. Ce formulaire de métadonnées peut être affecté à des dossiers. Ainsi, dans la page des détails de la ressource du dossier affecté, vous pouvez voir la valeur des métadonnées du lien de la ressource.
 
-Suivez les étapes ci-dessous pour utiliser le composant Lien sur le formulaire de métadonnées :
+Suivez les étapes ci-dessous pour utiliser le composant Lien sur la page des détails de la ressource :
 
 1. Accédez à la page des détails de la ressource et à **[!UICONTROL URL du lien]**.
 1. Ajoutez une URL que vous souhaitez utiliser pour rediriger pour la ressource sélectionnée.
