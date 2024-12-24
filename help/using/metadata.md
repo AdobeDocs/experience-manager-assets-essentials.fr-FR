@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1964'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -133,7 +133,7 @@ Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mo
 | Balises | Permettent d’ajouter une balise à partir des valeurs stockées dans la Gestion de la taxonomie (mappée sur xcm:tags). |
 | Mots-clés | Permettent d’ajouter des mots-clés de forme libre (mappés sur dc:subject). |
 | Balises intelligentes | Ajoutez ce composant pour augmenter les capacités de recherche en ajoutant automatiquement des balises de métadonnées. |
-| Lien | Ajoutez ce composant pour activer les URL externes. Une fois configuré sur le formulaire de métadonnées, le composant URL peut être mappé à une propriété de métadonnées spécifique dans la page Éditeur de métadonnées . Ce [formulaire de métadonnées peut être affecté à des dossiers](#assign-metadata-form-folder). |
+| Lien | Ajoutez ce composant pour activer les URL externes. Une fois configuré sur le formulaire de métadonnées, le composant URL peut être mappé à une propriété de métadonnées particulière via la page Éditeur de métadonnées. Ce [formulaire de métadonnées peut être affecté à des dossiers](#assign-metadata-form-folder). |
 
 ### Attribuer un formulaire de métadonnées à des dossiers {#assign-metadata-form-folder}
 
@@ -167,17 +167,17 @@ Pour supprimer un formulaire de métadonnées d’un dossier :
 
 Vous pouvez également accéder à la page des détails du dossier et sélectionner **[!UICONTROL Formulaire de métadonnées mappées sur le système]** dans le champ **[!UICONTROL Formulaires de métadonnées]** pour supprimer le formulaire de métadonnées affecté d’un dossier.
 
-### Utilisation du composant Lien dans le formulaire de métadonnées {#link-component-metadata-form}
+### Utiliser le composant Lien dans un formulaire de métadonnées {#link-component-metadata-form}
 
-Le composant Link permet d’activer les URL externes, notamment les liens de stockage, les informations de copyright, les formulaires de contact, etc. Pour utiliser le composant Lien sur le formulaire de métadonnées, vous devez [configurer le formulaire de métadonnées](#metadata-forms). Le composant URL peut être mappé à une propriété de métadonnées spécifique dans la page Éditeur de métadonnées, qui fonctionne de la même manière que les autres composants de métadonnées. Ce formulaire de métadonnées peut être affecté à des dossiers. Ainsi, dans la page des détails de la ressource du dossier affecté, vous pouvez voir la valeur des métadonnées du lien de la ressource.
+Le composant Lien est utilisé pour activer les URL externes, y compris les liens de stockage, les informations de copyright, les formulaires de contact, etc. Pour utiliser le composant Lien sur un formulaire de métadonnées, vous devez [configurer le formulaire de métadonnées](#metadata-forms). Le composant URL peut être mappé à une propriété de métadonnées particulière dans la page Éditeur de métadonnées, et fonctionne de la même manière que les autres composants de métadonnées. Ce formulaire de métadonnées peut être affecté à des dossiers. Ainsi, sur la page des détails de la ressource dans le dossier affecté, vous pouvez voir la valeur de métadonnées du lien de la ressource.
 
-Suivez les étapes ci-dessous pour utiliser le composant Lien sur la page des détails de la ressource :
+Suivez les étapes ci-dessous pour utiliser le composant Lien sur la page des détails de la ressource :
 
-1. Accédez à la page des détails de la ressource et à **[!UICONTROL URL du lien]**.
-1. Ajoutez une URL que vous souhaitez utiliser pour rediriger pour la ressource sélectionnée.
-1. Cliquez sur **[!UICONTROL Ajouter un lien]**. Effectuez l’une des actions suivantes :
-   * Cliquez sur ![icône de copie](assets/do-not-localize/copy.svg) pour copier l’URL.
-   * Cliquez sur ![icône de modification](assets/do-not-localize/edit.svg) pour modifier l’URL.
+1. Accédez à la page des détails de la ressource et à **[!UICONTROL l’URL du lien]**.
+1. Ajoutez une URL que vous souhaitez utiliser comme redirection pour la ressource sélectionnée.
+1. Cliquez sur **[!UICONTROL Ajouter un lien]**. Effectuez l’une des actions suivantes :
+   * Cliquez sur ![l’icône de copie](assets/do-not-localize/copy.svg) pour copier l’URL.
+   * Cliquez sur ![l’icône d’édition](assets/do-not-localize/edit.svg) pour modifier l’URL.
 1. Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer les modifications.
 
 ## Étapes suivantes {#next-steps}
