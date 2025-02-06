@@ -4,9 +4,9 @@ description: Découvrez comment créer des modèles Dynamic Media à l’aide d�
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: a06bdadcd2194e1ffce23c672e605cfb95f14bcf
+source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
 workflow-type: tm+mt
-source-wordcount: '2800'
+source-wordcount: '2758'
 ht-degree: 0%
 
 ---
@@ -86,8 +86,6 @@ Pour [créer un dossier](/help/assets/add-delete-assets-view.md) sous **[!UICONT
 **Options de menu dans le volet de gauche :** utilisez ces options pour les actions courantes de l’éditeur, comme indiqué ci-dessous.
 
 * ![ Modèles DM ](/help/using/assets/layer-selector.svg) : sélectionnez un calque.
-* ![modèles prenant en charge la personnalisation](/help/using/assets/bring-forward.svg) : cliquez pour avancer un calque sélectionné ou appuyez sur **Ctrl** + **]** (Windows) ou **Cmd** + **]** (Mac).
-* ![comment créer un modèle qui peut être personnalisé facilement ](/help/using/assets/send-backward.svg) : cliquez pour envoyer un calque sélectionné vers l’arrière ou appuyez sur **Ctrl** + **[** (Windows) ou **Cmd** + **[** (Mac).
 * ![créez un modèle qui peut être personnalisé instantanément](/help/using/assets/undo.svg) : cliquez pour annuler la dernière action ou appuyez sur **Ctrl** + **Z** (Windows) ou **Cmd** + **Z** (Mac).
 * ![modèle pour créer rapidement des bannières](/help/using/assets/redo.svg) : cliquez pour répéter la dernière action ou appuyez sur **Ctrl** + **Y** (Windows) ou **Cmd** + **Y** (Mac).
 * ![modèle pour créer rapidement des prospectus](/help/using/assets/zoomin.svg) : cliquez pour effectuer un zoom sur la zone de travail ou appuyez sur **Ctrl** + **+** (Windows) ou Cmd + **+** (Mac).
