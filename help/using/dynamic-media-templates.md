@@ -4,10 +4,10 @@ description: Découvrez comment créer des modèles Dynamic Media à l’aide d�
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: e09573fb64567b2975d5e7e08c2cf2db62b72202
+source-git-commit: 64123ef9b8f669da24b296a5c1ea6bd514778c32
 workflow-type: tm+mt
 source-wordcount: '2766'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -65,7 +65,7 @@ Pour créer une zone de travail vide, procédez comme suit :
 
 1. Accédez à Assets Essentials et cliquez sur **[!UICONTROL Dynamic Media Assets]** disponible dans le panneau de gauche.
 
-   ![Modèles Dynamic Media](/help/using/assets/DM-Assets1.png)
+   ![Modèles Dynamic Media](/help/using/assets/DM-Assets1.png)
 
 1. Cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle sous Dynamic Media Assets ou accédez à un dossier et cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle dans ce dossier. La boîte de dialogue **[!UICONTROL Nouveau modèle]** s’affiche.
    ![comment créer des modèles dynamiques qui peuvent être personnalisés en temps réel ](/help/using/assets/new-template.png)
