@@ -4,16 +4,16 @@ description: Découvrez comment créer des modèles Dynamic Media à l’aide d�
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
+source-git-commit: e09573fb64567b2975d5e7e08c2cf2db62b72202
 workflow-type: tm+mt
-source-wordcount: '2758'
+source-wordcount: '2766'
 ht-degree: 0%
 
 ---
 
 # Modèles Dynamic Media{#dynamic-media-templates}
 
-| [Bonnes pratiques de recherche](/help/assets/search-best-practices.md) | [Bonnes pratiques relatives aux métadonnées](/help/assets/metadata-best-practices.md) | [Hub de contenus](/help/assets/product-overview.md) | [Documentation de développement pour AEM Assets](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
+| [Bonnes pratiques de recherche](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Bonnes pratiques relatives aux métadonnées](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Hub de contenus](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentation de développement pour AEM Assets](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
 
 Créez des modèles Dynamic Media à l’aide d’un éditeur de modèles WYSIWYG et incluez plusieurs images et calques de texte pour créer rapidement des bannières et des prospectus et les utiliser dans des applications en aval. Vous pouvez également ajouter des paramètres aux calques d’images et de texte inclus dans le modèle et utiliser les [URL Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) pour mettre à jour les valeurs de ces calques en temps réel.
@@ -44,10 +44,10 @@ Voici quelques-uns des principaux avantages des modèles Dynamic Media :
 Pour créer un modèle Dynamic Media, vous devez disposer des éléments suivants :
 
 1. Accès à Dynamic Media.
-1. [Les images disponibles dans votre instance AEM Assets ont été synchronisées avec Dynamic Media afin de les utiliser pour créer le modèle](/help/assets/dynamic-media/config-dm.md).
+1. [Les images disponibles dans votre instance AEM Assets ont été synchronisées avec Dynamic Media afin de les utiliser pour créer le modèle](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 1. Vérifiez les éléments suivants dans l’interface utilisateur tactile :
-   * Sur la page **[!UICONTROL Modifier la configuration Dynamic Media]**, le mode de synchronisation Dynamic Media **** défini sur **[!UICONTROL Désactivé par défaut]** n’est pas appliqué à tous les dossiers AEM (**[!UICONTROL Synchroniser tout le contenu]** est décoché). Pour plus d’informations, consultez [configuration du Cloud Service Dynamic Media](/help/assets/dynamic-media/config-dm.md).
-   * Le mode de synchronisation Dynamic Media **** est défini sur **[!UICONTROL Activer pour les sous-dossiers]** pour le dossier ou sous-dossier de destination dans lequel vous enregistrerez le modèle après sa création. Pour plus d’informations, consultez [configuration du Cloud Service Dynamic Media](/help/assets/dynamic-media/config-dm.md).
+   * Sur la page **[!UICONTROL Modifier la configuration Dynamic Media]**, le mode de synchronisation Dynamic Media **** défini sur **[!UICONTROL Désactivé par défaut]** n’est pas appliqué à tous les dossiers AEM (**[!UICONTROL Synchroniser tout le contenu]** est décoché). Pour plus d’informations, consultez [configuration du Cloud Service Dynamic Media](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
+   * Le mode de synchronisation Dynamic Media **** est défini sur **[!UICONTROL Activer pour les sous-dossiers]** pour le dossier ou sous-dossier de destination dans lequel vous enregistrerez le modèle après sa création. Pour plus d’informations, consultez [configuration du Cloud Service Dynamic Media](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 
 ## Création d’un modèle WYSIWYG Dynamic Media{#how-to-create-dynamic-media-wysiwyg-template}
 
@@ -69,7 +69,7 @@ Pour créer une zone de travail vide, procédez comme suit :
 
 1. Cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle sous Dynamic Media Assets ou accédez à un dossier et cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle dans ce dossier. La boîte de dialogue **[!UICONTROL Nouveau modèle]** s’affiche.
    ![comment créer des modèles dynamiques qui peuvent être personnalisés en temps réel ](/help/using/assets/new-template.png)
-Pour [créer un dossier](/help/assets/add-delete-assets-view.md) sous **[!UICONTROL Dynamic Media Assets]**, créez un dossier sous **[!UICONTROL Assets]**. L’arborescence de dossiers sous **[!UICONTROL Assets]** est répliquée sous **[!UICONTROL Dynamic Media Assets]**.
+Pour [créer un dossier](/help/using/add-delete.md) sous **[!UICONTROL Dynamic Media Assets]**, créez un dossier sous **[!UICONTROL Assets]**. L’arborescence de dossiers sous **[!UICONTROL Assets]** est répliquée sous **[!UICONTROL Dynamic Media Assets]**.
 1. Indiquez un nom de modèle, définissez la largeur et la hauteur de la zone de travail, puis cliquez sur **[!UICONTROL Créer]**. Une zone de travail vierge s’affiche avec des options de menu des deux côtés à utiliser pour créer le modèle. Pointez sur les options de menu pour afficher leur info-bulle.
    ![ modèle personnalisable en temps réel ](/help/using/assets/blank-canvas-page.png)
 
@@ -89,7 +89,7 @@ Pour [créer un dossier](/help/assets/add-delete-assets-view.md) sous **[!UICONT
 * ![créez un modèle qui peut être personnalisé instantanément](/help/using/assets/undo.svg) : cliquez pour annuler la dernière action ou appuyez sur **Ctrl** + **Z** (Windows) ou **Cmd** + **Z** (Mac).
 * ![modèle pour créer rapidement des bannières](/help/using/assets/redo.svg) : cliquez pour répéter la dernière action ou appuyez sur **Ctrl** + **Y** (Windows) ou **Cmd** + **Y** (Mac).
 * ![modèle pour créer rapidement des prospectus](/help/using/assets/zoomin.svg) : cliquez pour effectuer un zoom sur la zone de travail ou appuyez sur **Ctrl** + **+** (Windows) ou Cmd + **+** (Mac).
-* ![modèle pour créer rapidement des bannières](/help/using/assets/zoomout.svg) : cliquez pour effectuer un zoom arrière sur la zone de travail ou appuyez sur **Ctrl** + **-** (Windows) ou **Cmd** + **-** (Mac).
+* ![modèle pour créer rapidement des bannières](/help/using/assets/ZoomOut-1.svg) : cliquez pour effectuer un zoom arrière sur la zone de travail ou appuyez sur **Ctrl** + **-** (Windows) ou **Cmd** + **-** (Mac).
 * Appuyez sur **Retour arrière** ou **Supprimer** pour supprimer le calque sélectionné si aucun texte ou propriété n’est modifié.
 
 Cliquez sur ![modèle pour créer rapidement des prospectus](/help/using/assets/show-layers-list.svg) **>** d’autres options (![](/help/using/assets/three-dots.svg)) sur le calque Zone de travail pour modifier les dimensions de la zone de travail à tout moment lors de la création du modèle.
@@ -121,7 +121,7 @@ Pour repositionner, redimensionner, faire pivoter ou supprimer le calque, report
 
 >[!NOTE]
 >
-> Pour utiliser une autre police que la famille de polices Adobe Sans F2 par défaut, vous devez charger et publier le fichier de police dans AEM Assets et Dynamic Media. Si votre instance contient d’anciennes polices, veillez à [retraiter](/help/assets/reprocessing-assets-view.md) pour les afficher dans l’éditeur de modèles.
+> Pour utiliser une autre police que la famille de polices Adobe Sans F2 par défaut, vous devez charger et publier le fichier de police dans AEM Assets et Dynamic Media. Si votre instance contient d’anciennes polices, veillez à [retraiter](/help/using/reprocessing.md) pour les afficher dans l’éditeur de modèles.
 
 ### Modifier ou supprimer un calque {#edit-or-delete-a-layer}
 
@@ -281,5 +281,5 @@ Modifiez le modèle en procédant comme suit :
 
 ## Voir également
 
-1. Explorez [Dynamic Media et ses fonctionnalités](/help/assets/dynamic-media/dynamic-media.md)
-1. Explorez [Dynamic Media avec les fonctionnalités OpenAPI](/help/assets/dynamic-media-open-apis-overview.md)
+1. Explorez [Dynamic Media et ses fonctionnalités](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Explorez [Dynamic Media avec les fonctionnalités OpenAPI](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
