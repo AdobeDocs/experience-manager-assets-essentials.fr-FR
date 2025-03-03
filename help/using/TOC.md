@@ -9,10 +9,10 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
-source-git-commit: dec81fe265f907775addee640ff307ab142e15d8
-workflow-type: ht
-source-wordcount: '149'
-ht-degree: 100%
+source-git-commit: fc35954e30985ec1b2367527423e0508020eccdd
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 98%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 100%
 + [Chargement et ajout de ressources](add-delete.md)
 + [Importer des ressources en bloc](bulk-import-assets-view.md)
 + [Recherche et découverte de ressources](search.md)
++ [Filtres de recherche personnalisés](custom-search-filters.md)
 + [Tâches de gestion des ressources](manage-organize.md)
 + [Modification des images](edit-images.md)
 + [Modifier des vidéos](edit-videos.md)
@@ -47,7 +48,7 @@ ht-degree: 100%
 + [Gérer les rapports](manage-reports.md)
 + [Retraitement](reprocessing.md)
 + [Gérer les balises](tagging-management.md)
-+ [Informations de traçabilité du contenu](/help/using/content-credentials.md)
++ [Content Credentials](/help/using/content-credentials.md)
 + Intégration à d’autres solutions {#integration-with-other-solutions}
    + [Vue d’ensemble](integration.md)
    + [Intégrer à Adobe Asset Link](integrate-with-creative-cloud.md)
