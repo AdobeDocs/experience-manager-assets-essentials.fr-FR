@@ -4,10 +4,10 @@ description: Gestion des métadonnées des ressources dans  [!DNL Assets Essenti
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
-workflow-type: ht
-source-wordcount: '1964'
-ht-degree: 100%
+source-git-commit: 1cda73b6ddc573d2736fdaa45b582198420ed5b1
+workflow-type: tm+mt
+source-wordcount: '2159'
+ht-degree: 89%
 
 ---
 
@@ -169,16 +169,47 @@ Vous pouvez également accéder à la page des détails du dossier et sélection
 
 ### Utiliser le composant Lien dans un formulaire de métadonnées {#link-component-metadata-form}
 
-Le composant Lien est utilisé pour activer les URL externes, y compris les liens de stockage, les informations de copyright, les formulaires de contact, etc. Pour utiliser le composant Lien sur un formulaire de métadonnées, vous devez [configurer le formulaire de métadonnées](#metadata-forms). Le composant URL peut être mappé à une propriété de métadonnées particulière dans la page Éditeur de métadonnées, et fonctionne de la même manière que les autres composants de métadonnées. Ce formulaire de métadonnées peut être affecté à des dossiers. Ainsi, sur la page des détails de la ressource dans le dossier affecté, vous pouvez voir la valeur de métadonnées du lien de la ressource.
+Le composant Lien est utilisé pour activer les URL externes, y compris les liens de stockage, les informations de copyright, les formulaires de contact, etc. Pour utiliser le composant Lien sur un formulaire de métadonnées, vous devez [configurer le formulaire de métadonnées](#metadata-forms). Le composant URL peut être mappé à une propriété de métadonnées particulière dans la page Éditeur de métadonnées, et fonctionne de la même manière que les autres composants de métadonnées. Ce formulaire de métadonnées peut être affecté à des dossiers. Ainsi, dans la page des détails de la ressource du dossier affecté, vous pouvez voir la valeur des métadonnées du lien de la ressource.
 
-Suivez les étapes ci-dessous pour utiliser le composant Lien sur la page des détails de la ressource :
+Pour utiliser le composant Link sur la page des détails de la ressource, procédez comme suit :
 
-1. Accédez à la page des détails de la ressource et à **[!UICONTROL l’URL du lien]**.
+1. Accédez à la page des détails de la ressource et à l’**[!UICONTROL URL du lien]**.
 1. Ajoutez une URL que vous souhaitez utiliser comme redirection pour la ressource sélectionnée.
 1. Cliquez sur **[!UICONTROL Ajouter un lien]**. Effectuez l’une des actions suivantes :
    * Cliquez sur ![l’icône de copie](assets/do-not-localize/copy.svg) pour copier l’URL.
    * Cliquez sur ![l’icône d’édition](assets/do-not-localize/edit.svg) pour modifier l’URL.
 1. Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer les modifications.
+
+### Utilisation du composant Balises dans le formulaire de métadonnées {#tag-component-metadata-form}
+
+L’élément racine représente l’arborescence des balises que vous pouvez associer aux ressources et qui permet d’identifier la ressource en fonction de la balise qui lui est attribuée. De plus, vous pouvez restreindre l’accès à une taxonomie spécifique lors de la configuration du formulaire de métadonnées dans l’éditeur de métadonnées.
+
+#### Configuration du composant Balises {#tags-component-configuration}
+
+Configurez le composant Balises en procédant comme suit :
+
+1. Accédez à l’éditeur de métadonnées, puis à l’**[!UICONTROL Balises]** et placez-le sur la zone de travail.
+1. Renommez le composant sur la zone de travail. Pour ce faire, accédez à **[!UICONTROL Libellé]** sous la propriété [!UICONTROL Métadonnées] dans le panneau Paramètres et ajoutez le texte pour son identification.
+1. Sous la [!UICONTROL propriété de métadonnées] dans le panneau Paramètres, recherchez la propriété de métadonnées que vous souhaitez affecter au composant.
+1. Cliquez sur **[!UICONTROL Restreindre à une taxonomie spécifique]** pour restreindre le chemin racine de la taxonomie. Pour ce faire, parcourez les balises et choisissez la taxonomie du chemin d’accès particulier.
+1. Cliquez sur **[!UICONTROL Enregistrer]** pour enregistrer les modifications.
+
+   ![Configuration des balises racine](assets/root-tag-config.png)
+1. [Attribuer un formulaire de métadonnées à des dossiers](#assign-metadata-form-folder).
+
+<!--
+#### Mapping between assets and taxonomy {#asset-taxonomy-mapping}
+
+See [Assign metadata form to folders](#assign-metadata-form-folder). Follow the steps below to perform mapping between folder and taxonomy:
+
+1. Go back to the Settings and click **[!UICONTROL Metadata forms]**.
+1. Select a Metadata form that needs mapping. 
+1. Click **[!UICONTROL Assign to folder(s)]**. **[!UICONTROL Select Folder(s)]** screen appears. 
+1. Navigate to the folder that you want to assign to the metadata form. You can select multiple folders.
+1. Click **[!UICONTROL Assign]**.
+-->
+
+Pour afficher les balises racine configurées, accédez à la page de détails de la ressource où le mappage entre le formulaire de métadonnées et les balises racine est effectué.
 
 ## Étapes suivantes {#next-steps}
 
