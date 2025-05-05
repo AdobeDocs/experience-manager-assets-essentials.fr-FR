@@ -38,7 +38,7 @@ Intégrez AEM Assets à la création basée sur des documents pour que les Edge
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
 
 <!-- TBD: Hiding this link till GA. Do not even include the beta mention as discussed with Greg. Beta is done with customers selected by the Accounts team. It is not an open Beta program. At GA, document this.
 

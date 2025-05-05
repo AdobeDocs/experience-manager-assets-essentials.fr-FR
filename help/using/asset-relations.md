@@ -48,7 +48,7 @@ Grâce à cette fonctionnalité, vous avez la possibilité de partager un fichie
 
 La création de relations source/dérivés entre des ressources à l’aide de la fonctionnalité Ressources mises en relation est également utile dans les workflows de traduction. Lorsque vous exécutez un workflow de traduction sur une ressource dérivée, [!DNL Experience Manager Assets] récupère automatiquement toute ressource référencée par le fichier source et la soumet pour traduction. Ainsi, la ressource référencée par la ressource source est traduite avec les ressources source et dérivées. Si le fichier source est mis en relation avec une autre ressource, [!DNL Experience Manager Assets] récupère la ressource référencée et la soumet pour traduction.
 
-Voir [ Traduction des ressources dans AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
+Voir [ Traduction des ressources dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
 ## Étapes suivantes {#next-steps}
 
@@ -61,5 +61,5 @@ Voir [ Traduction des ressources dans AEM](https://experienceleague.adobe.com/en
 >[!MORELIKETHIS]
 >
 >* [Afficher les versions d’une ressource](manage-organize.md#view-versions)
->* [Traduire les ressources dans AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [Traduire les ressources dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
 >* [Formats de fichiers pris en charge dans la vue Assets](supported-file-formats.md).

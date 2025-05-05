@@ -37,7 +37,7 @@ Les exceptions à cette règle concernent les notes de mise à jour qui réperto
 
 Toute opinion susceptible d’améliorer la documentation d’[!DNL Experience Manager] est la bienvenue sous forme de contributions. Toutefois, les commentaires, les demandes et les demandes d’extraction sont destinés uniquement aux *contributions*. Ils ne sont pas censés être utilisés pour répondre à vos questions sur l’utilisation d’[!DNL Experience Manager], mettre en œuvre votre projet [!DNL Experience Manager] ou résoudre des problèmes techniques.
 
-Toute question relative à l’utilisation d’[!DNL Experience Manager] ou à la résolution d’erreurs techniques doit être soumise au moyen du processus d’assistance classique via le [[!DNL Experience Manager] Portail d’assistance d’Experience Manager](https://experienceleague.adobe.com/?support-solution=Experience+Manager&amp;lang=fr#support) ou posée dans la [communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Toute question relative à l’utilisation d’[!DNL Experience Manager] ou à la résolution d’erreurs techniques doit être soumise au moyen du processus d’assistance classique via le [[!DNL Experience Manager] Portail d’assistance d’Experience Manager](https://experienceleague.adobe.com/fr?support-solution=Experience+Manager&amp;lang=fr#support) ou posée dans la [communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr).
 
 Les contributions à la documentation d’***[!DNL Experience Manager] ne remplacent pas le service clientèle d’Adobe*** et toute contribution de ce type visant à obtenir des réponses à des questions d’assistance sera refusée.
 

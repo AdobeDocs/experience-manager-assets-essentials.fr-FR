@@ -152,7 +152,7 @@ The brush samples the retouched area and makes the repaired pixels blend seamles
 
 <!-- 
 TBD: See if we should give backlinks to PS docs for these concepts.
-For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
+For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/fr/photoshop/using/retouching-repairing-images.html). 
 -->
 <!--
 ### Crop and straighten images {#crop-straighten-images-using-photoshop-express}
@@ -195,7 +195,7 @@ TBD: Insert a video of the available social media options.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
 
 >[!MORELIKETHIS]
 >
