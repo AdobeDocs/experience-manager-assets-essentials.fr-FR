@@ -223,7 +223,7 @@ Pour attribuer le même nom aux paramètres de masquage (![création rapide de c
 
 Procédez comme suit pour prévisualiser et publier le modèle et copier l’URL de diffusion :
 
-1. Sur la page Zone de travail, cliquez sur **[!UICONTROL Aperçu]**. Vous pouvez également accéder à **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Dynamic Media Assets]** **>** rechercher et sélectionner votre modèle **>** cliquer sur **[!UICONTROL Modifier le modèle]**>**cliquer sur** Aperçu ****. La page d’aperçu affiche le modèle, ses paramètres (calques et propriétés paramétrés), l’état de publication et l’option **[!UICONTROL Publier]**.
+1. Sur la page Zone de travail, cliquez sur **[!UICONTROL Aperçu]**. Vous pouvez également accéder à **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Dynamic Media Assets]** **>** rechercher et sélectionner votre modèle **>** cliquer sur **[!UICONTROL Modifier le modèle]**>**cliquer sur** Aperçu **&#x200B;**. La page d’aperçu affiche le modèle, ses paramètres (calques et propriétés paramétrés), l’état de publication et l’option **[!UICONTROL Publier]**.
 1. Sélectionnez des paramètres dans le panneau **[!UICONTROL Paramètres du modèle]** pour modifier leurs valeurs et mettre instantanément à jour le contenu, la taille, la position ou le formatage textuel du calque de modèle correspondant dans l’aperçu. Par exemple :
    1. Sélectionnez un calque de texte et modifiez son texte ou
    1. Sélectionnez un calque d’image, cliquez sur ![création de contenu à la volée](/help/using/assets/add-image.svg), sélectionnez une image dans le sélecteur de ressources, puis cliquez sur **[!UICONTROL Actualiser]**.

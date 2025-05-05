@@ -71,6 +71,7 @@ Exécutez les étapes suivantes pour modifier en bloc les métadonnées de plusi
    * **Mots-clés :** ajoutez des termes ou des chaînes de texte spécifiques qui fournissent des informations générales sur les ressources afin d’améliorer leur visibilité. Ajoutez un mot-clé et appuyez sur Entrée ou Retour pour ajouter un autre mot-clé à la liste.
    * **Balises :** cliquez sur ![icône des balises](/help/using/assets/tags-icon.svg) pour sélectionner des balises dans les options disponibles. Les balises fournissent des informations plus spécifiques sur les ressources et améliorent leur visibilité. Les balises déjà appliquées aux ressources sélectionnées s’affichent dans le panneau **Propriétés**. Si vous ne trouvez pas les balises appropriées, créez-les et affectez-les aux ressources sélectionnées. Voir [Gérer les balises dans Assets Essentials](/help/using/tagging-management.md) pour plus d’informations sur la création et l’affectation de balises à des ressources.
    * Cliquez sur **Enregistrer** pour appliquer les mises à jour de métadonnées ci-dessus aux ressources sélectionnées. Une fois enregistrés, les mots-clés et les balises sont ajoutés, tandis que les détails mis à jour pour le statut, la date d’expiration et l’auteur remplacent leurs détails existants.
+
      ![save-bulk-metadata-edit-properties](/help/using/assets/save-bulk-metadata-edit-properties2.png)
 
      >[!NOTE]
