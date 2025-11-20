@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: bbc08d7762f1f8f87e5874977b65136522ba8a4a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 + [Notes de mise à jour](release-notes.md)
 + [Sécurité](security-overview.md)
 + [Mon espace de travail](my-workspace.md)
-+ Prise en main d’Assets Essentials pour l’administration {#get-started-admins}
++ Prise en main d’Assets Essentials pour l’administration {#get-started-admins}
    + [Administrer et ajouter des utilisateurs](deploy-administer.md)
    + Gérer l’accès aux dossiers{#folder-access}
       + [Gérer les autorisations des dossiers](manage-permissions.md)
@@ -54,7 +54,7 @@ ht-degree: 100%
    + [Vue d’ensemble](integration.md)
    + [Intégrer à Adobe Asset Link](integrate-with-creative-cloud.md)
    + [Intégrer à Adobe Workfront](integrate-with-workfront.md)
-+ Intégrer à Creative Cloud {#integration-with-creative-cloud}
++ Intégration à Creative Cloud {#integration-with-creative-cloud}
    + [Connecter AEM Assets à Creative Cloud](connect-assets-with-creative-cloud.md)
 + [Vidéos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=fr)
 + [Modèles Dynamic Media](dynamic-media-templates.md)
