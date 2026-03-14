@@ -37,7 +37,7 @@ Assets Essentials vous permet :
 
 Assets Essentials offre une interface utilisateur web autonome aux utilisateurs finaux et aux administrateurs, leur permettant d’accéder à toutes les fonctionnalités de la solution. Les utilisateurs d’autres solutions Adobe peuvent également accéder aux ressources d’Assets Essentials et les exploiter au moyen d’une expérience intégrée, disponible dans l’abonnement Creative Cloud abonnement Entreprise, Adobe Journey Optimizer et Adobe Workfront.
 
-![Intégration à d’autres solutions ](assets/assets-essentials-integration.svg)
+![Intégration à d’autres solutions &#x200B;](assets/assets-essentials-integration.svg)
 
 ## Pourquoi choisir Assets Essentials ? {#assets-essentials-features}
 
