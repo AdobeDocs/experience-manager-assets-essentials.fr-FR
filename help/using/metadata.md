@@ -1,13 +1,13 @@
 ---
 title: Gestion des métadonnées
 description: Gestion des métadonnées des ressources dans  [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 1cda73b6ddc573d2736fdaa45b582198420ed5b1
-workflow-type: ht
-source-wordcount: '2159'
-ht-degree: 100%
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+workflow-type: tm+mt
+source-wordcount: '2195'
+ht-degree: 96%
 
 ---
 
@@ -41,7 +41,7 @@ Une fois que la personne administratrice configure le formulaire de métadonnée
 
 ## Balises intelligentes {#smart-tags}
 
-[!DNL Experience Manager Assets] utilise l’intelligence artificielle d’[Adobe Sensei](https://www.adobe.com/fr/sensei.html) pour appliquer automatiquement les balises pertinentes à toutes les ressources que vous avez chargées. Ces balises, les bien-nommées Balises intelligentes, augmentent la vitesse du contenu de vos projets en vous aidant à trouver rapidement les ressources appropriées. Les balises intelligentes sont un exemple de métadonnées qui ne sont pas contenues dans l’image.
+[!DNL Experience Manager Assets] utilise l’intelligence artificielle d’[Adobe Sensei](https://www.adobe.com/fr/sensei.html) pour appliquer automatiquement les balises pertinentes à toutes les ressources que vous avez chargées. Ces balises, judicieusement appelées balises intelligentes, augmentent la vitesse du contenu de vos projets en vous aidant à trouver rapidement les ressources appropriées. Les balises intelligentes sont un exemple de métadonnées qui ne sont pas contenues dans l’image.
 
 Les balises intelligentes sont appliquées en temps quasi réel et sont générées en fonction du contenu de l’image. Lorsque vous chargez une ressource, l’interface utilisateur affiche [!UICONTROL Traitement] sur la miniature de la ressource pendant un certain temps. Une fois le traitement terminé, vous pouvez [afficher les métadonnées](#view-metadata) et les balises intelligentes.
 
@@ -59,7 +59,7 @@ Vous pouvez également supprimer de la section [!UICONTROL Balises intelligentes
 
 ## Gestion de la taxonomie {#taxonomy-management}
 
-Les balises peuvent également être imbriquées dans une hiérarchie pour prendre en charge des relations telles que la catégorie et la sous-catégorie. Si vous devez insérer des balises hiérarchiques, elles sont facilement gérées par l’administration dans la section [!UICONTROL Gestion de la taxonomie] des [!UICONTROL Paramètres]. Vous pouvez créer un ensemble régi d’espaces de noms et de balises auquel tous les utilisateurs et utilisatrices peuvent accéder pour décrire le contenu. Seules les personnes administratrices peuvent configurer des hiérarchies de balises dans le [!UICONTROL Gestionnaire de taxonomie] et s’assurer que les valeurs sont contrôlées et utilisées de manière cohérente.
+Les balises peuvent également être imbriquées dans une hiérarchie pour prendre en charge des relations telles que la catégorie et la sous-catégorie. Si vous devez insérer des balises hiérarchiques, elles sont facilement gérées par l’administration dans la section [!UICONTROL Gestion de la taxonomie] des [!UICONTROL Paramètres]. Vous pouvez créer un ensemble régi d’espaces de noms et de balises auquel l’ensemble des utilisateurs et utilisatrices peuvent accéder pour décrire le contenu. Seules les personnes administratrices peuvent configurer des hiérarchies de balises dans le [!UICONTROL Gestionnaire de taxonomie] et s’assurer que les valeurs sont contrôlées et utilisées de manière cohérente.
 
 ## Configurer les formulaires de métadonnées {#metadata-forms}
 
@@ -128,10 +128,10 @@ Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mo
 | Case à cocher | Permet d’ajouter une valeur booléenne. Stockée comme TRUE ou FALSE quand une valeur est enregistrée. |
 | Date | Permet d’ajouter un composant de date. |
 | Liste déroulante | Permet d’ajouter une liste déroulante. |
-| État | Permet d’ajouter la propriété d’état du référentiel (mappée sur repo:state) |
-| Statut de la ressource | Permet d’ajouter la propriété du statut de la ressource par défaut (mappée sur dam:assetStatus) |
-| Balises | Permettent d’ajouter une balise à partir des valeurs stockées dans la Gestion de la taxonomie (mappée sur xcm:tags). |
-| Mots-clés | Permettent d’ajouter des mots-clés de forme libre (mappés sur dc:subject). |
+| État | Ajoutez la propriété d’état du référentiel (mappée à repo:state) |
+| Statut de la ressource | Ajoutez la propriété Statut de la ressource par défaut (mappée à la gestion des ressources numériques:assetStatus) |
+| Balises | Ajoutez une balise à partir des valeurs stockées dans la gestion de la taxonomie (mappée sur xcm:tags). |
+| Mots-clés | Ajoutez des mots-clés de forme libre (mappés à dc:subject). |
 | Balises intelligentes | Ajoutez ce composant pour augmenter les capacités de recherche en ajoutant automatiquement des balises de métadonnées. |
 | Lien | Ajoutez ce composant pour activer les URL externes. Une fois configuré sur le formulaire de métadonnées, le composant URL peut être mappé à une propriété de métadonnées particulière via la page Éditeur de métadonnées. Ce [formulaire de métadonnées peut être affecté à des dossiers](#assign-metadata-form-folder). |
 
@@ -213,15 +213,16 @@ Pour afficher les balises racines configurées, accédez à la page de détails 
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=fr).
+* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=fr)
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
-<!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
+<!-- 
+TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
 
 * Select a metadata form and click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**.
@@ -229,7 +230,8 @@ To reuse an existing form to create a new form, do one of these:
 * Click **[!UICONTROL Create]**, select **[!UICONTROL Use existing form structure as template]** option, and select an existing form. 
 -->
 
-<!-- TBD: Queries for PM and engg.
+<!-- 
+TBD: Queries for PM and engg.
 
 Can we edit the existing metadata in any form?
 
@@ -244,7 +246,8 @@ Is there a detailed metadata tab. Where do the other details of an asset go?
 How can one search based strictly on the metadata. Similar to AEM Assets GQL queries.
 -->
 
-<!-- TBD: Link to related articles if any.
+<!-- 
+TBD: Link to related articles if any.
 
 >[!MORELIKETHIS]
 >

@@ -1,12 +1,12 @@
 ---
-title: « Interface utilisateur dʼ[!DNL Assets Essentials] »
+title: Interface utilisateur d’[!DNL Assets Essentials]
 description: Comprendre l’interface utilisateur et de la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 5abb9a2ca6136c08479f9a48855522f4fd982e95
-workflow-type: ht
-source-wordcount: '1036'
-ht-degree: 100%
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+workflow-type: tm+mt
+source-wordcount: '1107'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 <!-- TBD: The options in left sidebar may change. Shared with me and Shared by me are missing for now. Update this section as UI is updated. -->
 
-## Comprendre l’interface utilisateur d’[!DNL Assets Essentials]  {#understand-interface-navigation}
+## Comprendre l’interface utilisateur d’[!DNL Assets Essentials] {#understand-interface-navigation}
 
 [!DNL Assets Essentials] offre une interface utilisateur intuitive et conviviale. La clarté de son interface vous aide à rechercher et à mémoriser les ressources et les informations qui les concernent.
 
@@ -36,7 +36,7 @@ Quand vous naviguez dans le dossier des ressources, vous pouvez utiliser l’int
 * [Mon espace de travail](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=fr) : Assets comprend désormais un espace de travail personnalisable, composé de widgets permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
 * [Tâches](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=fr) : vous pouvez afficher les tâches qui vous sont affectées sous l’onglet **Mes tâches**. En revanche, les tâches que vous créez peuvent être affichées sous l’onglet **Tâches affectées**. En outre, les tâches que vous avez terminées se trouvent sous l’onglet **Tâches terminées**.
 * [Ressources](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=fr) : liste de tous les dossiers auxquels vous avez accès sous la forme d’une arborescence.
-* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
+* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
 * [Collections](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=fr) : une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Adobe Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs et utilisatrices. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=fr#view-live-statistics) : dans [!DNL Assets Essentials], vous pouvez afficher des insights en temps réel sur votre tableau de bord. Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.
@@ -46,11 +46,13 @@ Quand vous naviguez dans le dossier des ressources, vous pouvez utiliser l’int
 
 * **Paramètres** : vous pouvez configurer différentes options d’Assets Essentials à l’aide des **Paramètres**, par exemple, les formulaires de métadonnées, les rapports et la gestion de la taxonomie.
 
-<!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
+<!-- 
+TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
 -->
 
-<!-- TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
+<!-- 
+TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
 -->
 
 Vous pouvez développer ou réduire la barre latérale gauche pour augmenter la zone d’affichage des ressources disponible.
@@ -86,7 +88,8 @@ Vous pouvez également prévisualiser des vidéos.
 
 Si vous prévisualisez explicitement une ressource, [!DNL Assets Essentials] l’affiche comme une ressource récemment affichée.
 
-<!-- TBD: Describe the options.
+<!-- 
+TBD: Describe the options.
 
 Explicitly previewed assets are displayed as recently viewed assets. Give screenshot of this.
 Other use cases after previewing.
@@ -104,11 +107,9 @@ Vous pouvez sélectionner les colonnes qui s’affichent en mode Liste des resso
 
 ## Étapes suivantes {#next-steps}
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
-
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
-
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General#support).
 
 >[!MORELIKETHIS]
 >

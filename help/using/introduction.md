@@ -3,21 +3,21 @@ title: Présentation d’ [!DNL Assets Essentials]
 description: Gérez vos ressources avec Experience Manager Assets Essentials, un outil allégé de gestion des actifs numériques qui fonctionne dans les applications Experience Cloud.
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 100%
+source-wordcount: '660'
+ht-degree: 97%
 
 ---
 
 # Présentation d’[!DNL Adobe Experience Manager Assets Essentials] {#assets-essentials}
 
-<!-- TBD: Update this banner to remove Beta label. 
+<!-- 
+TBD: Update this banner to remove Beta label. 
 ![Banner image for beta docs](assets/do-not-localize/banner-image-beta-docs.png)
-
 -->
 
-Adobe propose une solution de Gestion des actifs numériques (DAM) robuste qui vous permet de tirer le meilleur parti de vos ressources numériques. Adobe Experience Manager Assets Essentials est la solution allégée de gestion des actifs d’Adobe pour stocker, gérer, découvrir et exploiter des ressources numériques.
+Adobe propose une solution de Gestion des actifs numériques (DAM) robuste qui vous permet de tirer le meilleur parti de vos ressources numériques. Adobe Experience Manager Assets Essentials est la solution allégée de gestion des ressources numériques d’Adobe. Elle permet de stocker, de gérer, de découvrir et d’utiliser des ressources numériques.
 
 ## Qu’est-ce qu’Assets Essentials ? {#assets-essemtials-overview}
 
@@ -86,11 +86,11 @@ Lorsque les besoins de votre entreprise se développent et que vous avez besoin 
 
 ## Étapes suivantes {#next-steps}
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
 
 >[!MORELIKETHIS]

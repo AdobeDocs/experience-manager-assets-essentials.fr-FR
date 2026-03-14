@@ -1,13 +1,13 @@
 ---
 title: Notes de mise à jour
 description: Notes de mise à jour et problèmes connus d’ [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 323e1ebd3ee81dfae0d15dc4120997ae3c4798b9
-workflow-type: ht
-source-wordcount: '2976'
-ht-degree: 100%
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+workflow-type: tm+mt
+source-wordcount: '3041'
+ht-degree: 97%
 
 ---
 
@@ -17,11 +17,11 @@ La version actuelle d’Assets Essentials a été publiée le 25 juillet 2024
 
 Voici quelques-unes des fonctions récemment ajoutées :
 
-**Intégration des informations de traçabilité du contenu**
+**Intégration de Content Credentials**
 
-Experience Manager Assets prend désormais en charge les informations de traçabilité du contenu pour les formats d’image pris en charge. Vous y trouverez des informations sur la traçabilité de la ressource et sur sa création, y compris si elle a été modifiée à l’aide de GenAI.
+Experience Manager Assets prend désormais en charge Content Credentials pour les formats d’image pris en charge. Vous y trouverez des informations sur la traçabilité de la ressource et sur sa création, y compris si elle a été modifiée à l’aide de GenAI.
 
-![Informations de traçabilité du contenu](/help/using/assets/content-credentials.png)
+![Content Credentials](/help/using/assets/content-credentials.png)
 
 **Prévisualisations du contenu du dossier**
 
@@ -29,7 +29,7 @@ Experience Manager Assets affiche désormais des prévisualisations du contenu
 
 **Recherche contextuelle**
 
-Vous pouvez également rechercher des ressources disponibles dans le référentiel en définissant des invites de texte. Experience Manager Assets transforme automatiquement ces invites de texte en filtres de recherche et affiche les résultats de la recherche. Vous pouvez afficher et modifier des filtres automatiques à l’aide du volet Filtres pour affiner davantage les résultats de la recherche.
+Vous pouvez également rechercher des ressources disponibles dans le référentiel en définissant des prompts de texte. Experience Manager Assets transforme automatiquement ces prompts de texte en filtres de recherche et affiche les résultats de la recherche. Vous pouvez afficher et modifier des filtres automatiques à l’aide du volet Filtres pour affiner davantage les résultats de la recherche.
 
 ![Informations sur l’utilisation du stockage](/help/using/assets/contextual-search-text-prompt1.png)
 
@@ -83,7 +83,7 @@ La liste des problèmes connus de l’offre [!DNL Assets Essentials] est révis�
 
 <!--* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.-->
 
-Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [communiquez vos requêtes](#provide-feedback) à l’équipe.
+Si vous rencontrez des problèmes ou même si vous avez des demandes d’amélioration, [faites part de vos commentaires](#provide-feedback) à l’équipe.
 
 ## Versions antérieures {#past-releases}
 
@@ -184,7 +184,7 @@ Assets Essentials trie désormais les résultats de la recherche en fonction de
 
 Les listes plates de vocabulaires contrôlés deviennent ingérables au fil du temps. Assets Essentials prend désormais en charge la structure de balisage hiérarchique, qui facilite l’application des métadonnées pertinentes, la classification des ressources, la prise en charge de la recherche, la réutilisation des balises, l’amélioration de la visibilité, etc.
 
-![Gestion du balisage.](assets/tags-hierarchy.png)
+![Gestion du balisage](assets/tags-hierarchy.png)
 
 **Épingler les fichiers, les dossiers et les collections pour un accès rapide**
 
@@ -200,11 +200,11 @@ Assets Essentials vous permet désormais de filtrer les ressources disponibles 
 
 Assets Essentials génère désormais des aperçus de miniatures pour les formats de fichiers 3D courants, notamment gLB, USDz, FBX, 3DS, OBJ et SBSAR. Lorsque ces fichiers sont téléchargés vers Assets Essentials, par défaut, les miniatures sont automatiquement générées par le système.
 
-![Tâches dans l’espace de travail.](assets/3d-preview.png)
+![Tâches dans l’espace de travail](assets/3d-preview.png)
 
 **Afficher les termes les plus recherchés**
 
-Assets Essentials prend désormais en charge l’affichage des termes recherchés les plus courants dans votre déploiement Assets Essentials à l’aide de la section **Insights** de Mon espace de travail. Vous pouvez également accéder à Insights pour afficher les principales recherches effectuées au cours des 30 ou 12 derniers jours.
+Assets Essentials prend désormais en charge l’affichage des termes recherchés les plus courants dans votre déploiement Assets Essentials à l’aide de la section **Insights** de Mon espace de travail. Vous pouvez également accéder aux informations pour afficher les principales recherches effectuées au cours des 30 derniers jours ou 12 derniers mois.
 
 ![Tâches dans l’espace de travail](assets/insights-top-searches.png)
 
@@ -334,7 +334,7 @@ Les notifications d’Assets Essentials vous permettent de [surveiller les opé
 
 **Création de rapports**
 
-Les rapports de ressources permettent aux administrateurs d’évaluer l’activité des utilisateurs dans Adobe Experience Manager Assets Essentials. Les rapports et les statistiques dynamiques fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec les ressources disponibles dans votre déploiement. [Utilisez les informations figurant dans les rapports](manage-reports.md) de manière à obtenir des mesures de succès essentielles pour évaluer l’adoption d’Assets au sein de votre entreprise et par les clients.
+Les rapports de ressources permettent aux administrateurs d’évaluer l’activité des utilisateurs dans Adobe Experience Manager Assets Essentials. Les rapports et les statistiques dynamiques fournissent des informations utiles sur la manière dont les utilisateurs interagissent avec les ressources disponibles dans votre déploiement . [Utilisez les informations contenues dans les rapports](manage-reports.md) afin d’obtenir des mesures de succès essentielles pour évaluer l’adoption d’Assets au sein de votre entreprise et par les clients.
 
 Consultez les rapports sur les téléchargements de ressources et le module de tableau de bord des statistiques dynamiques pour déterminer quelles ressources sont téléchargées ainsi que la fréquence des téléchargements.
 
@@ -384,7 +384,7 @@ Cette version fournit les éléments suivants :
 
 La version actuelle d’[!DNL Assets Essentials] est sortie le 12 mai 2022. Cette version fournit les éléments suivants :
 
-* [!DNL Assets Essentials] prend désormais en charge la [création de collections](manage-collections.md). Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements.
+* [!DNL Assets Essentials] prend désormais en charge la [création de collections](manage-collections.md). Une collection est un ensemble de ressources dans Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs et utilisatrices. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements.
 
 * Assets Essentials vous permet désormais de [rajouter des filtres personnalisés](search.md#custom-filters) à l’interface utilisateur. Vous pouvez ensuite appliquer ces filtres personnalisés en plus des filtres standard pour affiner les résultats de la recherche.
 
@@ -406,7 +406,7 @@ d’[!DNL Assets Essentials] est sortie le 9 mars 2022, avec les mises à jour
 
 * [!DNL Assets Essentials] vous permet désormais de [générer un lien et partager des ressources avec des parties prenantes externes](share-links-for-assets.md) qui n’ont pas accès à l’application [!DNL Assets Essentials]. Vous pouvez définir une date d’expiration pour le lien, puis le partager avec d’autres utilisateurs en utilisant votre méthode de communication préférée, comme les e-mails ou les services de messagerie. Les destinataires du lien peuvent prévisualiser les ressources et les télécharger.
 
-* [!DNL Assets Essentials] comprend maintenant [un profil produit administrateur](deploy-administer.md#add-users-to-essentials) sur l’Admin Console en plus des profils de produits standard et consommateurs existants. Un administrateur peut désormais affecter d’autres utilisateurs au profil de produit administrateur.
+* [!DNL Assets Essentials] comprend maintenant [un profil produit administrateur](deploy-administer.md#add-users-to-essentials) sur l’Admin Console en plus des profils de produits pour les utilisateurs/utilisatrices standard et consommateurs/consommatrices. Un administrateur peut désormais affecter d’autres utilisateurs au profil de produit administrateur.
 
 * Assets Essentials permet désormais aux administrateurs de [gérer les niveaux d’accès des dossiers disponibles dans le référentiel](manage-permissions.md). En tant qu’administrateur, vous pouvez créer des groupes d’utilisateurs et leur attribuer des autorisations afin de gérer les niveaux d’accès. Vous pouvez également déléguer les privilèges de gestion des autorisations aux groupes d’utilisateurs au niveau du dossier.
 
@@ -427,7 +427,9 @@ En outre, l’extension d’[!DNL Adobe Asset Link] pour Creative Cloud (Photos
 
 * Adobe déploie automatiquement Assets Essentials à la fin du processus dʼapprovisionnement. Aucune action supplémentaire ne doit être effectuée par les administrateurs dans le cadre du déploiement dʼAssets Essentials par le biais de lʼinterface utilisateur [!DNL Cloud Manager]. Ce déploiement automatique sera disponible pour les environnements approvisionnés après la date du 6 janvier 2022.
 * De nouvelles versions de plugins pour Creative Cloud fonctionnant avec Assets Essentials sont disponibles sur Adobe Exchange : [Adobe Asset Link pour Adobe XD version 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) et [Adobe Asset Link pour Photoshop/InDesign/Illustrator version 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
-* Divers correctifs de bugs et améliorations de produits, concernant notamment les problèmes connus précédents (les dossiers s’affichent désormais correctement dans l’arborescence de navigation de gauche après le téléchargement<!-- CQ-4337638 -->, le transfert par glisser-déposer permet à l’utilisateur de sélectionner le dossier actif ou un autre sous-dossier lors du dépôt pour le transfert.<!-- CQ-4327753 -->).
+* Divers correctifs de bugs et améliorations de produits, concernant notamment les problèmes connus précédents (les dossiers s’affichent désormais correctement dans l’arborescence de navigation de gauche après le chargement<!-- CQ-4337638 -->, le transfert par glisser-déposer permet à l’utilisateur de sélectionner le dossier actif ou un autre sous-dossier lors du dépôt pour le chargement).
+
+<!-- CQ-4327753 -->
 
 ### Version 2021.8.0 {#august2021}
 
@@ -439,7 +441,7 @@ La version 2021.8.0 d’[!DNL Assets Essentials] est sortie le 30 août 2021 
 
 La version 2021.7.0 d’[!DNL Assets Essentials] est sortie le 29 juillet 2021, avec les mises à jour suivantes :
 
-* Vous pouvez créer et gérer des formulaires de métadonnées personnalisés à utiliser pour afficher les propriétés de métadonnées aux utilisateurs dans l’écran des détails de la ressource dans l’option [!UICONTROL Formulaires de métadonnées] sous [!DNL Settings]. Voir [Formulaires de métadonnées](metadata.md#metadata-forms).
+* Vous pouvez créer et gérer des formulaires de métadonnées personnalisés à utiliser pour afficher les propriétés de métadonnées dans l’écran des détails de la ressource dans l’option [!UICONTROL Formulaires de métadonnées] sous [!DNL Settings]. Voir [Formulaires de métadonnées](metadata.md#metadata-forms).
 * Divers correctifs de bogues et améliorations de produit, notamment de meilleures performances lors du chargement d’un dossier imbriqué avec de nombreux sous-dossiers.
 
 ### Version 2021.6.0 {#june2021}

@@ -4,10 +4,10 @@ description: Déplacez, supprimez, copiez, renommez, mettez à jour et gérez la
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: ce92eb58ede5d1ebbe88a98bfa7629532396f3be
-workflow-type: ht
-source-wordcount: '1222'
-ht-degree: 100%
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+workflow-type: tm+mt
+source-wordcount: '1240'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ Vous pouvez sélectionner les ressources qui s’affichent dans les résultats d
 
 * ![deselect icon](assets/do-not-localize/close-icon.png) Désélectionnez la sélection.
 
-* ![find similar icon](assets/do-not-localize/find-similar.svg) Recherchez une ressource d’image similaire dans l’interface utilisateur Assets en fonction des métadonnées et des balises intelligentes.
+* ![icône de recherche d’une image similaire](assets/do-not-localize/find-similar.svg) Recherchez une ressource d’image similaire dans l’interface d’utilisation d’Assets en fonction des métadonnées et des balises intelligentes.
 
 * ![Icône Détails](assets/do-not-localize/edit-in-icon.png) Cliquez pour prévisualiser une ressource et afficher le détail des métadonnées. Lors de la prévisualisation, vous pouvez afficher les versions et modifier une image.
 
@@ -79,11 +79,12 @@ Vous pouvez sélectionner des ressources ou des dossiers, ou une combinaison des
 ## Contrôle de version des ressources {#versions-of-assets}
 
 <!-- 
-TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? -->
+TBD: query for engineering: How many versions are maintained. What happens when we reach that limit? Are old versions automatically removed? 
+-->
 
 [!DNL Assets Essentials] crée de nouvelles versions des ressources lorsque celles-ci sont à nouveau chargées et mises à jour ou modifiées. Vous pouvez afficher l’historique des versions et les versions antérieures, et restaurer une des versions antérieures de la ressource à la place de la dernière version, qui est quand à elle sauvegardée si nécessaire en tant que version précédente. De nouvelles versions des ressources sont créées dans les scénarios suivants :
 
-* Chargement d’une nouvelle ressource dotée du même nom de fichier qu’une ressource existant déjà dans le même dossier. [!DNL Assets Essentials] invite à remplacer la ressource précédente ou à enregistrer la nouvelle ressource en tant que nouvelle version. Consultez [Chargement de ressources en double](/help/using/add-delete.md#resolve-upload-fails).
+* Chargez une nouvelle ressource dont le nom de fichier est identique à celui d’une ressource existante et qui se trouve dans le même dossier. [!DNL Assets Essentials] invite à remplacer la ressource précédente ou à enregistrer la nouvelle ressource en tant que nouvelle version. Consultez [Chargement de ressources en double](/help/using/add-delete.md#resolve-upload-fails).
 
   ![Création de nouvelles versions lors du chargement](assets/uploads-manage-duplicates.png)
 
@@ -169,9 +170,9 @@ Pour ajouter un champ de métadonnées Date d’expiration au formulaire, faites
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les ressources dans Assets Essentials](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets-essentials/basics/managing).
+* [Regardez une vidéo pour gérer les ressources dans Assets Essentials .](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets-essentials/basics/managing)
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 

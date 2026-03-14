@@ -3,10 +3,10 @@ title: Chargement de ressources dans le référentiel
 description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les statuts de chargement et résolvez les problèmes de chargement.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 98%
 
 ---
 
@@ -19,8 +19,10 @@ Vous pouvez utiliser les méthodes suivantes pour charger une ou plusieurs resso
 * Faites glisser des ressources ou des dossiers sur l’interface utilisateur et suivez les instructions à l’écran.
 * Cliquez sur l’option **[!UICONTROL Ajouter des ressources]** dans la barre d’outils et ajoutez des fichiers à la boîte de dialogue de chargement.
 
-<!-- TBD: Update this GIF
-![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) -->
+<!-- 
+TBD: Update this GIF
+![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) 
+-->
 
 Vous pouvez utiliser l’une de ces méthodes pour charger des ressources après avoir créé un dossier. Pour créer un dossier vide, cliquez sur **[!UICONTROL Créer un dossier]** dans la barre d’outils. [!DNL Assets Essentials] offre de puissantes fonctionnalités de recherche plein texte, mais vous pouvez également utiliser des dossiers pour mieux organiser vos ressources.
 
@@ -98,10 +100,10 @@ Les utilisateurs peuvent supprimer individuellement des ressources ou des dossie
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour charger des ressources dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=fr).
+* [Regardez une vidéo pour charger des ressources dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=fr)
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).

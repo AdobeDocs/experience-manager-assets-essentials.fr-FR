@@ -1,12 +1,12 @@
 ---
 title: Formats de fichiers pris en charge
 description: Formats de fichiers pris en charge pour les différents cas d’utilisation d’ [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: 243a41aef81cd1fdcbad8f4355fe2d888db394d1
-workflow-type: ht
-source-wordcount: '527'
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+workflow-type: tm+mt
+source-wordcount: '372'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,8 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 
 ## Ajout, chargement et affichage de ressources {#support-to-upload-view}
 
-<!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
+<!-- 
+TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
 | Type de ressource | [Parcourir](/help/using/navigate-view.md) | Copier | [Chargement](/help/using/add-delete.md) | Créer | [Supprimer](/help/using/add-delete.md#delete-assets) | Détails | Zoom sur l’image | [Récemment consultés](/help/using/navigate-view.md) |
@@ -48,7 +49,8 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 | PSD, AI, PSB et INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
 | Autres fichiers binaires. | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
-<!-- Hiding CC Libraries (considered beta) as per PM feedback.
+<!-- 
+Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
 -->
 
@@ -57,7 +59,7 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 | Type de ressource | [Télécharger](/help/using/manage-organize.md#download) | Glisser-déplacer | [Éditeur d’image](/help/using/edit-images.md) | [Rechercher](/help/using/search.md) | [Balises intelligentes](/help/using/metadata.md#tags) | [Renommer](/help/using/manage-organize.md) | [Versions](/help/using/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Images pixellisées | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Fichiers RAW | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Fichiers RAW | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | Dossiers | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 | Vidéos | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | Bibliothèques CC | − | − | − | − | − | ✓ | ✓ |
@@ -104,7 +106,8 @@ Les différents types de fichiers ont différents degrés de prise en charge pou
 
 Les utilisateurs de [!DNL Adobe Asset Link] peuvent charger et enregistrer (charger une nouvelle version) des fichiers dans le référentiel [!DNL Assets Essentials] des applications de bureau [!DNL Adobe Creative Cloud] prises en charge.
 
-<!-- TBD: Saving the template table separately for later use.
+<!-- 
+TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |
@@ -123,7 +126,7 @@ Les utilisateurs de [!DNL Adobe Asset Link] peuvent charger et enregistrer (char
 
 ## Étapes suivantes {#next-steps}
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 

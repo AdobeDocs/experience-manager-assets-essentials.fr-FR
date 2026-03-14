@@ -3,10 +3,10 @@ title: Prise en main d’ [!DNL Assets Essentials]
 description: Accès, connexion, cas d’utilisation pris en charge et problèmes connus dans [!DNL Assets Essentials].
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
-source-git-commit: fedcf02b5338d6640e557dad25ca03cfbd78d7e5
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 100%
+source-wordcount: '445'
+ht-degree: 97%
 
 ---
 
@@ -40,7 +40,7 @@ Pour modifier vos [!UICONTROL préférences Experience Cloud], cliquez sur [!UI
 
 ![Préférence pour changer de thème (sombre ou clair)](assets/theme-change.png)
 
-## Scénarios d’utilisation d’[!DNL Assets Essentials]  {#use-cases}
+## Scénarios d’utilisation d’[!DNL Assets Essentials] {#use-cases}
 
 Vous trouverez ci-dessous les différentes tâches de gestion des actifs numériques (DAM) que vous pouvez réaliser en utilisant [!DNL Assets Essentials].
 
@@ -51,27 +51,27 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 | Mise à jour de ressources ou d’informations connexes | <ul> <li>[Modification des images](/help/using/edit-images.md)</li> <li>[Création de versions](/help/using/manage-organize.md#create-versions) et [affichage de versions](/help/using/manage-organize.md#view-versions)</li> <li>[Modification des images](/help/using/edit-images.md)</li> </ul> |
 | Modification de ressources | <ul> <li>[Modifications dans le navigateur à l’aide d’Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Recadrage d’un profil de réseaux sociaux](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Affichage et gestion des versions](/help/using/manage-organize.md#view-versions)</li> <li>[Utilisation [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
 | Recherche de ressources dans le référentiel | <ul> <li>[Recherche dans un dossier spécifique](/help/using/search.md#refine-search-results)</li> <li>[Recherches enregistrées](/help/using/search.md#saved-search)</li> <li>[Recherche de ressources récemment consultées](/help/using/search.md)</li> <li>[Recherche du texte intégral](/help/using/search.md) |
-| Téléchargement de ressources | <ul> <li> [Aperçu de la ressource](/help/using/navigate-view.md#preview-assets) </li> <li> [Téléchargement de ressources](/help/using/manage-organize.md#download) <li> [Téléchargement de rendus](/help/using/add-delete.md#renditions) </li></ul> |
+| Téléchargement de ressources | <ul> <li> [Aperçu de la ressource](/help/using/navigate-view.md#preview-assets) </li> <li> [Télécharger des ressources](/help/using/manage-organize.md#download) <li> [Téléchargement de rendus](/help/using/add-delete.md#renditions) </li></ul> |
 | Opérations de métadonnées | <ul> <li>[Affichage des métadonnées détaillées](/help/using/metadata.md) </li> <li> [Mise à jour les métadonnées](/help/using/metadata.md#update-metadata)</li> <li> [Création d’un formulaire de métadonnées](/help/using/metadata.md#metadata-forms) </li> </ul> |
 | Intégration à d’autres solutions | <ul> <li>[Utilisation du sélecteur de ressources dans  [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link] pour [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[Intégration à [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour commencer à utiliser Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=fr).
+* [Regardez une vidéo pour commencer à utiliser Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=fr)
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
 
-<!--TBD: Merge the below rows in the table when the use cases are documented/available.
+<!--
+TBD: Merge the below rows in the table when the use cases are documented/available.
 
 | How do I delete assets? | <ul> <li>[Delete assets](/help/using/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
 | How do I share assets or find shared assets? | <ul> <li>Shared by me</li> <li>Shared with me</li> <li>Share for comments and review</li> <li>Unshare assets</li> </ul> |
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
-
 -->
 
 <!-- 
@@ -94,6 +94,7 @@ To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit 
 >* [Comprendre l’interface utilisateur](/help/using/navigate-view.md).
 >* [Notes de mise à jour et problèmes connus](/help/using/release-notes.md).
 
-<!-- TBD: 
+<!-- 
+TBD: 
 >* [Supported file types](/help/using/supported-file-formats.md).
 -->
