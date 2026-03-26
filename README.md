@@ -15,10 +15,10 @@ Dans le cadre de son offre [!DNL Adobe Experience Cloud], Adobe propose une solu
 
 ## Contribuer à la documentation
 
-Ce projet a adopté le [Code de conduite d’Adobe Open Source](code-of-conduct.md) ou le Code de conduite de la Fondation [.NET](https://dotnetfoundation.org/code-of-conduct). Pour plus d’informations, voir [Comment contribuer ](contributing.md).
+Ce projet a adopté le [Code de conduite d’Adobe Open Source](code-of-conduct.md) ou le Code de conduite de la Fondation [.NET](https://dotnetfoundation.org/code-of-conduct). Pour plus d’informations, voir [Comment contribuer &#x200B;](contributing.md).
 
 **Modifications mineures de contenu** : cliquez sur Modifier dans la marge de droite d’un article pour commencer à apporter des corrections mineures ou des clarifications, puis soumettez-les. Vous pouvez également créer un problème dans ce référentiel décrivant les modifications. Ces contributions mineures sont couvertes par les conditions d’utilisation d’Adobe.
 
-**Modifications majeures de contenu** : cliquez sur Modifier dans un article, contribuez et envoyez une demande d’extraction ou créez un problème. Un membre de l’équipe de documentation se mettra en relation avec vous pour obtenir plus d’informations. Vous ne devez signer le contrat de licence du contributeur d’Adobe qu’une seule fois avant de pouvoir contribuer en permanence à cette documentation. Consultez l’article [ comment contribuer ](contributing.md) .
+**Modifications majeures de contenu** : cliquez sur Modifier dans un article, contribuez et envoyez une demande d’extraction ou créez un problème. Un membre de l’équipe de documentation se mettra en relation avec vous pour obtenir plus d’informations. Vous ne devez signer le contrat de licence du contributeur d’Adobe qu’une seule fois avant de pouvoir contribuer en permanence à cette documentation. Consultez l’article [&#x200B; comment contribuer &#x200B;](contributing.md) .
 
 Pour connaître les normes de conduite régissant votre contribution, reportez-vous au [code de conduite](code-of-conduct.md).
