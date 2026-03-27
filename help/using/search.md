@@ -280,7 +280,7 @@ Vous pouvez ajouter le logo de votre marque et une image d’arrière-plan à vo
 
 1. Accédez à la section **[!UICONTROL Image d’arrière-plan et de logo]** sous **[!UICONTROL Page d’accueil]**.
 1. Cliquez sur **[!UICONTROL Remplacer]** pour parcourir les images du référentiel de ressources.
-1. Cliquez sur **[!UICONTROL Enregistrer]**. [Prévisualisez &#x200B;](#preview-configured-homepage) modifications pour passer en revue les modifications.
+1. Cliquez sur **[!UICONTROL Enregistrer]**. [Prévisualisez ](#preview-configured-homepage) modifications pour passer en revue les modifications.
 
 ### Prévisualiser la page d’accueil configurée {#preview-configured-homepage}
 
@@ -386,5 +386,5 @@ Si vous devez fournir des commentaires sur la fonction de recherche contextuelle
 
 * Faites des commentaires sur la documentation en utilisant les options [!UICONTROL Modifier cette page] ![Modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Créer un problème GitHub](assets/do-not-localize/github-issue.png) disponibles dans la barre latérale de droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 

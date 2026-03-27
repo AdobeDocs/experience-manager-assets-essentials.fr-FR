@@ -4,8 +4,8 @@ description: Découvrez comment gérer les balises dans Assets Essentials. Les 
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 100%
+source-wordcount: '1770'
+ht-degree: 97%
 
 ---
 
@@ -129,7 +129,7 @@ Pour supprimer des balises, procédez comme suit :
 
 ## Ajouter un composant Balises au formulaire de métadonnées {#add-tags-to-metadata-form}
 
-Le composant Balises est ajouté automatiquement au formulaire de métadonnées `default`. Vous pouvez concevoir un [formulaire de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=fr#metadata-forms) soit en utilisant un modèle, soit à partir de zéro. Si vous n’utilisez pas de modèle de formulaire de métadonnées existant, vous pouvez modifier votre formulaire de métadonnées et ajouter le composant Balises. Le mappage des propriétés de métadonnées est renseigné automatiquement et ne peut pas être modifié pour le moment. Les personnes utilisant [!DNL Assets as a Cloud Service] peuvent mettre à jour le mappage pour stocker les valeurs de balise à l’aide d’espaces de noms personnalisés et n’exposer que les sous-ensembles de hiérarchies à l’aide des chemins d’accès racine.
+Le composant Balises est ajouté automatiquement au formulaire de métadonnées `default`. Vous pouvez concevoir un [formulaire de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=fr#metadata-forms) soit en utilisant un modèle, soit à partir de zéro. Si vous n’utilisez pas de modèle de formulaire de métadonnées existant, vous pouvez modifier votre formulaire de métadonnées et ajouter le composant Balises. Le mappage des propriétés de métadonnées est renseigné automatiquement et ne peut pas être modifié pour le moment. [!DNL Assets as a Cloud Service] les utilisateurs peuvent mettre à jour le mappage pour stocker les valeurs de balise à l’aide d’espaces de noms personnalisés et n’exposer que des sous-ensembles de hiérarchies à l’aide de chemins d’accès racine.
 
 Regardez cette vidéo rapide pour découvrir comment ajouter le composant Balises à votre formulaire de métadonnées :
 
@@ -157,7 +157,7 @@ Les balises modifiées dans Assets Essentials sont également appliquées dans 
 
 ### Bloquer les balises intelligentes pour toutes les ressources {#block-smart-tags-for-all-assets}
 
-[!DNL Assets Essentials] permet à un administrateur ou à une administratrice de bloquer les balises intelligentes pour les ressources existantes et nouvellement ajoutées. Pour bloquer des balises, procédez comme suit :
+[!DNL Assets Essentials] permet à un administrateur ou une administratrice de bloquer les balises intelligentes pour les ressources existantes et nouvellement ajoutées. Pour bloquer des balises, procédez comme suit :
 
 1. Accédez à **[!UICONTROL Balises bloquées]** sous **[!UICONTROL Paramètres]**.
 1. Cliquez sur **[!UICONTROL Ajouter une balise bloquée]**.

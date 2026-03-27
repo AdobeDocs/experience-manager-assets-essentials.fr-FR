@@ -3,15 +3,15 @@ title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
-workflow-type: ht
-source-wordcount: '1226'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1243'
+ht-degree: 96%
 
 ---
 
 # Gérer les rapports {#manage-reports}
 
-Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs interagissent avec le contenu et le produit. Tous les utilisateurs et utilisatrices peuvent accéder au tableau de bord Insights et ceux qui sont affectés au profil de produit Administrateurs et administratrices peuvent créer des rapports définis par l’utilisateur ou l’utilisatrice.
+Les rapports de ressources offrent aux administrateurs une visibilité sur l’activité de l’environnement Adobe Experience Manager Assets Essentials. Ces données fournissent des informations utiles sur la façon dont les utilisateurs et utilisatrices interagissent avec le contenu et le produit. Tous les utilisateurs et utilisatrices peuvent accéder au tableau de bord Insights et ceux qui sont affectés au profil de produit Administrateurs et administratrices peuvent créer des rapports définis par l’utilisateur ou l’utilisatrice.
 
 ## Accéder aux rapports {#access-reports}
 
@@ -124,8 +124,8 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
 
 ## Afficher et télécharger un rapport existant {#View-and-download-existing-report}
 
-Les rapports existants s’affichent dans l’onglet **Rapports exécutés**. Cliquez sur **Rapports** et sélectionnez **Rapports exécutés** pour afficher tous les rapports créés dont le statut est **Terminé**, indiquant qu’ils peuvent être téléchargés. Pour télécharger le rapport au format CSV ou le supprimer, sélectionnez la ligne du rapport et choisissez **Télécharger le fichier CSV** ou **Supprimer**.
-![Affichage et téléchargement de rapports existants](/help/using/assets/view-download-existing-report.png)
+Les rapports existants s’affichent dans l’onglet **Rapports exécutés**. Cliquez sur **Rapports** et sélectionnez **Rapports exécutés** pour afficher tous les rapports créés dont le statut est **Terminé**, indiquant qu’ils peuvent être téléchargés. Pour télécharger le rapport au format CSV ou le supprimer, sélectionnez la ligne du rapport et sélectionnez **Télécharger CSV** ou **Supprimer**.
+![afficher et télécharger les rapports existants](/help/using/assets/view-download-existing-report.png)
 
 ## Planifier un rapport {#schedule-report}
 
@@ -139,7 +139,7 @@ Pour planifier un rapport, procédez comme suit :
    1. **Titre :** ajoutez un titre au rapport.
    1. **Description :** ajoutez une description facultative au rapport.
    1. **Sélectionner le chemin d’accès au dossier :** sélectionnez un chemin d’accès au dossier afin de générer un rapport pour les ressources qui seront chargées ou téléchargées à partir de ce dossier spécifique à l’avenir.
-   1. Activer **Planifier un rapport :** activez cette option pour planifier le rapport à une date ultérieure ou récurrente.
+   1. Bouton **Planifier un rapport** : bouton (bascule) permettant de planifier le rapport à une date ultérieure ou de le rendre récurrent.
       ![Planification d’un rapport](/help/using/assets/schedule-reports1.svg)
 
    1. **Choisir la fréquence :** spécifiez l’intervalle de génération du rapport (par exemple, quotidien, hebdomadaire, mensuel, annuel ou ponctuel) et définissez la date et l’heure d’exécution du rapport ainsi que la date de fin de la périodicité. Pour un rapport ponctuel, sélectionnez la période du rapport sur le type d’activité sélectionné dans l’environnement AEM. Par exemple, si vous avez besoin d’un rapport sur les ressources téléchargées entre le 10 et le 29 (dates futures) d’un mois spécifique, sélectionnez ces dates dans le champ **Sélectionner l’intervalle de dates**.
@@ -151,7 +151,7 @@ Pour planifier un rapport, procédez comme suit :
 ## Afficher les rapports planifiés {#view-scheduled-reports}
 
 Les rapports planifiés s’affichent dans l’onglet **Rapports planifiés** et sont organisés de manière systématique. Tous les rapports terminés pour chaque rapport planifié sont stockés dans un seul dossier de rapports. Cliquez sur ![développer réduire](/help/using/assets/expand-icon1.svg) pour afficher les rapports terminés. Par exemple, si vous avez planifié un rapport quotidien, tous les rapports terminés sont regroupés dans un seul dossier. Cette organisation simplifie la navigation et la recherche des rapports. Pour afficher les rapports planifiés, cliquez sur **Rapports**, puis sur **Rapports planifiés**. Tous les rapports planifiés s’affichent, avec le statut En cours ou Terminé. Les rapports terminés peuvent être téléchargés.
-![Rapport planifié](/help/using/assets/scheduled-reports-tab.png)
+![rapport planifié ](/help/using/assets/scheduled-reports-tab.png)
 
 ## Modifier et annuler des rapports planifiés {#edit-cancel-scheduled-reports}
 
@@ -163,8 +163,8 @@ Les rapports planifiés s’affichent dans l’onglet **Rapports planifiés** et
 
 ### Reprendre le planning {#resume-schedule}
 
-Pour reprendre le planning annulé, sélectionnez la ligne du rapport et cliquez sur **Reprendre le planning**. Lors de la reprise, les entrées d’exécution suivantes s’affichent à nouveau et le statut est En cours.
-![Reprise du planning](/help/using/assets/resume-schedule.png)
+Pour reprendre le planning annulé, sélectionnez la ligne du rapport et cliquez sur **Reprendre le planning**. Lors de la reprise, les entrées d’exécution suivantes s’affichent à nouveau et le statut indique en cours.
+![reprendre le planning](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
 >
@@ -191,7 +191,7 @@ Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigatio
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **Utilisation du stockage** : utilisation du stockage, en octets, pour l’environnement Assets Essentials, représentée à l’aide d’un histogramme.
+* **Utilisation du stockage** : utilisation du stockage, en octets, pour l’environnement Assets Essentials, représentée à l’aide d’un graphique en barres.
   ![utilisation du stockage](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
