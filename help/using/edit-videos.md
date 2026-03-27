@@ -42,7 +42,7 @@ Vous pouvez éliminer les parties indésirables de la vidéo à l’aide d’act
 5. Cliquez sur **[!UICONTROL Appliquer]**.
    ![Recadrage vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
-   La vidéo recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource. ![Enregistrer une vidéo avec Adobe Express ](/help/using/assets/adobe-express-save-video.png)
+   La vidéo recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource. ![Enregistrer une vidéo avec Adobe Express &#x200B;](/help/using/assets/adobe-express-save-video.png)
 
 ### Redimensionnement de la vidéo {#resize-video-using-express}
 

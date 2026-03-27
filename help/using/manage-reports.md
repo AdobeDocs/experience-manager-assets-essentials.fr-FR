@@ -151,7 +151,7 @@ Pour planifier un rapport, procédez comme suit :
 ## Afficher les rapports planifiés {#view-scheduled-reports}
 
 Les rapports planifiés s’affichent dans l’onglet **Rapports planifiés** et sont organisés de manière systématique. Tous les rapports terminés pour chaque rapport planifié sont stockés dans un seul dossier de rapports. Cliquez sur ![développer réduire](/help/using/assets/expand-icon1.svg) pour afficher les rapports terminés. Par exemple, si vous avez planifié un rapport quotidien, tous les rapports terminés sont regroupés dans un seul dossier. Cette organisation simplifie la navigation et la recherche des rapports. Pour afficher les rapports planifiés, cliquez sur **Rapports**, puis sur **Rapports planifiés**. Tous les rapports planifiés s’affichent, avec le statut En cours ou Terminé. Les rapports terminés peuvent être téléchargés.
-![rapport planifié ](/help/using/assets/scheduled-reports-tab.png)
+![rapport planifié &#x200B;](/help/using/assets/scheduled-reports-tab.png)
 
 ## Modifier et annuler des rapports planifiés {#edit-cancel-scheduled-reports}
 

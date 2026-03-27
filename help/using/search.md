@@ -280,7 +280,7 @@ Vous pouvez ajouter le logo de votre marque et une image d’arrière-plan à vo
 
 1. Accédez à la section **[!UICONTROL Image d’arrière-plan et de logo]** sous **[!UICONTROL Page d’accueil]**.
 1. Cliquez sur **[!UICONTROL Remplacer]** pour parcourir les images du référentiel de ressources.
-1. Cliquez sur **[!UICONTROL Enregistrer]**. [Prévisualisez ](#preview-configured-homepage) modifications pour passer en revue les modifications.
+1. Cliquez sur **[!UICONTROL Enregistrer]**. [Prévisualisez &#x200B;](#preview-configured-homepage) modifications pour passer en revue les modifications.
 
 ### Prévisualiser la page d’accueil configurée {#preview-configured-homepage}
 

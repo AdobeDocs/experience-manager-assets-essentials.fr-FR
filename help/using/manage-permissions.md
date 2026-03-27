@@ -32,7 +32,7 @@ Ajoutez des administrateurs pour l’application Assets Essentials afin qu’ils
 
 Pour ajouter des administrateurs :
 
-1. Accédez à [](https://adminconsole.adobe.com) pour votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, cliquez sur **[!UICONTROL AEM Assets Essentials]**, puis cliquez sur [!DNL Assets Essentials] environnement. [!DNL Assets Essentials] comporte trois profils de produit qui représentent l’accès pour les administrateurs, les utilisateurs réguliers et les consommateurs.
+1. Accédez à [&#128279;](https://adminconsole.adobe.com) pour votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, cliquez sur **[!UICONTROL AEM Assets Essentials]**, puis cliquez sur [!DNL Assets Essentials] environnement. [!DNL Assets Essentials] comporte trois profils de produit qui représentent l’accès pour les administrateurs, les utilisateurs réguliers et les consommateurs.
 
    ![Profil administrateur Admin Console](assets/admin-console-admin-profile.png)
 
