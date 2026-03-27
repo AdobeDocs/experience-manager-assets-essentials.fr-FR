@@ -4,8 +4,8 @@ description: Grâce à Assets Essentials, les administrateurs peuvent gérer le
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
 workflow-type: tm+mt
-source-wordcount: '1657'
-ht-degree: 100%
+source-wordcount: '1700'
+ht-degree: 97%
 
 ---
 
@@ -32,7 +32,7 @@ Ajoutez des administrateurs pour l’application Assets Essentials afin qu’ils
 
 Pour ajouter des administrateurs :
 
-1. Accédez à [Admin Console](https://adminconsole.adobe.com) de votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, puis sur **[!UICONTROL AEM Assets Essentials]**, et enfin sur l’environnement [!DNL Assets Essentials]. [!DNL Assets Essentials] possède trois profils de produits qui représentent l’accès pour les administrateurs, les utilisateurs réguliers et les consommateurs.
+1. Accédez à [&#128279;](https://adminconsole.adobe.com) pour votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, cliquez sur **[!UICONTROL AEM Assets Essentials]**, puis cliquez sur [!DNL Assets Essentials] environnement. [!DNL Assets Essentials] comporte trois profils de produit qui représentent l’accès pour les administrateurs, les utilisateurs réguliers et les consommateurs.
 
    ![Profil administrateur Admin Console](assets/admin-console-admin-profile.png)
 
@@ -81,7 +81,7 @@ Vous pouvez attribuer les autorisations suivantes aux groupes d’utilisateurs o
 
 | Nom de l’autorisation | Description |
 |-----|------|
-| Peut afficher | <ul><li>Accès en lecture à l’affichage et à la navigation des dossiers </li><li>Prévisualiser des ressources</li><li>Télécharger des ressources</li><li>Copier des ressources</li><li>Partager des liens vers des ressources</li><ul> |
+| Peut afficher | <ul><li>Accès en lecture à l’affichage et à la navigation des dossiers </li><li>Prévisualiser des ressources</li><li>Téléchargement de ressources</li><li>Copie de ressources</li><li>Partager des liens vers des ressources</li><ul> |
 | Peut modifier | <ul><li>Tous les privilèges disponibles pour les autorisations Peut afficher </li><li>Créer des dossiers</li><li>Supprimer des dossiers</li><li>Renommer des dossiers</li><li>Créer des ressources</li><li>Mettre à jour des ressources</li><li>Supprimer des ressources</li><li>Déplacer des ressources</li><li>Renommer des ressources</li><ul> |
 | Propriétaire | <ul><li>Tous les privilèges disponibles pour les autorisations Peut modifier</li><li>Gérer les autorisations sur un dossier et ses sous-dossiers</li>Cette autorisation permet aux administrateurs de déléguer les droits d’administrateur dʼun dossier et de ses sous-dossiers à d’autres personnes.<ul> |
 | Refuser l’accès | Supprime les autorisations Peut afficher, Peut modifier et Propriétaire d’un dossier et de ses sous-dossiers. |
@@ -210,8 +210,8 @@ Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hié
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les autorisations dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=fr).
+* [Regardez une vidéo pour gérer les autorisations dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=fr)
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).

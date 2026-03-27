@@ -49,7 +49,7 @@ Avant d’importer des ressources de votre compte Dropbox vers AEM Assets, cré
 
 Procédez comme suit :
 
-1. Connectez-vous à votre compte [Dropbox](https://www.dropbox.com/developers) puis cliquez sur **[!UICONTROL Créer des applications]**. <br>Si vous utilisez un compte Enterprise Dropbox, vous devez avoir accès au rôle d’administrateur de contenu.
+1. Connectez-vous à votre compte [&#128279;](https://www.dropbox.com/developers) puis cliquez sur **[!UICONTROL Créer des applications]**. <br>Si vous utilisez un compte Enterprise Dropbox, vous devez avoir accès au rôle d’administrateur de contenu.
 
 1. Dans la section **[!UICONTROL Choisir une API]**, sélectionnez le seul bouton radio disponible.
 

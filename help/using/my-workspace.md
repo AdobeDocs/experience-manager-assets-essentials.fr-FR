@@ -4,7 +4,7 @@ description: La page Mon espace de travail est composée de modules visuels pers
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 21db2f77de3245f6fa40964b64ec8ac2c45d13e9
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
@@ -56,7 +56,7 @@ Pour épingler une ressource, un dossier ou une collection :
 
 L’administration peut afficher un résumé du nombre de téléchargements et de chargements effectués dans l’environnement Assets au cours des 30 derniers jours. Vous pouvez cliquer sur **[!UICONTROL Afficher tout]** pour accéder rapidement à la page Insights afin de consulter des tableaux de bord plus détaillés.
 
-Vous pouvez également afficher les principaux termes recherchés, ainsi que le nombre de fois où ces termes sont recherchés dans votre déploiement d’Assets Essentials à l’aide de la section **Insights** de Mon espace de travail. Vous pouvez également accéder à Insights pour afficher les principales recherches effectuées au cours des 30 ou 12 derniers jours.
+Vous pouvez également afficher les principaux termes recherchés, ainsi que le nombre de fois où ces termes sont recherchés dans votre déploiement d’Assets Essentials à l’aide de la section **Insights** de Mon espace de travail. Vous pouvez également accéder aux informations pour afficher les principales recherches effectuées au cours des 30 derniers jours ou 12 derniers mois.
 
 ![Insights dans l’espace de travail](assets/insights.png)
 
