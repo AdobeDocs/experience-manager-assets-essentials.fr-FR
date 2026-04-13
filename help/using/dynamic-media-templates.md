@@ -4,7 +4,7 @@ description: Découvrez comment créer des modèles Dynamic Media à l’aide d�
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
+source-git-commit: b0b103b91ca4f4c657fd6d6f526be5f5b05dc156
 workflow-type: tm+mt
 source-wordcount: '3000'
 ht-degree: 6%
@@ -22,7 +22,7 @@ ht-degree: 6%
 >abstract="Créez et personnalisez des bannières d’images et de texte à la volée grâce à une interface WYSIWYG facile à utiliser, et incorporez l’URL Dynamic Media dans n’importe quelle application propriétaire ou tierce, pour offrir des expériences très attrayantes. Faites un essai !"
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="Regarder la vidéo"
 
-Créez des modèles Dynamic Media à l’aide d’un éditeur de modèles WYSIWYG et incluez plusieurs images et calques de texte pour créer rapidement des bannières et des prospectus et les utiliser dans des applications en aval. Vous pouvez également ajouter des paramètres aux calques d’images et de texte inclus dans le modèle et utiliser les [URL de Dynamic Media](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) pour mettre à jour les valeurs de ces calques en temps réel.
+Créez des modèles Dynamic Media à l’aide d’un éditeur de modèles WYSIWYG et incluez plusieurs images et calques de texte pour créer rapidement des bannières et des prospectus et les utiliser dans des applications en aval. Vous pouvez également ajouter des paramètres aux calques d’images et de texte inclus dans le modèle et utiliser les [URL de Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) pour mettre à jour les valeurs de ces calques en temps réel.
 
 Voici quelques-unes des principales fonctionnalités :
 
@@ -74,10 +74,10 @@ Pour créer une zone de travail vide, procédez comme suit :
    ![Modèles Dynamic Media](/help/using/assets/DM-Assets1.png)
 
 1. Cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle sous Dynamic Media Assets ou accédez à un dossier et cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle dans ce dossier. La boîte de dialogue **[!UICONTROL Nouveau modèle]** s’affiche.
-   ![comment créer des modèles dynamiques qui peuvent être personnalisés en temps réel &#x200B;](/help/using/assets/new-template.png)
-Pour [créer un dossier](/help/using/add-delete.md) sous **[!UICONTROL Dynamic Media Assets]**, créez un dossier sous **[!UICONTROL Assets]**. L’arborescence de dossiers sous **&#x200B;**&#x200B;est répliquée sous **[!UICONTROL Dynamic Media Assets]**.
+   ![comment créer des modèles dynamiques qui peuvent être personnalisés en temps réel](/help/using/assets/new-template.png)
+Pour [créer un dossier](/help/using/add-delete.md) sous **[!UICONTROL Dynamic Media Assets]**, créez un dossier sous **[!UICONTROL Assets]**. L’arborescence de dossiers sous **** est répliquée sous **[!UICONTROL Dynamic Media Assets]**.
 1. Indiquez un nom de modèle, définissez la largeur et la hauteur de la zone de travail, puis cliquez sur **[!UICONTROL Créer]**. Une zone de travail vierge s’affiche avec des options de menu des deux côtés à utiliser pour créer le modèle. Pointez sur les options de menu pour afficher leur info-bulle.
-   ![&#x200B; modèle personnalisable en temps réel &#x200B;](/help/using/assets/blank-canvas-page.png)
+   ![ modèle personnalisable en temps réel ](/help/using/assets/blank-canvas-page.png)
 
 >[!NOTE]
 >
@@ -91,7 +91,7 @@ Pour [créer un dossier](/help/using/add-delete.md) sous **[!UICONTROL Dynamic M
 
 **Options de menu dans le volet de gauche :** utilisez ces options pour les actions courantes de l’éditeur, comme indiqué ci-dessous.
 
-* ![&#x200B; Modèles DM &#x200B;](/help/using/assets/layer-selector.svg) : sélectionnez un calque.
+* ![ Modèles DM ](/help/using/assets/layer-selector.svg) : sélectionnez un calque.
 * ![créez un modèle qui peut être personnalisé instantanément](/help/using/assets/undo.svg) : cliquez pour annuler la dernière action ou appuyez sur **Ctrl** + **Z** (Windows) ou **Cmd** + **Z** (Mac).
 * ![modèle pour créer rapidement des bannières](/help/using/assets/redo.svg) : cliquez pour répéter la dernière action ou appuyez sur **Ctrl** + **Y** (Windows) ou **Cmd** + **Y** (Mac).
 * ![modèle pour créer rapidement des prospectus](/help/using/assets/zoomin.svg) : cliquez pour effectuer un zoom sur la zone de travail ou appuyez sur **Ctrl** + **+** (Windows) ou Cmd + **+** (Mac).
@@ -109,7 +109,7 @@ Cliquez sur ![modèle pour créer rapidement des prospectus](/help/using/assets/
 
 Pour ajouter des images à la zone de travail, procédez comme suit :
 
-1. Cliquez sur ![créer une bannière en un rien de temps](/help/using/assets/add-image.svg) pour afficher le panneau [Sélecteur de ressources](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector). Le panneau affiche les images de votre instance AEM Assets synchronisées avec Dynamic Media.
+1. Cliquez sur ![créer une bannière en un rien de temps](/help/using/assets/add-image.svg) pour afficher le panneau [Sélecteur de ressources](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/asset-selector/overview-asset-selector). Le panneau affiche les images de votre instance AEM Assets synchronisées avec Dynamic Media.
 1. Parcourez le panneau ou utilisez des mots-clés dans la barre de recherche pour trouver une image spécifique.
 1. Faites glisser et déposez une image sur la zone de travail pour l’utiliser. Pour redimensionner ou repositionner un calque sur la zone de travail, reportez-vous au [**[!UICONTROL panneau Propriétés]**](#reposition-resize-delete-a-layer).
    ![créez une bannière en quelques secondes](/help/using/assets/add-image-to-canvas.png)
@@ -166,8 +166,8 @@ Pour modifier un calque de texte ou d’image, reportez-vous aux actions courant
 
 Mettez en forme votre texte selon la police, la taille, la couleur, le style et l’alignement de votre choix (dans le calque) en modifiant leurs valeurs dans les champs respectifs sous la section **[!UICONTROL Texte]** du panneau.
 
-**[!UICONTROL Redimensionnement de texte intelligent]** Assurez-vous d’inclure **[!UICONTROL Redimensionnement de texte intelligent]** ([Adaptation](https://experienceleague.adobe.com/fr/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) pour adapter de manière optimale le texte de la zone désignée en ajustant intelligemment la taille et la longueur de la police. Cette fonctionnalité empêche le texte de déborder ou réduit les espaces supplémentaires en bas du texte.
-![création de contenu en un rien de temps](/help/using/assets/smart-text-resize.png)
+**[!UICONTROL Redimensionnement de texte intelligent]** Assurez-vous d’inclure **[!UICONTROL Redimensionnement de texte intelligent]** ([Adaptation](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) pour adapter de manière optimale le texte de la zone désignée en ajustant intelligemment la taille et la longueur de la police. Cette fonctionnalité empêche le texte de déborder ou réduit les espaces supplémentaires en bas du texte.
+![ création de contenu en un rien de temps ](/help/using/assets/smart-text-resize.png)
 
 ### Calques de paramètres {#parameterise-a-layer}
 
@@ -191,17 +191,17 @@ Les propriétés paramétrées peuvent être incluses en tant que paramètres d�
 **X:** Inclure pour déplacer le calque horizontalement le long de son axe central, parallèlement à l’axe X du plan du modèle, en modifiant la valeur du paramètre dans l’URL.
 **Y:** Inclure pour déplacer le calque verticalement le long de sa ligne centrale, parallèlement à l’axe Y du plan du modèle, en modifiant la valeur du paramètre dans l’URL.
 **Largeur :** permet d’ajuster la largeur du calque en modifiant la valeur du paramètre dans l’URL.
-**Hauteur :** à inclure pour ajuster la hauteur du calque en modifiant la valeur du paramètre dans l’URL.
-**Masquer :** inclure pour masquer ou afficher le calque dans le modèle en utilisant 0 (afficher) et 1 (masquer).
-**Source :** incluez pour remplacer l’image du calque par une nouvelle image en modifiant le chemin d’accès à l’image dans la valeur du paramètre dans l’URL.
+**Hauteur :** permet d’ajuster la hauteur du calque en modifiant la valeur du paramètre dans l’URL.
+**Masquer :** permet d’inclure ou d’afficher le calque dans le modèle à l’aide des options 0 (afficher) et 1 (masquer).
+**Source:** Inclure pour remplacer l’image du calque par une nouvelle image en modifiant le chemin d’accès à l’image dans la valeur du paramètre dans l’URL.
 
 **Paramètres de formatage du texte :**
 
 Insérez les paramètres ci-dessous pour modifier le texte, sa police, sa couleur et sa taille à partir de l’URL en mettant à jour les valeurs de paramètre dans l’URL.
 
 **Texte :** inclure pour mettre à jour le texte de l’URL.
-**Famille de polices :** inclure pour mettre à jour la police du texte à partir de l’URL.
-**Taille de police :** inclure pour mettre à jour la taille de police du texte à partir de l’URL.
+**Famille de polices :** permet d’inclure pour mettre à jour la police du texte à partir de l’URL.
+**Taille de police :** permet d’inclure pour mettre à jour la taille de police du texte à partir de l’URL.
 **Couleur du texte :** inclure pour mettre à jour la couleur de police du texte à partir de l’URL.
 
 ### Regroupez les calques pour contrôler leur visibilité simultanément{#group-layers}
@@ -223,7 +223,7 @@ Pour attribuer le même nom aux paramètres de masquage (![création rapide de c
 
 Procédez comme suit pour prévisualiser et publier le modèle et copier l’URL de diffusion :
 
-1. Sur la page Zone de travail, cliquez sur **[!UICONTROL Aperçu]**. Vous pouvez également accéder à **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Dynamic Media Assets]** **>** rechercher et sélectionner votre modèle **>** cliquer sur **[!UICONTROL Modifier le modèle]**>**cliquer sur** Aperçu **&#x200B;**. La page d’aperçu affiche le modèle, ses paramètres (calques et propriétés paramétrés), l’état de publication et l’option **[!UICONTROL Publier]**.
+1. Sur la page Zone de travail, cliquez sur **[!UICONTROL Aperçu]**. Vous pouvez également accéder à **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Dynamic Media Assets]** **>** rechercher et sélectionner votre modèle **>** cliquer sur **[!UICONTROL Modifier le modèle]**>**cliquer sur** Aperçu ****. La page d’aperçu affiche le modèle, ses paramètres (calques et propriétés paramétrés), l’état de publication et l’option **[!UICONTROL Publier]**.
 1. Sélectionnez des paramètres dans le panneau **[!UICONTROL Paramètres du modèle]** pour modifier leurs valeurs et mettre instantanément à jour le contenu, la taille, la position ou le formatage textuel du calque de modèle correspondant dans l’aperçu. Par exemple :
    1. Sélectionnez un calque de texte et modifiez son texte ou
    1. Sélectionnez un calque d’image, cliquez sur ![création de contenu à la volée](/help/using/assets/add-image.svg), sélectionnez une image dans le sélecteur de ressources, puis cliquez sur **[!UICONTROL Actualiser]**.
@@ -287,5 +287,5 @@ Modifiez le modèle en procédant comme suit :
 
 ## Voir également
 
-1. Explorez [Dynamic Media et ses fonctionnalités](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Explorez [Dynamic Media et ses fonctionnalités](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
 1. Explorez [Dynamic Media avec les fonctionnalités OpenAPI](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
