@@ -2,9 +2,10 @@
 title: Comment gérer les modèles Dynamic Media ?
 description: Découvrez comment créer des modèles Dynamic Media à l’aide d’un éditeur de modèles WYSIWYG et inclure plusieurs calques d’images et de texte pour créer rapidement des bannières et des prospectus et les utiliser dans des applications en aval.
 hide: true
+hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: b0b103b91ca4f4c657fd6d6f526be5f5b05dc156
+source-git-commit: 4c176db86c9f3219f2cb63edda71435a2aa76850
 workflow-type: tm+mt
 source-wordcount: '3000'
 ht-degree: 6%
@@ -51,7 +52,7 @@ Pour créer un modèle Dynamic Media, vous devez disposer des éléments suivant
 
 1. Accès à Dynamic Media.
 1. [Les images disponibles dans votre instance AEM Assets ont été synchronisées avec Dynamic Media afin de les utiliser pour créer le modèle](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
-1. Vérifiez les éléments suivants dans l’interface utilisateur tactile :
+1. Vérification des éléments suivants sur l’interface utilisateur tactile :
    * Sur la page **[!UICONTROL Modifier la configuration Dynamic Media]**, **[!UICONTROL Mode de synchronisation Dynamic Media]** défini sur **[!UICONTROL Désactivé par défaut]** n’est pas appliqué à tous les dossiers AEM (**[!UICONTROL Synchroniser tout le contenu]** est décoché). Voir [Configuration de Dynamic Media Cloud Service](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) pour plus d’informations.
    * Le **[!UICONTROL mode de synchronisation Dynamic Media]** est défini sur **[!UICONTROL Activer pour les sous-dossiers]** pour le dossier ou sous-dossier de destination dans lequel vous enregistrerez le modèle après sa création. Voir [Configuration de Dynamic Media Cloud Service](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) pour plus d’informations.
 
