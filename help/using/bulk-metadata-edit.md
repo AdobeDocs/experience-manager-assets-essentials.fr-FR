@@ -3,10 +3,15 @@ title: Modification des métadonnées en bloc dans Assets Essentials
 description: Découvrez comment mettre à jour un ensemble prédéfini de champs de métadonnées standard pour plusieurs ressources disponibles simultanément sur Assets Essentials.
 exl-id: 17185160-6c51-4581-a716-77b365ef3dd9
 TQID: https://experienceleague.adobe.com/zfRAzwQWEhdCwSVuWKDz-ndudFtv-mIhmjzyNkg8sOQ
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 649
@@ -64,7 +69,7 @@ La fonctionnalité **Modification des métadonnées en bloc** d’Assets Essenti
 
 Exécutez les étapes suivantes pour modifier en bloc les métadonnées de plusieurs ressources à la fois :
 
-1. Dans Assets Essentials, cliquez sur ****.
+1. Dans Assets Essentials, cliquez sur **&#x200B;**.
 1. Recherchez des ressources spécifiques ou recherchez-les à l’aide de mots-clés dans la barre de recherche.
 1. Sélectionnez les ressources et cliquez sur **Modification des métadonnées en bloc** dans le menu supérieur.
    ![bulk-metadata-edit](/help/using/assets/bulk-metadata-edit1.png)
