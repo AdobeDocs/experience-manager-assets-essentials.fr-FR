@@ -79,11 +79,11 @@ Comparé aux vocabulaires des langages naturels, le balisage des ressources num�
 
 En savoir plus sur les [balises intelligentes pour les ressources vidéo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/smart-tags-video-assets.html?lang=en).
 
-En savoir plus sur [Retraitement des balises de couleurs pour les images existantes dans la gestion des ressources numériques](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en#color-tags-existing-images).
+En savoir plus sur [Retraitement des balises de couleurs pour les images existantes dans la gestion des ressources numériques](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=fr#color-tags-existing-images).
 
 ### Recadrage intelligent {#reprocessing-smart-crop}
 
-En savoir plus sur la [recadrage intelligent Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?lang=en) qui vous permet d’appliquer un recadrage spécifique (**[!UICONTROL recadrage intelligent]** et recadrage des pixels) et une configuration d’accentuation aux ressources chargées.
+En savoir plus sur la [recadrage intelligent Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?lang=fr) qui vous permet d’appliquer un recadrage spécifique (**[!UICONTROL recadrage intelligent]** et recadrage des pixels) et une configuration d’accentuation aux ressources chargées.
 
 ### Métadonnées {#reprocessing-metadata}
 
@@ -93,7 +93,7 @@ En savoir plus sur le [retraitement des profils de métadonnées](https://experi
 
 ### Retraitement de ressources Dynamic Media dans un dossier {#reprocessing-dynamic-media}
 
-Vous pouvez traiter une nouvelle fois des ressources dans un dossier qui comporte déjà un profil d’image Dynamic Media ou un profil vidéo Dynamic Media que vous avez ensuite modifié. Pour plus d’informations, consultez [retraitement des ressources Dynamic Media dans un dossier.](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/about-image-video-profiles.html?lang=en)
+Vous pouvez traiter une nouvelle fois des ressources dans un dossier qui comporte déjà un profil d’image Dynamic Media ou un profil vidéo Dynamic Media que vous avez ensuite modifié. Pour plus d’informations, consultez [retraitement des ressources Dynamic Media dans un dossier.](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/about-image-video-profiles.html?lang=fr)
 
 >[!NOTE]
 >
