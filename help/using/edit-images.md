@@ -3,10 +3,17 @@ title: Modification des images
 description: Modifiez les images à l’aide des options optimisées d’ [!DNL Adobe Express] et enregistrez les images mises à jour sous forme de versions.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 53f638e0dc934f2a4134acb89713b5d4828c8d1f
+TQID: https://experienceleague.adobe.com/DAhAV4RClHSyCj-NgVALulD0gzddSip5f56LsUq0bHU
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1258'
-ht-degree: 100%
+source-wordcount: 1258
+ht-degree: 97%
 
 ---
 
@@ -66,7 +73,7 @@ La transformation d’une image en taille parfaite est facile à l’aide des ac
 1. Cliquez sur **[!UICONTROL Recadrer l’image]** dans le volet de gauche.
 2. Faites glisser les poignées sur les coins de l’image pour créer le recadrage souhaité.
 3. Cliquez sur **[!UICONTROL Appliquer]**.
-   ![Enregistrement d’image avec Adobe Express.](/help/using/assets/adobe-express-crop-image.png)
+   ![Enregistrer l’image avec Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 L’image recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource.
 
 #### Convertir le JPEG en PNG {#Convert-JPEG-to-PNG}
@@ -86,8 +93,8 @@ Vous pouvez rapidement convertir les formats d’image JPEG et PNG à l’aide d
 
 Les utilisateurs et utilisatrices disposant de droits Express peuvent utiliser l’éditeur Express intégré dans l’interface d’utilisation d’Assets Essentials pour modifier le contenu et créer du contenu facilement avec GenAI à partir d’Adobe Firefly. Cette fonctionnalité améliore la réutilisation du contenu et accélère la vitesse du contenu. Vous pouvez également utiliser des éléments prédéfinis pour optimiser l’aspect de vos ressources ou exécuter des actions rapides pour modifier vos images en quelques clics seulement.
 
-![Express dans l’interface d’utilisation d’Essentials](/help/using/assets/express-in-essentials-ui.jpg)
-Pour modifier des images à l’aide de l’éditeur intégré Adobe Express, procédez comme suit :
+![express dans l’interface utilisateur d’essentials](/help/using/assets/express-in-essentials-ui.jpg)
+Pour modifier des images dans l’éditeur incorporé d’Adobe Express, procédez comme suit :
 
 1. Accédez à l’interface d’utilisation d’AEM Assets Essentials à l’aide du lien [Interface d’utilisation d’AEM Assets Essentials](https://experience.adobe.com/#/assets) et sélectionnez le référentiel approprié.
 1. Cliquez sur **Ressources**, saisissez un dossier et sélectionnez une image.

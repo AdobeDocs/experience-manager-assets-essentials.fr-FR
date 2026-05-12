@@ -3,9 +3,16 @@ title: Chargement de ressources dans le référentiel
 description: Chargez des ressources vers  [!DNL Assets Essentials], affichez les statuts de chargement et résolvez les problèmes de chargement.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+TQID: https://experienceleague.adobe.com/aEqz-LzeQEOrAurYW3Y-6xdONbA6WoRxA-0hHX5A99o
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: 846
 ht-degree: 98%
 
 ---
@@ -106,4 +113,4 @@ Les utilisateurs peuvent supprimer individuellement des ressources ou des dossie
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General#support).

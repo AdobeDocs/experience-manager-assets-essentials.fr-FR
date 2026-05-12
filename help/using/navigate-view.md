@@ -3,10 +3,19 @@ title: Interface utilisateur d’[!DNL Assets Essentials]
 description: Comprendre l’interface utilisateur et de la navigation dans [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/W1zIfwgI5yZzAqjES-EZZOe7qKnB15huoHvfi--Xi2o
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 98%
+source-wordcount: 1107
+ht-degree: 100%
 
 ---
 
@@ -36,7 +45,7 @@ Quand vous naviguez dans le dossier des ressources, vous pouvez utiliser l’int
 * [Mon espace de travail](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=fr) : Assets comprend désormais un espace de travail personnalisable, composé de widgets permettant d’accéder facilement aux éléments clés de l’interface utilisateur d’Assets et aux informations qui vous intéressent le plus. Sur une page unique, bénéficiez d’un aperçu de vos tâches et d’un accès rapide aux principaux workflows. Grâce à un accès rapide et convivial aux menus pertinents, vous gagnez en efficacité et en vitesse de contenu.
 * [Tâches](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=fr) : vous pouvez afficher les tâches qui vous sont affectées sous l’onglet **Mes tâches**. En revanche, les tâches que vous créez peuvent être affichées sous l’onglet **Tâches affectées**. En outre, les tâches que vous avez terminées se trouvent sous l’onglet **Tâches terminées**.
 * [Ressources](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-organize.html?lang=fr) : liste de tous les dossiers auxquels vous avez accès sous la forme d’une arborescence.
-* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
+* **Récemment consultés** : liste des ressources que vous avez récemment prévisualisées. [!DNL Assets Essentials] affiche uniquement les ressources que vous prévisualisez. Cette fonctionnalité n’affiche pas les ressources que vous faites défiler en naviguant dans les fichiers ou dossiers du référentiel.
 * [Collections](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=fr) : une collection est un ensemble de ressources, de dossiers ou d’autres collections dans Adobe Experience Manager Assets Essentials. Vous pouvez utiliser des collections pour partager des ressources entre utilisateurs et utilisatrices. Contrairement aux dossiers, une collection peut comporter des ressources provenant de différents emplacements. Vous pouvez partager plusieurs collections avec un utilisateur ou une utilisatrice. Chaque collection contient des références aux ressources. L’intégrité du référentiel des ressources est préservée dans les collections.
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=fr#view-live-statistics) : dans [!DNL Assets Essentials], vous pouvez afficher des insights en temps réel sur votre tableau de bord. Assets Essentials vous permet d’afficher des données en temps réel pour votre environnement Assets Essentials à l’aide du tableau de bord Insights. Vous pouvez afficher les mesures d’événement en temps réel au cours des 30 derniers jours ou au cours des 12 derniers mois.

@@ -3,10 +3,15 @@ title: Modifier des vidéos
 description: Modifiez des vidéos à l [!DNL Adobe Express] aide d’options optimisées et enregistrez les vidéos mises à jour en tant que versions.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
+TQID: https://experienceleague.adobe.com/j9r915ua9GXUoTHdbSBHWxnHm-FIhCwvIuKOp91AFCg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 24%
+source-wordcount: 841
+ht-degree: 27%
 
 ---
 
@@ -42,11 +47,11 @@ Vous pouvez éliminer les parties indésirables de la vidéo à l’aide d’act
 5. Cliquez sur **[!UICONTROL Appliquer]**.
    ![Recadrage vidéo avec Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
-   La vidéo recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource. ![Enregistrer une vidéo avec Adobe Express &#x200B;](/help/using/assets/adobe-express-save-video.png)
+   La vidéo recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource. ![Enregistrer la vidéo avec Adobe Express](/help/using/assets/adobe-express-save-video.png)
 
 ### Redimensionnement de la vidéo {#resize-video-using-express}
 
-Le contenu vidéo final dans la gestion des ressources numériques doit souvent être redimensionné pour être distribué à des canaux spécifiques. [!DNL Assets Essentials] permet de redimensionner facilement la vidéo pour l’adapter aux dimensions requises par les canaux sociaux courants et vous pouvez également la redimensionner pour des résolutions personnalisées. Pour redimensionner la vidéo à l’aide de [!DNL Assets Essentials], procédez comme suit :
+Le contenu vidéo final dans la gestion des ressources numériques doit souvent être redimensionné pour être distribué à des canaux spécifiques. [!DNL Assets Essentials] vous permet de redimensionner facilement la vidéo pour l’adapter aux dimensions requises par les canaux sociaux courants. Vous pouvez également la redimensionner pour des résolutions personnalisées. Pour redimensionner la vidéo à l’aide de [!DNL Assets Essentials], procédez comme suit :
 
 1. Sélectionnez une vidéo et cliquez sur **[!UICONTROL Modifier]**.
 2. Cliquez sur **[!UICONTROL Redimensionner la vidéo]** dans les actions rapides disponibles dans le volet de gauche.

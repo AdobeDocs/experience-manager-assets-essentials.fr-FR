@@ -2,10 +2,20 @@
 title: Gestion des balises dans Assets Essentials
 description: Découvrez comment gérer les balises dans Assets Essentials. Les balises permettent de classer les ressources pour une navigation et une recherche plus efficaces.
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
-source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
+TQID: https://experienceleague.adobe.com/JD076an4fdBxdo-6mqqmX-k2FVcAGSARn1CIX-emVLc
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1770'
-ht-degree: 97%
+source-wordcount: 1770
+ht-degree: 100%
 
 ---
 
@@ -129,7 +139,7 @@ Pour supprimer des balises, procédez comme suit :
 
 ## Ajouter un composant Balises au formulaire de métadonnées {#add-tags-to-metadata-form}
 
-Le composant Balises est ajouté automatiquement au formulaire de métadonnées `default`. Vous pouvez concevoir un [formulaire de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=fr#metadata-forms) soit en utilisant un modèle, soit à partir de zéro. Si vous n’utilisez pas de modèle de formulaire de métadonnées existant, vous pouvez modifier votre formulaire de métadonnées et ajouter le composant Balises. Le mappage des propriétés de métadonnées est renseigné automatiquement et ne peut pas être modifié pour le moment. [!DNL Assets as a Cloud Service] les utilisateurs peuvent mettre à jour le mappage pour stocker les valeurs de balise à l’aide d’espaces de noms personnalisés et n’exposer que des sous-ensembles de hiérarchies à l’aide de chemins d’accès racine.
+Le composant Balises est ajouté automatiquement au formulaire de métadonnées `default`. Vous pouvez concevoir un [formulaire de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=fr#metadata-forms) soit en utilisant un modèle, soit à partir de zéro. Si vous n’utilisez pas de modèle de formulaire de métadonnées existant, vous pouvez modifier votre formulaire de métadonnées et ajouter le composant Balises. Le mappage des propriétés de métadonnées est renseigné automatiquement et ne peut pas être modifié pour le moment. Les personnes utilisant [!DNL Assets as a Cloud Service] peuvent mettre à jour le mappage pour stocker les valeurs de balise à l’aide d’espaces de noms personnalisés et n’exposer que les sous-ensembles de hiérarchies à l’aide des chemins d’accès racine.
 
 Regardez cette vidéo rapide pour découvrir comment ajouter le composant Balises à votre formulaire de métadonnées :
 

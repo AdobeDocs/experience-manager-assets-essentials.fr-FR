@@ -2,10 +2,16 @@
 title: Comment gérer les autorisations des dossiers dans AEM Assets Essentials ?
 description: Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d’accès aux dossiers disponibles dans le référentiel. Pour gérer les niveaux d’accès, créez des groupes d’utilisateurs et attribuez-leur des autorisations. En tant qu’administrateur, vous pouvez également déléguer les droits de gestion des autorisations à des groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
+TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1700'
-ht-degree: 97%
+source-wordcount: 1700
+ht-degree: 98%
 
 ---
 
@@ -32,7 +38,7 @@ Ajoutez des administrateurs pour l’application Assets Essentials afin qu’ils
 
 Pour ajouter des administrateurs :
 
-1. Accédez à [&#128279;](https://adminconsole.adobe.com) pour votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, cliquez sur **[!UICONTROL AEM Assets Essentials]**, puis cliquez sur [!DNL Assets Essentials] environnement. [!DNL Assets Essentials] comporte trois profils de produit qui représentent l’accès pour les administrateurs, les utilisateurs réguliers et les consommateurs.
+1. Accédez à [Admin Console](https://adminconsole.adobe.com) de votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, puis sur **[!UICONTROL AEM Assets Essentials]**, et enfin sur l’environnement [!DNL Assets Essentials]. [!DNL Assets Essentials] possède trois profils de produits qui représentent l’accès pour les responsables de l’administration, les utilisateurs/utilisatrices standard, et les utilisateurs consommateurs/utilisatrices consommatrices.
 
    ![Profil administrateur Admin Console](assets/admin-console-admin-profile.png)
 
@@ -81,7 +87,7 @@ Vous pouvez attribuer les autorisations suivantes aux groupes d’utilisateurs o
 
 | Nom de l’autorisation | Description |
 |-----|------|
-| Peut afficher | <ul><li>Accès en lecture à l’affichage et à la navigation des dossiers </li><li>Prévisualiser des ressources</li><li>Téléchargement de ressources</li><li>Copie de ressources</li><li>Partager des liens vers des ressources</li><ul> |
+| Peut afficher | <ul><li>Accès en lecture à l’affichage et à la navigation des dossiers </li><li>Prévisualiser des ressources</li><li>Télécharger les ressources</li><li>Copie de ressources</li><li>Partager des liens vers des ressources</li><ul> |
 | Peut modifier | <ul><li>Tous les privilèges disponibles pour les autorisations Peut afficher </li><li>Créer des dossiers</li><li>Supprimer des dossiers</li><li>Renommer des dossiers</li><li>Créer des ressources</li><li>Mettre à jour des ressources</li><li>Supprimer des ressources</li><li>Déplacer des ressources</li><li>Renommer des ressources</li><ul> |
 | Propriétaire | <ul><li>Tous les privilèges disponibles pour les autorisations Peut modifier</li><li>Gérer les autorisations sur un dossier et ses sous-dossiers</li>Cette autorisation permet aux administrateurs de déléguer les droits d’administrateur dʼun dossier et de ses sous-dossiers à d’autres personnes.<ul> |
 | Refuser l’accès | Supprime les autorisations Peut afficher, Peut modifier et Propriétaire d’un dossier et de ses sous-dossiers. |
@@ -187,7 +193,7 @@ Créez les groupes d’utilisateurs suivants dans Admin Console :
 
 * Équipe juridique
 
-Le diagramme suivant illustre la hiérarchie des dossiers et les autorisations attribuées à chaque groupe d’utilisateurs :
+Le diagramme suivant illustre la hiérarchie des dossiers et les autorisations attribuées à chaque groupe d’utilisateurs :
 ![Attribuer des autorisations](assets/use-case-permissions-management.png)
 
 Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hiérarchie des dossiers :

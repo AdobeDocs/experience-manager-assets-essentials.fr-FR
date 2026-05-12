@@ -2,10 +2,20 @@
 title: Configuration d’Assets Essentials pour Creative Cloud Pro avec les solutions de gestion du travail
 description: Ce tutoriel présente un parcours d’administrateur pour permettre à l’application Assets Essentials de s’intégrer aux applications de bureau Creative Cloud et à l’application Adobe Workfront. Les applications de bureau Creative Cloud comprennent Adobe Photoshop, Adobe Illustrator, Adobe InDesign et Adobe XD.
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
-source-git-commit: b1ae487b4b4e9a88e0d9c39889d3893d92a766c9
-workflow-type: ht
-source-wordcount: '867'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/nYLF2t3wzkhjKS-cdR1dhW-CZ8YwQcJS4FxS2FAYXzg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+workflow-type: tm+mt
+source-wordcount: 917
+ht-degree: 97%
 
 ---
 
@@ -49,9 +59,9 @@ Les parcours de documentation sont conçus autour des principes de bonne pratiqu
 
 ## Prérequis
 
-* [Accès à Adobe Admin Console pour les solutions Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=fr)
+* [Accès à Adobe Admin Console pour les solutions Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=fr)
 
-* [Accès à Adobe Admin Console pour un déploiement de Creative Cloud abonnement Entreprise](https://helpx.adobe.com/fr/enterprise/admin-guide.html)
+* [Accès à Adobe Admin Console pour le déploiement de Creative Cloud abonnement Entreprise](https://helpx.adobe.com/fr/enterprise/admin-guide.html)
 
 ## Administrer Experience Manager Assets Essentials {#administer-assets-essentials}
 
@@ -85,7 +95,7 @@ Maintenant que vous avez configuré et géré l’application Assets Essentials
 
 ![Préférence pour changer de thème (sombre ou clair)](assets/cce-creative-cloud.png)
 
-Le [panneau in-app Adobe Asset Link](https://www.adobe.com/fr/creativecloud/business/enterprise/adobe-asset-link.html) permet aux professionnels de la création de se connecter au référentiel [!DNL Assets Essentials] à partir des applications de bureau [!DNL Adobe Creative Cloud] prises en charge. Le panneau est disponible pour [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] et [!DNL Adobe XD]. Il simplifie l’accès aux ressources, ce qui accroît la vitesse du contenu.
+Le [panneau in-app Adobe Asset Link](https://www.adobe.com/fr/creativecloud/business/enterprise/adobe-asset-link.html) permet aux professionnels de la création de se connecter au référentiel [!DNL Assets Essentials] à partir des applications de bureau [!DNL Adobe Creative Cloud] prises en charge. Le panneau est disponible pour [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] et [!DNL Adobe XD]. Il simplifie l’accès aux ressources, ce qui accroît la vitesse du contenu.
 
 Ce tutoriel vous guide pour intégrer les applications [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], et [!DNL Adobe XD] à Experience Manager Assets Essentials.
 

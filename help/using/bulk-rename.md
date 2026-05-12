@@ -3,10 +3,17 @@ title: Renommez et les ressources en bloc renomment dans  [!DNL Assets Essential
 description: Découvrez comment renommer des ressources en bloc à l’aide de la nouvelle interface utilisateur d’Assets (Assets Essentials). Il permet de renommer plusieurs ressources à la fois.
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
-source-git-commit: 631156a70271b6f480264e2c604314f09a820fc9
+TQID: https://experienceleague.adobe.com/NEmoIDy8etw5vhpxRbf9RyVnT1TKfoOvK4tpPrGHP-Q
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 17%
+source-wordcount: 458
+ht-degree: 20%
 
 ---
 
@@ -49,7 +56,7 @@ Voici quelques exemples d’utilisation de l’IA pour renommer des ressources e
 * Préfixe avec 00, 01, etc., et suffixe avec la date d&#39;aujourd&#39;hui.
 * Remplacez tous les fichiers par « mon-fichier » et ajoutez un numéro qui s’incrémente.
 * Supprimez le préfixe et le suffixe, conservez simplement la partie centrale du nom.
-* faire précéder les fichiers de 001, 002, etc. ; et traduire en anglais.
+* faire précéder les fichiers de 001, 002, etc. et les traduire en anglais ;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
@@ -61,11 +68,11 @@ Voici quelques exemples d’utilisation de l’IA pour renommer des ressources e
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=fr).
+* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=fr)
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General#support).
 

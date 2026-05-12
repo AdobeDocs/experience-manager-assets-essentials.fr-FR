@@ -2,13 +2,22 @@
 title: Modification des métadonnées en bloc dans Assets Essentials
 description: Découvrez comment mettre à jour un ensemble prédéfini de champs de métadonnées standard pour plusieurs ressources disponibles simultanément sur Assets Essentials.
 exl-id: 17185160-6c51-4581-a716-77b365ef3dd9
-source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
+TQID: https://experienceleague.adobe.com/zfRAzwQWEhdCwSVuWKDz-ndudFtv-mIhmjzyNkg8sOQ
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2:
+  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '508'
-ht-degree: 4%
+source-wordcount: 649
+ht-degree: 28%
 
 ---
-
 
 <table>
     <tr>
@@ -22,11 +31,11 @@ ht-degree: 4%
         </td>
         <td>
             <img src="assets/new2.gif" width="20px" height="25px" alt="nouveau">
-            <a href="http://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Intégration d’AEM Assets à Edge Delivery Services</b></a>
+<a href="http://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Intégration d’AEM Assets à Edge Delivery Services</b></a>
         </td>
         <td>
             <img src="assets/new2.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilité de l’interface utilisateur</b></a>
+            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilité de l’interface d’utilisation</b></a>
         </td>
           <td>
             <img src="assets/new2.gif" width="20px" height="25px" alt="nouveau">
@@ -60,7 +69,7 @@ La fonctionnalité **Modification des métadonnées en bloc** d’Assets Essenti
 
 Exécutez les étapes suivantes pour modifier en bloc les métadonnées de plusieurs ressources à la fois :
 
-1. Dans Assets Essentials, cliquez sur **Assets**.
+1. Dans Assets Essentials, cliquez sur **&#x200B;**.
 1. Recherchez des ressources spécifiques ou recherchez-les à l’aide de mots-clés dans la barre de recherche.
 1. Sélectionnez les ressources et cliquez sur **Modification des métadonnées en bloc** dans le menu supérieur.
    ![bulk-metadata-edit](/help/using/assets/bulk-metadata-edit1.png)
@@ -71,7 +80,6 @@ Exécutez les étapes suivantes pour modifier en bloc les métadonnées de plusi
    * **Mots-clés :** ajoutez des termes ou des chaînes de texte spécifiques qui fournissent des informations générales sur les ressources afin d’améliorer leur visibilité. Ajoutez un mot-clé et appuyez sur Entrée ou Retour pour ajouter un autre mot-clé à la liste.
    * **Balises :** cliquez sur ![icône des balises](/help/using/assets/tags-icon.svg) pour sélectionner des balises dans les options disponibles. Les balises fournissent des informations plus spécifiques sur les ressources et améliorent leur visibilité. Les balises déjà appliquées aux ressources sélectionnées s’affichent dans le panneau **Propriétés**. Si vous ne trouvez pas les balises appropriées, créez-les et affectez-les aux ressources sélectionnées. Voir [Gérer les balises dans Assets Essentials](/help/using/tagging-management.md) pour plus d’informations sur la création et l’affectation de balises à des ressources.
    * Cliquez sur **Enregistrer** pour appliquer les mises à jour de métadonnées ci-dessus aux ressources sélectionnées. Une fois enregistrés, les mots-clés et les balises sont ajoutés, tandis que les détails mis à jour pour le statut, la date d’expiration et l’auteur remplacent leurs détails existants.
-
      ![save-bulk-metadata-edit-properties](/help/using/assets/save-bulk-metadata-edit-properties2.png)
 
      >[!NOTE]
