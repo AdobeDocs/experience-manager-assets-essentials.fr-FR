@@ -3,13 +3,17 @@ title: Filtres de recherche personnalisés
 description: En savoir plus sur la personnalisation du formulaire des filtres de recherche
 role: User, Leader, Developer
 exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
-source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
+TQID: https://experienceleague.adobe.com/h5wa-Umxw-KIYoicGOIEccNf4dBYe0a7zTkdtCi4-Ak
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1349'
-ht-degree: 14%
+source-wordcount: 1475
+ht-degree: 24%
 
 ---
-
 
 <table>
     <tr>
@@ -23,11 +27,11 @@ ht-degree: 14%
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="nouveau">
-            <a href="http://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Intégration d’AEM Assets à Edge Delivery Services</b></a>
+<a href="http://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Intégration d’AEM Assets à Edge Delivery Services</b></a>
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilité de l’interface utilisateur</b></a>
+            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilité de l’interface d’utilisation</b></a>
         </td>
           <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="nouveau">
@@ -65,7 +69,7 @@ Personnalisation des filtres de recherche AEM Assets ne peut être mappé qu’a
 
    ![paramètres de filtre de recherche personnalisée](assets/custom-search-filter.png)
 
-1. Le formulaire [!UICONTROL &#x200B; Configurer les filtres &#x200B;] s’affiche. Assurez-vous d’être en mode d’édition afin de pouvoir apporter des modifications au modèle. Vous pouvez passer en [!UICONTROL mode Aperçu] pour afficher l’aperçu d’un formulaire de recherche existant.
+1. Le formulaire [!UICONTROL  Configurer les filtres ] s’affiche. Assurez-vous d’être en mode d’édition afin de pouvoir apporter des modifications au modèle. Vous pouvez passer en [!UICONTROL mode Aperçu] pour afficher l’aperçu d’un formulaire de recherche existant.
 1. Déposez des éléments de filtre du [filtres personnalisés](#available-custom-filters) sur la zone de travail. Vous pouvez faire glisser et déposer le composant pour le réorganiser si nécessaire.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3443080)
@@ -418,8 +422,8 @@ Chaque élément de filtre est associé à un ensemble de propriétés. Les filt
         <td>
         <ul>
         <li>Cliquez sur <b>ajouter</b> pour ajouter une nouvelle valeur. 
-        <li>Cliquez sur <span>✎</span> pour modifier le libellé. 
-        <li>Cliquez sur <span>??</span> pour supprimer la valeur de l’option. 
+        <li>Cliquez sur ✎</span> pour modifier le libellé. <span>
+        <li>Cliquez sur 🗑</span> pour supprimer la valeur de l’option. <span>
         <li>Cliquez sur <b>Modifier</b> pour modifier les options d’édition. 
         <li>Vous pouvez également modifier la séquence des options en les maintenant enfoncées.
         </td>
@@ -453,7 +457,7 @@ Pour supprimer un filtre de recherche, procédez comme suit :
 
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
 1. Accédez à l’onglet **[!UICONTROL Rechercher]**. Cliquez sur **[!UICONTROL Personnaliser]** pour configurer votre formulaire de recherche.
-1. Le formulaire [!UICONTROL &#x200B; Configurer les filtres &#x200B;] s’affiche. Assurez-vous d’être en mode d’édition afin de pouvoir apporter des modifications au modèle.
+1. Le formulaire [!UICONTROL  Configurer les filtres ] s’affiche. Assurez-vous d’être en mode d’édition afin de pouvoir apporter des modifications au modèle.
 1. Sélectionnez l’élément de filtre à supprimer. Sélectionnez par exemple **[!UICONTROL Hauteur de l’image]**.
 1. Cliquez sur **[!UICONTROL Supprimer une catégorie]** pour supprimer l’élément de filtre. L’élément **[!UICONTROL Hauteur de l’image]** est supprimé de la zone de travail.
 1. Cliquez sur **[!UICONTROL Confirmer]** pour enregistrer le formulaire.

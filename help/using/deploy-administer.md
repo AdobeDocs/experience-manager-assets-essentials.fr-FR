@@ -3,16 +3,20 @@ title: Administrer et gérer les utilisateurs
 description: Cas pratiques d’administration tels que le déploiement et la gestion des utilisateurs dans [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+TQID: https://experienceleague.adobe.com/q-Eq1tZANfkgtIpwSifDVfLakJvRhia0pO2lXEMCYYg
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1304'
+source-wordcount: 1364
 ht-degree: 99%
 
 ---
 
 # Administrer [!DNL Assets Essentials] et ajouter des utilisateurs {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] est configuré par Adobe pour ses clients. Dans le cadre de la mise en service, [!DNL Assets Essentials] est ajouté à l’organisation d’un client dans [!DNL Adobe Admin Console]. Les administrateurs utilisent [!DNL Admin Console] pour gérer les droits d’accès des utilisateurs à la solution [!DNL Assets Essentials] et affecter des administrateurs d’applications à la configuration d’autorisations et de formulaires de métadonnées dans [!DNL Assets Essentials].
+[!DNL Adobe Experience Manager Assets Essentials] est configuré par Adobe pour ses clients. Dans le cadre de la mise en service, [!DNL Assets Essentials] est ajouté à l’organisation d’un client dans [!DNL Adobe Admin Console]. L’équipe d’administration [!DNL Admin Console] pour gérer les droits d’accès à la solution [!DNL Assets Essentials], et affecter des administrateurs et administratrices d’applications à la configuration d’autorisations et de formulaires de métadonnées dans [!DNL Assets Essentials].
 
 
 Le diagramme de flux de données suivant illustre la séquence des tâches qu’un administrateur doit effectuer pour configurer et gérer Assets Essentials :
@@ -60,17 +64,17 @@ Pour ajouter des profils de produit à des groupes d’utilisateurs :
 1. Accédez à [Admin Console](https://adminconsole.adobe.com) de votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, puis sur **[!UICONTROL AEM Assets Essentials]**, et enfin sur l’instance de [!DNL Assets Essentials]. Le nom de l’instance peut être différent de celui de la capture d’écran ci-dessous.
    >[!NOTE]
    >
-   >L’instance de [!DNL Cloud Manager] est réservée à un usage administratif spécial, comme la vérification du statut des services et l’accès aux journaux des services. Elle ne peut pas être utilisée pour ajouter des utilisateurs au produit. 
+   >L’instance de [!DNL Cloud Manager] est réservée à un usage administratif spécial, comme la vérification de l’état des services et l’accès aux journaux des services. Elle ne peut pas être utilisée pour ajouter des utilisateurs au produit.
 
    ![Profil administrateur Admin Console](assets/assets-essentials-instance.png)
 
-   [!DNL Assets Essentials] possède trois profils de produits qui représentent l’accès pour les administrateurs, les utilisateurs réguliers et les consommateurs.
+   [!DNL Assets Essentials] possède trois profils de produits qui représentent l’accès pour les responsables de l’administration, les utilisateurs/utilisatrices standard, et les utilisateurs consommateurs/utilisatrices consommatrices.
 
    * Les **[!DNL Assets Essentials] administrateurs** : ont un accès administratif à l’application. En plus de toutes les fonctionnalités de l’utilisateur final, les administrateurs d’applications de ce groupe peuvent gérer les autorisations de n’importe quel dossier et groupe/utilisateur dans l’ensemble du référentiel de l’application.
 
    * Les **[!DNL Assets Essentials] utilisateurs** : ont accès à l’interface utilisateur complète. Ces utilisateurs peuvent charger, organiser, baliser et rechercher des ressources numériques.
 
-   * Les utilisateurs consommateurs et les utilisatrices consommatrices **[!DNL Assets Essentials]** peuvent effectuer des opérations de recherche, de prévisualisation et de téléchargement dans Assets Essentials. Ils ou elles peuvent également rechercher et sélectionner des ressources dans Adobe Journey Optimizer, et rechercher et sélectionner des ressources à utiliser dans Workfront.
+   * Les **[!DNL Assets Essentials]utilisateurs consommateurs et les utilisatrices consommatrices** peuvent effectuer des opérations de recherche, de prévisualisation et de téléchargement dans Assets Essentials. Ils ou elles peuvent également rechercher et sélectionner des ressources dans Adobe Journey Optimizer, et rechercher et sélectionner des ressources à utiliser dans Workfront.
 Pour plus d’informations, voir [Intégration à d’autres solutions](integration.md).
 
    ![Profil administrateur Admin Console](assets/admin-console-admin-profile.png)
@@ -131,7 +135,7 @@ Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d�
 
 Pour plus d’informations, voir [Gérer les autorisations pour les dossiers](manage-permissions.md).
 
-### Configuration du Forms des métadonnées (facultatif) {#metadata-forms}
+### Configuration De Metadata Forms (Facultatif) {#metadata-forms}
 
 Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
 
@@ -143,7 +147,7 @@ Pour plus d’informations, consultez la section [Formulaires de métadonnées](
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
-Pour plus d’informations sur le formulaires de métadonnées, voir [Formulaires de métadonnées dans Assets Essentials](metadata.md#metadata-forms).
+Pour plus d’informations sur les formulaires de métadonnées, voir [Formulaires de métadonnées dans Assets Essentials](metadata.md#metadata-forms).
 
 ### Créer des collections publiques (facultatif) {#create-public-collections}
 
@@ -157,11 +161,11 @@ Contrairement aux dossiers, une collection peut comporter des ressources provena
 
 <!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
-* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
+* Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
 
 

@@ -2,9 +2,12 @@
 title: Comment partager des liens vers des ressources ?
 description: Générez un lien et partagez les ressources avec d’autres personnes qui n’ont pas accès à l’application  [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
+TQID: https://experienceleague.adobe.com/7emFt0d0IFyOdeDx4BGB7O1Ks4hQvK9W2sEdWk0mz-I
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: 428
 ht-degree: 100%
 
 ---
@@ -22,7 +25,7 @@ Pour générer un lien pour une ressource ou un dossier contenant des ressources
 1. Si vous souhaitez l’ajuster, cliquez sur l’icône Calendrier pour définir une date d’expiration pour le lien à l’aide du champ **[!UICONTROL Date d’expiration]**. Vous pouvez également spécifier une date directement au format `yyyy-mm-dd`. Par défaut, la date d’expiration d’un lien est fixée à 2 semaines à compter de la date de partage.
 
 >[!NOTE]
-> Le format de date change en fonction du paramètre régional sélectionné.
+> Le format de date change en fonction des paramètres régionaux sélectionnés.
 > Par exemple, `de-DE` utilise `dd-mm-yyyy`, `ja-JA` utilise `yyyy-mm-dd`, alors que `en-EN` uses `mm-dd-yyyy`.
 >
 
@@ -54,4 +57,4 @@ Pour télécharger toutes les ressources en une seule fois, basculez sur la **[!
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![Modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&amp;lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).

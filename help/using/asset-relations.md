@@ -4,10 +4,14 @@ description: Découvrez comment mettre en relation des ressources numériques qu
 role: User
 feature: Collaboration,Asset Management
 solution: Experience Manager, Experience Manager Assets
-source-git-commit: 0aaeb09d90d8155d62a7b057d04e82568091a0ab
+exl-id: db3c30e4-a0c2-4686-a291-36a959fc3d05
+TQID: https://experienceleague.adobe.com/BIGrPj6x-EjokkE23Kg4gYU-2QA1PAUikAA1tvMZv1k
+product_v2: id: d09181b5-a36a-43de-ba01-36641440bc43id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 59%
+source-wordcount: 566
+ht-degree: 57%
 
 ---
 
@@ -48,7 +52,7 @@ Grâce à cette fonctionnalité, vous avez la possibilité de partager un fichie
 
 La création de relations source/dérivés entre des ressources à l’aide de la fonctionnalité Ressources mises en relation est également utile dans les workflows de traduction. Lorsque vous exécutez un workflow de traduction sur une ressource dérivée, [!DNL Experience Manager Assets] récupère automatiquement toute ressource référencée par le fichier source et la soumet pour traduction. Ainsi, la ressource référencée par la ressource source est traduite avec les ressources source et dérivées. Si le fichier source est mis en relation avec une autre ressource, [!DNL Experience Manager Assets] récupère la ressource référencée et la soumet pour traduction.
 
-Voir [&#x200B; Traduction des ressources dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
+Voir [ Traduction des ressources dans AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
 ## Étapes suivantes {#next-steps}
 
@@ -61,5 +65,5 @@ Voir [&#x200B; Traduction des ressources dans AEM](https://experienceleague.adob
 >[!MORELIKETHIS]
 >
 >* [Afficher les versions d’une ressource](manage-organize.md#view-versions)
->* [Traduire les ressources dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [Traduire les ressources dans AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
 >* [Formats de fichiers pris en charge dans la vue Assets](supported-file-formats.md).

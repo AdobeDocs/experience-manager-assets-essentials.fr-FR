@@ -2,10 +2,14 @@
 title: Importer des ressources en bloc à l’aide d’Assets Essentials
 description: Découvrez comment importer des ressources en bloc à l’aide de la nouvelle interface utilisateur d’Assets (Assets Essentials). Elle permet aux administrateurs et administratrices d’importer un grand nombre de ressources d’une source de données vers AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/6Fq368rg7WeWVL4E098y0skHagS8y1kTbEcvgVn9l94
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 92%
+source-wordcount: 1849
+ht-degree: 100%
 
 ---
 
@@ -49,7 +53,7 @@ Avant d’importer des ressources de votre compte Dropbox vers AEM Assets, cré
 
 Procédez comme suit :
 
-1. Connectez-vous à votre compte [&#128279;](https://www.dropbox.com/developers) puis cliquez sur **[!UICONTROL Créer des applications]**. <br>Si vous utilisez un compte Enterprise Dropbox, vous devez avoir accès au rôle d’administrateur de contenu.
+1. Connectez-vous à votre [compte Dropbox](https://www.dropbox.com/developers) et cliquez sur **[!UICONTROL Créer des applications]**. <br>Si vous utilisez un compte Dropbox d’entreprise, vous devez avoir accès au rôle d’administrateur ou d’administratrice de contenu.
 
 1. Dans la section **[!UICONTROL Choisir une API]**, sélectionnez le seul bouton radio disponible.
 
@@ -129,7 +133,7 @@ Pour créer une configuration d’import en bloc dans [!DNL Experience Manager A
    >
    >Si vous utilisez Dropbox comme source de données, spécifiez le chemin du dossier source en fonction des règles suivantes :
    >* Si vous sélectionnez **Full Dropbox** lors de la création de l’application Dropbox et que le dossier contenant les ressources existe dans `https://www.dropbox.com/home/bulkimport-assets`, indiquez `bulkimport-assets` dans le champ **[!UICONTROL Dossier source]**.
-   >* Si vous sélectionnez **Dossier de l’application** lors de la création de l’application Dropbox et que le dossier contenant les ressources existe à l’emplacement `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, spécifiez `bulkimport-assets` dans le champ **[!UICONTROL Dossier de Source]**, où `BulkImportAppFolderScope` fait référence au nom de l’application. `Apps` est automatiquement ajouté après `home` dans ce cas.
+   >* Si vous sélectionnez **Dossier d’application** lors de la création de l’application Dropbox et que le dossier contenant les ressources existe dans `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, indiquez `bulkimport-assets` dans le champ **[!UICONTROL Dossier source]**, où `BulkImportAppFolderScope` fait référence au nom de l’application. `Apps` est automatiquement ajouté après `home` dans ce cas.
 
 1. (Facultatif) Sélectionnez lʼoption **[!UICONTROL Supprimer le fichier source après lʼimport]** afin de supprimer les fichiers originaux du magasin de données source après lʼimport des fichiers dans [!DNL Experience Manager Assets].
 1. Sélectionnez le **[!UICONTROL Mode d’importation]**. Les modes suivants sont disponibles : **[!UICONTROL Ignorer]**, **[!UICONTROL Remplacer]** ou **[!UICONTROL Créer une version]**. Le mode par défaut est Ignorer. Dans ce mode, l’outil d’ingestion ignore l’importation d’une ressource si elle existe déjà.
@@ -157,7 +161,7 @@ Pour créer une configuration d’import en bloc dans [!DNL Experience Manager A
 
 ### Gestion des noms de fichier lors de l’importation en bloc {#filename-handling-bulkimport-assets-view}
 
-Lorsque vous importez des ressources ou des dossiers en bloc, [!DNL Experience Manager Assets] importe toute la structure de ce qui existe dans la source d’importation. [!DNL Experience Manager] suit les règles intégrées pour les caractères spéciaux dans les noms de ressources et de dossiers ; par conséquent, ces noms de fichier doivent être assainis. Pour les noms de dossier et de ressource, le titre défini par l’utilisateur reste inchangé et est stocké dans `jcr:title`.
+Lorsque vous importez des ressources ou des dossiers en bloc, [!DNL Experience Manager Assets] importe toute la structure de ce qui existe dans la source d’import. [!DNL Experience Manager] suit les règles intégrées pour les caractères spéciaux dans les noms de ressources et de dossiers ; par conséquent, ces noms de fichier doivent être assainis. Pour les noms de dossier et de ressource, le titre défini par l’utilisateur reste inchangé et est stocké dans `jcr:title`.
 
 Lors de l’importation en bloc, [!DNL Experience Manager] recherche les dossiers existants pour éviter de réimporter les ressources et les dossiers et vérifie également les règles d’assainissement appliquées dans le dossier parent où l’importation a lieu. Si les règles d’assainissement sont appliquées dans le dossier parent, les mêmes règles sont appliquées à la source d’importation. Pour une nouvelle importation, les règles d’assainissement suivantes sont appliquées pour gérer les noms de fichiers des ressources et dossiers.
 
@@ -166,7 +170,7 @@ Pour plus d’informations sur les noms non autorisés, la gestion des noms de r
 ## Afficher les configurations d’import en bloc existantes {#view-import-configuration}
 
 Pour afficher les imports en bloc existants, sélectionnez l’option **[!UICONTROL Imports en bloc]** dans le volet de gauche. La page Imports en bloc s’affiche avec la liste des **[!UICONTROL Imports exécutés]**. <br>
-Vous pouvez également afficher les options **[!UICONTROL Importations enregistrées]** et **[!UICONTROL Importations planifiées]** dans la liste déroulante.
+Vous pouvez également afficher les **[!UICONTROL Imports enregistrés]** et les **[!UICONTROL Imports planifiés]** dans la liste déroulante.
 
 ![Enregistrement de la configuration d’import en bloc](assets/bulk-import-options.png)
 

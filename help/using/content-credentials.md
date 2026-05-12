@@ -1,47 +1,49 @@
 ---
-title: Intégration de contents credentials
-description: Content credentials, intégré à AEM Assets et présenté dans l’interface utilisateur d’AEM Assets Essentials, peut fournir un contexte dans l’historique d’une ressource, y compris la manière dont elle a été créée et qui a été impliqué dans sa création. Tout comme une étiquette nutritionnelle pour les contenus numériques, les Contents credentials peuvent contribuer à accroître la transparence et à établir la confiance avec les publics.
+title: Intégration de Content Credentials
+description: Content Credentials, intégré à AEM Assets et présenté dans l’interface utilisateur d’AEM Assets Essentials, peut fournir un contexte dans l’historique d’une ressource, y compris la manière dont elle a été créée et les personnes impliquées dans sa création. Tout comme une étiquette nutritionnelle pour le contenu numérique, Content Credentials peut contribuer à accroître la transparence et à établir la confiance du public.
 role: User
-source-git-commit: bb7a86c737f862411e2f06997d8b4d720d55a3c5
+exl-id: 703f74a6-24d4-4181-8174-9ff4a90ee7aa
+TQID: https://experienceleague.adobe.com/witCqgAh8EKfD-hdn8efjZ-M4sypX44KB2ELs3ECInI
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ec4263d9-bf7c-44c7-b3f1-3e664861c8f2
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 0%
+source-wordcount: 474
+ht-degree: 13%
 
 ---
 
+# Content Credentials {#content-credentials}
 
-# Informations de traçabilité du contenu {#content-credentials}
-
-Les marques s’intéressent plus que jamais à la transparence du contenu, à la divulgation par l’IA et à la prévention de la falsification des ressources. L’Initiative d’authentification du contenu (CAI) d’Adobe crée des outils conformes à la norme technique [Coalition for Content Provenance and Authenticity](https://c2pa.org/specifications/specifications/1.1/specs/C2PA_Specification.html#_trust_model) (C2PA). Les contents credentials, qui sont un nouveau type de métadonnées chiffrées et dont l’affichage est estampillé, peuvent aider les visiteurs à comprendre la traçabilité du contenu et à garantir l’intégrité des ressources de marque. Ils peuvent inclure un large éventail de données de provenance qui offrent des informations sur l’historique d’une ressource numérique.
+Les marques sont plus préoccupées que jamais par la transparence du contenu, la déclaration d’utilisation de l’IA et la prévention de l’altération des ressources. Le Content Authenticity Initiative (CAI) d’Adobe crée des outils conformes à la norme technique C2PA ([ Coalition for Content Provenance and Authenticity](https://c2pa.org/specifications/specifications/1.1/specs/C2PA_Specification.html#_trust_model). Les identifiants de contenu, qui sont un nouveau type de métadonnées chiffrées et inviolables, peuvent aider les visiteurs à comprendre la traçabilité du contenu et garantir l’intégrité des ressources de la marque. Ils peuvent inclure un large éventail de données de provenance qui fournissent des informations dans l’historique d’une ressource numérique.
 
 Ces informations incluent :
 
-* **Émetteur ou signataire :** Informations sur l’entité ou la société qui a émis la signature numérique pour certifier la ressource ou la signer.
-* **Date de publication :** date à laquelle les informations d’identification du contenu ont été appliquées à la ressource.
-* **Crédit et utilisation :** Informations sur le producteur de la ressource, y compris le nom, les gestionnaires de médias sociaux ou d’autres informations liées à l’identité.
-* **Processus :** Enregistrements de toute modification ou modification apportée à la ressource.
-* **Détails du périphérique :** Informations sur l’application ou le périphérique utilisé pour créer ou modifier la ressource.
-* **Outil d’IA utilisé :** Si l’IA générative a été utilisée pour modifier ou créer la ressource, le nom du modèle utilisé peut être inclus.
-* **Autres informations permanentes :** Des données supplémentaires peuvent également être incluses pour offrir plus de contexte sur l’historique d’une ressource.
+* **Émetteur ou signataire :** informations sur l’entité ou la société qui a émis la signature numérique pour certifier l’élément certifie ou signe l’élément.
+* **Date de l’événement :** date à laquelle le Content Credential a été appliqué à la ressource.
+* **Crédit et utilisation :** informations sur le producteur de la ressource, y compris le nom, les identifiants de médias sociaux ou d’autres informations relatives à l’identité.
+* **Processus :** les enregistrements des modifications apportées à la ressource.
+* **Détails de l’appareil :** informations sur l’application ou l’appareil utilisé pour créer ou modifier la ressource.
+* **Outil d’IA utilisé :** si l’IA générative a été utilisée pour modifier ou créer la ressource, le nom du modèle utilisé peut être inclus.
+* **Autres informations pertinentes :** des données supplémentaires peuvent également être incluses pour offrir plus de contexte sur l’historique d’une ressource.
 
-Pour une vue complète, [Vérifier](https://contentcredentials.org/verify) peut offrir un aperçu plus complet de l’historique des ressources.
+Pour une vue complète, la fonction [Vérifier](https://contentcredentials.org/verify) peut proposer une insight plus complète de l’historique des ressources.
 
-Adobe Experience Manager Assets prend désormais en charge les Contents credentials, ce qui permet aux utilisateurs d’afficher les Contents credentials directement dans l’interface utilisateur des Assets Essentials d’AEM. Lorsque vous examinez les détails de la ressource, toute image contenant des Contents credentials (tels que ceux créés avec les services GenAI) affiche les détails du manifeste dans un panneau dédié. Si la ressource est téléchargée, publiée ou partagée, les informations d’identification restent intactes avec la ressource.
+Adobe Experience Manager Assets prend désormais en charge Content Credentials, ce qui permet aux utilisateurs d’afficher Content Credentials directement dans l’interface utilisateur d’Assets Essentials d’AEM. Lorsque vous examinez les détails de la ressource, toute image avec Content Credentials (telle que celles créées avec les services GenAI) affiche les détails du manifeste dans un panneau dédié. Si la ressource est téléchargée, publiée ou partagée, les informations d’identification restent intactes avec la ressource.
 
 ![ressources](/help/using/assets/content-credentials.png)
 
-## Accès aux Contents credentials {#access-content-credentials}
+## Accéder à Content Credentials {#access-content-credentials}
 
-1. Accédez à l’interface utilisateur d’Assets Essentials, puis cliquez sur **Assets** dans le volet de gauche.
+1. Accédez à l’interface utilisateur d’Assets Essentials, puis cliquez sur **** dans le volet de gauche.
 1. Accédez à un dossier et sélectionnez la ressource souhaitée.
-1. Cliquez sur **Details** et sélectionnez `Cr pin` dans le volet le plus à droite. L’onglet Contents credentials affiche les informations suivantes sur la ressource.
-   1. **Image générée :** Date et heure auxquelles les Contents credentials ont été appliqués.
-   1. **Résumé du contenu :** Indique si la ressource est partiellement ou complètement générée par l’IA ou comment elle a été modifiée.
-
-      ![synthèse de contenu](/help/using/assets/content-credentials1.png)
-   1. **Processus :** présente l’application, le périphérique et l’outil d’IA (tel que Adobe Firefly) utilisés pour générer la ressource, ainsi que les modifications apportées par la suite.
-
-      ![process](/help/using/assets/CR-Process.png)
-   1. **À propos de ces Contents credentials :** Nom de l’émetteur ainsi que la date et l’heure d’émission.
-
-      ![issuer](/help/using/assets/CR-issuer.png)
+1. Cliquez sur **Détails** et sélectionnez `Cr pin` dans le volet le plus à droite. L’onglet Content Credentials affiche les informations suivantes sur la ressource.
+   1. **Image générée :** date et heure d’application de Content Credentials.
+   1. **Résumé du contenu :** indique si la ressource est partiellement ou entièrement générée par l’IA, ou comment elle a été modifiée.
+      ![résumé du contenu](/help/using/assets/content-credentials1.png)
+   1. **Processus :** décrit l’application, l’appareil et l’outil d’IA (comme Adobe Firefly) utilisés pour générer la ressource, ainsi que les modifications apportées ultérieurement.
+      ![processus](/help/using/assets/CR-Process.png)
+   1. **À propos de ce Content Credentials :** nom de l’émetteur, ainsi que la date et l’heure d’émission.
+      ![émetteur](/help/using/assets/CR-issuer.png)

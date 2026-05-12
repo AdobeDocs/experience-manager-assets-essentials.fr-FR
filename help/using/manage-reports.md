@@ -2,10 +2,14 @@
 title: Gérer les rapports dans Assets Essentials
 description: Accédez aux données de la section des rapports d’Assets Essentials pour évaluer l’utilisation des produits et des fonctionnalités et déduire des informations sur les mesures de succès clés.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
+TQID: https://experienceleague.adobe.com/fTzTJd0JhjMbexn1ffynNQM7wx-nX-8Os1Y-c79FKdo
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1243'
-ht-degree: 96%
+source-wordcount: 1243
+ht-degree: 99%
 
 ---
 
@@ -124,8 +128,8 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
 
 ## Afficher et télécharger un rapport existant {#View-and-download-existing-report}
 
-Les rapports existants s’affichent dans l’onglet **Rapports exécutés**. Cliquez sur **Rapports** et sélectionnez **Rapports exécutés** pour afficher tous les rapports créés dont le statut est **Terminé**, indiquant qu’ils peuvent être téléchargés. Pour télécharger le rapport au format CSV ou le supprimer, sélectionnez la ligne du rapport et sélectionnez **Télécharger CSV** ou **Supprimer**.
-![afficher et télécharger les rapports existants](/help/using/assets/view-download-existing-report.png)
+Les rapports existants s’affichent dans l’onglet **Rapports exécutés**. Cliquez sur **Rapports** et sélectionnez **Rapports exécutés** pour afficher tous les rapports créés dont le statut est **Terminé**, indiquant qu’ils peuvent être téléchargés. Pour télécharger le rapport au format CSV ou le supprimer, sélectionnez la ligne du rapport et choisissez **Télécharger le fichier CSV** ou **Supprimer**.
+![Affichage et téléchargement de rapports existants](/help/using/assets/view-download-existing-report.png)
 
 ## Planifier un rapport {#schedule-report}
 
@@ -151,7 +155,7 @@ Pour planifier un rapport, procédez comme suit :
 ## Afficher les rapports planifiés {#view-scheduled-reports}
 
 Les rapports planifiés s’affichent dans l’onglet **Rapports planifiés** et sont organisés de manière systématique. Tous les rapports terminés pour chaque rapport planifié sont stockés dans un seul dossier de rapports. Cliquez sur ![développer réduire](/help/using/assets/expand-icon1.svg) pour afficher les rapports terminés. Par exemple, si vous avez planifié un rapport quotidien, tous les rapports terminés sont regroupés dans un seul dossier. Cette organisation simplifie la navigation et la recherche des rapports. Pour afficher les rapports planifiés, cliquez sur **Rapports**, puis sur **Rapports planifiés**. Tous les rapports planifiés s’affichent, avec le statut En cours ou Terminé. Les rapports terminés peuvent être téléchargés.
-![rapport planifié &#x200B;](/help/using/assets/scheduled-reports-tab.png)
+![Rapport planifié](/help/using/assets/scheduled-reports-tab.png)
 
 ## Modifier et annuler des rapports planifiés {#edit-cancel-scheduled-reports}
 
@@ -163,8 +167,8 @@ Les rapports planifiés s’affichent dans l’onglet **Rapports planifiés** et
 
 ### Reprendre le planning {#resume-schedule}
 
-Pour reprendre le planning annulé, sélectionnez la ligne du rapport et cliquez sur **Reprendre le planning**. Lors de la reprise, les entrées d’exécution suivantes s’affichent à nouveau et le statut indique en cours.
-![reprendre le planning](/help/using/assets/resume-schedule.png)
+Pour reprendre le planning annulé, sélectionnez la ligne du rapport et cliquez sur **Reprendre le planning**. Lors de la reprise, les entrées d’exécution suivantes s’affichent à nouveau et le statut est En cours.
+![Reprise du planning](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
 >

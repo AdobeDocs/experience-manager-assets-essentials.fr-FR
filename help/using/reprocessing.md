@@ -2,10 +2,15 @@
 title: Retraitement des ressources numériques
 description: Découvrez les différentes méthodes de retraitement des ressources numériques
 role: User, Leader, Developer
-source-git-commit: ab2d6b0e9f4d53076ab461f9a09698a6cb8437e0
+exl-id: 8d84ecc2-e716-4e25-a0ec-87138ff2c499
+TQID: https://experienceleague.adobe.com/08mkBUcjbm5OQaeWzBiLmhwJtCmtSU2Gm0bo9octzUs
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '685'
-ht-degree: 43%
+source-wordcount: 798
+ht-degree: 46%
 
 ---
 
@@ -65,13 +70,13 @@ Les entreprises qui traitent des ressources numériques utilisent de plus en plu
 
 Comparé aux vocabulaires des langages naturels, le balisage des ressources numériques basé sur la taxonomie métier aide à les aligner avec les activités d’une entreprise et à assurer que les ressources les mieux adaptées apparaissent dans les recherches.
 
-En savoir plus sur les [balises intelligentes pour les ressources vidéo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/smart-tags-video-assets.html?lang=fr).
+En savoir plus sur les [balises intelligentes pour les ressources vidéo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/smart-tags-video-assets.html?lang=en).
 
-En savoir plus sur [Retraitement des balises de couleurs pour les images existantes dans la gestion des ressources numériques](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=fr#color-tags-existing-images).
+En savoir plus sur [Retraitement des balises de couleurs pour les images existantes dans la gestion des ressources numériques](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en#color-tags-existing-images).
 
 ### Recadrage intelligent {#reprocessing-smart-crop}
 
-En savoir plus sur le [recadrage intelligent Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?lang=fr) qui vous permet d’appliquer un recadrage spécifique (**[!UICONTROL recadrage intelligent]** et recadrage des pixels) et une configuration d’accentuation aux ressources chargées.
+En savoir plus sur la [recadrage intelligent Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?lang=en) qui vous permet d’appliquer un recadrage spécifique (**[!UICONTROL recadrage intelligent]** et recadrage des pixels) et une configuration d’accentuation aux ressources chargées.
 
 ### Métadonnées {#reprocessing-metadata}
 
@@ -81,11 +86,11 @@ En savoir plus sur le [retraitement des profils de métadonnées](https://experi
 
 ### Retraitement de ressources Dynamic Media dans un dossier {#reprocessing-dynamic-media}
 
-Vous pouvez traiter une nouvelle fois des ressources dans un dossier qui comporte déjà un profil d’image Dynamic Media ou un profil vidéo Dynamic Media que vous avez modifié. Pour plus d’informations, consultez [retraitement des ressources Dynamic Media dans un dossier.](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/about-image-video-profiles.html?lang=fr)
+Vous pouvez traiter une nouvelle fois des ressources dans un dossier qui comporte déjà un profil d’image Dynamic Media ou un profil vidéo Dynamic Media que vous avez ensuite modifié. Pour plus d’informations, consultez [retraitement des ressources Dynamic Media dans un dossier.](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/about-image-video-profiles.html?lang=en)
 
 >[!NOTE]
 >
->Vous devez configurer [!DNL Dynamic Media] sur l’environnement pour activer la boîte de dialogue Dynamic Media.
+>Vous devez configurer [!DNL Dynamic Media] dans l’environnement pour activer la boîte de dialogue Dynamic Media.
 >
 
 ### Workflows

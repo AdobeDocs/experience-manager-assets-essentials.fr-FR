@@ -2,9 +2,13 @@
 title: Intégration d’Assets Essentials aux applications Creative Cloud
 description: Intégrer Assets Essentials aux applications Creative Cloud afin que vous puissiez utiliser le panneau in-app Adobe Asset Link pour vous connecter au référentiel  [!DNL Assets Essentials]  depuis les applications de bureau  [!DNL Adobe Creative Cloud]  prises en charge.
 exl-id: 817bc955-0074-435e-83a8-3fd5f7f2505a
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+TQID: https://experienceleague.adobe.com/LaIILrdXTbQEfmgcDXszeze1nBd2UpqUXALqTiFdMIA
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: 785
 ht-degree: 100%
 
 ---
@@ -37,7 +41,7 @@ Sur l’Admin Console Experience Cloud, cliquez sur **[!UICONTROL Paramètres]**
 
 Après avoir établi la confiance de répertoires entre Admin Console for Creative Cloud et Admin Console for Experience Cloud, affectez les utilisateurs de Creative Cloud au profil de produit Utilisateurs d’**[!DNL Assets Essentials]** sous la vignette produit [!DNL Assets Essentials] dans l’Admin Console Experience Cloud. Cela permettra aux utilisateurs de Creative Cloud d’accéder à Assets Essentials à partir de leur panneau de plug-in Adobe Asset Link ; en outre, cela leur donnera accès à l’interface utilisateur web complète d’Assets Essentials pour charger, organiser, baliser et rechercher des ressources numériques à l’aide d’un navigateur web.
 
-Autres profils de produit Assets Essentials - Administrateurs **[!DNL Assets Essentials]** et Utilisateurs consommateurs **[!DNL Assets Essentials]** - sont utilisés pour différents droits d’utilisateurs (administrateurs d’applications et utilisateurs accédant à Assets Essentials via des intégrations Experience Cloud).
+D’autres profils de produits Assets Essentials (**[!DNL Assets Essentials]Administration** et **[!DNL Assets Essentials]Utilisateurs consommateurs/utilisatrices consommatrices**) sont utilisés pour différents droits d’utilisation (responsables de l’administration d’applications et personnes accédant à Assets Essentials via des intégrations Experience Cloud).
 
 Pour plus d’informations sur l’attribution d’utilisateurs à des profils de produit Assets Essentials, voir [Affecter des utilisateurs aux profils de produit Assets Essentials](deploy-administer.md#add-users-to-product-profiles).
 

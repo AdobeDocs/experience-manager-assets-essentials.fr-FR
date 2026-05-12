@@ -3,13 +3,17 @@ title: Rechercher et trouver des ressources dans [!DNL Assets Essentials]
 description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/V--WXU30ed6P-HWqE1rquXPupmJwImyYfARZ006RpDg
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '2217'
-ht-degree: 95%
+source-wordcount: 2217
+ht-degree: 98%
 
 ---
-
 
 <table>
     <tr>
@@ -61,7 +65,7 @@ ht-degree: 95%
 >abstract="Recherchez des ressources en spécifiant un mot-clé dans la barre de recherche ou en filtrant les ressources en fonction de leur statut, de leur type de fichier, de leur type MIME, de leur taille ou de leurs dates de création, de modification et d’expiration. Outre les filtres standard, vous pouvez également appliquer des filtres personnalisés. Vous pouvez enregistrer les résultats filtrés sous la forme d’une recherche enregistrée ou d’une collecte dynamique."
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=fr#manage-smart-collection" text="Créer des collectes dynamiques"
 
-[!DNL Assets Essentials] offre des fonctionnalités de recherche efficaces, qui fonctionnent simplement par défaut. La recherche fonctionne de façon exhaustive, car il s’agit d’une recherche de type plein texte. Les puissantes fonctionnalités de recherche de vous permettent de découvrir rapidement la ressource appropriée et d’améliorer la vitesse de votre contenu. [!DNL Assets Essentials] fournit une recherche de texte intégral, ou même des capacités de recherche basées sur les métadonnées telles que les balises intelligentes, le titre, la date de création et le copyright.
+[!DNL Assets Essentials] offre des fonctionnalités de recherche efficaces, qui fonctionnent simplement par défaut. La recherche fonctionne de façon exhaustive, car il s’agit d’une recherche de type plein texte. Ses puissantes fonctionnalités de recherche vous permettent de trouver rapidement la ressource appropriée et d’améliorer la vitesse de votre contenu. [!DNL Assets Essentials] fournit une recherche en texte intégral, ou même des capacités de recherche basées sur les métadonnées telles que les balises intelligentes, le titre, la date de création et le copyright.
 
 Pour rechercher des ressources,
 
@@ -179,7 +183,7 @@ Pour générer de nouvelles ressources en utilisant [!DNL Adobe Firefly] :
 
    ![Intégration de Firefly](assets/firefly-integration.png)
 
-   Les nouvelles ressources sont générées. De plus, vous pouvez modifier la description de l’image en saisissant la nouvelle invite de texte dans la zone de description. [Découvrez comment écrire une bonne invite d’IA pour générer du contenu extraordinaire et pertinent.](https://helpx.adobe.com/in/firefly/using/tips-and-tricks.html) Vous pouvez également [modifier l’image avec d’autres fonctionnalités telles que la modification du style, des dimensions de l’image, etc.](https://helpx.adobe.com/in/firefly/using/text-to-image.html)
+   Les nouvelles ressources sont générées. Vous pouvez également modifier la description de l’image en saisissant le nouveau prompt de texte dans la zone de description. [Découvrez comment écrire une bonne invite d’IA pour générer du contenu extraordinaire et pertinent.](https://helpx.adobe.com/in/firefly/using/tips-and-tricks.html) Vous pouvez également [modifier l’image avec d’autres fonctionnalités telles que la modification du style, des dimensions de l’image, etc.](https://helpx.adobe.com/in/firefly/using/text-to-image.html)
 
    ![Intégration de Firefly](assets/bugatti-type-57.png)
 
@@ -280,7 +284,7 @@ Vous pouvez ajouter le logo de votre marque et une image d’arrière-plan à vo
 
 1. Accédez à la section **[!UICONTROL Image d’arrière-plan et de logo]** sous **[!UICONTROL Page d’accueil]**.
 1. Cliquez sur **[!UICONTROL Remplacer]** pour parcourir les images du référentiel de ressources.
-1. Cliquez sur **[!UICONTROL Enregistrer]**. [Prévisualisez &#x200B;](#preview-configured-homepage) modifications pour passer en revue les modifications.
+1. Cliquez sur **[!UICONTROL Enregistrer]**. [Prévisualisez](#preview-configured-homepage) vos modifications.
 
 ### Prévisualiser la page d’accueil configurée {#preview-configured-homepage}
 
@@ -386,5 +390,5 @@ Si vous devez fournir des commentaires sur la fonction de recherche contextuelle
 
 * Faites des commentaires sur la documentation en utilisant les options [!UICONTROL Modifier cette page] ![Modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Créer un problème GitHub](assets/do-not-localize/github-issue.png) disponibles dans la barre latérale de droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
