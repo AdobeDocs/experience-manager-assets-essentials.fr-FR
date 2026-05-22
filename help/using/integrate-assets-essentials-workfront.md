@@ -3,8 +3,8 @@ title: Intégrer Assets Essentials à Adobe Workfront
 description: Intégrer Assets Essentials à l’application Adobe Workfront afin de pouvoir accéder au référentiel Assets Essentials dans l’application Workfront.
 exl-id: 47c2963d-57f0-463e-8d5b-5e5af9928f77
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: tm+mt
-source-wordcount: '528'
+workflow-type: ht
+source-wordcount: '635'
 ht-degree: 100%
 
 ---
@@ -53,14 +53,14 @@ Pour ajouter des utilisateurs aux profils de produits Workfront :
 
 1. Pour supprimer un utilisateur d’un groupe, cliquez sur le groupe, sélectionnez un utilisateur existant, puis **[!UICONTROL Supprimer l’utilisateur]**.
 
-Pour plus d’informations sur la création d’utilisateurs et d’administrateurs système dans Workfront avec Adobe Admin Console, voir [Gérer les utilisateurs dans Adobe Admin Console](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&amp;_LANG=enus).
+Pour plus d’informations sur la création d’utilisateurs et d’administrateurs système dans Workfront avec Adobe Admin Console, voir [Gérer les utilisateurs dans Adobe Admin Console](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&_LANG=enus).
 
 ## Ajouter des utilisateurs aux profils du produit Assets Essentials {#add-workfront-users-assets-essentials-product-profiles}
 
 Affectez les utilisateurs de Workfront à l’un des profils de produit Assets Essentials suivants :
 
-*  Les utilisateurs d’**[!DNL Assets Essentials]** ont accès à l’interface utilisateur complète d’Assets Essentials. Ces utilisateurs peuvent charger, organiser, baliser et rechercher des ressources numériques dans l’application Assets Essentials. En outre, les utilisateurs ont accès à l’expérience de sélection des ressources incorporées dans l’application [!DNL Adobe Workfront].
-*  Les **[!DNL Assets Essentials] utilisateurs consommateurs** : ont accès à l’expérience de sélection de ressources incorporées dans l’application [!DNL Adobe Workfront].
+* Les utilisateurs d’**[!DNL Assets Essentials]** ont accès à l’interface utilisateur complète d’Assets Essentials. Ces utilisateurs peuvent charger, organiser, baliser et rechercher des ressources numériques dans l’application Assets Essentials. En outre, les utilisateurs ont accès à l’expérience de sélection des ressources incorporées dans l’application [!DNL Adobe Workfront].
+* **[!DNL Assets Essentials]Utilisateurs consommateurs/utilisatrices consommatrices** : ont accès à l’expérience de sélection de ressources incorporées dans l’application [!DNL Adobe Workfront].
 
 En outre, il existe également un profil de produit **[!DNL Assets Essentials] Administrateurs** qui fournit un accès administratif à l’application.
 
@@ -68,14 +68,14 @@ Pour plus d’informations sur la manière d’affecter des utilisateurs aux pro
 
 ## Configurer l’intégration d’Experience Manager Assets Essentials {#configure-assets-essentials-integration}
 
-Après avoir ajouté des utilisateurs aux profils de produits Workfront et Assets Essentials à l’aide d’Admin Console, vous pouvez [configurer l’intégration d’Experience Manager Assets Essentials à Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+Après avoir ajouté des utilisateurs aux profils de produits Workfront et Assets Essentials à l’aide d’Admin Console, vous pouvez [configurer l’intégration d’Experience Manager Assets Essentials à Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
 Après avoir configuré l’intégration, vous pouvez :
 
-* [Lier des ressources et des dossiers à partir d’Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&amp;_LANG=enus)
+* [Lier des ressources et des dossiers à partir d’Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&_LANG=enus)
 
-* [Envoyer un document à Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&amp;_LANG=enus)
+* [Envoyer un document à Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&_LANG=enus)
 
-* [Vérifier une ressource liée pour Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
+* [Vérifier une ressource liée pour Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
 
-* [Afficher ou télécharger une ressource liée à partir d’Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)
+* [Afficher ou télécharger une ressource liée à partir d’Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)

@@ -3,8 +3,8 @@ title: Intégration d’Assets Essentials aux applications Creative Cloud
 description: Intégrer Assets Essentials aux applications Creative Cloud afin que vous puissiez utiliser le panneau in-app Adobe Asset Link pour vous connecter au référentiel  [!DNL Assets Essentials]  depuis les applications de bureau  [!DNL Adobe Creative Cloud]  prises en charge.
 exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: tm+mt
-source-wordcount: '812'
+workflow-type: ht
+source-wordcount: '879'
 ht-degree: 100%
 
 ---
@@ -51,7 +51,7 @@ Sur l’Admin Console Experience Cloud, cliquez sur **[!UICONTROL Paramètres]**
 
 Après avoir établi la confiance de répertoires entre Admin Console for Creative Cloud et Admin Console for Experience Cloud, affectez les utilisateurs de Creative Cloud au profil de produit Utilisateurs d’**[!DNL Assets Essentials]** sous la vignette produit [!DNL Assets Essentials] dans l’Admin Console Experience Cloud. Cela permettra aux utilisateurs de Creative Cloud d’accéder à Assets Essentials à partir de leur panneau de plug-in Adobe Asset Link ; en outre, cela leur donnera accès à l’interface utilisateur web complète d’Assets Essentials pour charger, organiser, baliser et rechercher des ressources numériques à l’aide d’un navigateur web.
 
-Autres profils de produit Assets Essentials - Administrateurs **[!DNL Assets Essentials]** et Utilisateurs consommateurs **[!DNL Assets Essentials]** - sont utilisés pour différents droits d’utilisateurs (administrateurs d’applications et utilisateurs accédant à Assets Essentials via des intégrations Experience Cloud).
+D’autres profils de produits Assets Essentials (**[!DNL Assets Essentials]Administration** et **[!DNL Assets Essentials]Utilisateurs consommateurs/utilisatrices consommatrices**) sont utilisés pour différents droits d’utilisation (responsables de l’administration d’applications et personnes accédant à Assets Essentials via des intégrations Experience Cloud).
 
 Pour plus d’informations sur l’attribution d’utilisateurs à des profils de produit Assets Essentials, voir [Affecter des utilisateurs aux profils de produit Assets Essentials](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
 
