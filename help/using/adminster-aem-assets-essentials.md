@@ -3,8 +3,8 @@ title: Administrer Experience Manager Assets Essentials
 description: Configurez l’accès à l’application Assets Essentials à l’aide d’Admin Console, puis gérez les tâches qui peuvent être effectuées après s’être connecté à l’application Assets Essentials.
 exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: tm+mt
-source-wordcount: '1382'
+workflow-type: ht
+source-wordcount: '1417'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 ## Présentation {#overview}
 
 
-[!DNL Adobe Experience Manager Assets Essentials] est configuré par Adobe pour ses clients. Dans le cadre de la mise en service, [!DNL Assets Essentials] est ajouté à l’organisation d’un client dans [!DNL Adobe Admin Console]. Les administrateurs utilisent [!DNL Admin Console] pour gérer les droits d’accès des utilisateurs à la solution [!DNL Assets Essentials] et affecter des administrateurs d’applications à la configuration d’autorisations et de formulaires de métadonnées dans [!DNL Assets Essentials].
+[!DNL Adobe Experience Manager Assets Essentials] est configuré par Adobe pour ses clients. Dans le cadre de la mise en service, [!DNL Assets Essentials] est ajouté à l’organisation d’un client dans [!DNL Adobe Admin Console]. L’équipe d’administration [!DNL Admin Console] pour gérer les droits d’accès à la solution [!DNL Assets Essentials], et affecter des administrateurs et administratrices d’applications à la configuration d’autorisations et de formulaires de métadonnées dans [!DNL Assets Essentials].
 
 Le diagramme de flux de données suivant illustre la séquence des tâches qu’un administrateur doit effectuer pour configurer et gérer Assets Essentials :
 
@@ -59,7 +59,7 @@ Pour ajouter des utilisateurs à des profils de produits :
 
    ![Profil administrateur Admin Console](assets/assets-essentials-instance.png)
 
-   [!DNL Assets Essentials] possède trois profils de produits qui représentent l’accès pour les administrateurs, les utilisateurs réguliers et les consommateurs.
+   [!DNL Assets Essentials] possède trois profils de produits qui représentent l’accès pour les responsables de l’administration, les utilisateurs/utilisatrices standard, et les utilisateurs consommateurs/utilisatrices consommatrices.
 
    ![Profil administrateur Admin Console](assets/admin-console-admin-profile.png)
 
@@ -163,7 +163,7 @@ Par exemple, si un formulaire de métadonnées portant le nom `PDF` ou `pdf` exi
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
-Pour plus d’informations sur le formulaires de métadonnées, voir [Formulaires de métadonnées dans Assets Essentials](metadata.md#metadata-forms).
+Pour plus d’informations sur les formulaires de métadonnées, voir [Formulaires de métadonnées dans Assets Essentials](metadata.md#metadata-forms).
 
 ## Prochaines étapes
 
