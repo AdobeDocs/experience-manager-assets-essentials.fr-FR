@@ -3,15 +3,12 @@ title: Comment gérer les autorisations des dossiers dans AEM Assets Essential
 description: Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d’accès aux dossiers disponibles dans le référentiel. Pour gérer les niveaux d’accès, créez des groupes d’utilisateurs et attribuez-leur des autorisations. En tant qu’administrateur, vous pouvez également déléguer les droits de gestion des autorisations à des groupes d’utilisateurs au niveau du dossier.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1700
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -193,7 +190,7 @@ Créez les groupes d’utilisateurs suivants dans Admin Console :
 
 * Équipe juridique
 
-Le diagramme suivant illustre la hiérarchie des dossiers et les autorisations attribuées à chaque groupe d’utilisateurs :
+Le diagramme suivant illustre la hiérarchie des dossiers et les autorisations attribuées à chaque groupe d’utilisateurs et d’utilisatrices :
 ![Attribuer des autorisations](assets/use-case-permissions-management.png)
 
 Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hiérarchie des dossiers :
@@ -216,8 +213,8 @@ Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hié
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les autorisations dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=fr)
+* [Regardez une vidéo expliquant comment gérer les autorisations dans Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=fr)
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).

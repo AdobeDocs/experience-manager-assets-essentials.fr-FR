@@ -1,20 +1,17 @@
 ---
 title: Relations des ressources
-description: Découvrez comment mettre en relation des ressources numériques qui partagent certains attributs communs. Créez également des relations dérivées de la source entre les ressources numériques à l’aide des relations de ressources.
+description: Découvrez comment mettre en relation des ressources numériques qui partagent certains attributs communs. Vous pouvez également créer des relations dérivées de la source entre les ressources numériques à l’aide des relations de ressources.
 role: User
 feature: Collaboration,Asset Management
 solution: Experience Manager, Experience Manager Assets
 exl-id: db3c30e4-a0c2-4686-a291-36a959fc3d05
 TQID: https://experienceleague.adobe.com/BIGrPj6x-EjokkE23Kg4gYU-2QA1PAUikAA1tvMZv1k
-product_v2:
-  - id: d09181b5-a36a-43de-ba01-36641440bc43
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2: id: d09181b5-a36a-43de-ba01-36641440bc43id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 566
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -28,34 +25,34 @@ Grâce à cette fonctionnalité, vous avez la possibilité de partager un fichie
 >
 >Seuls les utilisateurs disposant d’autorisations de modification des ressources peuvent mettre en relation et dissocier ces dernières.
 
-## Étapes de mise en relation des ressources {#steps-to-relate-assets}
+## Étapes à suivre pour la mise en relation de ressources {#steps-to-relate-assets}
 
 1. À partir de l’interface d’[!DNL Experience Manager], ouvrez la page **[!UICONTROL Propriétés]** d’une ressource que vous souhaitez mettre en relation.
 
    ![ouvrir la page Propriétés d’une ressource pour mettre celle-ci en relation](assets/asset-properties-relate-assets.png)
 
-1. Pour mettre en relation une autre ressource avec celle que vous avez sélectionnée, cliquez sur **[!UICONTROL Relations entre les ressources]** ![lier des ressources](assets/do-not-localize/link-relate.png).
+1. Pour mettre en relation une autre ressource avec celle que vous avez sélectionnée, cliquez sur **[!UICONTROL Relations de ressources]** ![Lier des ressources](assets/do-not-localize/link-relate.png).
 1. Utilisez l’une des méthodes suivantes :
 
-   * Pour mettre en relation le fichier source de la ressource, sélectionnez **[!UICONTROL Ajouter Source]** dans la liste. Vous ne pouvez associer qu’une seule ressource en tant que source.
-   * Pour mettre en relation un fichier dérivé, sélectionnez **[!UICONTROL Ajouter dérivé]** dans la liste. Vous pouvez associer plusieurs ressources dans cette catégorie.
-   * Pour créer une relation bidirectionnelle entre les ressources, sélectionnez **[!UICONTROL Ajouter autre]** dans la liste. Vous pouvez associer plusieurs ressources dans cette catégorie.
+   * Pour lier le fichier source de la ressource, sélectionnez **[!UICONTROL Ajouter une source]** dans la liste. Vous ne pouvez associer qu’une seule ressource en tant que source.
+   * Pour lier un fichier dérivé, sélectionnez **[!UICONTROL Ajouter un élément dérivé]** dans la liste. Vous pouvez associer plusieurs ressources dans cette catégorie.
+   * Pour créer une relation bidirectionnelle entre les ressources, sélectionnez **[!UICONTROL Ajouter un autre élément]** dans la liste. Vous pouvez associer plusieurs ressources dans cette catégorie.
 
-1. Dans l’écran **[!UICONTROL Sélectionner Assets]**, accédez à l’emplacement de la ressource à mettre en relation, puis sélectionnez-la. Vous pouvez sélectionner une ou plusieurs ressources à la fois en maintenant la touche Maj enfoncée tout en cliquant. Cela peut inclure n’importe quel format de fichier [pris en charge dans la vue Assets](supported-file-formats.md).
+1. Sur l’écran **[!UICONTROL Sélectionner des ressources]**, accédez à l’emplacement de la ressource à lier, puis sélectionnez-la. Vous pouvez sélectionner une ou plusieurs ressources en maintenant la touche Maj enfoncée tout en cliquant. Cela peut inclure n’importe quel [format de fichier pris en charge dans la vue Ressources](supported-file-formats.md).
 
-   ![ajouter une ressource associée](assets/add-related-asset.png)
+   ![Ajouter une ressource liée](assets/add-related-asset.png)
 
-1. Cliquez sur **[!UICONTROL Sélectionner]**. Selon la relation que vous avez choisie à l’étape 3, l’actif associé est répertorié sous une catégorie appropriée dans la section **[!UICONTROL Relations entre les actifs]**. Par exemple, si la ressource que vous avez associée est le fichier source de la ressource actuelle, elle est répertoriée sous **[!UICONTROL Source]**.
+1. Cliquez sur **[!UICONTROL Sélectionner]**. Selon la relation que vous avez choisie à l’étape 3, la ressource liée est répertoriée sous une catégorie appropriée dans la section **[!UICONTROL Relations de ressources]**. Par exemple, si la ressource que vous avez associée est le fichier source de la ressource actuelle, elle est répertoriée sous **[!UICONTROL Source]**.
 
    ![Exemple de relation Assets](assets/asset-relations-example.png)
 
-1. Cliquez sur **[!UICONTROL Dissocier]** ![dissocier les ressources](assets/do-not-localize/link-unrelate-icon.png) disponible pour toutes les ressources associées dans chaque section ([!UICONTROL Source], [!UICONTROL Dérivé] et [!UICONTROL Autre]) pour dissocier une ressource.
+1. Cliquez sur **[!UICONTROL Dissocier]** ![Dissocier les ressources](assets/do-not-localize/link-unrelate-icon.png), option disponible pour toutes les ressources liées dans chaque section ([!UICONTROL Source], [!UICONTROL Éléments dérivés] et [!UICONTROL Autres]), afin de dissocier une ressource.
 
 ## Traduire les ressources liées {#translating-related-assets}
 
 La création de relations source/dérivés entre des ressources à l’aide de la fonctionnalité Ressources mises en relation est également utile dans les workflows de traduction. Lorsque vous exécutez un workflow de traduction sur une ressource dérivée, [!DNL Experience Manager Assets] récupère automatiquement toute ressource référencée par le fichier source et la soumet pour traduction. Ainsi, la ressource référencée par la ressource source est traduite avec les ressources source et dérivées. Si le fichier source est mis en relation avec une autre ressource, [!DNL Experience Manager Assets] récupère la ressource référencée et la soumet pour traduction.
 
-Voir [&#x200B; Traduction des ressources dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
+Consultez [Traduire des ressources dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
 ## Étapes suivantes {#next-steps}
 
@@ -68,5 +65,5 @@ Voir [&#x200B; Traduction des ressources dans AEM](https://experienceleague.adob
 >[!MORELIKETHIS]
 >
 >* [Afficher les versions d’une ressource](manage-organize.md#view-versions)
->* [Traduire les ressources dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
->* [Formats de fichiers pris en charge dans la vue Assets](supported-file-formats.md).
+>* [Traduire des ressources dans AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [Formats de fichiers pris en charge dans la vue Ressources](supported-file-formats.md).

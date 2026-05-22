@@ -4,21 +4,14 @@ description: En savoir plus sur la personnalisation du formulaire des filtres de
 role: User, Leader, Developer
 exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
 TQID: https://experienceleague.adobe.com/h5wa-Umxw-KIYoicGOIEccNf4dBYe0a7zTkdtCi4-Ak
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: f8667931-f646-4dd3-af2a-b9d0cb8098ad
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1475
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
@@ -26,11 +19,11 @@ ht-degree: 24%
     <tr>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime et Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime et Ultimate</b></a>
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="nouveau">
@@ -42,7 +35,7 @@ ht-degree: 24%
         </td>
           <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Activation de Dynamic Media Prime et Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Activer Dynamic Media Prime et Ultimate</b></a>
         </td>
     </tr>
     <tr>
@@ -64,40 +57,40 @@ ht-degree: 24%
     </tr>
 </table>
 
-# Personnalisation des filtres de recherche {#customize-search-filters}
+# Personnaliser les filtres de recherche {#customize-search-filters}
 
-Les filtres de recherche vous permettent d’affiner les résultats de la recherche en fonction de divers paramètres tels que la date, le type de fichier, les balises et la pertinence, ce qui améliore la précision des requêtes. L’application de filtres vous permet de passer rapidement au crible les résultats les plus pertinents. Cela permet non seulement de gagner du temps, mais également d’améliorer l’expérience de recherche globale en adaptant les résultats aux préférences et besoins spécifiques.
+Les filtres de recherche vous permettent d’affiner les résultats de recherche en fonction de divers paramètres tels que la date, le type de fichier, les balises et la pertinence, ce qui améliore la précision des requêtes de recherche. L’application de filtres vous permet de passer rapidement au crible les résultats les plus pertinents. Cela permet non seulement de gagner du temps, mais également d’améliorer l’expérience de recherche globale en adaptant les résultats aux préférences et aux besoins spécifiques.
 En savoir plus sur la [recherche](search.md).
 
-Personnalisation des filtres de recherche AEM Assets ne peut être mappé qu’aux entrées de votre index de propriété indexable. Assurez-vous que toutes les métadonnées personnalisées sont incluses avant de configurer votre expérience de filtre personnalisé. [!DNL Assets Essentials] permet de personnaliser les filtres de recherche pour rationaliser le processus de recherche. Pour personnaliser les filtres de recherche personnalisés d’AEM Assets, procédez comme suit :
+Les filtres de recherche AEM Assets personnalisés ne peuvent être mappés qu’aux entrées de votre index de propriétés indexables. Assurez-vous que toutes les métadonnées personnalisées sont incluses avant de configurer votre expérience de filtres personnalisés. [!DNL Assets Essentials] permet de personnaliser les filtres de recherche pour optimiser le processus de recherche. Pour personnaliser les filtres de recherche personnalisés d’AEM Assets, procédez comme suit :
 
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
-1. Accédez à l’onglet **[!UICONTROL Rechercher]**. Cliquez sur **[!UICONTROL Personnaliser]** pour configurer votre formulaire de recherche.
+1. Accédez à l’onglet **[!UICONTROL Recherche]**. Cliquez sur **[!UICONTROL Personnaliser]** pour configurer votre formulaire de recherche.
 
-   ![paramètres de filtre de recherche personnalisée](assets/custom-search-filter.png)
+   ![Paramètres de filtre de recherche personnalisé](assets/custom-search-filter.png)
 
-1. Le formulaire [!UICONTROL &#x200B; Configurer les filtres &#x200B;] s’affiche. Assurez-vous d’être en mode d’édition afin de pouvoir apporter des modifications au modèle. Vous pouvez passer en [!UICONTROL mode Aperçu] pour afficher l’aperçu d’un formulaire de recherche existant.
-1. Déposez des éléments de filtre du [filtres personnalisés](#available-custom-filters) sur la zone de travail. Vous pouvez faire glisser et déposer le composant pour le réorganiser si nécessaire.
+1. Le formulaire [!UICONTROL Configurer les filtres] s’affiche. Assurez-vous d’être en mode Édition afin de pouvoir apporter des modifications au modèle. Vous pouvez passer en [!UICONTROL mode Prévisualisation] pour prévisualiser un formulaire de recherche existant.
+1. Déposez des éléments de filtre à partir des [filtres personnalisés](#available-custom-filters) sur la zone de travail. Vous pouvez faire glisser et déposer le composant pour le réorganiser si nécessaire.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3443080)
 
-1. Cliquez sur **[!UICONTROL Mode Aperçu]** pour passer en revue les modifications.
+1. Cliquez sur **[!UICONTROL Mode Prévisualisation]** pour passer en revue les modifications.
 1. Cliquez sur **[!UICONTROL Confirmer]** pour enregistrer.
 
 ## Filtres personnalisés disponibles {#available-custom-filters}
 
-Assets Essentials fournit les filtres personnalisés suivants, qui peuvent être reconfigurés en fonction des besoins :
+Assets Essentials fournit les filtres personnalisés suivants, qui peuvent être reconfigurés en fonction des besoins :
 
-* [Filtrer les éléments](#filter-elements)
+* [Éléments de filtre](#filter-elements)
 * [Filtres préconfigurés](#preconfigured-filters)
 
-### Filtrer les éléments {#filter-elements}
+### Éléments de filtre {#filter-elements}
 
-Filtres personnalisés AEM Assets vous permet d’utiliser une collection d’éléments de filtre sur la zone de travail des filtres de recherche personnalisés. Ces éléments sont reconfigurables en fonction de la convivialité des attributs de propriété de recherche. Cependant, vous pouvez personnaliser les [propriétés de filtre](#filter-properties) en fonction de vos besoins. Les éléments de filtre suivants sont disponibles dans [!DNL Assets Essentials] :
+AEM Assets, avec les filtres personnalisés, vous permet d’utiliser une collection d’éléments de filtre sur votre zone de travail de filtres de recherche personnalisés. Ces éléments sont reconfigurables en fonction de l’utilisabilité des attributs des propriétés de recherche. Cependant, vous pouvez personnaliser les [propriétés de filtres](#filter-properties) en fonction de vos besoins. Les éléments de filtre suivants sont disponibles dans [!DNL Assets Essentials] :
 
 <table>
     <tr>
-        <th>Filtrer les éléments</th>
+        <th>Éléments de filtre</th>
         <th>Description</th>
         <th>Propriétés</th>
     </tr>
@@ -128,7 +121,7 @@ Filtres personnalisés AEM Assets vous permet d’utiliser une collection d’é
     </tr>
     <tr>
         <td>Booléen</td>
-        <td>Une valeur booléenne représente une valeur vraie. Il peut être utilisé lorsque vous souhaitez être spécifique pour choisir une option parmi d’autres.</td>
+        <td>Une valeur booléenne représente une valeur vraie. Elle peut être utilisée lorsque vous souhaitez être spécifique pour choisir une option parmi d’autres.</td>
         <td>
             <ul>
                 <li>Libellé
@@ -145,15 +138,15 @@ Filtres personnalisés AEM Assets vous permet d’utiliser une collection d’é
                 <li>Libellé
                 <li>Métadonnées
                 <li>Type de sélection
-                <li>Procédure pas à pas
-                <li>Valeur de procédure pas à pas
+                <li>Contrôleur incrémentiel
+                <li>Valeur du contrôleur incrémentiel
                 <li>Description
             </ul>
         </td>
     </tr>
     <tr>
         <td>Liste déroulante</td>
-        <td>Pour effectuer un choix parmi les différentes options affichées dans une liste d’options.</td>
+        <td>Pour choisir parmi différentes options affichées dans une liste d’options.</td>
         <td>
             <ul>
                 <li>Libellé
@@ -177,20 +170,20 @@ Filtres personnalisés AEM Assets vous permet d’utiliser une collection d’é
         </td>
     </tr>
     <tr>
-        <td>Navigateur de chemins d’accès</td>
+        <td>Navigateur de chemin d’accès</td>
         <td>Permet de parcourir les fichiers ou dossiers du référentiel Experience Manager.</td>
         <td>
             <ul>
                 <li>Libellé
                 <li>Métadonnées
-                <li>Explorateur de chemins d’accès
+                <li>Explorateur de chemin d’accès
                 <li>Description
             </ul>
         </td>
     </tr>
     <tr>
         <td>Balises</td>
-        <td>Permet de sélectionner des balises parmi les options disponibles. Les balises fournissent des informations plus spécifiques sur les ressources et améliorent leur visibilité. Les balises déjà appliquées aux ressources sélectionnées s’affichent dans le panneau <b>Propriétés</b>. Si vous stockez les balises sur une propriété de métadonnées personnalisée et que vous utilisez le chemin racine pour la restreindre à une hiérarchie, vous pouvez utiliser la même configuration dans vos filtres de recherche. Si vous ne trouvez pas les balises appropriées, créez-les et affectez-les aux ressources sélectionnées. Voir <a href = "/help/using/tagging-management.md"> Gérer les balises dans Assets Essentials </a> pour plus d’informations sur la création et l’affectation de balises à des ressources.</td>
+        <td>Permet de sélectionner des balises parmi les options disponibles. Les balises fournissent des informations plus spécifiques sur les ressources et améliorent leur visibilité. Les balises déjà appliquées aux ressources sélectionnées sont affichées dans le panneau <b>Propriétés</b>. Si vous stockez des balises dans une propriété de métadonnées personnalisée et que vous utilisez le chemin racine pour la restreindre à une hiérarchie, vous pouvez utiliser la même configuration dans vos filtres de recherche. Si vous ne trouvez pas les balises appropriées, créez-les et affectez-les aux ressources sélectionnées. Consultez <a href = "/help/using/tagging-management.md">Gérer les balises dans Assets Essentials</a> pour plus d’informations sur la création et l’affectation de balises à des ressources.</td>
         <td>
             <ul>
                 <li>Libellé
@@ -202,7 +195,7 @@ Filtres personnalisés AEM Assets vous permet d’utiliser une collection d’é
     </tr>
     <tr>
         <td>User</td>
-        <td>Utilisé pour spécifier le type d’utilisateur parmi les administrateurs, les utilisateurs réguliers et les consommateurs.</td>
+        <td>Utilisé pour spécifier le type d’utilisateur ou d’utilisatrice parmi les administrateurs et administratrices, les utilisateurs et utilisatrices réguliers et les consommateurs et consommatrices.</td>
         <td>
             <ul>
                 <li>Libellé
@@ -215,7 +208,7 @@ Filtres personnalisés AEM Assets vous permet d’utiliser une collection d’é
 
 ### Filtres préconfigurés {#preconfigured-filters}
 
-Les filtres préconfigurés sont des paramètres prédéfinis qui vous permettent de les utiliser directement sur la zone de travail. Cependant, vous pouvez personnaliser les [propriétés de filtre](#filter-properties) en fonction de vos besoins. Les filtres suivants sont préconfigurés dans [!DNL Assets Essentials] :
+Les filtres préconfigurés sont des paramètres prédéfinis, ce qui vous permet de les utiliser directement dans la zone de travail. Cependant, vous pouvez personnaliser les [propriétés de filtre](#filter-properties) en fonction de vos besoins. Les filtres suivants sont préconfigurés dans [!DNL Assets Essentials] :
 
 <table>
     <tr>
@@ -225,7 +218,7 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
     </tr>
     <tr>
         <td>Type de fichier</td>
-        <td>Filtrez les résultats de la recherche selon les types de fichiers pris en charge : « Images », « Documents » et « Vidéos ».</td>
+        <td>Filtrez les résultats de recherche selon les types de fichiers pris en charge suivants : « images », « documents » et « vidéos ».</td>
         <td>
             <ul>
                 <li>Libellé
@@ -251,14 +244,14 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
     </tr>
     <tr>
         <td>Taille de l’image</td>
-        <td>Fournissez une ou plusieurs des dimensions minimales et maximales pour filtrer les images. Les dimensions sont fournies en pixels et ne correspondent pas à la taille de fichier des images.</td>
+        <td>Saisissez une ou plusieurs dimensions minimales et maximales pour filtrer les images. Les dimensions sont fournies en pixels et ne correspondent pas à la taille de fichier des images.</td>
         <td>
             <ul>
                 <li>Libellé
                 <li>Métadonnées
                 <li>Type de sélection
-                <li>Procédure pas à pas
-                <li>Valeur de procédure pas à pas
+                <li>Contrôleur incrémentiel
+                <li>Valeur du contrôleur incrémentiel
                 <li>Description
             </ul>
         </td>
@@ -271,8 +264,8 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
                 <li>Libellé
                 <li>Métadonnées
                 <li>Type de sélection
-                <li>Procédure pas à pas
-                <li>Valeur de procédure pas à pas
+                <li>Contrôleur incrémentiel
+                <li>Valeur du contrôleur incrémentiel
                 <li>Description
             </ul>
         </td>
@@ -285,15 +278,15 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
                 <li>Libellé
                 <li>Métadonnées
                 <li>Type de sélection
-                <li>Procédure pas à pas
-                <li>Valeur de procédure pas à pas
+                <li>Contrôleur incrémentiel
+                <li>Valeur du contrôleur incrémentiel
                 <li>Description
             </ul>
         </td>
     </tr>
     <tr>
         <td>Date de création</td>
-        <td>Période de création des ressources.</td>
+        <td>Période durant laquelle des ressources ont été créées.</td>
         <td>
             <ul>
                 <li>Libellé
@@ -305,7 +298,7 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
     </tr>
     <tr>
         <td>Date de modification</td>
-        <td>Période à laquelle les ressources ont été modifiées</td>
+        <td>Période durant laquelle des ressources ont été modifiées.</td>
         <td>
             <ul>
                 <li>Libellé
@@ -316,7 +309,7 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
         </td>
     </tr>
     <tr>
-        <td>Statut de la ressource</td>
+        <td>Statuts des ressources</td>
         <td>Assets Essentials vous permet de définir le statut des ressources disponibles dans le référentiel. Définissez le statut d’une ressource pour mieux gouverner et gérer la consommation en aval des ressources numériques. Choisissez entre <b>Approuvé, Rejeté ou Aucun statut</b>.</td>
         <td>
             <ul>
@@ -329,7 +322,7 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
     </tr>
     <tr>
         <td>Balises intelligentes</td>
-        <td>Filtrage des ressources à l’aide de balises intelligentes ajoutées au référentiel Experience Manager.</td>
+        <td>Filtrez les ressources à l’aide de balises intelligentes ajoutées au référentiel Experience Manager.</td>
         <td>
             <ul>
                 <li>Libellé
@@ -342,7 +335,7 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
     </tr>
     <tr>
         <td>Statut Dynamic Media</td>
-        <td>Choisissez le statut d’une ressource entre Publiée ou Dépubliée.</td>
+        <td>Choisissez le statut d’une ressource, entre Publié ou Dépublié.</td>
         <td>
             <ul>
                 <li>Libellé
@@ -368,7 +361,7 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
     </tr>
     <tr>
         <td>Balises (taxonomie)</td>
-        <td>Il s’agit d’un système d’organisation et de classification des ressources numériques à l’aide de balises, créant essentiellement une structure hiérarchique de mots-clés qui permet aux utilisateurs de rechercher et de trouver facilement du contenu pertinent en appliquant des balises spécifiques à chaque ressource. </td>
+        <td>Il s’agit d’un système d’organisation et de classification des ressources numériques à l’aide de balises, créant essentiellement une structure hiérarchique de mots-clés qui permet aux utilisateurs et aux utilisatrices de rechercher et de trouver facilement du contenu pertinent en appliquant des balises spécifiques à chaque ressource. </td>
         <td>
             <ul>
                 <li>Libellé
@@ -380,9 +373,9 @@ Les filtres préconfigurés sont des paramètres prédéfinis qui vous permetten
     </tr>
 </table>
 
-#### Propriétés du filtre {#filter-properties}
+#### Propriétés de filtre {#filter-properties}
 
-Chaque élément de filtre est associé à un ensemble de propriétés. Les filtres de recherche personnalisés d’AEM Assets utilisent les propriétés suivantes dans les éléments de filtre et préconfigurés :
+Chaque élément de filtre est associé à un ensemble de propriétés. Les filtres de recherche personnalisés d’AEM Assets utilisent les propriétés suivantes dans les éléments de filtre et les éléments préconfigurés :
 
 <table>
     <tr>
@@ -398,28 +391,28 @@ Chaque élément de filtre est associé à un ensemble de propriétés. Les filt
     <tr>
         <td>Métadonnées</td>
         <td>Liste déroulante</td>
-        <td>La propriété de métadonnées est utilisée pour mapper des métadonnées approuvées à partir du référentiel Adobe Experience Manager Assets. Vous pouvez choisir la valeur de métadonnées dans le menu déroulant qui doit être mappée à l’élément de filtre. </td>
+        <td>La propriété de métadonnées est utilisée pour mapper des métadonnées approuvées à partir du référentiel Adobe Experience Manager Assets. Vous pouvez choisir dans le menu déroulant la valeur de métadonnées qui doit être mappée à l’élément de filtre. </td>
     </tr>
     <tr>
         <td>Type de sélection</td> 
-        <td>Simple, Multiple, Exact ou Range </td>
+        <td>Unique, Multiple, Exacte ou Plage </td>
         <td>
             <ul>
-                <li>La <b>sélection unique</b> permet de choisir un élément à la fois, ce qui est idéal pour les choix distincts.
+                <li>La <b>sélection unique</b> permet de choisir un seul élément à la fois, ce qui est idéal pour les choix distincts.
                 <li>La <b>sélection multiple</b> permet de choisir plusieurs éléments simultanément, ce qui s’avère utile pour sélectionner plusieurs options. 
-                <li><b>Sélection exacte</b> permet de choisir un élément précis parmi diverses options.
-                <li><b>Sélection de plage</b> permet de choisir un ensemble continu de valeurs dans une plage définie, ce qui est utile pour sélectionner une plage de dates ou de valeurs numériques.
+                <li>La <b>sélection exacte</b> permet de choisir un élément précis parmi diverses options.
+                <li>La <b>sélection de plage</b> permet de choisir un ensemble continu de valeurs dans une plage définie, ce qui est utile pour sélectionner une plage de dates ou de valeurs numériques.
             </ul>
         </td>   
     </tr>
     <tr>
         <td>Options</td>
-        <td>Manuelle, Chemin JSON ou Chargement CSV</td>
+        <td>Manuel, Chemin JSON ou Chargement de fichier CSV</td>
         <td>
             <ul>
                 <li>Choisissez <b>Manuel</b> si vous souhaitez ajouter des options manuellement. 
                 <li>Choisissez <b>Chemin JSON</b> pour ajouter des options à partir du fichier JSON. 
-                <li>Choisissez <b>Chargement CSV</b> pour importer un fichier CSV contenant les valeurs à ajouter dans les options.
+                <li>Choisissez <b>Chargement de fichier CSV</b> pour importer un fichier CSV contenant les valeurs à ajouter dans les options.
             </ul>
         </td>
     </tr>
@@ -429,10 +422,10 @@ Chaque élément de filtre est associé à un ensemble de propriétés. Les filt
         <td>
         <ul>
         <li>Cliquez sur <b>ajouter</b> pour ajouter une nouvelle valeur. 
-        <li>Cliquez sur ✎</span> pour modifier le libellé. <span>
-        <li>Cliquez sur 🗑</span> pour supprimer la valeur de l’option. <span>
+        <li>Cliquez sur <span>✎</span> pour modifier le libellé. 
+        <li>Cliquez sur <span>🗑</span> pour supprimer la valeur de l’option. 
         <li>Cliquez sur <b>Modifier</b> pour modifier les options d’édition. 
-        <li>Vous pouvez également modifier la séquence des options en les maintenant enfoncées.
+        <li>Vous pouvez également modifier l’ordre des options en les glissant-déposant.
         </td>
     </tr>
     <tr>
@@ -441,14 +434,14 @@ Chaque élément de filtre est associé à un ensemble de propriétés. Les filt
         <td>Un délimiteur est un symbole utilisé pour séparer des éléments distincts dans le texte. Par exemple, des virgules, des espaces ou des points-virgules.</td>
     </tr>
     <tr>
-        <td>Procédure pas à pas</td>
+        <td>Contrôleur incrémentiel</td>
         <td>Valeur</td>
-        <td>Activez le bouton Procédure pas à pas sur le champ numérique pour incrémenter ou décrémenter la valeur à chaque clic. </td>
+        <td>Ajoutez le bouton de contrôle incrémentiel au champ Nombre pour augmenter ou diminuer la valeur par paliers lors de chaque clic. </td>
     </tr>
     <tr>
-        <td>Valeur de procédure pas à pas </td>
+        <td>Valeur du contrôleur incrémentiel </td>
         <td>Nombre</td>
-        <td>Elle indique la valeur d’incrémentation/décrémentation lors de l’utilisation du bouton d’exécution pas à pas. Il s’affiche lorsque l’exécution pas à pas est activée.</td>
+        <td>Indique la valeur des paliers d’augmentation/de diminution lors de l’utilisation du bouton de contrôle incrémentiel. Elle s’affiche lorsque le contrôle incrémentiel est activé.</td>
     </tr>
     <tr>
         <td>Description</td>
@@ -460,13 +453,13 @@ Chaque élément de filtre est associé à un ensemble de propriétés. Les filt
 
 ## Supprimer un élément de filtre {#delete-a-filter-element}
 
-Pour supprimer un filtre de recherche, procédez comme suit :
+Pour supprimer un filtre de recherche, procédez de la manière suivante :
 
 1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
-1. Accédez à l’onglet **[!UICONTROL Rechercher]**. Cliquez sur **[!UICONTROL Personnaliser]** pour configurer votre formulaire de recherche.
-1. Le formulaire [!UICONTROL &#x200B; Configurer les filtres &#x200B;] s’affiche. Assurez-vous d’être en mode d’édition afin de pouvoir apporter des modifications au modèle.
-1. Sélectionnez l’élément de filtre à supprimer. Sélectionnez par exemple **[!UICONTROL Hauteur de l’image]**.
-1. Cliquez sur **[!UICONTROL Supprimer une catégorie]** pour supprimer l’élément de filtre. L’élément **[!UICONTROL Hauteur de l’image]** est supprimé de la zone de travail.
+1. Accédez à l’onglet **[!UICONTROL Recherche]**. Cliquez sur **[!UICONTROL Personnaliser]** pour configurer votre formulaire de recherche.
+1. Le formulaire [!UICONTROL Configurer les filtres] s’affiche. Assurez-vous d’être en mode Édition afin de pouvoir apporter des modifications au modèle.
+1. Sélectionnez l’élément de filtre que vous souhaitez supprimer. Sélectionnez par exemple **[!UICONTROL Hauteur d’image]**.
+1. Cliquez sur **[!UICONTROL Supprimer la catégorie]** pour supprimer l’élément de filtre. L’élément **[!UICONTROL Hauteur d’image]** est alors supprimé de la zone de travail.
 1. Cliquez sur **[!UICONTROL Confirmer]** pour enregistrer le formulaire.
 
 ## Utilisation de filtres de recherche personnalisés{#using-custom-search-filters}

@@ -4,20 +4,14 @@ description: Accès, connexion, cas d’utilisation pris en charge et problèmes
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 TQID: https://experienceleague.adobe.com/jZWd3neYHmifmT7YVTMymgAfMK88N-9220D4Ek-7rjY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: ae478996-b206-4712-9b0c-dc78a2644453
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: da3860b0-d637-47df-bef0-273751180266
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: da3860b0-d637-47df-bef0-273751180266
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 445
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -57,24 +51,24 @@ Vous trouverez ci-dessous les différentes tâches de gestion des actifs numéri
 
 | Tâches utilisateur | Fonctionnalités et informations pratiques |
 |-----|------|
-| Recherche et affichage des ressources | <ul> <li>[Parcourir le référentiel](/help/using/navigate-view.md#view-assets-and-details) </li> <li> [Aperçu d’une ressource](/help/using/navigate-view.md#preview-assets) <li> [Affichage des rendus d’une ressource](/help/using/add-delete.md#renditions) </li> <li>[Affichage des versions d’une ressource](/help/using/manage-organize.md#view-versions)</li></ul> |
-| Ajout de nouvelles ressources | <ul> <li>[Chargement de nouvelles ressources et de nouveaux dossiers](/help/using/add-delete.md#add-assets)</li> <li>[Surveillance de la progression du chargement et gestion des chargements](/help/using/add-delete.md#upload-progress)</li> <li>[Résoudre les problèmes de doublons](/help/using/add-delete.md#resolve-upload-fails)</li> </ul> |
-| Mise à jour de ressources ou d’informations connexes | <ul> <li>[Modifier les images](/help/using/edit-images.md)</li> <li>[Création de versions](/help/using/manage-organize.md#create-versions) et [affichage de versions](/help/using/manage-organize.md#view-versions)</li> <li>[Modification des images](/help/using/edit-images.md)</li> </ul> |
-| Modification de ressources | <ul> <li>[Modifications dans le navigateur à l’aide d’Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Recadrage d’un profil de réseaux sociaux](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Affichage et gestion des versions](/help/using/manage-organize.md#view-versions)</li> <li>[Utilisation [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
-| Recherche de ressources dans le référentiel | <ul> <li>[Recherche dans un dossier spécifique](/help/using/search.md#refine-search-results)</li> <li>[Recherches enregistrées](/help/using/search.md#saved-search)</li> <li>[Recherche de ressources récemment consultées](/help/using/search.md)</li> <li>[Recherche du texte intégral](/help/using/search.md) |
-| Téléchargement de ressources | <ul> <li> [Aperçu de la ressource](/help/using/navigate-view.md#preview-assets) </li> <li> [Télécharger des ressources](/help/using/manage-organize.md#download) <li> [Téléchargement de rendus](/help/using/add-delete.md#renditions) </li></ul> |
-| Opérations de métadonnées | <ul> <li>[Affichage des métadonnées détaillées](/help/using/metadata.md) </li> <li> [Mise à jour les métadonnées](/help/using/metadata.md#update-metadata)</li> <li> [Création d’un formulaire de métadonnées](/help/using/metadata.md#metadata-forms) </li> </ul> |
-| Intégration à d’autres solutions | <ul> <li>[Utilisation du sélecteur de ressources dans  [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link] pour [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[Intégration à [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
+| Recherche et affichage des ressources | <ul> <li>[Parcourir le référentiel](/help/using/navigate-view.md#view-assets-and-details) </li> <li> [Prévisualiser une ressource](/help/using/navigate-view.md#preview-assets) <li> [Afficher les rendus d’une ressource](/help/using/add-delete.md#renditions) </li> <li>[Affichage des versions d’une ressource](/help/using/manage-organize.md#view-versions)</li></ul> |
+| Ajout de nouvelles ressources | <ul> <li>[Charger de nouvelles ressources et de nouveaux dossiers](/help/using/add-delete.md#add-assets)</li> <li>[Surveiller la progression du chargement et gérer les chargements](/help/using/add-delete.md#upload-progress)</li> <li>[Résoudre les problèmes de doublons](/help/using/add-delete.md#resolve-upload-fails)</li> </ul> |
+| Mise à jour de ressources ou d’informations connexes | <ul> <li>[Modifier des images](/help/using/edit-images.md)</li> <li>[Créer des versions](/help/using/manage-organize.md#create-versions) et [afficher des versions](/help/using/manage-organize.md#view-versions)</li> <li>[Modification des images](/help/using/edit-images.md)</li> </ul> |
+| Modification de ressources | <ul> <li>[Modifications dans le navigateur à l’aide d’Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Recadrer un profil de réseaux sociaux](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Afficher et gérer des versions](/help/using/manage-organize.md#view-versions)</li> <li>[Utilisation [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
+| Recherche de ressources dans le référentiel | <ul> <li>[Rechercher dans un dossier spécifique](/help/using/search.md#refine-search-results)</li> <li>[Recherches enregistrées](/help/using/search.md#saved-search)</li> <li>[Rechercher des ressources récemment consultées](/help/using/search.md)</li> <li>[Recherche du texte intégral](/help/using/search.md) |
+| Téléchargement de ressources | <ul> <li> [Prévisualiser une ressource](/help/using/navigate-view.md#preview-assets) </li> <li> [Télécharger des ressources](/help/using/manage-organize.md#download) <li> [Téléchargement de rendus](/help/using/add-delete.md#renditions) </li></ul> |
+| Opérations de métadonnées | <ul> <li>[Afficher des métadonnées détaillées](/help/using/metadata.md) </li> <li> [Mettre à jour des métadonnées](/help/using/metadata.md#update-metadata)</li> <li> [Création d’un formulaire de métadonnées](/help/using/metadata.md#metadata-forms) </li> </ul> |
+| Intégration à d’autres solutions | <ul> <li>[Utiliser le sélecteur de ressources dans  [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link] pour [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[Intégration à [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour commencer à utiliser Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=fr)
+* [Regardez une vidéo expliquant comment commencer à utiliser Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=fr)
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
 
 <!--

@@ -4,19 +4,14 @@ description: Recherchez et trouvez des ressources dans [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 TQID: https://experienceleague.adobe.com/V--WXU30ed6P-HWqE1rquXPupmJwImyYfARZ006RpDg
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 2217
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -24,11 +19,11 @@ ht-degree: 98%
     <tr>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime et Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime et Ultimate</b></a>
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="nouveau">
@@ -188,7 +183,7 @@ Pour générer de nouvelles ressources en utilisant [!DNL Adobe Firefly] :
 
    ![Intégration de Firefly](assets/firefly-integration.png)
 
-   Les nouvelles ressources sont générées. Vous pouvez également modifier la description de l’image en saisissant le nouveau prompt de texte dans la zone de description. [Découvrez comment écrire une bonne invite d’IA pour générer du contenu extraordinaire et pertinent.](https://helpx.adobe.com/in/firefly/using/tips-and-tricks.html) Vous pouvez également [modifier l’image avec d’autres fonctionnalités telles que la modification du style, des dimensions de l’image, etc.](https://helpx.adobe.com/in/firefly/using/text-to-image.html)
+   Les nouvelles ressources sont générées. Vous pouvez également modifier la description de l’image en saisissant le nouveau prompt de texte dans la zone de description. [Découvrez comment rédiger un bon prompt d’IA pour générer du contenu extraordinaire et pertinent.](https://helpx.adobe.com/in/firefly/using/tips-and-tricks.html) Vous pouvez également [modifier une image avec d’autres fonctionnalités, telles que le changement de style, les dimensions de l’image, etc.](https://helpx.adobe.com/in/firefly/using/text-to-image.html)
 
    ![Intégration de Firefly](assets/bugatti-type-57.png)
 
@@ -389,11 +384,11 @@ Si vous devez fournir des commentaires sur la fonction de recherche contextuelle
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour rechercher des ressources dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=fr)
+* [Regardez une vidéo expliquant comment rechercher des ressources dans Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=fr)
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant les options [!UICONTROL Modifier cette page] ![Modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![Créer un problème GitHub](assets/do-not-localize/github-issue.png) disponibles dans la barre latérale de droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
