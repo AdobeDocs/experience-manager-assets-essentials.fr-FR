@@ -20,7 +20,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 2195
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -141,7 +141,7 @@ Vous trouverez ci-dessous un aperçu de chaque type de propriété et de leur mo
 | Case à cocher | Permet d’ajouter une valeur booléenne. Stockée comme TRUE ou FALSE quand une valeur est enregistrée. |
 | Date | Permet d’ajouter un composant de date. |
 | Liste déroulante | Permet d’ajouter une liste déroulante. |
-| État | Ajoutez la propriété d’état du référentiel (mappée à repo:state) |
+| État | Ajouter la propriété d’état du référentiel (mappée à repo:state) |
 | Statut de la ressource | Ajoutez la propriété Statut de la ressource par défaut (mappée à la gestion des ressources numériques:assetStatus) |
 | Balises | Ajoutez une balise à partir des valeurs stockées dans la gestion de la taxonomie (mappée sur xcm:tags). |
 | Mots-clés | Ajoutez des mots-clés de forme libre (mappés à dc:subject). |
@@ -226,7 +226,7 @@ Pour afficher les balises racines configurées, accédez à la page de détails 
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=fr)
+* [Regardez une vidéo pour gérer les formulaires de métadonnées dans Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=fr)
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 

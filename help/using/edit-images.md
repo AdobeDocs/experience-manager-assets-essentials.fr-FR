@@ -13,7 +13,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1258
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -73,8 +73,7 @@ La transformation d’une image en taille parfaite est facile à l’aide des ac
 1. Cliquez sur **[!UICONTROL Recadrer l’image]** dans le volet de gauche.
 2. Faites glisser les poignées sur les coins de l’image pour créer le recadrage souhaité.
 3. Cliquez sur **[!UICONTROL Appliquer]**.
-   ![Enregistrer l’image avec Adobe Express](/help/using/assets/adobe-express-crop-image.png)
-L’image recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource.
+   ![Enregistrer une image avec Adobe Express](/help/using/assets/adobe-express-crop-image.png)L’image recadrée peut être téléchargée. Vous pouvez enregistrer la ressource modifiée en tant que nouvelle version de la même ressource ou l’enregistrer en tant que nouvelle ressource.
 
 #### Convertir le JPEG en PNG {#Convert-JPEG-to-PNG}
 
@@ -93,8 +92,8 @@ Vous pouvez rapidement convertir les formats d’image JPEG et PNG à l’aide d
 
 Les utilisateurs et utilisatrices disposant de droits Express peuvent utiliser l’éditeur Express intégré dans l’interface d’utilisation d’Assets Essentials pour modifier le contenu et créer du contenu facilement avec GenAI à partir d’Adobe Firefly. Cette fonctionnalité améliore la réutilisation du contenu et accélère la vitesse du contenu. Vous pouvez également utiliser des éléments prédéfinis pour optimiser l’aspect de vos ressources ou exécuter des actions rapides pour modifier vos images en quelques clics seulement.
 
-![express dans l’interface utilisateur d’essentials](/help/using/assets/express-in-essentials-ui.jpg)
-Pour modifier des images dans l’éditeur incorporé d’Adobe Express, procédez comme suit :
+![express dans l’interface d’utilisation d’essentials](/help/using/assets/express-in-essentials-ui.jpg)
+Pour modifier des images à l’aide de l’éditeur intégré Adobe Express, procédez comme suit :
 
 1. Accédez à l’interface d’utilisation d’AEM Assets Essentials à l’aide du lien [Interface d’utilisation d’AEM Assets Essentials](https://experience.adobe.com/#/assets) et sélectionnez le référentiel approprié.
 1. Cliquez sur **Ressources**, saisissez un dossier et sélectionnez une image.

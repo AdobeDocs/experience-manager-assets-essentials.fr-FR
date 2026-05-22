@@ -11,7 +11,7 @@ role_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1700
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -193,7 +193,7 @@ Créez les groupes d’utilisateurs suivants dans Admin Console :
 
 * Équipe juridique
 
-Le diagramme suivant illustre la hiérarchie des dossiers et les autorisations attribuées à chaque groupe d’utilisateurs :
+Le diagramme suivant illustre la hiérarchie des dossiers et les autorisations attribuées à chaque groupe d’utilisateurs et d’utilisatrices :
 ![Attribuer des autorisations](assets/use-case-permissions-management.png)
 
 Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hiérarchie des dossiers :
@@ -216,7 +216,7 @@ Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hié
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour gérer les autorisations dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=fr)
+* [Regardez une vidéo expliquant comment gérer les autorisations dans Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=fr)
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 

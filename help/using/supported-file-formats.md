@@ -58,7 +58,7 @@ TBD: For AEM, AI files require the PDF option to be selected when saving the AI 
 | Vidéos MP4 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
 | PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 | PSD, AI, PSB et INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
-| Autres fichiers binaires. | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
+| Autres fichiers binaires | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
 <!-- 
 Hiding CC Libraries (considered beta) as per PM feedback.
@@ -77,7 +77,7 @@ Hiding CC Libraries (considered beta) as per PM feedback.
 | PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | PSD et PSB | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | AI et INDD | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
-| Autres fichiers binaires. | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| Autres fichiers binaires | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 
 
 ## Révision de ressources et collaboration {#support-to-review-collaborate}
@@ -91,7 +91,7 @@ Hiding CC Libraries (considered beta) as per PM feedback.
 | Bibliothèques CC | − | − | − |
 | PDF | − | ✓ | ✓ |
 | PSD, PSB, AI et INDD | − | ✓ | ✓ |
-| Autres fichiers binaires. | − | ✓ | ✓ |
+| Autres fichiers binaires | − | ✓ | ✓ |
 | DOC | − | ✓ | ✓ |
 | DOCX | − | ✓ | ✓ |
 | PPT | − | ✓ | ✓ |
@@ -113,7 +113,7 @@ Hiding CC Libraries (considered beta) as per PM feedback.
 | PDF | ✓ | − | ✓ | ✓ | ✓ |
 | AI et INDD | ✓ | − | ✓ | ✓ | ✓ |
 | PSD et PSB | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Autres fichiers binaires. | ✓ | − | ✓ | ✓ | ✓ |
+| Autres fichiers binaires | ✓ | − | ✓ | ✓ | ✓ |
 
 Les utilisateurs de [!DNL Adobe Asset Link] peuvent charger et enregistrer (charger une nouvelle version) des fichiers dans le référentiel [!DNL Assets Essentials] des applications de bureau [!DNL Adobe Creative Cloud] prises en charge.
 

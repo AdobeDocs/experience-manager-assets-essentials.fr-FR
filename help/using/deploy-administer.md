@@ -15,7 +15,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1364
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -69,7 +69,7 @@ Pour ajouter des profils de produit à des groupes d’utilisateurs :
 1. Accédez à [Admin Console](https://adminconsole.adobe.com) de votre organisation, cliquez sur **[!UICONTROL Produits]** dans la barre supérieure, puis sur **[!UICONTROL AEM Assets Essentials]**, et enfin sur l’instance de [!DNL Assets Essentials]. Le nom de l’instance peut être différent de celui de la capture d’écran ci-dessous.
    >[!NOTE]
    >
-   >L’instance de [!DNL Cloud Manager] est réservée à un usage administratif spécial, comme la vérification de l’état des services et l’accès aux journaux des services. Elle ne peut pas être utilisée pour ajouter des utilisateurs au produit.
+   >L’instance de [!DNL Cloud Manager] est réservée à un usage administratif spécial, comme la vérification du statut des services et l’accès aux journaux des services. Elle ne peut pas être utilisée pour ajouter des utilisateurs au produit.
 
    ![Profil administrateur Admin Console](assets/assets-essentials-instance.png)
 
@@ -140,7 +140,7 @@ Grâce à Assets Essentials, les administrateurs peuvent gérer les niveaux d�
 
 Pour plus d’informations, voir [Gérer les autorisations pour les dossiers](manage-permissions.md).
 
-### Configuration De Metadata Forms (Facultatif) {#metadata-forms}
+### Configurer les formulaires de métadonnées (facultatif) {#metadata-forms}
 
 Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
 

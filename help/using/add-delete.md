@@ -13,7 +13,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 846
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -107,7 +107,7 @@ Les utilisateurs peuvent supprimer individuellement des ressources ou des dossie
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo pour charger des ressources dans Assets Essentials .](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=fr)
+* [Regarder une vidéo expliquant comment charger des ressources dans Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=fr)
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 

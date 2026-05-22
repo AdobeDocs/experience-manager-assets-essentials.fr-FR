@@ -15,7 +15,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 917
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -59,9 +59,9 @@ Les parcours de documentation sont conçus autour des principes de bonne pratiqu
 
 ## Prérequis
 
-* [Accès à Adobe Admin Console pour les solutions Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=fr)
+* [Accéder à Adobe Admin Console pour les solutions Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=fr)
 
-* [Accès à Adobe Admin Console pour le déploiement de Creative Cloud abonnement Entreprise](https://helpx.adobe.com/fr/enterprise/admin-guide.html)
+* [Accès à Adobe Admin Console pour un déploiement de Creative Cloud abonnement Entreprise](https://helpx.adobe.com/fr/enterprise/admin-guide.html)
 
 ## Administrer Experience Manager Assets Essentials {#administer-assets-essentials}
 

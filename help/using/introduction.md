@@ -18,7 +18,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 660
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ TBD: Update this banner to remove Beta label.
 ![Banner image for beta docs](assets/do-not-localize/banner-image-beta-docs.png)
 -->
 
-Adobe propose une solution de Gestion des actifs numériques (DAM) robuste qui vous permet de tirer le meilleur parti de vos ressources numériques. Adobe Experience Manager Assets Essentials est la solution allégée de gestion des ressources numériques d’Adobe. Elle permet de stocker, de gérer, de découvrir et d’utiliser des ressources numériques.
+Adobe propose une solution de Gestion des actifs numériques (DAM) robuste qui vous permet de tirer le meilleur parti de vos ressources numériques. Adobe Experience Manager Assets Essentials est la solution allégée de gestion des ressources d’Adobe pour stocker, gérer, découvrir et exploiter des ressources numériques.
 
 ## Qu’est-ce qu’Assets Essentials ? {#assets-essemtials-overview}
 
@@ -49,7 +49,7 @@ Assets Essentials vous permet :
 
 Assets Essentials offre une interface utilisateur web autonome aux utilisateurs finaux et aux administrateurs, leur permettant d’accéder à toutes les fonctionnalités de la solution. Les utilisateurs d’autres solutions Adobe peuvent également accéder aux ressources d’Assets Essentials et les exploiter au moyen d’une expérience intégrée, disponible dans l’abonnement Creative Cloud abonnement Entreprise, Adobe Journey Optimizer et Adobe Workfront.
 
-![Intégration à d’autres solutions &#x200B;](assets/assets-essentials-integration.svg)
+![Intégration à d’autres solutions ](assets/assets-essentials-integration.svg)
 
 ## Pourquoi choisir Assets Essentials ? {#assets-essentials-features}
 
