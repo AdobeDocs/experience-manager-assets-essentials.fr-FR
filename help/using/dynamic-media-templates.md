@@ -168,7 +168,7 @@ Pour modifier un calque de texte ou d’image, reportez-vous aux actions courant
 Mettez en forme votre texte selon la police, la taille, la couleur, le style et l’alignement de votre choix (dans le calque) en modifiant leurs valeurs dans les champs respectifs sous la section **[!UICONTROL Texte]** du panneau.
 
 **[!UICONTROL Redimensionnement de texte intelligent]** Assurez-vous d’inclure **[!UICONTROL Redimensionnement de texte intelligent]** ([Adaptation](https://experienceleague.adobe.com/fr/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) pour adapter de manière optimale le texte de la zone désignée en ajustant intelligemment la taille et la longueur de la police. Cette fonctionnalité empêche le texte de déborder ou réduit les espaces supplémentaires en bas du texte.
-![création de contenu en un rien de temps ](/help/using/assets/smart-text-resize.png)
+![création de contenu en un rien de temps &#x200B;](/help/using/assets/smart-text-resize.png)
 
 ### Calques de paramètres {#parameterise-a-layer}
 
@@ -223,7 +223,7 @@ Pour attribuer le même nom aux paramètres de masquage (![création rapide de c
 
 Procédez comme suit pour prévisualiser et publier le modèle et copier l’URL de diffusion :
 
-1. Sur la page de la zone de travail, cliquez sur **[!UICONTROL Prévisualiser]**. Vous pouvez également suivre le chemin suivant : **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Ressources Dynamic Media]** **>** recherchez et sélectionnez votre modèle **>** cliquez sur **[!UICONTROL Modifier le modèle]**>**cliquez sur****[!UICONTROL Prévisualiser]**. La page de prévisualisation affiche le modèle, ses paramètres (calques et propriétés paramétrés), le statut de publication et l’option **[!UICONTROL Publier]**.
+1. Sur la page de la zone de travail, cliquez sur **[!UICONTROL Prévisualiser]**. Vous pouvez également suivre le chemin suivant : **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Ressources Dynamic Media]** **>** recherchez et sélectionnez votre modèle **>** cliquez sur **[!UICONTROL Modifier le modèle]**>**cliquez sur**&#x200B;**[!UICONTROL Prévisualiser]**. La page de prévisualisation affiche le modèle, ses paramètres (calques et propriétés paramétrés), le statut de publication et l’option **[!UICONTROL Publier]**.
 1. Sélectionnez des paramètres dans le panneau **[!UICONTROL Paramètres du modèle]** pour modifier leurs valeurs et mettre instantanément à jour le contenu, la taille, la position ou la mise en forme du texte du calque de modèle correspondant dans la prévisualisation. Par exemple :
    1. Sélectionnez un calque de texte et modifiez son texte ou
    1. Sélectionnez un calque d’image, cliquez sur ![Création de contenu à la volée](/help/using/assets/add-image.svg), sélectionnez une image dans le sélecteur de ressources, puis cliquez sur **[!UICONTROL Actualiser]**.
