@@ -13,11 +13,11 @@ Ce fichier décrit comment apporter votre contribution et indique les directives
 
 ## Code de conduite d’Adobe Open Source
 
-Ce projet a adopté le [code de conduite d’Adobe Open Source](code-of-conduct.md). En contribuant à [!DNL Adobe Experience Manager] documentation, vous acceptez de respecter ce code de conduite. Veuillez signaler tout comportement inacceptable à [](mailto:Grp-opensourceoffice@adobe.com).
+Ce projet a adopté le [code de conduite d’Adobe Open Source](code-of-conduct.md). En contribuant à [!DNL Adobe Experience Manager] documentation, vous acceptez de respecter ce code de conduite. Veuillez signaler tout comportement inacceptable à [&#128279;](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Directives relatives à la contribution
 
-Bien que nous soyons ouverts à toute contribution visant à améliorer [!DNL Experience Manager] documentation, nous demandons que les contributions respectent, dans la mesure du possible, certaines lignes directrices et normes. Pour plus d’informations, veuillez consulter la [documentation  [!DNL Experience Manager]  contribution à ](guidelines.md).
+Bien que nous soyons ouverts à toute contribution visant à améliorer [!DNL Experience Manager] documentation, nous demandons que les contributions respectent, dans la mesure du possible, certaines lignes directrices et normes. Pour plus d’informations, veuillez consulter la [documentation  [!DNL Experience Manager]  contribution à &#x200B;](guidelines.md).
 
 ## Comment contribuer
 
@@ -56,4 +56,4 @@ Si vous êtes un employé d’Adobe et que vous avez une contribution, nous vous
 
 ## À propos de la plateforme de création GitHub d’Adobe et de Markdown
 
-Consultez le [Guide du contributeur aux documents ](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) pour plus d’informations sur l’utilisation de la plateforme de création GitHub.
+Consultez le [Guide du contributeur aux documents &#x200B;](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) pour plus d’informations sur l’utilisation de la plateforme de création GitHub.
