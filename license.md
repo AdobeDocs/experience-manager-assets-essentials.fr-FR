@@ -1,28 +1,28 @@
 ---
 source-git-commit: 40f8747c8a6f93717120f44a3829166422f3442f
-workflow-type: ht
-source-wordcount: '170'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 # Licence MIT
 
-© Copyright 2021 Adobe. All rights reserved.
+© Copyright 2021 Adobe. Tous droits réservés.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the &quot;Software&quot;), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Toute personne obtenant une copie est autorisée à en obtenir une copie sans frais
+de ce logiciel et des fichiers de documentation associés (le « Logiciel »), à traiter
+dans le Logiciel sans restriction, y compris et sans s&#39;y limiter les droits
+pour utiliser, copier, modifier, fusionner, publier, distribuer, accorder une sous-licence et/ou vendre
+des copies du Logiciel, et pour autoriser les personnes auxquelles le Logiciel est destiné
+fourni à cet effet, sous réserve des conditions suivantes :
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+La notification de copyright ci-dessus et cette notification d’autorisation doivent être incluses dans tous les
+des copies ou des parties substantielles du Logiciel.
 
-THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+LE LOGICIEL EST FOURNI « EN L’ÉTAT », SANS GARANTIE D’AUCUNE SORTE, EXPRESSE OU
+IMPLICITES, Y COMPRIS MAIS SANS S&#39;Y LIMITER LES GARANTIES DE QUALITÉ MARCHANDE,
+APTITUDE À UN USAGE PARTICULIER ET NON-VIOLATION. EN AUCUN CAS, LE
+LES AUTEURS OU LES TITULAIRES DE DROITS D&#39;AUTEUR SONT RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGES OU AUTRE
+RESPONSABILITÉ, QU&#39;IL S&#39;AGISSE D&#39;UNE ACTION FONDÉE SUR LA RESPONSABILITÉ CONTRACTUELLE, DÉLICTUELLE OU AUTREMENT, DÉCOULANT :
+À PARTIR DU LOGICIEL OU EN RELATION AVEC CELUI-CI, OU LORS DE L’UTILISATION OU D’AUTRES INTERVENTIONS DANS LE
+LOGICIEL.
