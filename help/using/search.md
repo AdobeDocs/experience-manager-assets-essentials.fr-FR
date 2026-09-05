@@ -13,54 +13,13 @@ role_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+source-git-commit: a292d5bf73e5c366cbc3d5e9695fecdcc930d31b
 workflow-type: tm+mt
-source-wordcount: 2217
+source-wordcount: 1662
 ht-degree: 100%
 
 ---
 
-<table>
-    <tr>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime et Ultimate</b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nouveau">
-<a href="http://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Intégration d’AEM Assets à Edge Delivery Services</b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilité de l’interface d’utilisation</b></a>
-        </td>
-          <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="nouveau">
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Filtres de recherche personnalisés</b></a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Bonnes pratiques de recherche</b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Bonnes pratiques relatives aux métadonnées</b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Hub de contenus</b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b>Fonctionnalités Dynamic Media avec OpenAPI</b></a>
-        </td>
-        <td>
-            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>Documentation de développement pour AEM Assets</b></a>
-        </td>
-    </tr>
-</table>
 
 # Rechercher des ressources dans [!DNL Assets Essentials] {#search-assets}
 
@@ -78,9 +37,9 @@ Pour rechercher des ressources,
 
   ![Zone de recherche](assets/search-box.png)
 
-   * Effectuez une recherche à l’aide d’un mot-clé et changez éventuellement de dossier. Appuyez sur Entrée.
+  * Effectuez une recherche à l’aide d’un mot-clé et changez éventuellement de dossier. Appuyez sur Entrée.
 
-   * Commencez à travailler avec une ressource récemment consultée en la recherchant directement. Cliquez dans la zone de recherche et sélectionnez une ressource récemment consultée parmi les suggestions.
+  * Commencez à travailler avec une ressource récemment consultée en la recherchant directement. Cliquez dans la zone de recherche et sélectionnez une ressource récemment consultée parmi les suggestions.
 
 ## Filtrer les résultats de la recherche {#refine-search-results}
 
@@ -300,92 +259,6 @@ Vous pouvez prévisualiser votre page d’accueil axée sur la recherche afin d�
 1. Cliquez sur **[!UICONTROL Fermer]** pour quitter l’écran d’aperçu.
 
    ![Aperçu de la page d’accueil axée sur la recherche.](assets/search-first-preview.gif)
-
-## Recherche contextuelle {#contextual-search}
-
-Vous pouvez également rechercher des ressources disponibles dans le référentiel en définissant des prompts de texte. Experience Manager Assets transforme automatiquement ces prompts de texte en filtres de recherche et affiche les résultats de la recherche. Vous pouvez afficher et modifier des filtres automatiques à l’aide du volet Filtres pour affiner davantage les résultats de la recherche.
-
-### Accéder à la recherche contextuelle {#access-contextual-search}
-
-Pour accéder à la recherche contextuelle dans Experience Manager Assets :
-
-1. Cliquez sur **[!UICONTROL Rechercher]** dans le volet de gauche.
-
-   ![Recherche contextuelle](/help/using/assets/access-contextual-search.png)
-
-1. Définissez le prompt de texte dans la zone de texte Rechercher et cliquez sur **[!UICONTROL Recherche contextuelle]**.
-
-   ![Prompt de texte de recherche contextuelle](/help/using/assets/wknd-contextual-search.png)
-
-   [!DNL Experience Manager Assets] affiche les résultats de la recherche.
-
-
-### Filtres pris en charge {#supported-filters}
-
-La recherche contextuelle prend en charge les filtres prêts à l’emploi suivants. Basez vos prompts de texte sur ces filtres pour afficher les résultats de recherche appropriés.
-
-* Hauteur de l’image
-
-* Largeur de l’image
-
-* Type de fichier : image, document, vidéo ou dossier.
-
-* Type MIME : JPG, PNG, TIFF, GIF, MP4, PDF, PPTX, DOCX ou XLSX
-
-* Date de création
-
-* Date de modification
-
-* Date d’expiration
-
-* Statut de la ressource : Approuvé, Refusé ou Tout
-
-* Ressources expirées
-
-### Exemples de prompts de texte {#text-prompts-examples}
-
-**Exemple 1**
-
-**Prompt de texte** : images créées ce mois-ci.
-
-[!DNL Experience Manager Assets] applique automatiquement les filtres suivants et affiche les résultats de la recherche :
-
-![Exemple de recherche contextuelle 1](/help/using/assets/contextual-search-example1.png)
-
-**Exemple 2**
-
-**Prompt de texte** : images d’au moins 200 px de haut et 100 px de large avec plage et ciel clair.
-
-[!DNL Experience Manager Assets] applique automatiquement les filtres suivants et affiche les résultats de la recherche :
-
-![Exemple de recherche contextuelle 2](/help/using/assets/contextual-search-example2.png)
-
-**Exemple 3**
-
-**Prompt de texte** : j’ai besoin d’images de ciel bleu de 1 500 et 2 500 pixels de hauteur, créées au cours du dernier mois et qui ne sont pas expirées ni approuvées.
-
-[!DNL Experience Manager Assets] applique automatiquement les filtres suivants et affiche les résultats de la recherche :
-
-![Exemple de recherche contextuelle 3](/help/using/assets/contextual-search-example3.png)
-
-La vidéo suivante illustre le processus de bout en bout, de l’accès à l’interface utilisateur de la recherche contextuelle à la définition de prompts de texte, en passant par l’affichage des résultats de la recherche.
-
->[!VIDEO](https://video.tv.adobe.com/v/3428407)
-
-### Désactiver la recherche contextuelle {#disable-contextual-search}
-
-Les administrateurs et administratrices ont également la possibilité de désactiver la recherche contextuelle pour les utilisateurs et utilisatrices de votre organisation. Pour cela, procédez comme suit :
-
-1. Accédez à **[!UICONTROL Paramètres]** > **[!UICONTROL Paramètres généraux]**.
-
-1. Dans la section [!UICONTROL Recherche contextuelle], désactivez le bouton (bascule) **[!UICONTROL Activer la recherche contextuelle pour votre organisation]** pour désactiver la fonction de recherche contextuelle pour toutes les personnes de votre organisation.
-
-### Commentaires sur la recherche contextuelle {#contextual-search-feedback}
-
-Si vous devez fournir des commentaires sur la fonction de recherche contextuelle, cliquez sur l’![icône Recherche contextuelle](assets/do-not-localize/Smock_Help_18_N.svg), puis sur l’icône Commentaires. Sélectionnez le type de feedback, spécifiez l’objet et la description, puis cliquez sur **[!UICONTROL Envoyer]**.
-
-![Commentaires sur la recherche contextuelle](/help/using/assets/contextual-search-feedback.png)
-
 
 ## Étapes suivantes {#next-steps}
 
