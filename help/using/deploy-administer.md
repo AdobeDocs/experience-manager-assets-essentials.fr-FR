@@ -6,19 +6,22 @@ exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 TQID: https://experienceleague.adobe.com/q-Eq1tZANfkgtIpwSifDVfLakJvRhia0pO2lXEMCYYg
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Administration
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: 1364
-ht-degree: 100%
-
+source-wordcount: '1365'
+ht-degree: 99%
 ---
-
 # Administrer [!DNL Assets Essentials] et ajouter des utilisateurs {#administer}
 
 [!DNL Adobe Experience Manager Assets Essentials] est configuré par Adobe pour ses clients. Dans le cadre de la mise en service, [!DNL Assets Essentials] est ajouté à l’organisation d’un client dans [!DNL Adobe Admin Console]. L’équipe d’administration [!DNL Admin Console] pour gérer les droits d’accès à la solution [!DNL Assets Essentials], et affecter des administrateurs et administratrices d’applications à la configuration d’autorisations et de formulaires de métadonnées dans [!DNL Assets Essentials].
@@ -80,7 +83,7 @@ Pour ajouter des profils de produit à des groupes d’utilisateurs :
    * Les **[!DNL Assets Essentials] utilisateurs** : ont accès à l’interface utilisateur complète. Ces utilisateurs peuvent charger, organiser, baliser et rechercher des ressources numériques.
 
    * Les **[!DNL Assets Essentials]utilisateurs consommateurs et les utilisatrices consommatrices** peuvent effectuer des opérations de recherche, de prévisualisation et de téléchargement dans Assets Essentials. Ils ou elles peuvent également rechercher et sélectionner des ressources dans Adobe Journey Optimizer, et rechercher et sélectionner des ressources à utiliser dans Workfront.
-Pour plus d’informations, voir [Intégration à d’autres solutions](integration.md).
+     Pour plus d’informations, voir [Intégration à d’autres solutions](integration.md).
 
    ![Profil administrateur Admin Console](assets/admin-console-admin-profile.png)
 
@@ -164,13 +167,13 @@ Contrairement aux dossiers, une collection peut comporter des ressources provena
 
 ## Étapes suivantes {#next-steps}
 
-<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=fr) -->
+<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
 
 

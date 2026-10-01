@@ -5,13 +5,11 @@ hide: true
 hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 4c176db86c9f3219f2cb63edda71435a2aa76850
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: '3000'
+source-wordcount: '3017'
 ht-degree: 99%
-
 ---
-
 # Modèles Dynamic Media{#dynamic-media-templates}
 
 | [Bonnes pratiques de recherche](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Bonnes pratiques relatives aux métadonnées](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Hub de contenus](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentation de développement pour AEM Assets](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
@@ -35,7 +33,7 @@ Voici quelques-unes des fonctions principales :
 
 Voici quelques-uns des principaux avantages des modèles Dynamic Media :
 
-* **Optimisation 1:1 de la personnalisation :** personnalisez le contenu en fonction des signaux clientèle en temps réel.
+* **Optimisez le Personalization 1:1:** Personnalisez le contenu en fonction des signaux client en temps réel.
 * **Réduction des efforts manuels :** automatisez et accélérez la création et la gestion de contenu.
 * **Garantir des expériences omnicanal cohérentes :** maintenez la cohérence de la marque sur l’ensemble des canaux.
 * **Réutilisation efficace du contenu :** évitez le contenu à usage unique et mettez à l’échelle avec des modèles dynamiques paramétrés.
@@ -76,7 +74,7 @@ Pour créer une zone de travail vierge, procédez comme suit :
 
 1. Cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle sous Dynamic Media Assets ou accédez à un dossier et cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle dans ce dossier. La boîte de dialogue **[!UICONTROL Nouveau modèle]** s’affiche.
    ![comment créer des modèles dynamiques qui peuvent être personnalisés en temps réel](/help/using/assets/new-template.png)
-Pour [créer un dossier](/help/using/add-delete.md) sous **[!UICONTROL Dynamic Media Assets]**, créez un dossier sous **[!UICONTROL Assets]**. L’arborescence de dossiers sous **[!UICONTROL Assets]** est répliquée sous **[!UICONTROL Dynamic Media Assets]**.
+   Pour [créer un dossier](/help/using/add-delete.md) sous **[!UICONTROL Dynamic Media Assets]**, créez un dossier sous **[!UICONTROL Assets]**. L’arborescence de dossiers sous **[!UICONTROL Assets]** est répliquée sous **[!UICONTROL Dynamic Media Assets]**.
 1. Indiquez un nom de modèle, définissez la largeur et la hauteur de la zone de travail, puis cliquez sur **[!UICONTROL Créer]**. Une zone de travail vierge s’affiche avec des options de menu des deux côtés à utiliser pour créer le modèle. Pointez sur les options de menu pour afficher leur infobulle.
    ![modèle personnalisable en temps réel](/help/using/assets/blank-canvas-page.png)
 
@@ -168,7 +166,7 @@ Pour modifier un calque de texte ou d’image, reportez-vous aux actions courant
 Mettez en forme votre texte selon la police, la taille, la couleur, le style et l’alignement de votre choix (dans le calque) en modifiant leurs valeurs dans les champs respectifs sous la section **[!UICONTROL Texte]** du panneau.
 
 **[!UICONTROL Redimensionnement de texte intelligent]** Assurez-vous d’inclure **[!UICONTROL Redimensionnement de texte intelligent]** ([Adaptation](https://experienceleague.adobe.com/fr/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) pour adapter de manière optimale le texte de la zone désignée en ajustant intelligemment la taille et la longueur de la police. Cette fonctionnalité empêche le texte de déborder ou réduit les espaces supplémentaires en bas du texte.
-![création de contenu en un rien de temps &#x200B;](/help/using/assets/smart-text-resize.png)
+![création de contenu en un rien de temps ](/help/using/assets/smart-text-resize.png)
 
 ### Calques de paramètres {#parameterise-a-layer}
 
@@ -223,7 +221,7 @@ Pour attribuer le même nom aux paramètres de masquage (![création rapide de c
 
 Procédez comme suit pour prévisualiser et publier le modèle et copier l’URL de diffusion :
 
-1. Sur la page de la zone de travail, cliquez sur **[!UICONTROL Prévisualiser]**. Vous pouvez également suivre le chemin suivant : **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Ressources Dynamic Media]** **>** recherchez et sélectionnez votre modèle **>** cliquez sur **[!UICONTROL Modifier le modèle]**>**cliquez sur**&#x200B;**[!UICONTROL Prévisualiser]**. La page de prévisualisation affiche le modèle, ses paramètres (calques et propriétés paramétrés), le statut de publication et l’option **[!UICONTROL Publier]**.
+1. Sur la page de la zone de travail, cliquez sur **[!UICONTROL Prévisualiser]**. Vous pouvez également suivre le chemin suivant : **[!UICONTROL Assets Essentials]** **>** **[!UICONTROL Ressources Dynamic Media]** **>** recherchez et sélectionnez votre modèle **>** cliquez sur **[!UICONTROL Modifier le modèle]**>**cliquez sur****[!UICONTROL Prévisualiser]**. La page de prévisualisation affiche le modèle, ses paramètres (calques et propriétés paramétrés), le statut de publication et l’option **[!UICONTROL Publier]**.
 1. Sélectionnez des paramètres dans le panneau **[!UICONTROL Paramètres du modèle]** pour modifier leurs valeurs et mettre instantanément à jour le contenu, la taille, la position ou la mise en forme du texte du calque de modèle correspondant dans la prévisualisation. Par exemple :
    1. Sélectionnez un calque de texte et modifiez son texte ou
    1. Sélectionnez un calque d’image, cliquez sur ![Création de contenu à la volée](/help/using/assets/add-image.svg), sélectionnez une image dans le sélecteur de ressources, puis cliquez sur **[!UICONTROL Actualiser]**.
