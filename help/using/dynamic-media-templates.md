@@ -5,13 +5,11 @@ hide: true
 hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 4c176db86c9f3219f2cb63edda71435a2aa76850
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: '3000'
+source-wordcount: '3017'
 ht-degree: 99%
-
 ---
-
 # Modèles Dynamic Media{#dynamic-media-templates}
 
 | [Bonnes pratiques de recherche](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Bonnes pratiques relatives aux métadonnées](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Hub de contenus](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentation de développement pour AEM Assets](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
@@ -35,7 +33,7 @@ Voici quelques-unes des fonctions principales :
 
 Voici quelques-uns des principaux avantages des modèles Dynamic Media :
 
-* **Optimisation 1:1 de la personnalisation :** personnalisez le contenu en fonction des signaux clientèle en temps réel.
+* **Optimisez le Personalization 1:1:** Personnalisez le contenu en fonction des signaux client en temps réel.
 * **Réduction des efforts manuels :** automatisez et accélérez la création et la gestion de contenu.
 * **Garantir des expériences omnicanal cohérentes :** maintenez la cohérence de la marque sur l’ensemble des canaux.
 * **Réutilisation efficace du contenu :** évitez le contenu à usage unique et mettez à l’échelle avec des modèles dynamiques paramétrés.
@@ -76,7 +74,7 @@ Pour créer une zone de travail vierge, procédez comme suit :
 
 1. Cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle sous Dynamic Media Assets ou accédez à un dossier et cliquez sur **[!UICONTROL Créer un modèle]** pour enregistrer le modèle dans ce dossier. La boîte de dialogue **[!UICONTROL Nouveau modèle]** s’affiche.
    ![comment créer des modèles dynamiques qui peuvent être personnalisés en temps réel](/help/using/assets/new-template.png)
-Pour [créer un dossier](/help/using/add-delete.md) sous **[!UICONTROL Dynamic Media Assets]**, créez un dossier sous **[!UICONTROL Assets]**. L’arborescence de dossiers sous **[!UICONTROL Assets]** est répliquée sous **[!UICONTROL Dynamic Media Assets]**.
+   Pour [créer un dossier](/help/using/add-delete.md) sous **[!UICONTROL Dynamic Media Assets]**, créez un dossier sous **[!UICONTROL Assets]**. L’arborescence de dossiers sous **[!UICONTROL Assets]** est répliquée sous **[!UICONTROL Dynamic Media Assets]**.
 1. Indiquez un nom de modèle, définissez la largeur et la hauteur de la zone de travail, puis cliquez sur **[!UICONTROL Créer]**. Une zone de travail vierge s’affiche avec des options de menu des deux côtés à utiliser pour créer le modèle. Pointez sur les options de menu pour afficher leur infobulle.
    ![modèle personnalisable en temps réel](/help/using/assets/blank-canvas-page.png)
 
