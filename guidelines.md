@@ -64,7 +64,7 @@ Souvenez-vous que les lecteurs de [!DNL Experience Manager] documentation sont i
 
 #### Suivre le manuel de style de Microsoft
 
-Le [ Manuel de style de Microsoft ](https://docs.microsoft.com/en-us/style-guide/welcome/) est un guide de style de documentation disponible gratuitement qui se concentre sur la documentation logicielle et [!DNL Experience Manager] documentation suit ce guide dans la mesure du possible.
+Le [&#x200B; Manuel de style de Microsoft &#x200B;](https://docs.microsoft.com/en-us/style-guide/welcome/) est un guide de style de documentation disponible gratuitement qui se concentre sur la documentation logicielle et [!DNL Experience Manager] documentation suit ce guide dans la mesure du possible.
 
 ### Mise en forme
 
@@ -86,6 +86,6 @@ Dans la mesure du possible, évitez toute référence directe à une version sp�
 
 ### Utilisation de Day, [!DNL Experience Manager], CQ, CRX
 
-Référez le produit par son nom complet **** pour la première utilisation dans un article, puis faites-le référence à **Experience Manager**.
+Référez le produit par son nom complet **&#x200B;**&#x200B;pour la première utilisation dans un article, puis faites-le référence à **Experience Manager**.
 
 N’utilisez pas les termes Day, Day Software, CQ et CRX, sauf si cela est inévitable, comme dans les noms de classe ou en référence à l’historique de [!DNL Experience Manager].
