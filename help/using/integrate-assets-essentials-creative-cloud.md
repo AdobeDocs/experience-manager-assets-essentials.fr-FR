@@ -1,14 +1,17 @@
 ---
 title: Intégration d’Assets Essentials aux applications Creative Cloud
-description: Intégrer Assets Essentials aux applications Creative Cloud afin que vous puissiez utiliser le panneau in-app Adobe Asset Link pour vous connecter au référentiel  [!DNL Assets Essentials]  depuis les applications de bureau  [!DNL Adobe Creative Cloud]  prises en charge.
+description: Intégrez Assets Essentials aux applications Creative Cloud afin de pouvoir utiliser le panneau in-app Adobe Asset Link pour vous connecter au référentiel [!DNL Assets Essentials] depuis les applications de bureau [!DNL Adobe Creative Cloud] prises en charge.
 exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '879'
-ht-degree: 100%
-
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+workflow-type: tm+mt
+source-wordcount: '881'
+ht-degree: 96%
 ---
-
 # Intégration d’Assets Essentials aux applications Creative Cloud {#integrate-assets-essentials-creative-cloud-applications}
 
 ![Préférence pour changer de thème (sombre ou clair)](assets/cce-creative-cloud.png)
@@ -25,7 +28,7 @@ Après la [configuration d’Experience Manager Assets Essentials](adminster-aem
 
 ## Présentation
 
-Le [panneau in-app Adobe Asset Link](https://www.adobe.com/fr/creativecloud/business/enterprise/adobe-asset-link.html) permet aux professionnels de la création de se connecter au référentiel [!DNL Assets Essentials] à partir des applications de bureau [!DNL Adobe Creative Cloud] prises en charge. Le panneau est disponible pour [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] et [!DNL Adobe XD]. Elle rationalise l’accès aux ressources, ce qui contribue à accroître la vitesse du contenu.
+Le [panneau in-app Adobe Asset Link](https://www.adobe.com/fr/creativecloud/business/enterprise/adobe-asset-link.html) permet aux professionnels de la création de se connecter au référentiel [!DNL Assets Essentials] à partir des applications de bureau [!DNL Adobe Creative Cloud] prises en charge. Le panneau est disponible pour [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] et [!DNL Adobe XD]. Elle rationalise l’accès aux ressources, ce qui contribue à accroître la vélocité du contenu.
 
 Les utilisateurs des applications Creative Cloud peuvent utiliser le panneau in-app Adobe Asset Link uniquement lorsque vous intégrez les applications Creative Cloud au référentiel Experience Manager Assets Essentials.
 
@@ -43,7 +46,7 @@ Exécutez les tâches suivantes pour intégrer Assets Essentials aux application
 
 Si votre Creative Cloud est déployé dans une Adobe Admin Console distincte de celle d’Assets Essentials (solution Experience Cloud), vous devez ajouter une relation de confiance entre les deux consoles.
 
-Pour intégrer les applications Creative Cloud et Assets Essentials, les utilisateurs qui sont disponibles dans Admin Console for Creative Cloud doivent être disponibles dans Admin Console for Experience Cloud. Si Creative Cloud et Assets Essentials sont déployés dans des Admin Console distincts, une relation de confiance entre eux est nécessaire pour activer cette fonctionnalité.
+Pour intégrer les applications Creative Cloud et Assets Essentials, les utilisateurs qui sont disponibles dans Admin Console for Creative Cloud doivent être disponibles dans Admin Console for Experience Cloud. Si Creative Cloud et Assets Essentials sont déployés dans des Admin Consoles distinctes, une relation de confiance entre eux est nécessaire pour activer cette fonctionnalité.
 
 Sur l’Admin Console Experience Cloud, cliquez sur **[!UICONTROL Paramètres]** et utilisez l’onglet **[!UICONTROL Répertoires]** pour créer un répertoire afin d’établir la [confiance de répertoire](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html) entre les deux Admin Console.
 
@@ -73,7 +76,7 @@ Le choix dépend des politiques informatiques de l’entreprise.
 
 ## Utilisation d’Adobe Asset Link {#use-asset-link}
 
-Les utilisateurs créatifs peuvent désormais utiliser Adobe Asset Link avec Photoshop, Illustrator, InDesign ou XD. Pour ouvrir le panneau dans InDesign ou Illustrator, accédez à Fenêtre > Extensions > Adobe Asset Link. Dans Photoshop, accédez à Fenêtre > Extensions (hérité) > Adobe Asset Link.
+Les utilisateurs créatifs peuvent désormais utiliser Adobe Asset Link avec Photoshop, Illustrator, InDesign ou XD. Pour ouvrir le panneau dans InDesign ou Illustrator, accédez à Fenêtre > Extensions > Adobe Asset Link. Dans Photoshop, accédez à Fenêtre > Extensions (héritées) > Adobe Asset Link.
 
 Pour savoir comment configurer Adobe Asset Link pour Adobe XD, cliquez [ici](https://helpx.adobe.com/fr/enterprise/using/adobe-asset-link-for-xd.html).
 

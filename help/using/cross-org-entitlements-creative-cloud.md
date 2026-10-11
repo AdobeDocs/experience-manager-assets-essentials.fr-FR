@@ -1,14 +1,17 @@
 ---
-title: Droits inter-organisations dans les intégrations AEM Assets pour Creative Cloud
-description: Découvrez comment configurer les droits inter-organisations dans les intégrations AEM Assets pour Creative Cloud. Connectez-vous à un droit Creative Cloud fourni à une autre organisation IMS afin d’utiliser facilement les dernières intégrations Creative Cloud dans AEM Assets, notamment les bibliothèques Express et Creative Cloud.
+title: Droits inter-organisations dans AEM Assets pour les intégrations Creative Cloud
+description: Découvrez comment configurer les droits inter-organisations dans AEM Assets pour les intégrations Creative Cloud. Connectez-vous à un droit Creative Cloud fourni à une autre organisation IMS afin d’utiliser facilement les dernières intégrations Creative Cloud dans AEM Assets, notamment Express et Bibliothèques Creative Cloud.
 exl-id: 5a39b640-4195-4149-9757-2733ed70e616
-source-git-commit: ebc49d5c29118cd09cf1f97e8f71f63df76b3779
-workflow-type: ht
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 100%
-
 ---
-
 # Droits inter-organisations pour les intégrations Creative Cloud  {#cross-org-entitlements}
 
 Experience Manager Assets a la capacité de se connecter à un droit Creative Cloud fourni à une autre organisation IMS afin d’utiliser facilement les dernières intégrations Creative Cloud dans AEM Assets, notamment les bibliothèques Express et Creative Cloud.
