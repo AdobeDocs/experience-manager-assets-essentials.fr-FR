@@ -5,7 +5,15 @@ hide: true
 hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
 workflow-type: tm+mt
 source-wordcount: '3017'
 ht-degree: 99%
@@ -86,7 +94,7 @@ Pour créer une zone de travail vierge, procédez comme suit :
 
 * ![Modèles DM](/help/using/assets/add-image.svg) : cliquez pour ajouter des images à la zone de travail.
 * ![Modèles personnalisables](/help/using/assets/add-text.svg) : cliquez pour ajouter des textes à la zone de travail.
-* ![Modèles personnalisables](/help/using/assets/show-layers-list.svg) : cliquez pour afficher la liste de tous les calques (image et texte) sur la zone de travail. Chaque image et texte ajouté à la zone de travail est représenté sous la forme d’un calque distinct.
+* ![Modèles personnalisables](/help/using/assets/show-layers-list.svg) : cliquez pour afficher la liste de tous les calques (image et texte) sur la zone de travail. Chaque image et chaque texte ajouté à la zone de travail est représenté sous la forme d’un calque distinct.
 
 **Options de menu dans le volet de gauche :** utilisez ces options pour les actions courantes de l’éditeur, comme indiqué ci-dessous.
 
@@ -246,7 +254,7 @@ Les paramètres sélectionnés sur la page **[!UICONTROL Aperçu]** deviennent l
 Pour copier l’URL du modèle publié affiché dans l’aperçu :
 
 1. Cliquez sur **[!UICONTROL Copier l’URL]**. La boîte de dialogue **[!UICONTROL Copier l’URL]** s’affiche. Sélectionnez et copiez l’URL affichée. Notez que le premier paramètre de l’URL commence après un point d’interrogation **(?)** et une paire clé-valeur commence par **$** et se termine par **&amp;**. La clé et la valeur sont séparées par un signe égal **(=)**, avec la clé à gauche et la valeur à droite.
-1. Collez cette URL dans l’onglet de votre navigateur et affichez votre modèle dynamique. Personnalisez le modèle en temps réel en mettant à jour la valeur du paramètre requis (valeur de la clé) dans l’URL directement, comme illustré à l’[étape 2](#preview-and-publish-template-and-copy-template-deliver-url) de la section **Prévisualisation et publication**.
+1. Collez cette URL dans l’onglet de votre navigateur et affichez votre modèle en direct. Personnalisez le modèle en temps réel en mettant à jour la valeur du paramètre requis (valeur de la clé) dans l’URL directement, comme illustré à l’[étape 2](#preview-and-publish-template-and-copy-template-deliver-url) de la section **Prévisualisation et publication**.
 1. Utilisez cette URL pour un merchandising rapide de vos produits ou services. Vous pouvez partager cette URL avec votre clientèle ou l’intégrer à votre site web ou à toute application tierce en aval pour afficher la bannière et y apporter des mises à jour en temps réel afin de refléter les offres en cours.
 
 Découvrez comment créer un modèle Dynamic Media pas à pas dans cette vidéo.
