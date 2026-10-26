@@ -16,7 +16,7 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1261'
 ht-degree: 100%
@@ -50,7 +50,7 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
 **Pour créer un rapport, procédez come suit :**
 
 1. Accédez à **Reports** et cliquez sur **Créer un rapport** (dans le coin supérieur droit). La boîte de dialogue **Créer un rapport** affiche les champs suivants :
-   ![create-report](/help/using/assets/executed-reports1.svg)
+   ![create-report](/help/using/assets/executed-reports1.png)
 
    **Dans l’onglet Configuration :**
 
@@ -96,7 +96,7 @@ L’environnement AEM Assets Essentials offre des fonctionnalités de reportin
      </tr>
      <tr>
       <td>Téléchargé par</td>
-      <td>ID d’e-mail de l’utilisateur qui a téléchargé la ressource.</td>
+      <td>Adresse e-mail de l’utilisateur ou de l’utilisatrice qui a téléchargé la ressource.</td>
       <td>Téléchargement</td>
      </tr>
      <tr>
@@ -152,7 +152,7 @@ Pour planifier un rapport, procédez comme suit :
    1. **Description :** ajoutez une description facultative au rapport.
    1. **Sélectionner le chemin d’accès au dossier :** sélectionnez un chemin d’accès au dossier afin de générer un rapport pour les ressources qui seront chargées ou téléchargées à partir de ce dossier spécifique à l’avenir.
    1. Bouton **Planifier un rapport** : bouton (bascule) permettant de planifier le rapport à une date ultérieure ou de le rendre récurrent.
-      ![Planification d’un rapport](/help/using/assets/schedule-reports1.svg)
+      ![Planification d’un rapport](/help/using/assets/schedule-reports1.png)
 
    1. **Choisir la fréquence :** spécifiez l’intervalle de génération du rapport (par exemple, quotidien, hebdomadaire, mensuel, annuel ou ponctuel) et définissez la date et l’heure d’exécution du rapport ainsi que la date de fin de la périodicité. Pour un rapport ponctuel, sélectionnez la période du rapport sur le type d’activité sélectionné dans l’environnement AEM. Par exemple, si vous avez besoin d’un rapport sur les ressources téléchargées entre le 10 et le 29 (dates futures) d’un mois spécifique, sélectionnez ces dates dans le champ **Sélectionner l’intervalle de dates**.
 
@@ -162,7 +162,7 @@ Pour planifier un rapport, procédez comme suit :
 
 ## Afficher les rapports planifiés {#view-scheduled-reports}
 
-Les rapports planifiés s’affichent dans l’onglet **Rapports planifiés** et sont organisés de manière systématique. Tous les rapports terminés pour chaque rapport planifié sont stockés dans un seul dossier de rapports. Cliquez sur ![développer réduire](/help/using/assets/expand-icon1.svg) pour afficher les rapports terminés. Par exemple, si vous avez planifié un rapport quotidien, tous les rapports terminés sont regroupés dans un seul dossier. Cette organisation simplifie la navigation et la recherche des rapports. Pour afficher les rapports planifiés, cliquez sur **Rapports**, puis sur **Rapports planifiés**. Tous les rapports planifiés s’affichent, avec le statut En cours ou Terminé. Les rapports terminés peuvent être téléchargés.
+Les rapports planifiés s’affichent dans l’onglet **Rapports planifiés** et sont organisés de manière systématique. Tous les rapports terminés pour chaque rapport planifié sont stockés dans un seul dossier de rapports. Cliquez sur ![développer réduire](/help/using/assets/expand-icon1.svg) pour afficher les rapports terminés. Par exemple, si vous avez planifié un rapport quotidien, tous les rapports terminés sont regroupés dans un seul dossier. Cette organisation simplifie la navigation et la recherche des rapports. Pour afficher les rapports planifiés, cliquez sur **Rapports**, puis sur **Rapports planifiés**. Tous les rapports planifiés s’affichent, avec le statut en cours ou terminé. Les rapports terminés peuvent être téléchargés.
 ![Rapport planifié](/help/using/assets/scheduled-reports-tab.png)
 
 ## Modifier et annuler des rapports planifiés {#edit-cancel-scheduled-reports}
@@ -196,21 +196,21 @@ Assets Essentials vous permet d’afficher des données en temps réel pour vot
 Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigation de gauche pour afficher les graphiques générés automatiquement suivants :
 
 * **Téléchargements** : nombre de ressources téléchargées à partir de l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
-  ![téléchargements](/help/using/assets/insights-downloads2341.svg)
+  ![téléchargements](/help/using/assets/insights-downloads2341.png)
 
 * **Chargements** : nombre de ressources chargées dans l’environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentées à l’aide d’un graphique en courbes.
-  ![chargements](/help/using/assets/insights-uplods2.svg)
+  ![chargements](/help/using/assets/insights-uplods2.png)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Utilisation du stockage** : utilisation du stockage, en octets, pour l’environnement Assets Essentials, représentée à l’aide d’un graphique en barres.
-  ![utilisation du stockage](/help/using/assets/insights-storage-usage1.svg)
+  ![utilisation du stockage](/help/using/assets/insights-storage-usage1.png)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Recherches les plus fréquentes** : affichez les termes recherchés les plus fréquemment, ainsi que le nombre de fois où ces termes ont été recherchés dans votre environnement Assets Essentials au cours des 30 derniers jours ou 12 derniers mois, représentés sous forme de tableau.
-  ![utilisation du stockage](/help/using/assets/insights-top-search.svg)
+  ![utilisation du stockage](/help/using/assets/insights-top-search.png)
 
   <!--
    ![Insights](assets/insights1.png)
@@ -218,8 +218,8 @@ Cliquez sur les **[!UICONTROL Insights]** disponibles dans le volet de navigatio
    -->
 
 * **Nombre de ressources par taille :** segmente le nombre total de ressources dans votre environnement Assets Essentials en différentes plages de tailles, en soulignant le nombre et le pourcentage de ressources dans chaque plage de tailles, avec une représentation de graphique en anneau.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.png)
 
 * **Nombre de ressources par type de ressource :** segmente le nombre total de ressources dans votre environnement Assets Essentials, en soulignant le nombre et le pourcentage de ressources en fonction de leurs types de fichiers, avec une représentation de graphique en anneau.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
+  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.png)
 
