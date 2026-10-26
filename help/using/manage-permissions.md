@@ -5,16 +5,17 @@ exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Leader
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
-source-wordcount: 1700
+source-wordcount: '1700'
 ht-degree: 100%
-
 ---
-
 # Gérer les autorisations des dossiers {#manage-permissions}
 
 >[!CONTEXTUALHELP]
@@ -46,7 +47,7 @@ Pour ajouter des administrateurs :
 
    ![Ajouter le profil administrateur des utilisateurs](assets/add-users-admin-profile.png)
 
-   Lorsque vous ajoutez un utilisateur, celui-ci reçoit une invitation par courrier électronique qui lui permet de commencer à l’utilisateur. Vous pouvez désactiver les invitations par e-mail dans les paramètres du profil de produit dans l’[!DNL Admin Console].
+   Lorsque vous ajoutez un utilisateur ou une utilisatrice, cette personne reçoit une invitation par e-mail pour commencer. Vous pouvez désactiver les invitations par e-mail dans les paramètres du profil de produit dans l’[!DNL Admin Console].
 
 1. Pour supprimer un utilisateur d’un groupe, cliquez sur le groupe, sélectionnez un utilisateur existant, puis **[!UICONTROL Supprimer l’utilisateur]**.
 
@@ -54,7 +55,7 @@ Pour ajouter des administrateurs :
 
 Créez des groupes d’utilisateurs et attribuez des autorisations à ces groupes pour gérer les niveaux d’accès aux dossiers dans le référentiel Assets Essentials. Vous pouvez ensuite affecter vos utilisateurs aux groupes d’utilisateurs.
 
-![Ajouter des utilisateurs aux groupes et aux profils de produits](assets/user-groups-product-profiles.svg)
+![Ajouter des utilisateurs aux groupes et aux profils de produits](assets/user-group-product-profiles.png)
 
 Vous pouvez ajouter des utilisateurs aux groupes d’utilisateurs (1) et [aux profils de produits Assets Essentials (2)](#add-admin-users). Cependant, vous ne pouvez pas ajouter directement des groupes d’utilisateurs aux profils de produit Assets Essentials (3).
 
@@ -87,10 +88,10 @@ Vous pouvez attribuer les autorisations suivantes aux groupes d’utilisateurs o
 
 | Nom de l’autorisation | Description |
 |-----|------|
-| Peut afficher | <ul><li>Accès en lecture à l’affichage et à la navigation des dossiers </li><li>Prévisualiser des ressources</li><li>Télécharger les ressources</li><li>Copie de ressources</li><li>Partager des liens vers des ressources</li><ul> |
-| Peut modifier | <ul><li>Tous les privilèges disponibles pour les autorisations Peut afficher </li><li>Créer des dossiers</li><li>Supprimer des dossiers</li><li>Renommer des dossiers</li><li>Créer des ressources</li><li>Mettre à jour des ressources</li><li>Supprimer des ressources</li><li>Déplacer des ressources</li><li>Renommer des ressources</li><ul> |
-| Propriétaire | <ul><li>Tous les privilèges disponibles pour les autorisations Peut modifier</li><li>Gérer les autorisations sur un dossier et ses sous-dossiers</li>Cette autorisation permet aux administrateurs de déléguer les droits d’administrateur dʼun dossier et de ses sous-dossiers à d’autres personnes.<ul> |
-| Refuser l’accès | Supprime les autorisations Peut afficher, Peut modifier et Propriétaire d’un dossier et de ses sous-dossiers. |
+| Peut afficher | <ul><li>Accès en lecture à l’affichage et à la navigation des dossiers </li><li>Prévisualiser des ressources</li><li>Télécharger des ressources</li><li>Copier des ressources</li><ul> |
+| Peut modifier | <ul><li>Tous les privilèges disponibles pour les autorisations Peut afficher </li><li>Créer des dossiers</li><li>Supprimer des dossiers</li><li>Renommer des dossiers</li><li>Créer des ressources</li><li>Mettre à jour des ressources</li><li>Supprimer des ressources</li><li>Déplacer des ressources</li><li>Renommer des ressources</li><li>Partager des liens vers des ressources</li><ul> |
+| Propriétaire | <ul><li>Tous les privilèges disponibles pour les autorisations Peut modifier</li><li>Gérer les autorisations sur un dossier et ses sous-dossiers</li>Cette autorisation permet aux administrateurs et administratrices de déléguer à d’autres personnes les droits d’administrateur ou d&#39;administratrice pour un dossier et ses sous-dossiers.<ul> |
+| Refuser l’accès | Supprimer les autorisations Peut afficher, Peut modifier et Propriétaire d’un dossier et de ses sous-dossiers. |
 
 **Autorisations par défaut**
 
@@ -100,17 +101,17 @@ Tous les utilisateurs authentifiés pouvant se connecter à l’application Asse
 
 Créez des règles pour attribuer des autorisations de dossier aux groupes d’utilisateurs. La séquence utilisée pour attribuer des autorisations à un dossier est importante, car elle détermine l’accès accordé aux groupes d’utilisateurs et in fine aux utilisateurs.
 
-Par exemple, si vous attribuez les autorisations `Can View` pour un dossier à un super groupe et ensuite les autorisations `Can Edit` à son sous-groupe, seuls les membres du sous-groupe disposent des autorisations de modification du dossier. Les utilisateurs du super groupe disposent dʼun accès à lʼaffichage sur le dossier.
+Par exemple, si vous attribuez les autorisations `Can View` pour un dossier à un super groupe et ensuite les autorisations `Can Edit` à son sous-groupe, seuls les membres du sous-groupe disposent des autorisations de modification du dossier. Les utilisateurs et utilisatrices du super groupe disposent d’un accès en affichage au dossier.
 
 Si vous devez accorder des autorisations de modification du dossier `Marketing` uniquement au service marketing de votre organisation et des autorisations dʼaffichage aux autres, attribuez les autorisations `Can View` au super groupe `All Authenticated Users` et les autorisations `Can Edit` à son sous-groupe `Marketing`.
 
-![Attribuer des autorisations](assets/permissions-management-groups.svg)
+![Attribuer des autorisations](assets/permissions-management-group.png)
 
 **Héritage des autorisations**
 
-Assets Essentials utilise l’héritage des autorisations : le dossier parent hérite des autorisations définies dans le dossier enfant. Par exemple, si le dossier parent dispose des autorisations `Can View` pour le groupe `All Authenticated Users` et le dossier enfant des autorisations `Can Edit` pour le groupe dʼutilisateurs `Marketing`, lʼhéritage des autorisations permet à tous les utilisateurs authentifiés de disposer des autorisations dʼaffichage pour le dossier enfant et au groupe dʼutilisateurs `Marketing` de disposer des autorisations de modification pour le dossier enfant. Le groupe d’utilisateurs `Marketing` dispose de droits de modification pour les autres niveaux de dossiers situés sous le dossier enfant (Marketing).
+Assets Essentials utilise l’héritage des autorisations : le dossier enfant hérite des autorisations définies pour le dossier parent. Par exemple, si le dossier parent dispose des autorisations `Can View` pour le groupe `All Authenticated Users` et le dossier enfant des autorisations `Can Edit` pour le groupe dʼutilisateurs `Marketing`, lʼhéritage des autorisations permet à tous les utilisateurs authentifiés de disposer des autorisations dʼaffichage pour le dossier enfant et au groupe dʼutilisateurs `Marketing` de disposer des autorisations de modification pour le dossier enfant. Le groupe d’utilisateurs `Marketing` dispose de droits de modification pour les autres niveaux de dossiers situés sous le dossier enfant (Marketing).
 
-![Attribuer des autorisations](assets/permissions-inheritance.svg)
+![Attribuer des autorisations](assets/permission-inheritance.png)
 
 >[!NOTE]
 >
@@ -177,7 +178,7 @@ Pour modifier les autorisations pour l’ensemble du référentiel Assets Essen
 
 **Cas d’utilisation**
 
-* Tous les groupes Utilisateurs authentifiés disposent d’un accès en mode d’affichage au référentiel.
+* Le groupe Tous les utilisateurs authentifiés dispose d’un accès en lecture au référentiel.
 * Les groupes d’utilisateurs spécifiques à l’équipe disposent des autorisations de modification dans le dossier spécifique à leur fonction.
 * Le dossier légal n’est disponible pour aucun utilisateur authentifié, à l’exception de l’équipe juridique.
 
@@ -206,9 +207,9 @@ Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hié
 
 * /projects : tous les utilisateurs peuvent afficher les dossiers et leurs sous-dossiers en fonction de l’héritage des autorisations. Le groupe d’utilisateurs de l’équipe Chefs de projet dispose :
 
-   * Des autorisations de modification
+  * Des autorisations de modification
 
-   * Des autorisations de propriétaire : gérer les autorisations sur un dossier et ses sous-dossiers.
+  * Autorisations de propriétaire : gestion des autorisations sur un dossier et ses sous-dossiers.
 
 * /projects/project-x : tous les utilisateurs peuvent afficher les dossiers et leurs sous-dossiers. Le groupe d’utilisateurs de l’équipe Chefs de projet dispose des autorisations de modification et peut gérer les autorisations d’un dossier et de ses sous-dossiers (autorisations de propriétaire). Le groupe d’utilisateurs de l’équipe du projet X dispose des autorisations de modification.
 
@@ -216,8 +217,8 @@ Voici les niveaux d’accès pour tous les groupes d’utilisateurs dans la hié
 
 ## Étapes suivantes {#next-steps}
 
-* [Regardez une vidéo expliquant comment gérer les autorisations dans Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=fr)
+* [Regarder une vidéo expliquant comment gérer les autorisations dans Assets Essentials.](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html?lang=fr)
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).

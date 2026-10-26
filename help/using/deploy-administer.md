@@ -17,7 +17,7 @@ topic_v2:
     internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 99%
@@ -29,7 +29,7 @@ ht-degree: 99%
 
 Le diagramme de flux de données suivant illustre la séquence des tâches qu’un administrateur doit effectuer pour configurer et gérer Assets Essentials :
 
-![Déployer Assets Essentials](assets/deploy-assets-essentials.svg)
+![Déployer Assets Essentials](assets/deploy-assets-essentials.png)
 
 ## Accéder à Admin Console {#access-admin-console}
 
@@ -91,7 +91,7 @@ Pour ajouter des profils de produit à des groupes d’utilisateurs :
 
    ![Ajouter le profil administrateur des utilisateurs](assets/add-users-admin-profile.png)
 
-   Lorsque vous ajoutez un utilisateur, celui-ci reçoit une invitation par courrier électronique qui lui permet de commencer à l’utilisateur. Vous pouvez désactiver les invitations par e-mail dans les paramètres du profil de produit dans l’[!DNL Admin Console].
+   Lorsque vous ajoutez un utilisateur ou une utilisatrice, cette personne reçoit une invitation par e-mail pour commencer. Vous pouvez désactiver les invitations par e-mail dans les paramètres du profil de produit dans l’[!DNL Admin Console].
 
    >[!NOTE]
    >
@@ -123,7 +123,7 @@ Créez une structure de dossiers qui correspond aux objectifs commerciaux de lʼ
 
 Il existe plusieurs types de structure de dossiers que vous pouvez utiliser pour votre organisation. Voici quelques exemples de structures de dossiers typiques :
 
-![Structures de dossiers standard](assets/folder-structure.svg)
+![Structures de dossiers standard](assets/folder-structure-new.png)
 
 >[!NOTE]
 >
@@ -131,7 +131,7 @@ Il existe plusieurs types de structure de dossiers que vous pouvez utiliser pour
 
 ### Charger des ressources {#upload-assets}
 
-Pour ajouter de nouvelles ressources à utiliser, chargez des ressources à partir de votre système de fichiers local. Vous pouvez faire glisser des ressources ou des dossiers sur l’interface utilisateur et suivre les instructions à l’écran ou cliquer sur l’option **[!UICONTROL Ajouter des ressources]** dans la barre d’outils et ajouter des fichiers à la boîte de dialogue de téléchargement. [!DNL Assets Essentials] offre de puissantes fonctionnalités de recherche en texte intégral, mais vous pouvez également utiliser des dossiers pour mieux organiser vos ressources. Pour plus d’informations, consultez la section [Charger des ressources](add-delete.md).
+Pour ajouter de nouvelles ressources à utiliser, chargez quelques ressources à partir de votre système de fichiers local. Vous pouvez faire glisser des ressources ou des dossiers sur l’interface utilisateur et suivre les instructions à l’écran ou cliquer sur l’option **[!UICONTROL Ajouter des ressources]** dans la barre d’outils et ajouter des fichiers à la boîte de dialogue de téléchargement. [!DNL Assets Essentials] offre de puissantes fonctionnalités de recherche en texte intégral, mais vous pouvez également utiliser des dossiers pour mieux organiser vos ressources. Pour plus d’informations, consultez la section [Charger des ressources](add-delete.md).
 
 ![Charger des fichiers et des dossiers](assets/upload-assets.png)
 
@@ -145,7 +145,7 @@ Pour plus d’informations, voir [Gérer les autorisations pour les dossiers](ma
 
 ### Configurer les formulaires de métadonnées (facultatif) {#metadata-forms}
 
-Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires entièrement ou réutiliser un formulaire existant.
+Assets Essentials fournit par défaut de nombreux champs de métadonnées standard. Les entreprises ont d’autres besoins en métadonnées et ont besoin de davantage de champs de métadonnées pour ajouter des métadonnées spécifiques à leur entreprise. Les formulaires de métadonnées permettent aux entreprises d’ajouter des champs de métadonnées personnalisés à la page [!UICONTROL Détails] d’une ressource. Les métadonnées spécifiques à l’entreprise améliorent la gouvernance et la découverte de ses ressources. Vous pouvez créer des formulaires à partir de zéro ou réutiliser un formulaire existant.
 
 Vous pouvez configurer des formulaires de métadonnées pour différents types de ressources (différents types MIME). Utilisez le même nom de formulaire que le type MIME du fichier. Essentials fait automatiquement correspondre le type MIME des ressources chargées au nom du formulaire et met à jour les métadonnées des ressources chargées en fonction des champs du formulaire.
 
@@ -167,13 +167,13 @@ Contrairement aux dossiers, une collection peut comporter des ressources provena
 
 ## Étapes suivantes {#next-steps}
 
-<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=fr) -->
+<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
 * Faites des commentaires sur le produit en utilisant l’option [!UICONTROL Commentaires] disponible dans l’interface utilisateur d’Assets Essentials.
 
 * Faites des commentaires sur la documentation en utilisant l’option [!UICONTROL Modifier cette page] ![modifier la page](assets/do-not-localize/edit-page.png) ou [!UICONTROL Enregistrer un problème] ![créer un problème GitHub](assets/do-not-localize/github-issue.png) disponible dans la barre latérale droite.
 
-* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/fr?support-solution=General&lang=fr#support).
+* Contactez l’[assistance clientèle](https://experienceleague.adobe.com/?support-solution=General&lang=fr#support).
 
 
 

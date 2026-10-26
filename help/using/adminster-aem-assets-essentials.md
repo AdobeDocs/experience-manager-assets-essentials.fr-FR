@@ -7,7 +7,7 @@ product_v2:
     internal-label: Experience Manager
   - id: d09181b5-a36a-43de-ba01-36641440bc43
     internal-label: Experience Manager Assets
-source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+source-git-commit: f15fe91faf6a1f1341e4f4cda45bbe10bcd19544
 workflow-type: tm+mt
 source-wordcount: '1417'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 Le diagramme de flux de données suivant illustre la séquence des tâches qu’un administrateur doit effectuer pour configurer et gérer Assets Essentials :
 
-![Flux d’administration d’Assets Essentials](assets/permissions-management-cce-next.svg)
+![Flux d’administration d’Assets Essentials](assets/permission-management-cce-next.png)
 
 ## Accéder à Admin Console {#access-admin-console}
 
@@ -84,7 +84,7 @@ Créez des groupes d’utilisateurs, puis affectez vos utilisateurs à ces group
 
 Vous pouvez ajouter des utilisateurs aux groupes d’utilisateurs (1) et [aux profils de produits Assets Essentials (2)](#add-admin-users). Cependant, vous ne pouvez pas ajouter directement des groupes d’utilisateurs aux profils de produit Assets Essentials (3).
 
-![Ajouter des utilisateurs aux groupes et aux profils de produits](assets/user-groups-product-profiles.svg)
+![Ajouter des utilisateurs aux groupes et aux profils de produits](assets/user-group-product-profiles.png)
 
 Pour plus d’informations sur la gestion des groupes d’utilisateurs, consultez les sections `Create user groups` et `Edit user groups` sur la page [Gérer les groupes d’utilisateurs](https://helpx.adobe.com/fr/enterprise/using/user-groups.html).
 
@@ -136,7 +136,7 @@ Tenez compte des points suivants lorsque vous commencez à planifier la créatio
 
 Il existe plusieurs types de structure de dossiers que vous pouvez utiliser pour votre organisation. Voici quelques exemples de structures de dossiers typiques :
 
-![Structures de dossiers standard](assets/folder-structure.svg)
+![Structures de dossiers standard](assets/folder-structure-new.png)
 
 ### Gérer les autorisations des dossiers {#manage-permissions-for-folders}
 
